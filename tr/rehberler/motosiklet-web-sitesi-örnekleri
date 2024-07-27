@@ -1,0 +1,782 @@
+<!DOCTYPE html><html
+lang="tr-TR"><head><meta
+charset="utf-8" /> <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWG06X4WML"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-DWG06X4WML');</script> <title>Motosiklet Web Sitesi Örnekleri- Sürüş Tutkusunu Ateşleyen 5 Site</title><meta
+name="description" content="Motosiklet tutkunlarını harekete geçiren, tüm cihazlara uyumlu 5 motosiklet web sitesi örneğini keşfedin." /><meta
+property="og:title" content="Motosiklet Web Sitesi Örnekleri- Sürüş Tutkusunu Ateşleyen 5 Site" /><meta
+property="og:description" content="Motosiklet tutkunlarını harekete geçiren, tüm cihazlara uyumlu 5 motosiklet web sitesi örneğini keşfedin." /><link
+rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
+property="og:site_name" content="Zarla" /><meta
+property="og:url" content="https://www.zarla.com/tr/rehberler/motosiklet-web-sitesi-%C3%B6rnekleri"><meta
+property="og:type" content="website"><meta
+property="og:locale" content="tr-TR"><meta
+property="og:image" content="https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image:width" content='1200' /><meta
+property="og:image:height" content='630' /><meta
+property="og:image:type" content='image/jpeg' /><link
+rel="canonical" href="https://www.zarla.com/tr/rehberler/motosiklet-web-sitesi-%C3%B6rnekleri"><link
+rel="alternate" href="https://www.zarla.com/guides/motorcycle-website-examples" hreflang="x-default" /><link
+rel="alternate" href="https://www.zarla.com/guides/motorcycle-website-examples" hreflang="en" /><link
+rel="alternate" href="https://www.zarla.com/tr/rehberler/motosiklet-web-sitesi-%C3%B6rnekleri" hreflang="tr-TR" /><link
+rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
+rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
+name="viewport" content="width=device-width, initial-scale=1" /><meta
+name="format-detection" content="telephone=no" /><meta
+name="theme-color" content="#ffffff" /><link
+rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+class="websiteExamples"><header
+class="header"><div
+class="container"><nav
+class="navbar navbar-expand-lg"><div
+class="navbar-brand">
+<a
+class="navbar-logo" href="/tr">
+<img
+class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+</a></div>
+<a
+href="https://www.zarla.com/tr"
+class="btn btn-primary cta-nav
+"
+>
+AI Web Sitesi Oluşturma Aracı
+</a></nav></div><div
+class="indicator"><div
+class="indicator-position js-indicator-position"></div></div></header><main
+class="entry entry-is-guide section-websiteExamples"><div
+class="section-banner"><div
+class="narrow-container"><div
+class="section-breadcrumb"><ol
+class="breadcrumb"><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler">Rehberler</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler/web-sitesi-%C3%B6rnekleri">Web Sitesi Örnekleri</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler/web-sitesi-%C3%B6rnekleri/perakende-ticaret">Perakende Ticaret</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Rehberler","item":"https://www.zarla.com/tr/rehberler"},{"@type":"ListItem","position":2,"name":"Web Sitesi Örnekleri","item":"https://www.zarla.com/tr/rehberler/web-sitesi-%C3%B6rnekleri"},{"@type":"ListItem","position":3,"name":"Perakende Ticaret","item":"https://www.zarla.com/tr/rehberler/web-sitesi-%C3%B6rnekleri/perakende-ticaret"},{"@type":"ListItem","position":4,"name":"Motosiklet Web Sitesi Örnekleri- Sürüş Tutkusunu Ateşleyen 5 Site","item":"https://www.zarla.com/tr/rehberler/motosiklet-web-sitesi-%C3%B6rnekleri"}]}</script> <div
+class="card card-featured"><h1 class="card-title">
+Motosiklet Web Sitesi Örnekleri- Sürüş Tutkusunu Ateşleyen 5 Site</h1><div
+class="card-body"><div
+class="card-text card-text-prebyline">Motosiklet tutkunlarını harekete geçiren, tüm cihazlara uyumlu 5 motosiklet web sitesi örneğini keşfedin.</div><div
+class="card-byline"><div
+class="card-byline-image">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-ebru-celik-800x800-2024058_2024-05-08-080444_wcwn.jpeg?crop=1:1,smart&width=80&dpr=2"
+width="80"
+height="80"
+alt="Ebru Çelik"
+/></div><div
+class="card-byline-details">
+<span>Yazan: <a
+class="card-byline-author" href="https://www.zarla.com/tr/katkı-sağlayanlar/ebru-çelik">Ebru Çelik</a>,</span>
+<span
+class="card-byline-date">24 Tem 2024</span><div
+class="card-byline-bio">
+Ebru Çelik Zarla&#039;da metin yazarı. Çeşitli markaların web sitelerinde blog yazıları yayımlandı. Bir süredir web sitesi tasarımı ile ilgileniyor ve bu konuda makaleler yazıyor.</div></div></div></div><div
+class="card-image-holder"><div
+class="card-preview">
+<picture>
+<source
+srcset="https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=2:1,smart&width=372&dpr=2 2x"
+media="(max-width: 412px)"
+/>
+<source
+srcset="https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=2:1,smart&width=535&dpr=2 2x"
+media="(max-width: 575px)"
+/>
+<source
+srcset="https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=2:1,smart&width=727&dpr=2 2x"
+media="(max-width: 767px)"
+/>
+<img
+class="card-pic"
+srcset="https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=2:1,smart&width=730"
+width="730"
+height="365"
+alt="Gündüz motosiklet süren siyah kasklı bir adam."
+/>
+</picture></div></div><div
+class="block-intro-text"><p>İyi bir motosiklet web sitesi, motosiklet modellerini kaliteli görseller ve ayrıntılı özellik bilgileriyle sergileyerek motosiklet tutkunlarının ilgisini çekmeli; firma, fiyat, satılan model türleri, iletişim, bayilik ve servis detaylarına ulaşılması kolay net bir navigasyon ve profesyonel bir görünüm sunmalıdır.</p><p>Kendi motosiklet web sitenizi saniyeler içinde oluşturmak için <a
+href="/tr">motosiklet AI web sitesi oluşturucumuzu</a> kullanın. Logo fikrine ihtiyacınız varsa <a
+href="https://www.zarla.com/tr/rehberler/motosiklet-logoları">motosiklet logolarımıza</a> göz atın.</p></div><div
+class="mt-0 mt-md-2 entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="block-wrapper"><div
+class="block block-heads-up"><div
+class="heads-up-title-wrapper">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><h2>Web Sitelerini Nasıl Değerlendiriyoruz?</h2></div><p>Zarla, sitelerin mobil ve masaüstü için temel web standartlarını karşılayıp karşılamadığını kontrol eder. Aynı zamanda Google'ın PageSpeed Insights aracını ve engelli kişiler için erişilebilirliği değerlendiren WAVE aracını da kullanır. PageSpeed puanları ve erişilebilirlik, arama motoru sıralaması için belirleyici faktörlerdir. PageSpeed puanları, kullanıcı deneyimiyle eşleşmeyebilir ve genellikle değişiklik gösterir.</p></div></div><div
+class="entry-content-section"><div
+class="entry-text"><ol
+class="entry-list"><li>
+<span
+class="entry-list-number">1.</span>
+<span
+class="entry-list-item">
+<a
+href="#kuba-motor">Kuba Motor</a><span>.</span>
+</span></li><li>
+<span
+class="entry-list-number">2.</span>
+<span
+class="entry-list-item">
+<a
+href="#volta-motor">Volta Motor</a><span>.</span>
+</span></li><li>
+<span
+class="entry-list-number">3.</span>
+<span
+class="entry-list-item">
+<a
+href="#tuna-motosiklet">Tuna Motosiklet</a><span>.</span>
+</span></li><li>
+<span
+class="entry-list-number">4.</span>
+<span
+class="entry-list-item">
+<a
+href="#falcon-motosiklet">Falcon Motosiklet</a><span>.</span>
+</span></li><li>
+<span
+class="entry-list-number">5.</span>
+<span
+class="entry-list-item">
+<a
+href="#yuki-motor">Yuki Motor</a><span>.</span>
+</span></li></ol></div></div></div></div></div><div
+class="entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="entry-content-section"><h3 id="kuba-motor" class="entry-website-title">Kuba Motor</h3><div
+class="entry-website-img"><div
+class="entry-faux-browser"><div
+class="entry-browser-menu"><div
+class="dot"></div><div
+class="dot"></div><div
+class="dot"></div></div>
+<picture>
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-kubamotor-2024067-desktop_2024-06-07-145014_hkcg.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-kubamotor-2024067-desktop_2024-06-07-145014_hkcg.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-kubamotor-2024067-desktop_2024-06-07-145014_hkcg.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+width="650"
+height="403"
+alt="desktop screenshot of website Kuba Motor"
+/>
+</picture></div></div><p
+class="entry-website-detail website-detail-url">
+<span
+class="icon">
+<img
+src="/assets/images/icon-link.svg" alt="chain icon" width="29" height="29" />
+</span>
+<a
+class="force-single-line" href="https://www.kubamotor.com.tr/" target="_blank" rel="noopener nofollow">
+https://www.kubamotor.com.tr/
+</a></p><p
+class="entry-website-detail website-detail-location">
+<span
+class="icon">
+<img
+src="/assets/images/icon-pin.svg" alt="pin icon" width="30" height="30" />
+</span>
+<span>Gaziantep, Türkiye</span></p><div
+class="entry-text"><p>Kuba Motor, Türkiye'nin önde gelen motosiklet markalarından biri. Ürün yelpazesinde çeşitli motosikletler, scooterlar ve e-scooterlar bulunuyor. Motosiklet modelleri, web sitesinde kaliteli görseller ve videolar, özellikler ve kullanım ve bakım kılavuzları ile birlikte sergileniyor. Site; fiyat listesi, bayi ve servis bilgileri, firma ve iletişim detaylarına ulaşmanın kolay olduğu net bir navigasyon sunuyor.</p></div><h4>Artılar ve Eksiler</h4><div
+class="entry-indented-box"><div
+class="entry-website-pros">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-plus.svg" alt="plus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Navigasyon menüsünde modellerin görsellerle sergilenmesi, kullanıcı deneyimini geliştiriyor. Bayiler ve servisler, arama özelliği sayesinde kolayca bulunuyor ve hem açık adres hem de harita bilgisi gösteriliyor.</p></div></div><div
+class="entry-website-cons">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Ana sayfada firmanın ürünlerine ve kalitesine daha çok vurgu yapılabilir. Masaüstü siteye mobil sitede olduğu gibi telefon iletişim butonu ve canlı destek özelliği eklenebilir. WAVE, bu sitede birçok hata tespit etti.</p></div></div></div><h4>Masaüstü İncelemesi</h4><div
+class="entry-website-desktop"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-kubamotor-2024067-desktop_2024-06-07-145014_hkcg.webp"
+data-type="desktop"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-kubamotor-2024067-desktop_2024-06-07-145014_hkcg.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+alt="desktop screenshot of website"
+width="400"
+height="248"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Web sitesinin masaüstü versiyonunda öne çıkan motosiklet modelleri, hero image olarak eyleme çağrı butonlarıyla birlikte sergileniyor. Aynı zamanda video'lar kullanılması, görsel çekiciliğe katkıda bulunuyor.</p><p>Navigasyon menüsü, iyi organize edilmiş olsa da sayfayı kaydırırken sabit kalmıyor. Daha iyi bir gezinme deneyimi için "başa dön" butonundan faydalanılabilir. Masaüstü site, Google PageSpeed Insights testinden 67/100 performans puanı elde etti.</p></div></div><h4>Mobil İncelemesi</h4><div
+class="entry-website-mobile"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-kubamotor-2024067-mobile.webp"
+data-type="mobile"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-kubamotor-2024067-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+alt="mobile screenshot of website"
+width="325"
+height="542"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Mobil versiyon; görsellerin kalitesi, metnin okunaklılığı ve iyi optimize edilmiş butonlarıyla temiz tasarımı koruyor. Hamburger menü, sayfayı aşağı kaydırırken kayboluyor, ancak yukarı doğru çıkarken yeniden beliriyor. Mobil cihazlarda da "başa dön" butonundan faydalanılabilir.</p><p>Ayrıca görsel boyutlarını optimize etmek ve gereksiz komut dosyalarını azaltmak, yükleme sürelerini iyileştirebilir. Mobil site, Google PageSpeed Insights testinden 32/100 performans puanı elde etti.</p></div></div></div></div></div></div><div
+class="entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="entry-content-section"><h3 id="volta-motor" class="entry-website-title">Volta Motor</h3><div
+class="entry-website-img"><div
+class="entry-faux-browser"><div
+class="entry-browser-menu"><div
+class="dot"></div><div
+class="dot"></div><div
+class="dot"></div></div>
+<picture>
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-volta-2024067-desktop_2024-06-07-150139_tstc.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-volta-2024067-desktop_2024-06-07-150139_tstc.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-volta-2024067-desktop_2024-06-07-150139_tstc.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+width="650"
+height="403"
+alt="desktop screenshot of website Volta Motor"
+/>
+</picture></div></div><p
+class="entry-website-detail website-detail-url">
+<span
+class="icon">
+<img
+src="/assets/images/icon-link.svg" alt="chain icon" width="29" height="29" />
+</span>
+<a
+class="force-single-line" href="https://volta.com.tr/" target="_blank" rel="noopener nofollow">
+https://volta.com.tr/
+</a></p><p
+class="entry-website-detail website-detail-location">
+<span
+class="icon">
+<img
+src="/assets/images/icon-pin.svg" alt="pin icon" width="30" height="30" />
+</span>
+<span>Düzce, Türkiye</span></p><div
+class="entry-text"><p>Volta Motor, kendini ekonomik, çevre dostu ve yüksek kaliteli araç seçenekleri sunmaya adamış bir şirket. Ürün yelpazesinde elektrikli bisikletler, scooter'lar, mopedler, motosikletler ve ATV'ler bulunuyor. Temiz ve modern bir tasarıma sahip olan web sitesi, motosiklet modellerini ve yedek parçaları fiyatları ve özlü özellik bilgileriyle sergiliyor.</p><p>Ana sayfada büyük ve kaliteli görseller ve videolu içeriklerle çeşitli ürünlere vurgu yapılıyor. Navigasyon, net menü seçenekleri ve ürün, firma, iletişim, bayilik ve servis detaylarına kolay erişim imkanı ile gayet basit.</p></div><h4>Artılar ve Eksiler</h4><div
+class="entry-indented-box"><div
+class="entry-website-pros">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-plus.svg" alt="plus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Modeller için karşılaştırma özelliği bulunuyor. Canlı sohbet, SSS ve blog bölümü mevcut. Yetkili bayi ve servisler, gelişmiş arama motoru ve "Yol Tarifi Al" butonu ile kolayca bulunabiliyor. Sitenin İngilizce dil seçeneği mevcut.</p></div></div><div
+class="entry-website-cons">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Sitede sepet, kargo ve ödeme bilgileri gibi online alışverişi ima eden ögeler, yanıltıcı olabilir. Model seçenekleri, alt menü olarak navigasyon menüsüne dahil edilebilir. WAVE, bu sitede kontrast ve eksik form etiketi hataları tespit etti.</p></div></div></div><h4>Masaüstü İncelemesi</h4><div
+class="entry-website-desktop"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-volta-2024067-desktop_2024-06-07-150139_tstc.webp"
+data-type="desktop"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-volta-2024067-desktop_2024-06-07-150139_tstc.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+alt="desktop screenshot of website"
+width="400"
+height="248"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Web sitesinin masaüstü versiyonunda geniş ve ferah düzen, rahat bir gezinme deneyimi sağlıyor. Kaliteli görseller ve tasarım, genel olarak profesyonellik yayıyor. Canlı sohbet, e-posta ve çağrı gibi iletişim butonlarının yeşil renk ile vurgulanması, firmayla iletişime geçmeyi kolaylaştırıyor. Navigasyon menüsü, kullanışlı olsa da sabit değil. "Başa dön" butonu eklenebilir. Masaüstü site, Google PageSpeed Insights testinden 100/100 performans puanı elde etti.</p></div></div><h4>Mobil İncelemesi</h4><div
+class="entry-website-mobile"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-volta-2024067-mobile.webp"
+data-type="mobile"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-volta-2024067-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+alt="mobile screenshot of website"
+width="325"
+height="542"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Mobil site, yüksek çözünürlüklü görselleri ve okunaklı metniyle işlevselliğini ve estetiğini devam ettiriyor. Canlı sohbet ve iletişim butonları, küçük ekranlar için optimize edilmiş ve gayet belirgin. Hamburger menü, masaüstünde olduğu gibi ekranı kaydırırken sabit kalmıyor; ancak modellere, yedek parçalara ve çağrı merkezine ekranın altında yer alan sabit bölümden ulaşılabiliyor.</p><p>Mobil cihazda da "başa dön" butonundan faydalanılabilir. Mobil sitenin Google PageSpeed Insights testindeki puanı 97/100.</p></div></div></div></div></div></div><div
+class="entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="entry-content-section"><h3 id="tuna-motosiklet" class="entry-website-title">Tuna Motosiklet</h3><div
+class="entry-website-img"><div
+class="entry-faux-browser"><div
+class="entry-browser-menu"><div
+class="dot"></div><div
+class="dot"></div><div
+class="dot"></div></div>
+<picture>
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-tunaoto-2024067-desktop_2024-06-07-153738_ntcd.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-tunaoto-2024067-desktop_2024-06-07-153738_ntcd.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-tunaoto-2024067-desktop_2024-06-07-153738_ntcd.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+width="650"
+height="403"
+alt="desktop screenshot of website Tuna Motosiklet"
+/>
+</picture></div></div><p
+class="entry-website-detail website-detail-url">
+<span
+class="icon">
+<img
+src="/assets/images/icon-link.svg" alt="chain icon" width="29" height="29" />
+</span>
+<a
+class="force-single-line" href="https://tunaoto.com.tr/" target="_blank" rel="noopener nofollow">
+https://tunaoto.com.tr/
+</a></p><p
+class="entry-website-detail website-detail-location">
+<span
+class="icon">
+<img
+src="/assets/images/icon-pin.svg" alt="pin icon" width="30" height="30" />
+</span>
+<span>İstanbul, Türkiye</span></p><div
+class="entry-text"><p>Tuna Motosiklet, Yamaha motosiklet satış ve servis hizmetleri konusunda uzmanlaşmış, İstanbul merkezli bir şirket. Web sitesinde test sürüşü, online randevu, bakım fiyatları ve finansman seçenekleriyle ilgili bölümler bulunuyor. Firma bilgilerine, lokasyon haritasına ve iletişim detaylarına ulaşmak kolay. Motosiklet modelleri, yüksek kaliteli görseller ve video'lar ile sergileniyor.</p></div><h4>Artılar ve Eksiler</h4><div
+class="entry-indented-box"><div
+class="entry-website-pros">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-plus.svg" alt="plus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Test sürüşü için bir form ve servis için online randevu özelliği bulunuyor. Sosyal medya hesaplarına linkler mevcut. Hakkımızda bölümünde motosiklet satış birincisi olarak aldıkları ödülün, şirkete ait fotoğrafların ve video'ların sergilenmesi, güvenilirliği artırıyor.</p></div></div><div
+class="entry-website-cons">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Canlı sohbet ve kişiselleştirilmiş öneriler gibi gelişmiş özellikler eklenebilir. Daha belirgin eyleme çağrı butonları kullanılabilir. WAVE, bu sitede görme engelli kişileri etkileyebilecek birçok hata tespit etti.</p></div></div></div><h4>Masaüstü İncelemesi</h4><div
+class="entry-website-desktop"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-tunaoto-2024067-desktop_2024-06-07-153738_ntcd.webp"
+data-type="desktop"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-tunaoto-2024067-desktop_2024-06-07-153738_ntcd.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+alt="desktop screenshot of website"
+width="400"
+height="248"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Web sitesinin masaüstü versiyonu, gezinmeyi kolaylaştıran ferah bir düzen sunuyor. Video oynatma seçenekleri bulunan hero image'ler, motosiklet modellerini etkili bir şekilde sergiliyor. Navigasyon menüsü, iyi organize edilmiş, ancak sayfayı kaydırırken sabit kalmıyor. Fakat "başa dön" butonu bulunuyor. Masaüstü site, Google PageSpeed Insights testinden 84/100 performans puanı elde etti.</p></div></div><h4>Mobil İncelemesi</h4><div
+class="entry-website-mobile"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-tunaoto-2024067-mobile.webp"
+data-type="mobile"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-tunaoto-2024067-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+alt="mobile screenshot of website"
+width="325"
+height="542"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Web sitesinin mobil versiyonu; kullanışlı navigasyon menüsü, okunaklı içeriği ve iyi optimize edilmiş görselleriyle harika bir kullanıcı deneyimi sunuyor. Navigasyon menüsünün ekranı kaydırırken kaybolma durumu mobil cihazda da devam ediyor. Fakat "başa dön" butonu gezinmeye yardımcı oluyor.</p><p>Sosyal medya bağlantıları, hero image'de kolayca erişilebilir olması sebebiyle mobil sitede masaüstüne göre daha belirgin. Bu da kullanıcı etkileşimini kolaylaştırıyor. İletişime geçme kolaylığı için çağrı butonu eklenebilir. Mobil site, Google PageSpeed Insights testinden 52/100 performans puanı elde etti.</p></div></div></div></div></div></div><div
+class="entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="entry-content-section"><h3 id="falcon-motosiklet" class="entry-website-title">Falcon Motosiklet</h3><div
+class="entry-website-img"><div
+class="entry-faux-browser"><div
+class="entry-browser-menu"><div
+class="dot"></div><div
+class="dot"></div><div
+class="dot"></div></div>
+<picture>
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-falconmotosiklet-2024067-desktop_2024-06-07-153715_hwtc.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-falconmotosiklet-2024067-desktop_2024-06-07-153715_hwtc.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-falconmotosiklet-2024067-desktop_2024-06-07-153715_hwtc.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+width="650"
+height="403"
+alt="desktop screenshot of website Falcon Motosiklet"
+/>
+</picture></div></div><p
+class="entry-website-detail website-detail-url">
+<span
+class="icon">
+<img
+src="/assets/images/icon-link.svg" alt="chain icon" width="29" height="29" />
+</span>
+<a
+class="force-single-line" href="https://falconmotosiklet.com/" target="_blank" rel="noopener nofollow">
+https://falconmotosiklet.com/
+</a></p><p
+class="entry-website-detail website-detail-location">
+<span
+class="icon">
+<img
+src="/assets/images/icon-pin.svg" alt="pin icon" width="30" height="30" />
+</span>
+<span>Konya, Türkiye</span></p><div
+class="entry-text"><p>Falcon Motosiklet; touring, scooter, cub, yarış ve naked chopper modelleri dahil olmak üzere çeşitli motosikletler sunan bir motosiklet markası. Web sitesinde ürün yelpazesi; yüksek kaliteli görseller, tanıtım filmleri ve ayrıntılı özellik bilgileri ile sergileniyor. Net navigasyon sayesinde iletişim bilgileri, firma detayları ve fiyat listesine ulaşmak kolay.</p><p>Ana sayfa, ürünlerin öne çıkan özelliklerine vurgu yaptığı gibi kullanım şekillerine göre ayrılmış ürün kategorileri, Falcon kullanıcıların gönderdikleri fotoğraflar ve blog yazıları için bölümler içeriyor.</p></div><h4>Artılar ve Eksiler</h4><div
+class="entry-indented-box"><div
+class="entry-website-pros">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-plus.svg" alt="plus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Navigasyon menüsünde modeller, görseller ve fiyatlarıyla listeleniyor. Modeller, video içeriklerle etkili bir şekilde sergileniyor ve öne çıkan özellikler güzelce vurgulanıyor. Sosyal medya linkleri, SSS ve blog yazıları için bölümler mevcut.</p></div></div><div
+class="entry-website-cons">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Motosikletlerin kullanım ve bakım detaylarına dair herhangi bir bilgi bulunmuyor. Eyleme çağrı butonları yetersiz. WAVE, bu sitede görme engelli kişileri etkileyebilecek çok fazla kontrast hatası tespit etti.</p></div></div></div><h4>Masaüstü İncelemesi</h4><div
+class="entry-website-desktop"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-falconmotosiklet-2024067-desktop_2024-06-07-153715_hwtc.webp"
+data-type="desktop"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-falconmotosiklet-2024067-desktop_2024-06-07-153715_hwtc.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+alt="desktop screenshot of website"
+width="400"
+height="248"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Web sitesinin masaüstü versiyonundaki yüksek çözünürlüklü görseller, motosikletleri güzel bir şekilde sergiliyor. Navigasyon menüsü, iyi organize edilmiş, ancak sayfayı kaydırırken sabit kalmıyor. Fakat altbilgi, kapsamlı bir menü ve müşterilerin şirketle iletişime geçmesini kolaylaştıran telefon ve e-posta bağlantılarının yer aldığı iletişim bilgilerini içeriyor.</p><p>Daha iyi bir gezinme deneyimi için "başa dön" butonundan faydalanılabilir. Masaüstü site, Google PageSpeed Insights testinden 79/100 performans puanı elde etti.</p></div></div><h4>Mobil İncelemesi</h4><div
+class="entry-website-mobile"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-falconmotosiklet-2024067-mobile.webp"
+data-type="mobile"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-falconmotosiklet-2024067-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+alt="mobile screenshot of website"
+width="325"
+height="542"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Web sitesinin mobil versiyonunda menü, görseller, butonlar ve metin güzel bir şekilde optimize edilmiş. Ancak menünün ekranı kaydırırken sabit kalmaması ve "başa dön" butonunun bulunmaması, gezinme deneyimini mobil cihazda da olumsuz etkiliyor. Ayrıca bazı sayfalar ve görseller yavaş yükleniyor. Mobil site, Google PageSpeed Insights testinden 49/100 performans puanı elde etti.</p></div></div></div></div></div></div><div
+class="entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="entry-content-section"><h3 id="yuki-motor" class="entry-website-title">Yuki Motor</h3><div
+class="entry-website-img"><div
+class="entry-faux-browser"><div
+class="entry-browser-menu"><div
+class="dot"></div><div
+class="dot"></div><div
+class="dot"></div></div>
+<picture>
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yukimotor-2024067-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yukimotor-2024067-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yukimotor-2024067-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+width="650"
+height="403"
+alt="desktop screenshot of website Yuki Motor"
+/>
+</picture></div></div><p
+class="entry-website-detail website-detail-url">
+<span
+class="icon">
+<img
+src="/assets/images/icon-link.svg" alt="chain icon" width="29" height="29" />
+</span>
+<a
+class="force-single-line" href="https://www.yukimotor.com.tr/" target="_blank" rel="noopener nofollow">
+https://www.yukimotor.com.tr/
+</a></p><p
+class="entry-website-detail website-detail-location">
+<span
+class="icon">
+<img
+src="/assets/images/icon-pin.svg" alt="pin icon" width="30" height="30" />
+</span>
+<span>İstanbul, Türkiye</span></p><div
+class="entry-text"><p>Yuki Motor; elektrikli scooter, motosiklet, bisiklet ve engelli araçlarının imal ve satışını yapan bir şirket. Web sitesi, gezinmeyi kolaylaştıran temiz ve anlaşılır bir tasarıma sahip. Motosiklet modellerini kaliteli görseller, kullanım ve bakım kılavuzları ve özellikleri vurgulayan efektli ikonlarla etkili bir şekilde sergiliyor. Firma, iletişim, fiyat listesi, bayilik ve servis detaylarına erişim kolay.</p></div><h4>Artılar ve Eksiler</h4><div
+class="entry-indented-box"><div
+class="entry-website-pros">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-plus.svg" alt="plus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Motosiklet özelliklerinin hareketli ikonlarla sergilenmesi, görsel çekiciliği artırıyor. Sağ tarafa sabitlenmiş iletişim, katalog ve fiyat listesi butonları, erişilebilirliğe katkıda bulunuyor.</p></div></div><div
+class="entry-website-cons">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Ana sayfada motosiklet modellerine ve özelliklerine yeterli vurgu yapılmamış. "İletişime Geç" gibi eyleme çağrı butonları yetersiz. Sitenin arama motoru görünürlüğünü ve tıklanma oranlarını etkileyebilecek bir meta açıklama yok. WAVE, bu sitede birçok hata tespit etti.</p></div></div></div><h4>Masaüstü İncelemesi</h4><div
+class="entry-website-desktop"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yukimotor-2024067-desktop.webp"
+data-type="desktop"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yukimotor-2024067-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+alt="desktop screenshot of website"
+width="400"
+height="248"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Web sitesinin masaüstü versiyonu; bayilere, servislere ve ürün kategorilerine yönlendiren bölümler içeren kullanışlı bir ana sayfaya sahip. Ancak bu bölümlere daha fazla yer ayırmak ve daha çok nefes alma alanı sağlamak, hem estetiğe hem de kullanıcı deneyimine olumlu yönde katkıda bulunabilir.</p><p>Sağ tarafa sabitlenmiş butonlar; katalog, iletişim ve fiyat bilgilerine her an erişebilme imkanı sağlıyor. Kaydırma sırasında menü sabit kalıyor ve "başa dön" butonu gezinmeye yardımcı oluyor. Masaüstü site, Google PageSpeed Insights testinden 58/100 performans puanı elde etti.</p></div></div><h4>Mobil İncelemesi</h4><div
+class="entry-website-mobile"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yukimotor-2024067-mobile.webp"
+data-type="mobile"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yukimotor-2024067-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+alt="mobile screenshot of website"
+width="325"
+height="542"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Web sitesinin mobil versiyonu, okunaklılığını ve kullanılabilirliği koruyor. Ancak hamburger menü, ekranı kaydırırken sabit kalmıyor ve hero image karuseli, küçük ekranlar için optimize edilmediğinden masaüstü versiyonundan çok daha küçük görünüyor.</p><p>Sağ tarafa sabitlenmiş butonlar, gerekli bölümlere erişebilirliği kolaylaştırsa da ekranı fazla kaplıyor. Daha iyi bir kullanıcı deneyimi için gizlenebilir olması  sağlanabilir. Mobil site, Google PageSpeed Insights testinden 45/100 performans puanı elde etti.</p></div></div></div></div></div></div></div></div></div><div
+class="section-content"><div
+class="container"><div
+class="narrow-container"></div></div></div><div
+class="section-faq"><div
+class="container"><h2 id=sss class="section-heading">SSS:</h2><div
+class="row"><div
+class="col-12 faq-item"><h3 id=motosiklet-web-sitesi-ornekleri-nelerdir class="question">Motosiklet web sitesi örnekleri nelerdir?</h3><div
+class="answer"><p>Masaüstü ve mobil deneyimlerini gözden geçirdiğimiz bir <a
+href="#kuba-motor">motosiklet web siteleri koleksiyonu</a> hazırladık. Favori örneklerimiz arasında Volta Motor ve Tuna Motosiklet yer alıyor.</p></div></div><div
+class="col-12 faq-item"><h3 id=motosiklet-web-sitesi-nasil-kurulur class="question">Motosiklet web sitesi nasıl kurulur?</h3><div
+class="answer"><p><a
+href="/tr">Zarla'nın motosiklet web sitesi oluşturucusu</a> ile saniyeler içinde profesyonel, işlevsel ve SEO için optimize edilmiş bir web sitesi oluşturun.</p></div></div><div
+class="col-12 faq-item"><h3 id=Iyi-bir-motosiklet-web-sitesi-nasil-olur class="question">İyi bir motosiklet web sitesi nasıl olur?</h3><div
+class="answer"><p>İyi bir motosiklet web sitesi, tüm cihazlarda kullanıcı dostu ve ilgi çekici bir deneyim sağlamak için ürün, firma, iletişim detayları ve lokasyon haritasına erişimin kolay olduğu temiz bir düzen ve kolay bir navigasyon sunar. Yüksek çözünürlüklü motosiklet görselleri ve videolarıyla motosiklet tutkunlarının ilgisini çeker. Ayrıntılı motosiklet özellikleri, bakım ipuçları ve sürüş kılavuzları gibi bilgilendirici içerikler içerir.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Motosiklet web sitesi örnekleri nelerdir?","acceptedAnswer":{"@type":"Answer","text":"<p>Masa\u00fcst\u00fc ve mobil deneyimlerini g\u00f6zden ge\u00e7irdi\u011fimiz bir <a href=\"#kuba-motor\">motosiklet web siteleri koleksiyonu<\/a> haz\u0131rlad\u0131k. Favori \u00f6rneklerimiz aras\u0131nda Volta Motor ve Tuna Motosiklet yer al\u0131yor.<\/p>\n"}},{"@type":"Question","name":"Motosiklet web sitesi nasıl kurulur?","acceptedAnswer":{"@type":"Answer","text":"<p><a href=\"\/tr\">Zarla'n\u0131n motosiklet web sitesi olu\u015fturucusu<\/a> ile saniyeler i\u00e7inde profesyonel, i\u015flevsel ve SEO i\u00e7in optimize edilmi\u015f bir web sitesi olu\u015fturun.<\/p>\n"}},{"@type":"Question","name":"İyi bir motosiklet web sitesi nasıl olur?","acceptedAnswer":{"@type":"Answer","text":"<p>\u0130yi bir motosiklet web sitesi, t\u00fcm cihazlarda kullan\u0131c\u0131 dostu ve ilgi \u00e7ekici bir deneyim sa\u011flamak i\u00e7in \u00fcr\u00fcn, firma, ileti\u015fim detaylar\u0131 ve lokasyon haritas\u0131na eri\u015fimin kolay oldu\u011fu temiz bir d\u00fczen ve kolay bir navigasyon sunar. Y\u00fcksek \u00e7\u00f6z\u00fcn\u00fcrl\u00fckl\u00fc motosiklet g\u00f6rselleri ve videolar\u0131yla motosiklet tutkunlar\u0131n\u0131n ilgisini \u00e7eker. Ayr\u0131nt\u0131l\u0131 motosiklet \u00f6zellikleri, bak\u0131m ipu\u00e7lar\u0131 ve s\u00fcr\u00fc\u015f k\u0131lavuzlar\u0131 gibi bilgilendirici i\u00e7erikler i\u00e7erir.<\/p>\n"}}]}</script> <div
+class="section-related-post"><div
+class="container"><h2 class="section-heading">Benzer Yazılar</h2><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/motosiklet-logolar%C4%B1">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-motorcycle-logos-6720x4480-2024014.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bir otoparktaki kırmızı ve siyah bir motosiklet." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/motosiklet-logolar%C4%B1">Motosiklet Logoları</a></h3><div
+class="card-text">Motosiklet işletmeniz için 10 havalı logo fikri.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/otomotiv-logolar%C4%B1">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-automotive-business-logos-5472x3648-20210127.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bir otomotiv işletmesindeki eski model arabalar." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/otomotiv-logolar%C4%B1">Otomotiv Logoları</a></h3><div
+class="card-text">Otomotiv işletmeniz için 10 havalı logo fikri.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/microsoft-wordde-logo-nas%C4%B1l-olu%C5%9Fturulur">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-create-a-logo-in-ms-word-2400x2400-20210907_2021-09-07-065541_yktz.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Microsoft Word&#039;de bir logo oluşturmak için bilgisayar kullanan bir kadın." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/microsoft-wordde-logo-nas%C4%B1l-olu%C5%9Fturulur">Microsoft Word&#039;de Logo Nasıl Oluşturulur?</a></h3><div
+class="card-text">Adım adım rehberimiz ile Microsoft Word&#039;de işletme logosu nasıl oluşturulur öğrenin.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/bir-logo-nas%C4%B1l-%C5%9Feffaf-yap%C4%B1l%C4%B1r">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2400x2400-02030211.png?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Arka planı şeffaf yapılan bir logo tasarımı." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/bir-logo-nas%C4%B1l-%C5%9Feffaf-yap%C4%B1l%C4%B1r">Bir Logo Nasıl Şeffaf Yapılır?</a></h3><div
+class="card-text">Bir logonun arka planını birkaç kolay adımda nasıl kaldıracağınızı öğrenin.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/logo-dosya-t%C3%BCrleri">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logo-file-types-2500x2500-20210816_2022-11-02-094823_hemf.png?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Çeşitli logolardan oluşan bir fon üzerinde logo dosya türleri." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/logo-dosya-t%C3%BCrleri">Logo Dosya Türleri Nelerdir ve Ne Zaman Kullanılır?</a></h3><div
+class="card-text">6 yaygın logo dosya türü ve kullanımları.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/tr/rehberler/motosiklet-web-sitesi-%C3%B6rnekleri","name":"Motosiklet Web Sitesi Örnekleri- Sürüş Tutkusunu Ateşleyen 5 Site"},"headline":"Motosiklet Web Sitesi Örnekleri- Sürüş Tutkusunu Ateşleyen 5 Site","description":"Motosiklet tutkunlarını harekete geçiren, tüm cihazlara uyumlu 5 motosiklet web sitesi örneğini keşfedin.","image":["https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-motosiklet-web-sitesi-rnekleri-2400x1600-2024067.webp?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-06-03T11:18:00-05:00","dateModified":"2024-07-24T04:21:57-05:00","author":{"@type":"Person","name":"Ebru Çelik","url":"https://www.zarla.com/tr/katkı-sağlayanlar/ebru-çelik"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+class="footer"><div
+class="container"><div
+class="row"><div
+class="col-md-6 col-lg-5 footer-info"><div
+class="footer-brand">
+<a
+class="footer-logo without-title" href="/tr">
+<img
+class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-group"></div>
+</a></div></div><div
+class="col-md-6 col-lg-3"><p
+class="footer-category">Dil</p><ul
+class="footer-menu list-unstyled"><li><a
+href="https://www.zarla.com/guides/motorcycle-website-examples">English</a></li><li
+class="current" style="color: #3041c4;">Türkçe</li></ul></div><div
+class="col-md-6 col-lg-3 "><p
+class="footer-category">Kaynaklar</p><ul
+class="footer-menu list-unstyled"><li>
+<a
+href="https://www.zarla.com/tr/rehberler/logo-fikirleri">
+Logo Fikirleri
+</a></li><li>
+<a
+href="/tr">
+AI Web Sitesi Oluşturma Aracı
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
+Ücretsiz Logo Oluşturucu
+</a></li><li>
+<a
+href="mailto:hello%40zarla.com">
+hello@zarla.com
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
+Kullanım Koşulları
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
+Telif Hakkı Politikası
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/gizlilik-politikas%C4%B1">
+Gizlilik Politikası
+</a></li></ul></div></div></div><div
+class="footer-bottom"><div
+class="container"><p
+class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer> <script async src="/scripts/custom-20240618.js"></script> <!--#minify preserve 2024-07-26T15:16:53Z--><!--#minify end preserve-->
+</body></html>

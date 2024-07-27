@@ -1,0 +1,1138 @@
+<!DOCTYPE html><html
+lang="pl-PL"><head><meta
+charset="utf-8" /> <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWG06X4WML"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-DWG06X4WML');</script> <title>Jak zrobić logo w GIMPie? + Darmowy Kreator Logo</title><meta
+name="description" content="Skorzystaj z naszego przewodnika i dowiedz się, jak stworzyć logo dla firmy w programie GIMP." /><meta
+property="og:title" content="Jak zrobić logo w GIMPie? + Darmowy Kreator Logo" /><meta
+property="og:description" content="Skorzystaj z naszego przewodnika i dowiedz się, jak stworzyć logo dla firmy w programie GIMP." /><link
+rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
+property="og:site_name" content="Zarla" /><meta
+property="og:url" content="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie"><meta
+property="og:type" content="website"><meta
+property="og:locale" content="pl-PL"><meta
+property="og:image" content="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image:width" content='1200' /><meta
+property="og:image:height" content='630' /><meta
+property="og:image:type" content='image/jpeg' /><link
+rel="canonical" href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie"><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-gimp" hreflang="x-default" /><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-gimp" hreflang="en" /><link
+rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-gimp" hreflang="es" /><link
+rel="alternate" href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-gimp" hreflang="fr" /><link
+rel="alternate" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.zarla.com/nl/handleidingen/hoe-maak-je-een-logo-in-gimp" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-gimp" hreflang="id-ID" /><link
+rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
+rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
+name="viewport" content="width=device-width, initial-scale=1" /><meta
+name="format-detection" content="telephone=no" /><meta
+name="theme-color" content="#ffffff" /><link
+rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+class="guideEntries"><header
+class="header"><div
+class="container"><nav
+class="navbar navbar-expand-lg"><div
+class="navbar-brand">
+<a
+class="navbar-logo" href="/pl">
+<img
+class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+</a></div>
+<a
+href="https://www.zarla.com/pl/darmowy-kreator-logo"
+class="btn btn-primary cta-nav
+"
+>
+Darmowy kreator logo
+</a></nav></div><div
+class="indicator"><div
+class="indicator-position js-indicator-position"></div></div></header><main
+class="entry entry-is-guide section-guideEntries"><div
+class="section-banner"><div
+class="narrow-container"><div
+class="section-breadcrumb"><ol
+class="breadcrumb"><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/pl/wzkaz%C3%B3wki">Wskazówki</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo">Projekty Logo</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/samouczki">Samouczki</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Wskazówki","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki"},{"@type":"ListItem","position":2,"name":"Projekty Logo","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo"},{"@type":"ListItem","position":3,"name":"Samouczki","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/samouczki"},{"@type":"ListItem","position":4,"name":"Jak zrobić logo w GIMPie? + Darmowy Kreator Logo","item":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie"}]}</script> <div
+class="card card-featured"><h1 class="card-title">
+Jak zrobić logo w GIMPie? + Darmowy Kreator Logo</h1><div
+class="card-body"><div
+class="card-text card-text-prebyline">Skorzystaj z naszego przewodnika i dowiedz się, jak stworzyć logo dla firmy w programie GIMP.</div><div
+class="card-byline"><div
+class="card-byline-image">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-natalia-smigielska-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+width="80"
+height="80"
+alt="Natalia Śmigielska"
+/></div><div
+class="card-byline-details">
+<span> <a
+class="card-byline-author" href="https://www.zarla.com/pl/współautorzy/natalia-śmigielska">Natalia Śmigielska</a>,</span>
+<span
+class="card-byline-date">17 cze 2024</span><div
+class="card-byline-bio">
+Natalia Śmigielska jest copywriterką w Zarla. Ukończyła studia biznesowe we Florencji. Posiada doświadczenie w budowaniu wizerunku marki i tworzeniu strategii marketingowych.</div></div></div></div><div
+class="card-image-holder"><div
+class="card-preview">
+<picture>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+media="(max-width: 412px)"
+/>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+media="(max-width: 575px)"
+/>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+media="(max-width: 767px)"
+/>
+<img
+class="card-pic"
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=730"
+width="730"
+height="365"
+alt="Logo GIMP na tle klawiatury i tabletu do rysowania."
+/>
+</picture></div></div><div
+class="block-intro-text"><p>GIMP to bezpłatny, otwartoźródłowy program do edycji grafiki rastrowej, pozwalający na operacje takie jak retusz, skalowanie, rysowanie czy dodawanie tekstu. Powstał jako alternatywa dla drogich programów do projektowania dostępnych na rynku; jest świetnym narzędziem, które umożliwia szybkie stworzenie profesjonalnego logo dla firmy.</p><p>Nasz prosty przewodnik pomoże ci zrozumieć podstawowe elementy składające się na logo i dowiedzieć się, jak wykorzystać je do zaprojektowania unikatowej identyfikacji wizualnej swojej firmy w GIMPie. Jeśli jednak poszukujesz jeszcze szybszego i łatwiejszego sposobu na stworzenie świetnie wyglądającego projektu, wypróbuj nasz <a
+href="https://www.zarla.com/pl/darmowy-kreator-logo">darmowy kreator logo</a>.</p></div></div></div></div><div
+class="section-content"><div
+class="container"><div
+class="narrow-container"><div
+class="block block-how-to"><h2 id=jak-stworzyc-logo-w-gIMPie>Jak stworzyć logo w GIMPie?</h2><div
+class="how-to-info"><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px">
+<g>
+<path
+d="M376,151c-39.185,0-136-5.486-136-45v60c0,42.9,113.5,45,136,45s136-2.1,136-45v-60C512,145.514,415.185,151,376,151z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,31c-22.544,0-136,2.168-136,45c0,42.832,113.456,45,136,45s136-2.168,136-45C512,33.168,398.544,31,376,31z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,241c-39.185,0-136-5.486-136-45v22.82c23.293,19.265,41.085,44.854,51.053,74.037    C323.956,300.324,363.763,301,376,301c22.5,0,136-2.1,136-45v-60C512,235.514,415.185,241,376,241z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,331c-11.353,0-46.491-0.524-77.571-6.539C299.357,331.529,300,338.683,300,346c0,13.026-1.675,25.644-4.543,37.808    C327.343,390.376,364.307,391,376,391c22.5,0,136-2.1,136-45v-60C512,325.514,415.185,331,376,331z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,421c-12.87,0-55.932-0.738-89.713-9.333c-7.679,17.622-18.402,33.582-31.419,47.375    C286.104,479.643,358.543,481,376,481c22.5,0,136-2.1,136-45v-60C512,415.514,415.185,421,376,421z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M135,211C60.557,211,0,271.557,0,346s60.557,135,135,135s135-60.557,135-135S209.443,211,135,211z M150.396,418.29    c-0.13,0.048-0.266,0.026-0.396,0.071V436c0,8.291-6.709,15-15,15s-15-6.709-15-15v-17.741    c-9.879-3.338-19.345-9.672-27.437-19.319c-5.332-6.343-4.512-15.806,1.846-21.123c6.343-5.317,15.835-4.482,21.123,1.846    c7.939,9.434,16.963,13.242,24.595,10.444C146.03,387.953,150,382.284,150,376c0-8.276-6.724-15-15-15c-24.814,0-45-20.186-45-45    c0-17.686,9.998-34.92,30-42.085V256c0-8.291,6.709-15,15-15s15,6.709,15,15v17.941c7.771,2.626,15.348,6.799,22.104,13.348    c5.947,5.757,6.094,15.249,0.322,21.211c-5.742,5.947-15.264,6.079-21.211,0.322c-7.295-7.061-15.352-9.492-22.046-6.65    C123.604,304.53,120,309.95,120,316c0,8.276,6.724,15,15,15c24.814,0,45,20.186,45,45C180,394.853,168.105,411.845,150.396,418.29    z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+</svg>
+</span>
+0.00 PLN</div><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" height="512px" viewBox="0 0 512 512" width="512px"><g><path
+d="m256 0c-141.164062 0-256 114.835938-256 256s114.835938 256 256 256 256-114.835938 256-256-114.835938-256-256-256zm121.75 388.414062c-4.160156 4.160157-9.621094 6.253907-15.082031 6.253907-5.460938 0-10.925781-2.09375-15.082031-6.253907l-106.667969-106.664062c-4.011719-3.988281-6.25-9.410156-6.25-15.082031v-138.667969c0-11.796875 9.554687-21.332031 21.332031-21.332031s21.332031 9.535156 21.332031 21.332031v129.835938l100.417969 100.414062c8.339844 8.34375 8.339844 21.824219 0 30.164062zm0 0" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C3"/></g> </svg>
+</span>
+1 Godzina
+30 Minut</div></div><div
+class="how-to-desc"><div
+class="how-to-image">
+<picture>
+<img
+data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-in-gimp-completed-800x800-20230818.jpeg?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Jak stworzyć logo w GIMPie?">
+</picture></div><p>Dziewięć prostych kroków do stworzenia własnego, profesjonalnego logo w programie GIMP.</p></div><div
+id="jak-stworzyć-logo-w-gim-pie-section1" class="how-to-section"><div
+class="section-title">
+<span>1.&nbsp;</span><h3 id=pobierz-aplikacje>Pobierz aplikację.</h3></div><div
+id="jak-stworzyć-logo-w-gim-pie-section1-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.1&nbsp;</span><h4 id=wejdz-na-gimp-org>Wejdź na GIMP.org.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/Zarla-navigate-to-gimp-org-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Wejdź na GIMP.org."></div></div><p>Na <a
+href="https://www.gimp.org/">stronie głównej programu GIMP</a> kliknij „DOWNLOAD” na banerze z nazwą programu.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Upewnij się, że wybrałeś wersję przeznaczoną dla twojego systemu operacyjnego i kliknij w link.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Zainstaluj aplikację na swoim komputerze.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>GIMP wymaga około 300 MB wolnego miejsca w pamięci komputera.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Do uruchomienia GIMPa wystarczy procesor Intel Pentium 4 lub jego odpowiednik.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Do efektywnego działania aplikacji potrzebne jest minimum 25 MB pamięci RAM.</p></div></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section2" class="how-to-section"><div
+class="section-title">
+<span>2.&nbsp;</span><h3 id=przygotuj-plik>Przygotuj plik.</h3></div><div
+id="jak-stworzyć-logo-w-gim-pie-section2-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.1&nbsp;</span><h4 id=stworz-nowy-dokument>Stwórz nowy dokument.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-new-document-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Stwórz nowy dokument."></div></div><p>Uruchom GIMP, kliknij „Plik” na pasku menu głównego i wybierz „Nowy” z menu rozwijanego.</p></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section2-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.2&nbsp;</span><h4 id=ustaw-rozmiar-obrazu>Ustaw rozmiar obrazu.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-set-the-image-size-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Ustaw rozmiar obrazu."></div></div><p>W wyskakującym oknie ustaw szerokość i wysokość obrazu na 1000 pikseli (px) i kliknij „OK”.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Możesz także wybrać któryś z gotowych rozmiarów obrazu z rozwijanego menu „Szablon”.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>W rozwijanym menu „Zaawansowane opcje” możesz ustawić kolor tła, klikając pole „Wypełnienie” i wybierając m.in. opcję „Kolor pierwszoplanowy”, „Przezroczystość”, „Deseń” lub „Biały”.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section2-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.3&nbsp;</span><h4 id=zapisz-utworzony-plik>Zapisz utworzony plik.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-save-file-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Zapisz utworzony plik."></div></div><p>Pamiętaj, by regularnie zapisywać dokument programu GIMP – dzięki temu unikniesz utraty wykonanej pracy.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Przejdź do „Plik” na pasku menu głównego i wybierz „Zapisz jako…” z menu rozwijanego.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Nadaj swojemu obrazowi nazwę, określ lokalizację zapisu na komputerze i kliknij „Zapisz”.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Możesz szybko zapisać swoje postępy podczas pracy za pomocą skrótu „Ctrl/Cmd + S”.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section2-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.4&nbsp;</span><h4 id=wlacz-prowadnice>Włącz prowadnice.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-guides-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Włącz prowadnice."></div></div><p>Prowadnice będą automatycznie wyrównywać elementy w twoim dokumencie.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kliknij „Obraz” na pasku menu głównego, najedź kursorem na „Prowadnice” i wybierz „Nowa prowadnica (w procentach)…”.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ustaw kierunek na poziomy, położenie (w %) na 50 i kliknij „OK”.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Powtórz proces, tym razem ustawiając kierunek na pionowy i położenie (w %) na 50.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kliknij „Widok” na pasku menu głównego i wybierz „Przyciąganie do prowadnic” z menu rozwijanego.</p></div></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section3" class="how-to-section"><div
+class="section-title">
+<span>3.&nbsp;</span><h3 id=utworz-ksztalt>Utwórz kształt.</h3></div><div
+id="jak-stworzyć-logo-w-gim-pie-section3-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.1&nbsp;</span><h4 id=dodaj-nowa-warstwe>Dodaj nową warstwę.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-new-layer-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Dodaj nową warstwę."></div></div><p>Na pasku menu głównego kliknij „Warstwa” i z rozwijanego menu wybierz „Nowa warstwa…”.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Nazwij warstwę „Główny kształt” i kliknij „OK”.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Możesz także utworzyć nową warstwę poprzez kliknięcie w ikonę karteczki z plusem w lewym dolnym rogu panelu warstw.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section3-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.2&nbsp;</span><h4 id=wybierz-narzedzie-zaznaczenie-eliptyczne>Wybierz narzędzie „Zaznaczenie eliptyczne”.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-the-ellipse-tool-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Wybierz narzędzie „Zaznaczenie eliptyczne”."></div></div><p>W panelu narzędzi w lewym górnym rogu kliknij prawym przyciskiem myszy narzędzie „Zaznaczenie prostokątne” i wybierz „Zaznaczenie eliptyczne”.</p></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section3-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.3&nbsp;</span><h4 id=narysuj-ksztalt>Narysuj kształt.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/Zarla-draw-your-shape-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Narysuj kształt."></div></div><p>Aby utworzyć kształt, wystarczy, że wciśniesz kursor i przeciągniesz okrąg do pożądanych rozmiarów.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Możesz zmienić rozmiar elipsy przeciągając pola narożne kształtu.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kliknij i przeciągnij obraz, by wyrównać go do prowadnic.</p></div></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section4" class="how-to-section"><div
+class="section-title">
+<span>4.&nbsp;</span><h3 id=dodaj-kolor>Dodaj kolor.</h3></div><div
+id="jak-stworzyć-logo-w-gim-pie-section4-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.1&nbsp;</span><h4 id=wybierz-narzedzie-gradient>Wybierz narzędzie „Gradient”.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-the-gradient-tool-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Wybierz narzędzie „Gradient”."></div></div><p>W panelu narzędzi w lewym górnym rogu kliknij prawym przyciskiem myszy narzędzie „Wypełnienie kubełkiem” i wybierz „Gradient”.</p></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section4-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.2&nbsp;</span><h4 id=utworz-gradient>Utwórz gradient.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/Zarla-create-the-gradient-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Utwórz gradient."></div></div><p>Aby utworzyć gradient wystarczy, że przyciśniesz kursor i przeciągniesz go w dowolnym kierunku. W naszym przykładzie utworzymy pionowy gradient, przeciągając kursor od dołu do góry, trzymając się środkowej prowadnicy.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Im dłuższą zrobisz linię gradientu, tym większy będzie rozmiar jego widma, czyli rozmycia kolorów.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section4-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.3&nbsp;</span><h4 id=zmien-kolory-gradientu>Zmień kolory gradientu.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-change-the-color-of-the-gradient-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Zmień kolory gradientu."></div></div><p>Kliknij blok „Aktywny kolor pierwszoplanowy” na lewym pasku menu, aby wybrać pierwszy kolor gradientu.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kliknij blok „Aktywny kolor tła”, aby wybrać drugi kolor gradientu.</p></div></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section5" class="how-to-section"><div
+class="section-title">
+<span>5.&nbsp;</span><h3 id=utworz-ikone>Utwórz ikonę.</h3></div><div
+id="jak-stworzyć-logo-w-gim-pie-section5-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.1&nbsp;</span><h4 id=uzyj-obrazu-referencyjnego>Użyj obrazu referencyjnego.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-use-a-referance-image-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Użyj obrazu referencyjnego."></div></div><p>Przy tworzeniu logo warto korzystać z obrazu referencyjnego, który pomoże ci w konstruowaniu ikony. W naszym przykładzie wspomożemy się <a
+href="https://pixabay.com/vectors/green-leaf-leaves-1299703/">obrazem listków</a>.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Nasz obszar roboczy w GIMP ma wymiary 1000 x 1000 pikseli, więc 500 x 500 pikseli będzie wystarczającą wielkością dla obrazu referencyjnego.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Przejdź do „Plik” na pasku menu głównego i wybierz „Otwórz jako warstwy…”.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Wybierz obraz referencyjny i kliknij „Otwórz”.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>GIMP może chcieć przekonwertować obraz do odpowiedniego formatu. Aby to zrobić, po prostu kliknij „Konwertuj” w wyskakującym oknie.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Możesz także przeciągnąć i upuścić obraz do projektu GIMP bezpośrednio z folderu.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Po wybraniu warstwy obrazu referencyjnego ustaw „Krycie” na 50%. Znajdziesz tę opcję u góry panelu warstw.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section5-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.2&nbsp;</span><h4 id=zmien-rozmiar-obrazu-referencyjnego>Zmień rozmiar obrazu referencyjnego.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-resize-the-reference-image-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Zmień rozmiar obrazu referencyjnego."></div></div><p>Kliknij prawym przyciskiem myszy referencyjną warstwę obrazu i wybierz „Skaluj warstwę…” z menu podręcznego.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Upewnij się, że pola „Szerokość” i „Wysokość” są połączone, aby zachować proporcje obrazu.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ustaw „Szerokość” na około 450 px i kliknij „Skaluj”.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Użyj strzałek w górę i w dół w polach „Szerokość” lub „Wysokość”, aby dostosować rozmiar obrazu.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section5-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.3&nbsp;</span><h4 id=dopasuj-obraz-referencyjny-do-podstawy>Dopasuj obraz referencyjny do podstawy.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-position-the-reference-image-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Dopasuj obraz referencyjny do podstawy."></div></div><p>Z panelu narzędzi w lewym górnym rogu wybierz narzędzie „Przesunięcie”.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Naciśnij kursor i przeciągnij obraz referencyjny na wybrane miejsce na elipsie.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section5-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.4&nbsp;</span><h4 id=wybierz-narzedzie-Sciezki>Wybierz narzędzie „Ścieżki”.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/Zarla-select-the-paths-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Wybierz narzędzie „Ścieżki”."></div></div><p>Utwórz nową warstwę i nazwij ją „Ikona”. Następnie na panelu narzędzi w lewym górnym rogu kliknij narzędzie „Ścieżki”.</p></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section5-step5" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.5&nbsp;</span><h4 id=utworz-sciezke-ikony>Utwórz ścieżkę ikony.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Utwórz ścieżkę ikony."></div></div><p>Wybierz punkt początkowy i kliknij, aby dodać punkt kontrolny za pomocą narzędzia „Ścieżki”. Gdy klikniesz ponownie, linia prosta zostanie automatycznie wygenerowana i połączy dwa punkty kontrolne.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kliknij środek utworzonej linii prostej i przeciągnij ją w kierunku lewego górnego rogu, aby utworzyć łuk.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Użyj pomarańczowych linii stycznych, aby dostosować amplitudę krzywych.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Powtórz proces, tworząc i zakrzywiając więcej linii.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Aby połączyć dwa punkty kontrolne, przytrzymaj klawisze Ctrl+Cmd podczas klikania na kształt.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section5-step6" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.6&nbsp;</span><h4 id=popraw-sciezke-ikony>Popraw ścieżkę ikony.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-refine-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Popraw ścieżkę ikony."></div></div><p>Dostosuj punkty kontrolne i uchwyty łukowe, aby udoskonalić położenie i krzywizny ścieżki, aż będziesz zadowolony z kształtu ikony.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Gdy będziesz zadowolony z kształtu ikony, możesz ukryć obraz referencyjny, klikając ikonkę oka w panelu warstw.</p></div></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section6" class="how-to-section"><div
+class="section-title">
+<span>6.&nbsp;</span><h3 id=dokoncz-ikone>Dokończ ikonę.</h3></div><div
+id="jak-stworzyć-logo-w-gim-pie-section6-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.1&nbsp;</span><h4 id=utworz-obrys-ikony>Utwórz obrys ikony.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-stroke-for-the-icon-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Utwórz obrys ikony."></div></div><p>Wybierz „Aktywny kolor pierwszoplanowy” — w naszym przypadku ustawimy biały.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kliknij opcję „Rysuj wzdłuż ścieżki” na karcie menu po lewej stronie, aby wyświetlić opcje konturu.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Upewnij się, że pola wyboru „Rysowanie linii”, „Pełny kolor” i „Wygładzanie” są zaznaczone.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Zmień grubość linii, dopasowując piksele w polu „Szerokość linii”.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kliknij „Rysuj”, aby zastosować kontur do ścieżki.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Możesz eksperymentować z różnymi wersjami obrysu, rozwijając menu „Styl linii”.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section6-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.2&nbsp;</span><h4 id=wypelnij-ikone>Wypełnij ikonę.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-fill-for-the-icon-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Wypełnij ikonę."></div></div><p>Utwórz nową warstwę i nazwij ją „Wypełnienie ikony”. Podobnie jak zrobiliśmy to z obrysem, teraz wypełnimy kolorem ikonę.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Upewnij się, że „Aktywny kolor pierwszoplanowy” jest ustawiony na kolor biały.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kliknij opcję „Wypełnij ścieżkę” na karcie menu po lewej stronie, aby wyświetlić opcje wypełnienia.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Zaznacz pola „Pełny kolor” i „Wygładzanie”, a następnie kliknij „Wypełnij”.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Możesz również wypełnić ikonę wzorem, zaznaczając pole „Deseń”.</p></div></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section7" class="how-to-section"><div
+class="section-title">
+<span>7.&nbsp;</span><h3 id=dodaj-nazwe-swojej-firmy>Dodaj nazwę swojej firmy.</h3></div><div
+id="jak-stworzyć-logo-w-gim-pie-section7-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.1&nbsp;</span><h4 id=wybierz-narzedzie-tekst>Wybierz narzędzie „Tekst”.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/Zarla-select-the-text-tool-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Wybierz narzędzie „Tekst”."></div></div><p>Z panelu narzędzi w lewym górnym rogu wybierz narzędzie „Tekst”.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kliknij w dowolnym miejscu na stronie, aby utworzyć pole tekstowe i wpisz nazwę swojej firmy. Dla tekstu automatycznie zostanie utworzona nowa warstwa.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section7-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.2&nbsp;</span><h4 id=zmien-kolor-tekstu>Zmień kolor tekstu.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-change-the-text-color-288x288-20230818_2023-08-18-183725_zwyq.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Zmień kolor tekstu."></div></div><p>Zaznacz tekst i kliknij blok koloru w prawym dolnym rogu okna nad polem tekstowym, aby zmienić kolor tekstu.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Możesz zmienić kolor poszczególnych liter, zaznaczając konkretną literę i wybierając kolor.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section7-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.3&nbsp;</span><h4 id=zmien-czcionke>Zmień czcionkę.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-change-the-font-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Zmień czcionkę."></div></div><p>Dostosuj wygląd tekstu, wybierając font z menu rozwijanego „Czcionka” w menu po lewej stronie.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>W tym menu możesz także zmienić rozmiar tekstu, dostosowując pole „Rozmiar”.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Możesz zmienić rozmiar poszczególnych liter, wybierając literę i zmieniając jej rozmiar.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Jeśli chcesz wykorzystać konkretną czcionkę, której nie ma w GIMPie, wystarczy, że pobierzesz ją na swój komputer, a ta automatycznie zostanie dodana do twojej selekcji.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section7-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.4&nbsp;</span><h4 id=wyrownaj-nazwe-firmy-do-ikony>Wyrównaj nazwę firmy do ikony.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/Zarla-position-the-business-name-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Wyrównaj nazwę firmy do ikony."></div></div><p>Z panelu narzędzi w lewym górnym rogu wybierz narzędzie „Przesunięcie”.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Naciśnij i przesuń prostokąt z tekstem, aby wyrównać nazwę firmy względem ikony.</p></div></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section8" class="how-to-section"><div
+class="section-title">
+<span>8.&nbsp;</span><h3 id=stworz-rozne-wersje-logo>Stwórz różne wersje logo.</h3></div><div
+id="jak-stworzyć-logo-w-gim-pie-section8-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>8.1&nbsp;</span><h4 id=wyprobuj-rozne-style-swojego-projektu>Wypróbuj różne style swojego projektu.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-compare-different-styles-of-your-design-288x288-20230818_2023-08-18-193023_qrxw.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Wypróbuj różne style swojego projektu."></div></div><p>Gdy skończysz ustawianie poszczególnych elementów logo, możesz zacząć bawić się szczegółami. My, na przykład, ukryliśmy warstwę wypełnienia ikony i pozostawiliśmy tylko ścieżkę obrysu.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Wypróbuj różne kolory tła, obrysy kształtów, czcionki i kompozycje elementów, żeby udoskonalić wygląd swojego logo. Takie działanie pomoże ci wyobrazić sobie wygląd kompozycji w różnych kontekstach i ułatwi ci podjęcie decyzji.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section8-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>8.2&nbsp;</span><h4 id=wykonaj-kopie-oryginalnej-sciezki-obrysu-ikony>Wykonaj kopię oryginalnej ścieżki obrysu ikony.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-make-copies-of-the-original-path-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Wykonaj kopię oryginalnej ścieżki obrysu ikony."></div></div><p>Utwórz nową warstwę i nazwij ją „Obrys ikony 2”.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kliknij „Ścieżki” nad panelem warstw, a następnie prawym przyciskiem myszy naciśnij na warstwę ścieżki ikony.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Wybierz opcję „Skopiuj ścieżkę”, kliknij prawym przyciskiem myszy w polu warstw i wybierz „Wklej ścieżkę” – i gotowe! Teraz możesz eksperymentować z nowym obrysem, wypełniając go np. innym kolorem. Wystarczy, że powtórzysz proces z <a
+href="#dokoncz-ikone">kroku 6</a>.</p></div></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section9" class="how-to-section"><div
+class="section-title">
+<span>9.&nbsp;</span><h3 id=zapisz-logo>Zapisz logo.</h3></div><div
+id="jak-stworzyć-logo-w-gim-pie-section9-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.1&nbsp;</span><h4 id=eksportuj-swoj-projekt>Eksportuj swój projekt.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-export-your-logo-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Eksportuj swój projekt."></div></div><p>Gdy będziesz zadowolony ze swojego projektu logo, możesz wyeksportować go w różnych formatach plików.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kliknij „Plik” na pasku menu głównego i wybierz „Wyeksportuj jako…”.</p></div></div></div><div
+id="jak-stworzyć-logo-w-gim-pie-section9-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.2&nbsp;</span><h4 id=wybierz-format-pliku>Wybierz format pliku.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-a-file-format-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Wybierz format pliku."></div></div><p>W wyskakującym oknie rozwiń opcję „Wybór typu pliku (Według rozszerzenia)”, aby wyświetlić dostępne formaty obrazów.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Określ nazwę pliku i folder docelowy na swoim komputerze.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>„PNG” i „GIF” to formaty o wysokiej rozdzielczości, dzięki którym tło twojego logo będzie przezroczyste.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Format „JPG” zachowuje jednolite tło i wykorzystuje algorytmy do kompresji obrazu w celu uzyskania mniejszego rozmiaru pliku.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Po dostosowaniu ustawień kliknij „Wyeksportuj” w prawym dolnym rogu.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"http://schema.org","@type":"HowTo","name":"Jak stworzy logo w GIMPie","description":"<p>Dziewi\u0119\u0107 prostych krok\u00f3w do stworzenia w\u0142asnego, profesjonalnego logo w programie GIMP.<\/p>\n","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-how-to-make-a-logo-in-gimp-completed-800x800-20230818.jpeg?crop=1:1,smart&width=250&dpr=2","height":"800","width":"800"},"estimatedCost":{"@type":"MonetaryAmount","currency":"PLN","value":"0.00"},"totalTime":"PT1H30M","step":[{"@type":"HowToSection","position":"1","name":"<p>Pobierz aplikacj\u0119.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Wejd\u017a na GIMP.org.<\/p>\n","text":"<p>Na <a href=\"https:\/\/www.gimp.org\/\">stronie g\u0142\u00f3wnej programu GIMP<\/a> kliknij \u201eDOWNLOAD\u201d na banerze z nazw\u0105 programu.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section1-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-navigate-to-gimp-org-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Upewnij si\u0119, \u017ce wybra\u0142e\u015b wersj\u0119 przeznaczon\u0105 dla twojego systemu operacyjnego i kliknij w link.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Zainstaluj aplikacj\u0119 na swoim komputerze.<\/p>\n"},{"@type":"HowToTip","text":"<p>GIMP wymaga oko\u0142o 300 MB wolnego miejsca w pami\u0119ci komputera.<\/p>\n"},{"@type":"HowToTip","text":"<p>Do uruchomienia GIMPa wystarczy procesor Intel Pentium 4 lub jego odpowiednik.<\/p>\n"},{"@type":"HowToTip","text":"<p>Do efektywnego dzia\u0142ania aplikacji potrzebne jest minimum 25 MB pami\u0119ci RAM.<\/p>\n"}]}]},{"@type":"HowToSection","position":"2","name":"<p>Przygotuj plik.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Stw\u00f3rz nowy dokument.<\/p>\n","text":"<p>Uruchom GIMP, kliknij \u201ePlik\u201d na pasku menu g\u0142\u00f3wnego i wybierz \u201eNowy\u201d z menu rozwijanego.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section2-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-new-document-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Ustaw rozmiar obrazu.<\/p>\n","text":"<p>W wyskakuj\u0105cym oknie ustaw szeroko\u015b\u0107 i wysoko\u015b\u0107 obrazu na 1000 pikseli (px) i kliknij \u201eOK\u201d.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section2-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-set-the-image-size-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Mo\u017cesz tak\u017ce wybra\u0107 kt\u00f3ry\u015b z gotowych rozmiar\u00f3w obrazu z rozwijanego menu \u201eSzablon\u201d.<\/p>\n"},{"@type":"HowToTip","text":"<p>W rozwijanym menu \u201eZaawansowane opcje\u201d mo\u017cesz ustawi\u0107 kolor t\u0142a, klikaj\u0105c pole \u201eWype\u0142nienie\u201d i wybieraj\u0105c m.in. opcj\u0119 \u201eKolor pierwszoplanowy\u201d, \u201ePrzezroczysto\u015b\u0107\u201d, \u201eDese\u0144\u201d lub \u201eBia\u0142y\u201d.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Zapisz utworzony plik.<\/p>\n","text":"<p>Pami\u0119taj, by regularnie zapisywa\u0107 dokument programu GIMP \u2013 dzi\u0119ki temu unikniesz utraty wykonanej pracy.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section2-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-save-file-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Przejd\u017a do \u201ePlik\u201d na pasku menu g\u0142\u00f3wnego i wybierz \u201eZapisz jako\u2026\u201d z menu rozwijanego.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Nadaj swojemu obrazowi nazw\u0119, okre\u015bl lokalizacj\u0119 zapisu na komputerze i kliknij \u201eZapisz\u201d.<\/p>\n"},{"@type":"HowToTip","text":"<p>Mo\u017cesz szybko zapisa\u0107 swoje post\u0119py podczas pracy za pomoc\u0105 skr\u00f3tu \u201eCtrl\/Cmd + S\u201d.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>W\u0142\u0105cz prowadnice.<\/p>\n","text":"<p>Prowadnice b\u0119d\u0105 automatycznie wyr\u00f3wnywa\u0107 elementy w twoim dokumencie.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section2-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-guides-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Kliknij \u201eObraz\u201d na pasku menu g\u0142\u00f3wnego, najed\u017a kursorem na \u201eProwadnice\u201d i wybierz \u201eNowa prowadnica (w procentach)\u2026\u201d.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Ustaw kierunek na poziomy, po\u0142o\u017cenie (w %) na 50 i kliknij \u201eOK\u201d.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Powt\u00f3rz proces, tym razem ustawiaj\u0105c kierunek na pionowy i po\u0142o\u017cenie (w %) na 50.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Kliknij \u201eWidok\u201d na pasku menu g\u0142\u00f3wnego i wybierz \u201ePrzyci\u0105ganie do prowadnic\u201d z menu rozwijanego.<\/p>\n"}]}]},{"@type":"HowToSection","position":"3","name":"<p>Utw\u00f3rz kszta\u0142t.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Dodaj now\u0105 warstw\u0119.<\/p>\n","text":"<p>Na pasku menu g\u0142\u00f3wnego kliknij \u201eWarstwa\u201d i z rozwijanego menu wybierz \u201eNowa warstwa\u2026\u201d.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section3-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-new-layer-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Nazwij warstw\u0119 \u201eG\u0142\u00f3wny kszta\u0142t\u201d i kliknij \u201eOK\u201d.<\/p>\n"},{"@type":"HowToTip","text":"<p>Mo\u017cesz tak\u017ce utworzy\u0107 now\u0105 warstw\u0119 poprzez klikni\u0119cie w ikon\u0119 karteczki z plusem w lewym dolnym rogu panelu warstw.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Wybierz narz\u0119dzie \u201eZaznaczenie eliptyczne\u201d.<\/p>\n","text":"<p>W panelu narz\u0119dzi w lewym g\u00f3rnym rogu kliknij prawym przyciskiem myszy narz\u0119dzie \u201eZaznaczenie prostok\u0105tne\u201d i wybierz \u201eZaznaczenie eliptyczne\u201d.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section3-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-ellipse-tool-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>Narysuj kszta\u0142t.<\/p>\n","text":"<p>Aby utworzy\u0107 kszta\u0142t, wystarczy, \u017ce wci\u015bniesz kursor i przeci\u0105gniesz okr\u0105g do po\u017c\u0105danych rozmiar\u00f3w.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section3-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-draw-your-shape-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Mo\u017cesz zmieni\u0107 rozmiar elipsy przeci\u0105gaj\u0105c pola naro\u017cne kszta\u0142tu.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Kliknij i przeci\u0105gnij obraz, by wyr\u00f3wna\u0107 go do prowadnic.<\/p>\n"}]}]},{"@type":"HowToSection","position":"4","name":"<p>Dodaj kolor.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Wybierz narz\u0119dzie \u201eGradient\u201d.<\/p>\n","text":"<p>W panelu narz\u0119dzi w lewym g\u00f3rnym rogu kliknij prawym przyciskiem myszy narz\u0119dzie \u201eWype\u0142nienie kube\u0142kiem\u201d i wybierz \u201eGradient\u201d.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section4-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-gradient-tool-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Utw\u00f3rz gradient.<\/p>\n","text":"<p>Aby utworzy\u0107 gradient wystarczy, \u017ce przyci\u015bniesz kursor i przeci\u0105gniesz go w dowolnym kierunku. W naszym przyk\u0142adzie utworzymy pionowy gradient, przeci\u0105gaj\u0105c kursor od do\u0142u do g\u00f3ry, trzymaj\u0105c si\u0119 \u015brodkowej prowadnicy.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section4-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-create-the-gradient-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Im d\u0142u\u017csz\u0105 zrobisz lini\u0119 gradientu, tym wi\u0119kszy b\u0119dzie rozmiar jego widma, czyli rozmycia kolor\u00f3w.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Zmie\u0144 kolory gradientu.<\/p>\n","text":"<p>Kliknij blok \u201eAktywny kolor pierwszoplanowy\u201d na lewym pasku menu, aby wybra\u0107 pierwszy kolor gradientu.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section4-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-change-the-color-of-the-gradient-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Kliknij blok \u201eAktywny kolor t\u0142a\u201d, aby wybra\u0107 drugi kolor gradientu.<\/p>\n"}]}]},{"@type":"HowToSection","position":"5","name":"<p>Utw\u00f3rz ikon\u0119.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>U\u017cyj obrazu referencyjnego.<\/p>\n","text":"<p>Przy tworzeniu logo warto korzysta\u0107 z obrazu referencyjnego, kt\u00f3ry pomo\u017ce ci w konstruowaniu ikony. W naszym przyk\u0142adzie wspomo\u017cemy si\u0119 <a href=\"https:\/\/pixabay.com\/vectors\/green-leaf-leaves-1299703\/\">obrazem listk\u00f3w<\/a>.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section5-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-use-a-referance-image-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Nasz obszar roboczy w GIMP ma wymiary 1000 x 1000 pikseli, wi\u0119c 500 x 500 pikseli b\u0119dzie wystarczaj\u0105c\u0105 wielko\u015bci\u0105 dla obrazu referencyjnego.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Przejd\u017a do \u201ePlik\u201d na pasku menu g\u0142\u00f3wnego i wybierz \u201eOtw\u00f3rz jako warstwy\u2026\u201d.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Wybierz obraz referencyjny i kliknij \u201eOtw\u00f3rz\u201d.<\/p>\n"},{"@type":"HowToTip","text":"<p>GIMP mo\u017ce chcie\u0107 przekonwertowa\u0107 obraz do odpowiedniego formatu. Aby to zrobi\u0107, po prostu kliknij \u201eKonwertuj\u201d w wyskakuj\u0105cym oknie.<\/p>\n"},{"@type":"HowToTip","text":"<p>Mo\u017cesz tak\u017ce przeci\u0105gn\u0105\u0107 i upu\u015bci\u0107 obraz do projektu GIMP bezpo\u015brednio z folderu.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Po wybraniu warstwy obrazu referencyjnego ustaw \u201eKrycie\u201d na 50%. Znajdziesz t\u0119 opcj\u0119 u g\u00f3ry panelu warstw.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Zmie\u0144 rozmiar obrazu referencyjnego.<\/p>\n","text":"<p>Kliknij prawym przyciskiem myszy referencyjn\u0105 warstw\u0119 obrazu i wybierz \u201eSkaluj warstw\u0119\u2026\u201d z menu podr\u0119cznego.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section5-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-resize-the-reference-image-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Upewnij si\u0119, \u017ce pola \u201eSzeroko\u015b\u0107\u201d i \u201eWysoko\u015b\u0107\u201d s\u0105 po\u0142\u0105czone, aby zachowa\u0107 proporcje obrazu.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Ustaw \u201eSzeroko\u015b\u0107\u201d na oko\u0142o 450 px i kliknij \u201eSkaluj\u201d.<\/p>\n"},{"@type":"HowToTip","text":"<p>U\u017cyj strza\u0142ek w g\u00f3r\u0119 i w d\u00f3\u0142 w polach \u201eSzeroko\u015b\u0107\u201d lub \u201eWysoko\u015b\u0107\u201d, aby dostosowa\u0107 rozmiar obrazu.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Dopasuj obraz referencyjny do podstawy.<\/p>\n","text":"<p>Z panelu narz\u0119dzi w lewym g\u00f3rnym rogu wybierz narz\u0119dzie \u201ePrzesuni\u0119cie\u201d.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section5-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-position-the-reference-image-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Naci\u015bnij kursor i przeci\u0105gnij obraz referencyjny na wybrane miejsce na elipsie.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Wybierz narz\u0119dzie \u201e\u015acie\u017cki\u201d.<\/p>\n","text":"<p>Utw\u00f3rz now\u0105 warstw\u0119 i nazwij j\u0105 \u201eIkona\u201d. Nast\u0119pnie na panelu narz\u0119dzi w lewym g\u00f3rnym rogu kliknij narz\u0119dzie \u201e\u015acie\u017cki\u201d.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section5-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-select-the-paths-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"5","name":"<p>Utw\u00f3rz \u015bcie\u017ck\u0119 ikony.<\/p>\n","text":"<p>Wybierz punkt pocz\u0105tkowy i kliknij, aby doda\u0107 punkt kontrolny za pomoc\u0105 narz\u0119dzia \u201e\u015acie\u017cki\u201d. Gdy klikniesz ponownie, linia prosta zostanie automatycznie wygenerowana i po\u0142\u0105czy dwa punkty kontrolne.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section5-step5","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Kliknij \u015brodek utworzonej linii prostej i przeci\u0105gnij j\u0105 w kierunku lewego g\u00f3rnego rogu, aby utworzy\u0107 \u0142uk.<\/p>\n"},{"@type":"HowToTip","text":"<p>U\u017cyj pomara\u0144czowych linii stycznych, aby dostosowa\u0107 amplitud\u0119 krzywych.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Powt\u00f3rz proces, tworz\u0105c i zakrzywiaj\u0105c wi\u0119cej linii.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Aby po\u0142\u0105czy\u0107 dwa punkty kontrolne, przytrzymaj klawisze Ctrl+Cmd podczas klikania na kszta\u0142t.<\/p>\n"}]},{"@type":"HowToStep","position":"6","name":"<p>Popraw \u015bcie\u017ck\u0119 ikony.<\/p>\n","text":"<p>Dostosuj punkty kontrolne i uchwyty \u0142ukowe, aby udoskonali\u0107 po\u0142o\u017cenie i krzywizny \u015bcie\u017cki, a\u017c b\u0119dziesz zadowolony z kszta\u0142tu ikony.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section5-step6","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-refine-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Gdy b\u0119dziesz zadowolony z kszta\u0142tu ikony, mo\u017cesz ukry\u0107 obraz referencyjny, klikaj\u0105c ikonk\u0119 oka w panelu warstw.<\/p>\n"}]}]},{"@type":"HowToSection","position":"6","name":"<p>Doko\u0144cz ikon\u0119.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Utw\u00f3rz obrys ikony.<\/p>\n","text":"<p>Wybierz \u201eAktywny kolor pierwszoplanowy\u201d \u2014 w naszym przypadku ustawimy bia\u0142y.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section6-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-stroke-for-the-icon-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Kliknij opcj\u0119 \u201eRysuj wzd\u0142u\u017c \u015bcie\u017cki\u201d na karcie menu po lewej stronie, aby wy\u015bwietli\u0107 opcje konturu.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Upewnij si\u0119, \u017ce pola wyboru \u201eRysowanie linii\u201d, \u201ePe\u0142ny kolor\u201d i \u201eWyg\u0142adzanie\u201d s\u0105 zaznaczone.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Zmie\u0144 grubo\u015b\u0107 linii, dopasowuj\u0105c piksele w polu \u201eSzeroko\u015b\u0107 linii\u201d.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Kliknij \u201eRysuj\u201d, aby zastosowa\u0107 kontur do \u015bcie\u017cki.<\/p>\n"},{"@type":"HowToTip","text":"<p>Mo\u017cesz eksperymentowa\u0107 z r\u00f3\u017cnymi wersjami obrysu, rozwijaj\u0105c menu \u201eStyl linii\u201d.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Wype\u0142nij ikon\u0119.<\/p>\n","text":"<p>Utw\u00f3rz now\u0105 warstw\u0119 i nazwij j\u0105 \u201eWype\u0142nienie ikony\u201d. Podobnie jak zrobili\u015bmy to z obrysem, teraz wype\u0142nimy kolorem ikon\u0119.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section6-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-fill-for-the-icon-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Upewnij si\u0119, \u017ce \u201eAktywny kolor pierwszoplanowy\u201d jest ustawiony na kolor bia\u0142y.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Kliknij opcj\u0119 \u201eWype\u0142nij \u015bcie\u017ck\u0119\u201d na karcie menu po lewej stronie, aby wy\u015bwietli\u0107 opcje wype\u0142nienia.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Zaznacz pola \u201ePe\u0142ny kolor\u201d i \u201eWyg\u0142adzanie\u201d, a nast\u0119pnie kliknij \u201eWype\u0142nij\u201d.<\/p>\n"},{"@type":"HowToTip","text":"<p>Mo\u017cesz r\u00f3wnie\u017c wype\u0142ni\u0107 ikon\u0119 wzorem, zaznaczaj\u0105c pole \u201eDese\u0144\u201d.<\/p>\n"}]}]},{"@type":"HowToSection","position":"7","name":"<p>Dodaj nazw\u0119 swojej firmy.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Wybierz narz\u0119dzie \u201eTekst\u201d.<\/p>\n","text":"<p>Z panelu narz\u0119dzi w lewym g\u00f3rnym rogu wybierz narz\u0119dzie \u201eTekst\u201d.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section7-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-select-the-text-tool-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Kliknij w dowolnym miejscu na stronie, aby utworzy\u0107 pole tekstowe i wpisz nazw\u0119 swojej firmy. Dla tekstu automatycznie zostanie utworzona nowa warstwa.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Zmie\u0144 kolor tekstu.<\/p>\n","text":"<p>Zaznacz tekst i kliknij blok koloru w prawym dolnym rogu okna nad polem tekstowym, aby zmieni\u0107 kolor tekstu.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section7-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-change-the-text-color-288x288-20230818_2023-08-18-183725_zwyq.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Mo\u017cesz zmieni\u0107 kolor poszczeg\u00f3lnych liter, zaznaczaj\u0105c konkretn\u0105 liter\u0119 i wybieraj\u0105c kolor.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Zmie\u0144 czcionk\u0119.<\/p>\n","text":"<p>Dostosuj wygl\u0105d tekstu, wybieraj\u0105c font z menu rozwijanego \u201eCzcionka\u201d w menu po lewej stronie.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section7-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-change-the-font-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>W tym menu mo\u017cesz tak\u017ce zmieni\u0107 rozmiar tekstu, dostosowuj\u0105c pole \u201eRozmiar\u201d.<\/p>\n"},{"@type":"HowToTip","text":"<p>Mo\u017cesz zmieni\u0107 rozmiar poszczeg\u00f3lnych liter, wybieraj\u0105c liter\u0119 i zmieniaj\u0105c jej rozmiar.<\/p>\n"},{"@type":"HowToTip","text":"<p>Je\u015bli chcesz wykorzysta\u0107 konkretn\u0105 czcionk\u0119, kt\u00f3rej nie ma w GIMPie, wystarczy, \u017ce pobierzesz j\u0105 na sw\u00f3j komputer, a ta automatycznie zostanie dodana do twojej selekcji.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Wyr\u00f3wnaj nazw\u0119 firmy do ikony.<\/p>\n","text":"<p>Z panelu narz\u0119dzi w lewym g\u00f3rnym rogu wybierz narz\u0119dzie \u201ePrzesuni\u0119cie\u201d.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section7-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-position-the-business-name-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Naci\u015bnij i przesu\u0144 prostok\u0105t z tekstem, aby wyr\u00f3wna\u0107 nazw\u0119 firmy wzgl\u0119dem ikony.<\/p>\n"}]}]},{"@type":"HowToSection","position":"8","name":"<p>Stw\u00f3rz r\u00f3\u017cne wersje logo.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Wypr\u00f3buj r\u00f3\u017cne style swojego projektu.<\/p>\n","text":"<p>Gdy sko\u0144czysz ustawianie poszczeg\u00f3lnych element\u00f3w logo, mo\u017cesz zacz\u0105\u0107 bawi\u0107 si\u0119 szczeg\u00f3\u0142ami. My, na przyk\u0142ad, ukryli\u015bmy warstw\u0119 wype\u0142nienia ikony i pozostawili\u015bmy tylko \u015bcie\u017ck\u0119 obrysu.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section8-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-compare-different-styles-of-your-design-288x288-20230818_2023-08-18-193023_qrxw.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Wypr\u00f3buj r\u00f3\u017cne kolory t\u0142a, obrysy kszta\u0142t\u00f3w, czcionki i kompozycje element\u00f3w, \u017ceby udoskonali\u0107 wygl\u0105d swojego logo. Takie dzia\u0142anie pomo\u017ce ci wyobrazi\u0107 sobie wygl\u0105d kompozycji w r\u00f3\u017cnych kontekstach i u\u0142atwi ci podj\u0119cie decyzji.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Wykonaj kopi\u0119 oryginalnej \u015bcie\u017cki obrysu ikony.<\/p>\n","text":"<p>Utw\u00f3rz now\u0105 warstw\u0119 i nazwij j\u0105 \u201eObrys ikony 2\u201d.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section8-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-make-copies-of-the-original-path-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Kliknij \u201e\u015acie\u017cki\u201d nad panelem warstw, a nast\u0119pnie prawym przyciskiem myszy naci\u015bnij na warstw\u0119 \u015bcie\u017cki ikony.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Wybierz opcj\u0119 \u201eSkopiuj \u015bcie\u017ck\u0119\u201d, kliknij prawym przyciskiem myszy w polu warstw i wybierz \u201eWklej \u015bcie\u017ck\u0119\u201d \u2013 i gotowe! Teraz mo\u017cesz eksperymentowa\u0107 z nowym obrysem, wype\u0142niaj\u0105c go np. innym kolorem. Wystarczy, \u017ce powt\u00f3rzysz proces z <a href=\"#dokoncz-ikone\">kroku 6<\/a>.<\/p>\n"}]}]},{"@type":"HowToSection","position":"9","name":"<p>Zapisz logo.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Eksportuj sw\u00f3j projekt.<\/p>\n","text":"<p>Gdy b\u0119dziesz zadowolony ze swojego projektu logo, mo\u017cesz wyeksportowa\u0107 go w r\u00f3\u017cnych formatach plik\u00f3w.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section9-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-export-your-logo-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Kliknij \u201ePlik\u201d na pasku menu g\u0142\u00f3wnego i wybierz \u201eWyeksportuj jako\u2026\u201d.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Wybierz format pliku.<\/p>\n","text":"<p>W wyskakuj\u0105cym oknie rozwi\u0144 opcj\u0119 \u201eWyb\u00f3r typu pliku (Wed\u0142ug rozszerzenia)\u201d, aby wy\u015bwietli\u0107 dost\u0119pne formaty obraz\u00f3w.<\/p>\n","url":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie#jak-stworzyć-logo-w-gim-pie-section9-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-a-file-format-288x288-20230818.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Okre\u015bl nazw\u0119 pliku i folder docelowy na swoim komputerze.<\/p>\n"},{"@type":"HowToTip","text":"<p>\u201ePNG\u201d i \u201eGIF\u201d to formaty o wysokiej rozdzielczo\u015bci, dzi\u0119ki kt\u00f3rym t\u0142o twojego logo b\u0119dzie przezroczyste.<\/p>\n"},{"@type":"HowToTip","text":"<p>Format \u201eJPG\u201d zachowuje jednolite t\u0142o i wykorzystuje algorytmy do kompresji obrazu w celu uzyskania mniejszego rozmiaru pliku.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Po dostosowaniu ustawie\u0144 kliknij \u201eWyeksportuj\u201d w prawym dolnym rogu.<\/p>\n"}]}]}]}</script> <div
+class="block block-promote"><div
+class="card"><div
+class="row"><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-illustratorze">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-in-illustrator-5996x3374-20230527.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Jak zrobić logo w Illustratorze?" />
+</picture>
+</a></div><div
+class="card-body"><p
+class="card-title">
+<a
+href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-illustratorze">Jak zrobić logo w Illustratorze?</a></p><div
+class="card-text">Naucz się, jak zrobić logo w programie Adobe Illustrator.</div></div></div></div></div><div
+class="block"><h2 id=faq>FAQ:</h2><h3 id=jak-zrobic-wlasne-logo-w-gIMPie>Jak zrobić własne logo w GIMPie?</h3><p>Nasz instruktaż wyjaśni ci <a
+href="#jak-stworzyc-logo-w-gIMPie">jak wykorzystać program GIMP do zrobienia logo</a> krok po kroku, dzięki czemu z łatwością stworzysz własną estetyczną kompozycję w profesjonalnym programie graficznym GIMP. Jeśli chcesz stworzyć swoje logo szybko i za darmo, możesz także skorzystać z <a
+href="https://www.zarla.com/pl/darmowy-kreator-logo">generatora logo Zarla</a>.</p><h3 id=jak-zrobic-okragle-logo-w-gIMPie>Jak zrobić okrągłe logo w GIMPie?</h3><p>Możesz zrobić okrągłe logo w GIMPie poprzez <a
+href="#utworz-ksztalt">stworzenie podstawy projektu w kształcie koła</a>; krok ten opisujemy w naszym prostym przewodniku po projektowaniu logo w programie GIMP.</p><h3 id=jak-zrobic-fajne-logo-w-gimp>Jak zrobić fajne logo w GIMP?</h3><ol><li><a
+href="#pobierz-aplikacje">Pobierz aplikację</a>.</li><li><a
+href="#przygotuj-plik">Stwórz nowy dokument GIMPa</a>.</li><li><a
+href="#utworz-ksztalt">Utwórz kształt</a>.</li><li><a
+href="#dodaj-kolor">Dodaj kolor</a>.</li><li><a
+href="#utworz-ikone">Stwórz ikonę</a>.</li><li><a
+href="#dokoncz-ikone">Dokończ ikonę</a>.</li><li><a
+href="#dodaj-nazwe-swojej-firmy">Dodaj nazwę swojej firmy</a>.</li><li><a
+href="#stworz-rozne-wersje-logo">Stwórz różne wersje swojego projektu</a>.</li><li><a
+href="#zapisz-logo">Wyeksportuj logo</a>.</li></ol><h3 id=jak-zrobic-logo-na-youTubea-w-gimp>Jak zrobić logo na YouTube'a w GIMP?</h3><ol><li>Przeanalizuj rodzaj treści, które tworzysz i zastanów się, jakie osoby tworzą grupę docelową twoich filmików.</li><li>Zainspiruj się logo na YouTube'ie, które przyciągną twoją uwagę.</li><li>Pobierz program GIMP i postępuj zgodnie z naszym przystępnym przewodnikiem, aby stworzyć własne logo.</li><li>Udostępnij projekt rodzinie i znajomym, a następnie poproś ich o opinię.</li><li>Dopracuj projekt na podstawie uzyskanych uwag i wyeksportuj go.</li></ol><h3 id=jakiego-rozmiaru-powinno-byc-logo-tworzone-w-gIMPie>Jakiego rozmiaru powinno być logo tworzone w GIMPie?</h3><p>GIMP to aplikacja do projektowania rastrowego, czyli na bazie pikseli. Skalowanie takich obrazów powoduje niestety utratę jakości. Dlatego im większy rozmiar twojego logo, tym lepiej. Dla bezpieczeństwa sugerujemy, by projekt miał wielkość minimum 1000 x 1000 pikseli.</p><h3 id=czy-gimp-jest-dobry-do-projektowania-logo>Czy GIMP jest dobry do projektowania logo?</h3><p>Chociaż programy, które umożliwiają tworzenie plików wektorowych, takie jak <a
+href="https://www.zarla.com/pl/wskazówki/jak-zrobić-logo-w-illustratorze">Adobe Illustrator</a> są uważane za najlepsze do projektowania logo, GIMP jest doskonałą, bezpłatną alternatywą. Ponadto oprogramowanie typu open source pozwala użytkownikom dodawać nowe narzędzia i funkcje do kodu źródłowego.</p></div></div></div></div><div
+class="section-related-post"><div
+class="container"><h2 class="section-heading">Podobne Treści</h2><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-5869x3918-20230526.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Grafik tworzący logo na tablecie." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo">Jak zrobić logo?</a></h3><div
+class="card-text">Kompletny przewodnik po tworzeniu idealnego logo dla twojej firmy.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-photoshopie">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo Adobe Photoshop na ekranie komputera." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-photoshopie">Jak zrobić logo w Photoshopie?</a></h3><div
+class="card-text">Skorzystaj z naszego przewodnika i dowiedz się, jak stworzyć logo dla swojej firmy w programie Adobe Photoshop.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/rodzaje-logo">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-types-of-logos-4961x3508-2022111.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Różne rodzaje logo popularnych aplikacji na digitalowym tle." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/pl/wskaz%C3%B3wki/rodzaje-logo">7 rodzajów logo, które powinieneś znać</a></h3><div
+class="card-text">Prosty przewodnik po siedmiu typach logo, które może wykorzystać twoja firma.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-stworzy%C4%87-logo-na-youtube">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-for-youtube-4237x2830-20221120.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Mężczyzna przeglądający filmiki na YouTube&#039;ie na swoim tablecie." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-stworzy%C4%87-logo-na-youtube">Jak stworzyć logo na YouTube?</a></h3><div
+class="card-text">Doradzamy, jak stworzyć logo na własny kanał na YouTube&#039;ie.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-dla-ambitnych">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-ambitious-logos-840x640-20230417.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ambitna osoba zdobywająca górski szczyt." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-dla-ambitnych">Logo dla ambitnych</a></h3><div
+class="card-text">20 inspirujących projektów logo dla ambitnych przedsiębiorców.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie","name":"Jak zrobić logo w GIMPie? + Darmowy Kreator Logo"},"headline":"Jak zrobić logo w GIMPie? + Darmowy Kreator Logo","description":"Skorzystaj z naszego przewodnika i dowiedz się, jak stworzyć logo dla firmy w programie GIMP.","image":["https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-10-19T02:57:00-05:00","dateModified":"2024-06-17T11:30:33-05:00","author":{"@type":"Person","name":"Natalia Śmigielska","url":"https://www.zarla.com/pl/współautorzy/natalia-śmigielska"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+class="footer"><div
+class="container"><div
+class="row"><div
+class="col-md-6 col-lg-5 footer-info"><div
+class="footer-brand">
+<a
+class="footer-logo without-title" href="/pl">
+<img
+class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-group"></div>
+</a></div></div><div
+class="col-md-6 col-lg-3"><p
+class="footer-category">Język</p><ul
+class="footer-menu list-unstyled"><li><a
+href="https://www.zarla.com/guides/how-to-make-a-logo-in-gimp">English</a></li><li><a
+href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-gimp">Español</a></li><li><a
+href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-gimp">Français</a></li><li><a
+href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp">Português (Brasil)</a></li><li><a
+href="https://www.zarla.com/nl/handleidingen/hoe-maak-je-een-logo-in-gimp">Nederlands</a></li><li><a
+href="https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur">Türkçe</a></li><li
+class="current" style="color: #3041c4;">Polski</li><li><a
+href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-gimp">Bahasa Indonesia</a></li></ul></div><div
+class="col-md-6 col-lg-3 "><p
+class="footer-category">Zasoby</p><ul
+class="footer-menu list-unstyled"><li>
+<a
+href="https://www.zarla.com/pl/wskaz%C3%B3wki/projekty-logo">
+Projekty Logo
+</a></li><li>
+<a
+href="/pl">
+Kreator stron internetowych AI
+</a></li><li>
+<a
+href="https://www.zarla.com/pl/darmowy-kreator-logo">
+Darmowy kreator logo
+</a></li><li>
+<a
+href="mailto:hello%40zarla.com">
+hello@zarla.com
+</a></li><li>
+<a
+href="https://www.zarla.com/pl/regulamin">
+Regulamin
+</a></li><li>
+<a
+href="https://www.zarla.com/pl/polityka-praw-autorskich">
+Polityka Praw Autorskich
+</a></li><li>
+<a
+href="https://www.zarla.com/pl/polityka-prywatno%C5%9Bci">
+Polityka Prywatności
+</a></li></ul></div></div></div><div
+class="footer-bottom"><div
+class="container"><p
+class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
+class="cta-sticky-footer js-cta-sticky-footer">
+<a
+href="https://www.zarla.com/pl/darmowy-kreator-logo?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pl-startdesigningacustomlogo-20240613"
+class="btn btn-primary"
+>
+Zacznij projektować własne logo
+</a></div> <script async src="/scripts/custom-20240618.js"></script> <!--#minify preserve 2024-07-26T15:16:53Z--><!--#minify end preserve-->
+</body></html>

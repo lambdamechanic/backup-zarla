@@ -1,0 +1,408 @@
+<!DOCTYPE html><html
+lang="fr"><head><meta
+charset="utf-8" /> <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWG06X4WML"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-DWG06X4WML');</script> <title>Comment rendre un logo transparent ?</title><meta
+name="description" content="Apprenez à supprimer l&#039;arrière-plan d&#039;un logo et avec quels outils le faire." /><meta
+property="og:title" content="Comment rendre un logo transparent ?" /><meta
+property="og:description" content="Apprenez à supprimer l&#039;arrière-plan d&#039;un logo et avec quels outils le faire." /><link
+rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
+property="og:site_name" content="Zarla" /><meta
+property="og:url" content="https://www.zarla.com/fr/guides/comment-rendre-un-logo-transparent"><meta
+property="og:type" content="website"><meta
+property="og:locale" content="fr"><meta
+property="og:image" content="https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image:width" content='1200' /><meta
+property="og:image:height" content='630' /><meta
+property="og:image:type" content='image/jpeg' /><link
+rel="canonical" href="https://www.zarla.com/fr/guides/comment-rendre-un-logo-transparent"><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-transparent" hreflang="x-default" /><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-transparent" hreflang="en" /><link
+rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-transparente-a-un-logo" hreflang="es" /><link
+rel="alternate" href="https://www.zarla.com/it/guide/come-rendere-un-logo-trasparente" hreflang="it" /><link
+rel="alternate" href="https://www.zarla.com/fr/guides/comment-rendre-un-logo-transparent" hreflang="fr" /><link
+rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/transparentes-logo-erstellen" hreflang="de" /><link
+rel="alternate" href="https://www.zarla.com/br/guias/como-fazer-um-logotipo-transparente" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.zarla.com/nl/handleidingen/hoe-maak-je-een-logo-transparant" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.zarla.com/tr/rehberler/bir-logo-nas%C4%B1l-%C5%9Feffaf-yap%C4%B1l%C4%B1r" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.zarla.com/id/panduan/cara-membuat-logo-transparan" hreflang="id-ID" /><link
+rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
+rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
+name="viewport" content="width=device-width, initial-scale=1" /><meta
+name="format-detection" content="telephone=no" /><meta
+name="theme-color" content="#ffffff" /><link
+rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+class="guideEntries"><header
+class="header"><div
+class="container"><nav
+class="navbar navbar-expand-lg"><div
+class="navbar-brand">
+<a
+class="navbar-logo" href="/fr">
+<img
+class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+</a></div>
+<a
+href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit"
+class="btn btn-primary cta-nav
+"
+>
+Créateur de logos gratuit
+</a></nav></div><div
+class="indicator"><div
+class="indicator-position js-indicator-position"></div></div></header><main
+class="entry entry-is-guide section-guideEntries"><div
+class="section-banner"><div
+class="narrow-container"><div
+class="section-breadcrumb"><ol
+class="breadcrumb"><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/fr/guides">Guides</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/fr/guides/logos">Logos</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/fr/guides/logos/guides-pas-%C3%A0-pas">Guides pas-à-pas</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/fr/guides"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.zarla.com/fr/guides/logos"},{"@type":"ListItem","position":3,"name":"Guides pas-à-pas","item":"https://www.zarla.com/fr/guides/logos/guides-pas-%C3%A0-pas"},{"@type":"ListItem","position":4,"name":"Comment rendre un logo transparent ?","item":"https://www.zarla.com/fr/guides/comment-rendre-un-logo-transparent"}]}</script> <div
+class="card card-featured"><h1 class="card-title">
+Comment rendre un logo transparent ?</h1><div
+class="card-body"><div
+class="card-text card-text-prebyline">Apprenez à supprimer l&#039;arrière-plan d&#039;un logo et avec quels outils le faire.</div><div
+class="card-byline"><div
+class="card-byline-image">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-owen-fagundes-800x800-2024058_2024-05-08-214321_hkra.jpeg?crop=1:1,smart&width=80&dpr=2"
+width="80"
+height="80"
+alt="Owen Fagundes"
+/></div><div
+class="card-byline-details">
+<span>Par <a
+class="card-byline-author" href="https://www.zarla.com/fr/contributeurs/owen-fagundes">Owen Fagundes</a>,</span>
+<span
+class="card-byline-date">17 juin 2024</span><div
+class="card-byline-bio">
+Owen Fagundes est responsable de la création et de la traduction de contenu en français pour Zarla depuis décembre 2020.</div></div></div></div><div
+class="card-image-holder"><div
+class="card-preview">
+<picture>
+<source
+srcset="https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=2:1,smart&width=372&dpr=2 2x"
+media="(max-width: 412px)"
+/>
+<source
+srcset="https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=2:1,smart&width=535&dpr=2 2x"
+media="(max-width: 575px)"
+/>
+<source
+srcset="https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=2:1,smart&width=727&dpr=2 2x"
+media="(max-width: 767px)"
+/>
+<img
+class="card-pic"
+srcset="https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=2:1,smart&width=730"
+width="730"
+height="365"
+alt="Un logo en train d&#039;être rendu transparent."
+/>
+</picture></div></div><div
+class="block-intro-text"><p>Un logo transparent est plus versatile qu'un logo avec un fond de couleur, pouvant ainsi être utilisé presque partout. Il y a de nombreuses façons de créer un logo transparent, plusieurs desquelles requièrent un logiciel et du savoir-faire. Cependant, il existe aussi des outils en ligne gratuits pour rendre l'arrière-plan d'un logo transparent.</p><p>Nous en avons testé plusieurs afin de découvrir lesquels offrent la manière la plus simple et la plus rapide pour rendre un logo transparent. Nous en avons conclu qu'il n'y a rien de plus facile et simple d'utilisation que remove.bg. Ci-dessous vous trouverez un guide sur comment l'utiliser pour supprimer gratuitement le fond d'un logo vous-même.</p></div></div></div></div><div
+class="section-content"><div
+class="container"><div
+class="narrow-container"><div
+class="block block-how-to"><h2 id=comment-rendre-un-logo-transparent-sur-remove-bg>Comment rendre un logo transparent sur remove.bg :</h2><div
+class="how-to-info"><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px">
+<g>
+<path
+d="M376,151c-39.185,0-136-5.486-136-45v60c0,42.9,113.5,45,136,45s136-2.1,136-45v-60C512,145.514,415.185,151,376,151z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,31c-22.544,0-136,2.168-136,45c0,42.832,113.456,45,136,45s136-2.168,136-45C512,33.168,398.544,31,376,31z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,241c-39.185,0-136-5.486-136-45v22.82c23.293,19.265,41.085,44.854,51.053,74.037    C323.956,300.324,363.763,301,376,301c22.5,0,136-2.1,136-45v-60C512,235.514,415.185,241,376,241z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,331c-11.353,0-46.491-0.524-77.571-6.539C299.357,331.529,300,338.683,300,346c0,13.026-1.675,25.644-4.543,37.808    C327.343,390.376,364.307,391,376,391c22.5,0,136-2.1,136-45v-60C512,325.514,415.185,331,376,331z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,421c-12.87,0-55.932-0.738-89.713-9.333c-7.679,17.622-18.402,33.582-31.419,47.375    C286.104,479.643,358.543,481,376,481c22.5,0,136-2.1,136-45v-60C512,415.514,415.185,421,376,421z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M135,211C60.557,211,0,271.557,0,346s60.557,135,135,135s135-60.557,135-135S209.443,211,135,211z M150.396,418.29    c-0.13,0.048-0.266,0.026-0.396,0.071V436c0,8.291-6.709,15-15,15s-15-6.709-15-15v-17.741    c-9.879-3.338-19.345-9.672-27.437-19.319c-5.332-6.343-4.512-15.806,1.846-21.123c6.343-5.317,15.835-4.482,21.123,1.846    c7.939,9.434,16.963,13.242,24.595,10.444C146.03,387.953,150,382.284,150,376c0-8.276-6.724-15-15-15c-24.814,0-45-20.186-45-45    c0-17.686,9.998-34.92,30-42.085V256c0-8.291,6.709-15,15-15s15,6.709,15,15v17.941c7.771,2.626,15.348,6.799,22.104,13.348    c5.947,5.757,6.094,15.249,0.322,21.211c-5.742,5.947-15.264,6.079-21.211,0.322c-7.295-7.061-15.352-9.492-22.046-6.65    C123.604,304.53,120,309.95,120,316c0,8.276,6.724,15,15,15c24.814,0,45,20.186,45,45C180,394.853,168.105,411.845,150.396,418.29    z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+</svg>
+</span>
+$0.00 USD</div><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" height="512px" viewBox="0 0 512 512" width="512px"><g><path
+d="m256 0c-141.164062 0-256 114.835938-256 256s114.835938 256 256 256 256-114.835938 256-256-114.835938-256-256-256zm121.75 388.414062c-4.160156 4.160157-9.621094 6.253907-15.082031 6.253907-5.460938 0-10.925781-2.09375-15.082031-6.253907l-106.667969-106.664062c-4.011719-3.988281-6.25-9.410156-6.25-15.082031v-138.667969c0-11.796875 9.554687-21.332031 21.332031-21.332031s21.332031 9.535156 21.332031 21.332031v129.835938l100.417969 100.414062c8.339844 8.34375 8.339844 21.824219 0 30.164062zm0 0" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C3"/></g> </svg>
+</span>
+5 Minutes</div></div><div
+class="how-to-desc"><div
+class="how-to-image">
+<picture>
+<img
+data-src="https://www.zarla.com/images/zarla-comment-rendre-un-logo-transparent-800x800-20211020.jpeg?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Comment rendre un logo transparent sur remove.bg :">
+</picture></div><p>Quatre pas simples pour rendre un logo transparent.</p></div><div
+id="comment-rendre-un-logo-transparent-sur-remove-bg-section1" class="how-to-section"><div
+class="section-title">
+<span>1.&nbsp;</span><h3 id=supprimer-le-fond-d-039-un-logo-avec-remove-bg>Supprimer le fond d&#039;un logo avec remove.bg</h3></div><div
+id="comment-rendre-un-logo-transparent-sur-remove-bg-section1-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.1&nbsp;</span><h4 id=rendez-vous-sur-remove-bg>Rendez-vous sur remove.bg</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-comment-rendre-un-logo-transparent-rendez-vous-sur-remove-bg-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Rendez-vous sur remove.bg"></div></div><p>Allez sur la <a
+href="https://www.remove.bg/fr">page d'accueil de remove.bg</a>.</p></div></div><div
+id="comment-rendre-un-logo-transparent-sur-remove-bg-section1-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.2&nbsp;</span><h4 id=telechargez-votre-logo>Téléchargez votre logo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-comment-rendre-un-logo-transparent-t%C3%A9l%C3%A9chargez-votre-logo-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Téléchargez votre logo."></div></div><p>Cliquez sur "Téléchargez une image" ou faites glisser et déposez le fichier de votre ordinateur contenant votre logo dans la zone à côté de la flèche bleue.</p></div></div><div
+id="comment-rendre-un-logo-transparent-sur-remove-bg-section1-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.3&nbsp;</span><h4 id=attendez-que-remove-bg-supprime-l-039-arriere-plan-de-votre-logo>Attendez que remove.bg supprime l&#039;arrière-plan de votre logo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-comment-rendre-un-logo-transparent-attendez-que-removebg-supprime-l-arri%C3%A8re-plan-de-votre-logo-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Attendez que remove.bg supprime l&#039;arrière-plan de votre logo."></div></div><p>Le programme élimine le fond automatiquement. En un rien de temps, votre logo apparaîtra avec un fond transparent.</p></div></div><div
+id="comment-rendre-un-logo-transparent-sur-remove-bg-section1-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.4&nbsp;</span><h4 id=faites-les-dernieres-modifications>Faites les dernières modifications</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-comment-rendre-un-logo-transparent-faites-les-derni%C3%A8res-modifications-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Faites les dernières modifications"></div></div><p>Faites clic sur "Modifier" puis sur l'onglet "EFFACER/RESTAURER". Utilisez cet outil pour supprimer les fragments restants du fond qui sont encore visibles.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Lorsque vous êtes prêt·e, cliquez sur "Télécharger"</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Faites clic sur "Télécharger une image"</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"http://schema.org","@type":"HowTo","name":"Comment rendre un logo transparent sur remove.bg ","description":"<p>Quatre pas simples pour rendre un logo transparent.<\/p>\n","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-comment-rendre-un-logo-transparent-800x800-20211020.jpeg?crop=1:1,smart&width=250&dpr=2","height":"800","width":"800"},"estimatedCost":{"@type":"MonetaryAmount","currency":"USD","value":"0.00"},"totalTime":"PT5M","step":[{"@type":"HowToSection","position":"1","name":"<p>Supprimer le fond d'un logo avec remove.bg<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Rendez-vous sur remove.bg<\/p>\n","text":"<p>Allez sur la <a href=\"https:\/\/www.remove.bg\/fr\">page d'accueil de remove.bg<\/a>.<\/p>\n","url":"https://www.zarla.com/fr/guides/comment-rendre-un-logo-transparent#comment-rendre-un-logo-transparent-sur-remove-bg-section1-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-comment-rendre-un-logo-transparent-rendez-vous-sur-remove-bg-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>T\u00e9l\u00e9chargez votre logo.<\/p>\n","text":"<p>Cliquez sur \"T\u00e9l\u00e9chargez une image\" ou faites glisser et d\u00e9posez le fichier de votre ordinateur contenant votre logo dans la zone \u00e0 c\u00f4t\u00e9 de la fl\u00e8che bleue.<\/p>\n","url":"https://www.zarla.com/fr/guides/comment-rendre-un-logo-transparent#comment-rendre-un-logo-transparent-sur-remove-bg-section1-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-comment-rendre-un-logo-transparent-t%C3%A9l%C3%A9chargez-votre-logo-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>Attendez que remove.bg supprime l'arri\u00e8re-plan de votre logo.<\/p>\n","text":"<p>Le programme \u00e9limine le fond automatiquement. En un rien de temps, votre logo appara\u00eetra avec un fond transparent.<\/p>\n","url":"https://www.zarla.com/fr/guides/comment-rendre-un-logo-transparent#comment-rendre-un-logo-transparent-sur-remove-bg-section1-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-comment-rendre-un-logo-transparent-attendez-que-removebg-supprime-l-arri%C3%A8re-plan-de-votre-logo-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"4","name":"<p>Faites les derni\u00e8res modifications<\/p>\n","text":"<p>Faites clic sur \"Modifier\" puis sur l'onglet \"EFFACER\/RESTAURER\". Utilisez cet outil pour supprimer les fragments restants du fond qui sont encore visibles.<\/p>\n","url":"https://www.zarla.com/fr/guides/comment-rendre-un-logo-transparent#comment-rendre-un-logo-transparent-sur-remove-bg-section1-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-comment-rendre-un-logo-transparent-faites-les-derni%C3%A8res-modifications-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Lorsque vous \u00eates pr\u00eat\u00b7e, cliquez sur \"T\u00e9l\u00e9charger\"<\/p>\n"},{"@type":"HowToDirection","text":"<p>Faites clic sur \"T\u00e9l\u00e9charger une image\"<\/p>\n"}]}]}]}</script> <div
+class="block"><h2 id=autres-outils-en-ligne-pour-rendre-les-logos-transparents>Autres outils en ligne pour rendre les logos transparents :</h2><ul><li><a
+href="https://www12.lunapic.com/editor/">Lunapic</a> : Un outil en ligne qui peut être utilisé gratuitement pour modifier des images.</li><li><a
+href="https://snappa.com">Snappa</a> : Un outil pratique pour créer facilement des graphiques pour toute une série d'utilisations.</li><li><a
+href="https://pixlr.com/fr/">PIXLR</a> : Un outil de retouche photo en ligne gratuit qui peut être utilisé pour modifier des photos et créer des designs dans votre navigateur.</li><li><a
+href="https://www.adobe.com/fr/express/feature/image/remove-background/transparent">Adobe Spark</a> : Un créateur d'arrière-plans transparents en ligne gratuit géré par Adobe.</li><li><a
+href="https://www.photopea.com/fr">Photopea</a> : Un éditeur de photos de pointe très similaire à Adobe Photoshop.</li></ul></div><div
+class="block block-promote"><div
+class="card"><div
+class="row"><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-photoshop">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Comment créer un logo avec Photoshop ?" />
+</picture>
+</a></div><div
+class="card-body"><p
+class="card-title">
+<a
+href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-photoshop">Comment créer un logo avec Photoshop ?</a></p><div
+class="card-text">Apprenez à créer un logo d&#039;entreprise sur Adobe Photoshop avec notre guide pas à pas.</div></div></div></div></div></div></div></div><div
+class="section-faq"><div
+class="container"><h2 id=fAQs class="section-heading">FAQs :</h2><div
+class="row"><div
+class="col-12 faq-item"><h3 id=comment-faire-un-logo-sur-fond-transparent class="question">Comment faire un logo sur fond transparent ?</h3><div
+class="answer"><ol><li><a
+href="#rendez-vous-sur-remove-bg">Allez sur remove.bg</a>.</li><li><a
+href="#telechargez-votre-logo">Téléchargez votre logo</a>.</li><li><a
+href="#attendez-que-remove-bg-supprime-l-039-arriere-plan-de-votre-logo">Attendez que le programme supprime l'arrière-plan</a>.</li><li><a
+href="#faites-les-dernieres-modifications">Effectuez les dernières modifications et téléchargez votre logo</a>.</li></ol></div></div><div
+class="col-12 faq-item"><h3 id=comment-rendre-un-logo-transparent-en-ligne-et-gratuitement class="question">Comment rendre un logo transparent en ligne et gratuitement ?</h3><div
+class="answer"><p>Il existe de nombreux <a
+href="#autres-outils-en-ligne-pour-rendre-les-logos-transparents">outils en ligne gratuits</a> que vous pouvez utiliser pour rendre vos logos transparents, notamment remove.bg, Snappa et Lunapic.</p></div></div><div
+class="col-12 faq-item"><h3 id=comment-enlever-le-fond-blanc-d-039-un-logo class="question">Comment enlever le fond blanc d&#039;un logo ?</h3><div
+class="answer"><p>Téléchargez votre logo sur remove.bg et il supprimera automatiquement le fond blanc. Vous pouvez ensuite éliminer tous les morceaux de blanc restants et cliquer sur "Télécharger".</p></div></div><div
+class="col-12 faq-item"><h3 id=quelles-applications-puis-je-utiliser-pour-rendre-un-logo-transparent class="question">Quelles applications puis-je utiliser pour rendre un logo transparent ?</h3><div
+class="answer"><ul><li><a
+href="https://www.remove.bg/fr">remove.bg</a>.</li><li><a
+href="https://www12.lunapic.com/editor/">Lunapic</a>.</li><li><a
+href="https://snappa.com">Snappa</a>.</li><li><a
+href="https://pixlr.com/fr/">PIXLR</a>.</li><li><a
+href="https://www.adobe.com/fr/express/feature/image/remove-background/transparent">Adobe Spark</a>.</li><li><a
+href="https://www.photopea.com/fr">Photopea</a>.</li></ul></div></div><div
+class="col-12 faq-item"><h3 id=comment-rendre-un-logo-transparent-sans-photoshop class="question">Comment rendre un logo transparent sans Photoshop ?</h3><div
+class="answer"><p>Vous pouvez utiliser Adobe Illustrator et Microsoft Office, ainsi que des outils en ligne tels que Snappa, PIXLR, Lunapic et remove.bg.</p></div></div><div
+class="col-12 faq-item"><h3 id=comment-rendre-un-logo-transparent-avec-powerPoint class="question">Comment rendre un logo transparent avec PowerPoint ?</h3><div
+class="answer"><ol><li>Ouvrez PowerPoint.</li><li>Créez une présentation vierge.</li><li>Faites glisser et déposez votre logo sur la présentation vierge.</li><li>Cliquez sur "Supprimer l'arrière-plan".</li><li>Cliquez sur "Conserver les modifications".</li><li>Faites un clic droit sur l'image et cliquez sur "Enregistrer comme image".</li></ol></div></div><div
+class="col-12 faq-item"><h3 id=comment-rendre-un-logo-transparent-avec-word class="question">Comment rendre un logo transparent avec Word ?</h3><div
+class="answer"><ol><li>Ouvrez Word.</li><li>Créez un nouveau document.</li><li>Cliquez sur "Insertion", puis sur "Images".</li><li>Cliquez sur "Cet appareil..."</li><li>Sélectionnez votre logo et cliquez sur "Insérer".</li><li>Une fois l'image chargée, cliquez sur "Supprimer l'arrière-plan".</li><li>Cliquez sur "Conserver les modifications".</li><li>Faites un clic droit sur l'image et cliquez sur "Enregistrer comme image".</li></ol></div></div><div
+class="col-12 faq-item"><h3 id=comment-rendre-un-logo-transparent-avec-paint class="question">Comment rendre un logo transparent avec Paint?</h3><div
+class="answer"><ol><li>Ouvrez Paint.</li><li>Cliquez sur "Fichier", puis sur "Ouvrir".</li><li>Sélectionnez le logo, puis cliquez sur "Ouvrir".</li><li>Cliquez sur "Sélectionner", puis sur "Sélection transparente".</li><li>Cliquez à nouveau sur "Sélectionner", puis sur "Sélection de forme libre".</li><li>En maintenant appuyé le bouton gauche de votre souris, tracez soigneusement le contour de votre logo.</li><li>Cliquez avec le bouton droit de la souris sur votre logo.</li><li>Cliquez sur "Couper".</li><li>Cliquez sur "Fichier", puis "Nouveau".</li><li>Collez votre logo en utilisant Ctrl+V.</li></ol></div></div><div
+class="col-12 faq-item"><h3 id=comment-rendre-un-logo-transparent-avec-canva class="question">Comment rendre un logo transparent avec Canva ?</h3><div
+class="answer"><ol><li>Connectez-vous à votre compte Canva.</li><li>Cliquez sur "Créer un design".</li><li>Sélectionnez "Logo".</li><li>Cliquez sur "Impoter", puis sur "Importer des médias".</li><li>Cliquez sur "Dispositif".</li><li>Sélectionnez votre logo et cliquez sur "Ouvrir".</li><li>Cliquez sur l'image dans la barre latérale.</li><li>Cliquez sur "Suppression de l'arrière-plan".</li></ol></div></div><div
+class="col-12 faq-item"><h3 id=comment-rendre-un-logo-transparent-avec-photoshop class="question">Comment rendre un logo transparent avec Photoshop ?</h3><div
+class="answer"><ol><li>Ouvrez votre logo dans Photoshop.</li><li>Cliquez sur la baguette magique dans la barre d'outils.</li><li>Sélectionnez l'outil de "Sélection rapide".</li><li>Faites glisser l'outil de Sélection rapide sur l'arrière-plan en veillant à éviter votre logo.</li><li>Cliquez sur la gomme dans votre barre d'outils.</li><li>Sélectionnez l'outil "Gomme".</li><li>Cliquez n'importe où à côté du logo pour rendre l'arrière-plan transparent.</li><li>Appuyez sur Ctrl+D.</li><li>Cliquez sur "Fichier", et cliquez sur "Enregistrer sous".</li><li>Sélectionnez "PNG" comme format.</li></ol></div></div><div
+class="col-12 faq-item"><h3 id=comment-rendre-un-logo-transparent-avec-illustrator class="question">Comment rendre un logo transparent avec Illustrator ?</h3><div
+class="answer"><ol><li>Faites glisser votre logo sur un plan de travail dans Illustrator.</li><li>Sélectionnez "Fenêtre", puis "Vectorisation de l'image" pour convertir votre logo en une image vectorielle.</li><li>Une fois que le panneau "Vectorisation de l'image" s'est ouvert, sélectionnez l'image du logo.</li><li>Choisissez le paramètre prédéfini et le mode les plus appropriés.</li><li>Si vous avez un fond blanc, cliquez simplement sur "Ignorer le blanc".</li><li>Cliquez sur "Décomposer" pour révéler les points d'ancrage de l'image.</li><li>Sélectionnez l'outil Baguette magique, sélectionnez la zone que vous souhaitez supprimer, puis appuyez sur "suppr" sur votre clavier.</li><li>Enregistrez l'image au format PNG ou SVG.</li></ol></div></div><div
+class="col-12 faq-item"><h3 id=qu-039-est-ce-qu-039-un-logo-transparent class="question">Qu&#039;est-ce qu&#039;un logo transparent ?</h3><div
+class="answer"><p>Un logo transparent est un logo sans arrière-plan. Le fichier du logo aura souvent ".png" ou ".svg" comme extension.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Comment faire un logo sur fond transparent ?","acceptedAnswer":{"@type":"Answer","text":"<ol>\n<li><a href=\"#rendez-vous-sur-remove-bg\">Allez sur remove.bg<\/a>.<\/li>\n<li><a href=\"#telechargez-votre-logo\">T\u00e9l\u00e9chargez votre logo<\/a>.<\/li>\n<li><a href=\"#attendez-que-remove-bg-supprime-l-039-arriere-plan-de-votre-logo\">Attendez que le programme supprime l'arri\u00e8re-plan<\/a>.<\/li>\n<li><a href=\"#faites-les-dernieres-modifications\">Effectuez les derni\u00e8res modifications et t\u00e9l\u00e9chargez votre logo<\/a>.<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Comment rendre un logo transparent en ligne et gratuitement ?","acceptedAnswer":{"@type":"Answer","text":"<p>Il existe de nombreux <a href=\"#autres-outils-en-ligne-pour-rendre-les-logos-transparents\">outils en ligne gratuits<\/a> que vous pouvez utiliser pour rendre vos logos transparents, notamment remove.bg, Snappa et Lunapic.<\/p>\n"}},{"@type":"Question","name":"Comment enlever le fond blanc d&#039;un logo ?","acceptedAnswer":{"@type":"Answer","text":"<p>T\u00e9l\u00e9chargez votre logo sur remove.bg et il supprimera automatiquement le fond blanc. Vous pouvez ensuite \u00e9liminer tous les morceaux de blanc restants et cliquer sur \"T\u00e9l\u00e9charger\".<\/p>\n"}},{"@type":"Question","name":"Quelles applications puis-je utiliser pour rendre un logo transparent ?","acceptedAnswer":{"@type":"Answer","text":"<ul>\n<li><a href=\"https:\/\/www.remove.bg\/fr\">remove.bg<\/a>.<\/li>\n<li><a href=\"https:\/\/www12.lunapic.com\/editor\/\">Lunapic<\/a>.<\/li>\n<li><a href=\"https:\/\/snappa.com\">Snappa<\/a>.<\/li>\n<li><a href=\"https:\/\/pixlr.com\/fr\/\">PIXLR<\/a>.<\/li>\n<li><a href=\"https:\/\/www.adobe.com\/fr\/express\/feature\/image\/remove-background\/transparent\">Adobe Spark<\/a>.<\/li>\n<li><a href=\"https:\/\/www.photopea.com\/fr\">Photopea<\/a>.<\/li>\n<\/ul>\n"}},{"@type":"Question","name":"Comment rendre un logo transparent sans Photoshop ?","acceptedAnswer":{"@type":"Answer","text":"<p>Vous pouvez utiliser Adobe Illustrator et Microsoft Office, ainsi que des outils en ligne tels que Snappa, PIXLR, Lunapic et remove.bg.<\/p>\n"}},{"@type":"Question","name":"Comment rendre un logo transparent avec PowerPoint ?","acceptedAnswer":{"@type":"Answer","text":"<ol>\n<li>Ouvrez PowerPoint.<\/li>\n<li>Cr\u00e9ez une pr\u00e9sentation vierge.<\/li>\n<li>Faites glisser et d\u00e9posez votre logo sur la pr\u00e9sentation vierge.<\/li>\n<li>Cliquez sur \"Supprimer l'arri\u00e8re-plan\".<\/li>\n<li>Cliquez sur \"Conserver les modifications\".<\/li>\n<li>Faites un clic droit sur l'image et cliquez sur \"Enregistrer comme image\".<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Comment rendre un logo transparent avec Word ?","acceptedAnswer":{"@type":"Answer","text":"<ol>\n<li>Ouvrez Word.<\/li>\n<li>Cr\u00e9ez un nouveau document.<\/li>\n<li>Cliquez sur \"Insertion\", puis sur \"Images\".<\/li>\n<li>Cliquez sur \"Cet appareil...\"<\/li>\n<li>S\u00e9lectionnez votre logo et cliquez sur \"Ins\u00e9rer\".<\/li>\n<li>Une fois l'image charg\u00e9e, cliquez sur \"Supprimer l'arri\u00e8re-plan\".<\/li>\n<li>Cliquez sur \"Conserver les modifications\".<\/li>\n<li>Faites un clic droit sur l'image et cliquez sur \"Enregistrer comme image\".<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Comment rendre un logo transparent avec Paint?","acceptedAnswer":{"@type":"Answer","text":"<ol>\n<li>Ouvrez Paint.<\/li>\n<li>Cliquez sur \"Fichier\", puis sur \"Ouvrir\".<\/li>\n<li>S\u00e9lectionnez le logo, puis cliquez sur \"Ouvrir\".<\/li>\n<li>Cliquez sur \"S\u00e9lectionner\", puis sur \"S\u00e9lection transparente\".<\/li>\n<li>Cliquez \u00e0 nouveau sur \"S\u00e9lectionner\", puis sur \"S\u00e9lection de forme libre\".<\/li>\n<li>En maintenant appuy\u00e9 le bouton gauche de votre souris, tracez soigneusement le contour de votre logo.<\/li>\n<li>Cliquez avec le bouton droit de la souris sur votre logo.<\/li>\n<li>Cliquez sur \"Couper\".<\/li>\n<li>Cliquez sur \"Fichier\", puis \"Nouveau\".<\/li>\n<li>Collez votre logo en utilisant Ctrl+V.<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Comment rendre un logo transparent avec Canva ?","acceptedAnswer":{"@type":"Answer","text":"<ol>\n<li>Connectez-vous \u00e0 votre compte Canva.<\/li>\n<li>Cliquez sur \"Cr\u00e9er un design\".<\/li>\n<li>S\u00e9lectionnez \"Logo\".<\/li>\n<li>Cliquez sur \"Impoter\", puis sur \"Importer des m\u00e9dias\".<\/li>\n<li>Cliquez sur \"Dispositif\".<\/li>\n<li>S\u00e9lectionnez votre logo et cliquez sur \"Ouvrir\".<\/li>\n<li>Cliquez sur l'image dans la barre lat\u00e9rale.<\/li>\n<li>Cliquez sur \"Suppression de l'arri\u00e8re-plan\".<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Comment rendre un logo transparent avec Photoshop ?","acceptedAnswer":{"@type":"Answer","text":"<ol>\n<li>Ouvrez votre logo dans Photoshop.<\/li>\n<li>Cliquez sur la baguette magique dans la barre d'outils.<\/li>\n<li>S\u00e9lectionnez l'outil de \"S\u00e9lection rapide\".<\/li>\n<li>Faites glisser l'outil de S\u00e9lection rapide sur l'arri\u00e8re-plan en veillant \u00e0 \u00e9viter votre logo.<\/li>\n<li>Cliquez sur la gomme dans votre barre d'outils.<\/li>\n<li>S\u00e9lectionnez l'outil \"Gomme\".<\/li>\n<li>Cliquez n'importe o\u00f9 \u00e0 c\u00f4t\u00e9 du logo pour rendre l'arri\u00e8re-plan transparent.<\/li>\n<li>Appuyez sur Ctrl+D.<\/li>\n<li>Cliquez sur \"Fichier\", et cliquez sur \"Enregistrer sous\".<\/li>\n<li>S\u00e9lectionnez \"PNG\" comme format.<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Comment rendre un logo transparent avec Illustrator ?","acceptedAnswer":{"@type":"Answer","text":"<ol>\n<li>Faites glisser votre logo sur un plan de travail dans Illustrator.<\/li>\n<li>S\u00e9lectionnez \"Fen\u00eatre\", puis \"Vectorisation de l'image\" pour convertir votre logo en une image vectorielle.<\/li>\n<li>Une fois que le panneau \"Vectorisation de l'image\" s'est ouvert, s\u00e9lectionnez l'image du logo.<\/li>\n<li>Choisissez le param\u00e8tre pr\u00e9d\u00e9fini et le mode les plus appropri\u00e9s.<\/li>\n<li>Si vous avez un fond blanc, cliquez simplement sur \"Ignorer le blanc\".<\/li>\n<li>Cliquez sur \"D\u00e9composer\" pour r\u00e9v\u00e9ler les points d'ancrage de l'image.<\/li>\n<li>S\u00e9lectionnez l'outil Baguette magique, s\u00e9lectionnez la zone que vous souhaitez supprimer, puis appuyez sur \"suppr\" sur votre clavier.<\/li>\n<li>Enregistrez l'image au format PNG ou SVG.<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Qu&#039;est-ce qu&#039;un logo transparent ?","acceptedAnswer":{"@type":"Answer","text":"<p>Un logo transparent est un logo sans arri\u00e8re-plan. Le fichier du logo aura souvent \".png\" ou \".svg\" comme extension.<\/p>\n"}}]}</script> <div
+class="section-related-post"><div
+class="container"><h2 class="section-heading">Articles Liés</h2><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/fr/guides/logos-graphisme">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-graphic-logos-4819x3213-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Graphiste travaillant sur un projet dans une entreprise de design graphique." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/fr/guides/logos-graphisme">Logos de graphisme</a></h3><div
+class="card-text">10 suggestions inventives de logos pour votre agence de design graphique.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-marketing">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-marketing-logos-5472x3575-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un texte de marketing en ligne sur une tablette dans une entreprise de marketing." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/fr/guides/logos-de-marketing">Logos de marketing</a></h3><div
+class="card-text">10 superbes idées de logos pour votre agence de marketing.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-webdesign">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-web-design-logos-6000x4000-2021023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une personne travaillant sur une nouvelle conception de site Web." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/fr/guides/logos-de-webdesign">Logos de webdesign</a></h3><div
+class="card-text">10 excellentes suggestions de logos pour votre entreprise de webdesign.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/fr/guides/formats-logo">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logo-file-types-2500x2500-20210816.png?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo file types over a backdrop of various logos." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/fr/guides/formats-logo">Les différents formats de logos et quand les utiliser</a></h3><div
+class="card-text">Un guide sur les 6 types de formats de fichiers graphiques et lequel utiliser pour votre logo.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/fr/guides/types-de-logos">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-types-of-logos-4955x3504-20210827.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Types de logos pour les applications mobiles et les réseaux sociaux." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/fr/guides/types-de-logos">Les 8 types de logos à connaître</a></h3><div
+class="card-text">Un guide détaillé sur les 8 types de logos qu&#039;une entreprise peut utiliser.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/fr/guides/comment-rendre-un-logo-transparent","name":"Comment rendre un logo transparent ?"},"headline":"Comment rendre un logo transparent ?","description":"Apprenez à supprimer l&#039;arrière-plan d&#039;un logo et avec quels outils le faire.","image":["https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-08-17T07:44:00-05:00","dateModified":"2024-06-17T11:32:09-05:00","author":{"@type":"Person","name":"Owen Fagundes","url":"https://www.zarla.com/fr/contributeurs/owen-fagundes"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+class="footer"><div
+class="container"><div
+class="row"><div
+class="col-md-6 col-lg-5 footer-info"><div
+class="footer-brand">
+<a
+class="footer-logo without-title" href="/fr">
+<img
+class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-group"></div>
+</a></div></div><div
+class="col-md-6 col-lg-3"><p
+class="footer-category">Langue</p><ul
+class="footer-menu list-unstyled"><li><a
+href="https://www.zarla.com/guides/how-to-make-a-logo-transparent">English</a></li><li><a
+href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-transparente-a-un-logo">Español</a></li><li><a
+href="https://www.zarla.com/it/guide/come-rendere-un-logo-trasparente">Italiano</a></li><li
+class="current" style="color: #3041c4;">Français</li><li><a
+href="https://www.zarla.com/de/leitf%C3%A4den/transparentes-logo-erstellen">Deutsch</a></li><li><a
+href="https://www.zarla.com/br/guias/como-fazer-um-logotipo-transparente">Português (Brasil)</a></li><li><a
+href="https://www.zarla.com/nl/handleidingen/hoe-maak-je-een-logo-transparant">Nederlands</a></li><li><a
+href="https://www.zarla.com/tr/rehberler/bir-logo-nas%C4%B1l-%C5%9Feffaf-yap%C4%B1l%C4%B1r">Türkçe</a></li><li><a
+href="https://www.zarla.com/id/panduan/cara-membuat-logo-transparan">Bahasa Indonesia</a></li></ul></div><div
+class="col-md-6 col-lg-3 "><p
+class="footer-category">Ressources</p><ul
+class="footer-menu list-unstyled"><li>
+<a
+href="https://www.zarla.com/fr/guides/id%C3%A9es-de-logo">
+Idées de logo
+</a></li><li>
+<a
+href="/fr">
+Créateur de sites web par IA
+</a></li><li>
+<a
+href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit">
+Créateur de logos gratuit
+</a></li><li>
+<a
+href="mailto:hello%40zarla.com">
+hello@zarla.com
+</a></li><li>
+<a
+href="https://www.zarla.com/fr/conditions-dutilisation">
+Conditions d&#039;utilisation
+</a></li><li>
+<a
+href="https://www.zarla.com/fr/politique-droits-dauteur">
+Politique de droits d&#039;auteur
+</a></li><li>
+<a
+href="https://www.zarla.com/fr/politique-confidentialit%C3%A9">
+Politique de confidentialité
+</a></li></ul></div></div></div><div
+class="footer-bottom"><div
+class="container"><p
+class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
+class="cta-sticky-footer js-cta-sticky-footer">
+<a
+href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=fr-startdesigningacustomlogo-20240613"
+class="btn btn-primary"
+>
+Commencez à concevoir un logo personnalisé
+</a></div> <script async src="/scripts/custom-20240618.js"></script> <!--#minify preserve 2024-07-26T15:16:53Z--><!--#minify end preserve-->
+</body></html>

@@ -1,0 +1,1203 @@
+<!DOCTYPE html><html
+lang="en"><head><meta
+charset="utf-8" /> <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWG06X4WML"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-DWG06X4WML');</script> <title>How to Make a Logo in Photoshop</title><meta
+name="description" content="Learn how to create a business logo in Photoshop with our step-by-step guide." /><meta
+property="og:title" content="How to Make a Logo in Photoshop" /><meta
+property="og:description" content="Learn how to create a business logo in Photoshop with our step-by-step guide." /><link
+rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
+property="og:site_name" content="Zarla" /><meta
+property="og:url" content="https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop"><meta
+property="og:type" content="website"><meta
+property="og:locale" content="en"><meta
+property="og:image" content="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image:width" content='1200' /><meta
+property="og:image:height" content='630' /><meta
+property="og:image:type" content='image/jpeg' /><link
+rel="canonical" href="https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop"><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop" hreflang="x-default" /><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop" hreflang="en" /><link
+rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-photoshop" hreflang="es" /><link
+rel="alternate" href="https://www.zarla.com/it/guide/come-creare-un-logo-su-photoshop" hreflang="it" /><link
+rel="alternate" href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-photoshop" hreflang="fr" /><link
+rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/logo-erstellen-in-photoshop" hreflang="de" /><link
+rel="alternate" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-photoshop" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.zarla.com/tr/rehberler/photoshopta-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-photoshopie" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-photoshop" hreflang="id-ID" /><link
+rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
+rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
+name="viewport" content="width=device-width, initial-scale=1" /><meta
+name="format-detection" content="telephone=no" /><meta
+name="theme-color" content="#ffffff" /><link
+rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+class="guideEntries"><header
+class="header"><div
+class="container"><nav
+class="navbar navbar-expand-lg"><div
+class="navbar-brand">
+<a
+class="navbar-logo" href="/">
+<img
+class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+</a></div>
+<a
+href="https://www.zarla.com/free-logo-maker"
+class="btn btn-primary cta-nav
+"
+>
+Free Logo Maker
+</a></nav></div><div
+class="indicator"><div
+class="indicator-position js-indicator-position"></div></div></header><main
+class="entry entry-is-guide section-guideEntries"><div
+class="section-banner"><div
+class="narrow-container"><div
+class="section-breadcrumb"><ol
+class="breadcrumb"><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/guides">Guides</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/guides/logos">Logos</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/guides/logos/how-to">How To</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/guides"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.zarla.com/guides/logos"},{"@type":"ListItem","position":3,"name":"How To","item":"https://www.zarla.com/guides/logos/how-to"},{"@type":"ListItem","position":4,"name":"How to Make a Logo in Photoshop","item":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop"}]}</script> <div
+class="card card-featured"><h1 class="card-title">
+How to Make a Logo in Photoshop</h1><div
+class="card-body"><div
+class="card-text card-text-prebyline">Learn how to create a business logo in Photoshop with our step-by-step guide.</div><div
+class="card-byline"><div
+class="card-byline-image">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-toni-ross-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+width="80"
+height="80"
+alt="Profile photo of Toni Ross — Senior Editor of Zarla"
+/></div><div
+class="card-byline-details">
+<span>By <a
+class="card-byline-author" href="https://www.zarla.com/contributors/toni-ross">Toni Ross</a>,</span>
+<span
+class="card-byline-date">Jun 17, 2024</span><div
+class="card-byline-bio">
+Toni Ross is the Senior Editor of Zarla. Her role includes conceptualizing, writing, and overseeing the creation of technical and design-related tools for businesses.</div></div></div></div><div
+class="card-image-holder"><div
+class="card-preview">
+<picture>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+media="(max-width: 412px)"
+/>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+media="(max-width: 575px)"
+/>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+media="(max-width: 767px)"
+/>
+<img
+class="card-pic"
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=2:1,smart&width=730"
+width="730"
+height="365"
+alt="The Adobe Photoshop logo on an app icon on a computer screen."
+/>
+</picture></div></div><div
+class="block-intro-text"><p>Adobe Photoshop is one of the most popular software applications for photo editing and image manipulation. Anyone with basic knowledge of the program can create professional-looking logos for their business in under ninety minutes.</p><p>Our step-by-step guide will help you understand the basic elements that make up a logo and how you can use them to create a unique visual identity for your business. If you don't have Photoshop, you can still create a stunning logo using our <a
+href="https://www.zarla.com/free-logo-maker">free logo maker</a>.</p></div></div></div></div><div
+class="section-content"><div
+class="container"><div
+class="narrow-container"><div
+class="block-global-cta button-cta"><div
+class="cta-wrapper without-image"><div
+class="cta-info"><p
+class="cta-heading">Launch your business with a free logo</p>
+<a
+href="https://www.zarla.com/free-logo-maker?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-buttonintrotextbelow&amp;utm_term=en-startdesigningacustomlogo-20240613" class="btn btn-primary">Start designing a custom logo</a><ul
+class="features"><li><p><strong>Trustpilot: Rated Excellent</strong> with 3,918 reviews</p></li><li><p><strong>Over 500k+ logos have been created with Zarla</strong></p></li></ul></div></div></div><div
+class="block block-how-to"><h2 id=how-to-make-a-logo-in-photoshop>How to Make a Logo in Photoshop:</h2><div
+class="how-to-info"><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px">
+<g>
+<path
+d="M376,151c-39.185,0-136-5.486-136-45v60c0,42.9,113.5,45,136,45s136-2.1,136-45v-60C512,145.514,415.185,151,376,151z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,31c-22.544,0-136,2.168-136,45c0,42.832,113.456,45,136,45s136-2.168,136-45C512,33.168,398.544,31,376,31z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,241c-39.185,0-136-5.486-136-45v22.82c23.293,19.265,41.085,44.854,51.053,74.037    C323.956,300.324,363.763,301,376,301c22.5,0,136-2.1,136-45v-60C512,235.514,415.185,241,376,241z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,331c-11.353,0-46.491-0.524-77.571-6.539C299.357,331.529,300,338.683,300,346c0,13.026-1.675,25.644-4.543,37.808    C327.343,390.376,364.307,391,376,391c22.5,0,136-2.1,136-45v-60C512,325.514,415.185,331,376,331z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,421c-12.87,0-55.932-0.738-89.713-9.333c-7.679,17.622-18.402,33.582-31.419,47.375    C286.104,479.643,358.543,481,376,481c22.5,0,136-2.1,136-45v-60C512,415.514,415.185,421,376,421z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M135,211C60.557,211,0,271.557,0,346s60.557,135,135,135s135-60.557,135-135S209.443,211,135,211z M150.396,418.29    c-0.13,0.048-0.266,0.026-0.396,0.071V436c0,8.291-6.709,15-15,15s-15-6.709-15-15v-17.741    c-9.879-3.338-19.345-9.672-27.437-19.319c-5.332-6.343-4.512-15.806,1.846-21.123c6.343-5.317,15.835-4.482,21.123,1.846    c7.939,9.434,16.963,13.242,24.595,10.444C146.03,387.953,150,382.284,150,376c0-8.276-6.724-15-15-15c-24.814,0-45-20.186-45-45    c0-17.686,9.998-34.92,30-42.085V256c0-8.291,6.709-15,15-15s15,6.709,15,15v17.941c7.771,2.626,15.348,6.799,22.104,13.348    c5.947,5.757,6.094,15.249,0.322,21.211c-5.742,5.947-15.264,6.079-21.211,0.322c-7.295-7.061-15.352-9.492-22.046-6.65    C123.604,304.53,120,309.95,120,316c0,8.276,6.724,15,15,15c24.814,0,45,20.186,45,45C180,394.853,168.105,411.845,150.396,418.29    z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+</svg>
+</span>
+$0.00 USD</div><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" height="512px" viewBox="0 0 512 512" width="512px"><g><path
+d="m256 0c-141.164062 0-256 114.835938-256 256s114.835938 256 256 256 256-114.835938 256-256-114.835938-256-256-256zm121.75 388.414062c-4.160156 4.160157-9.621094 6.253907-15.082031 6.253907-5.460938 0-10.925781-2.09375-15.082031-6.253907l-106.667969-106.664062c-4.011719-3.988281-6.25-9.410156-6.25-15.082031v-138.667969c0-11.796875 9.554687-21.332031 21.332031-21.332031s21.332031 9.535156 21.332031 21.332031v129.835938l100.417969 100.414062c8.339844 8.34375 8.339844 21.824219 0 30.164062zm0 0" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C3"/></g> </svg>
+</span>
+1 Hour
+30 Minutes</div></div><div
+class="how-to-desc"><div
+class="how-to-image">
+<picture>
+<img
+data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-in-photoshop-completed-800x800-2021092.jpeg?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="How to Make a Logo in Photoshop:">
+</picture></div><p>Ten easy steps to create a professional business logo in Photoshop.</p></div><div
+id="how-to-make-a-logo-in-photoshop-section1" class="how-to-section"><div
+class="section-title">
+<span>1.&nbsp;</span><h3 id=getting-started>Getting started.</h3></div><div
+id="how-to-make-a-logo-in-photoshop-section1-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.1&nbsp;</span><h4 id=create-a-new-photoshop-document>Create a new Photoshop document.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-new-photoshop-document-288x288-2021092_2021-09-02-072238_ssmm.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Create a new Photoshop document."></div></div><p>Launch Photoshop, click on "File" in the main menu bar, and select "New... (Ctrl/Cmd + N)" from the drop-down menu.</p></div></div><div
+id="how-to-make-a-logo-in-photoshop-section1-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.2&nbsp;</span><h4 id=select-a-canvas>Select a canvas.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-a-canvas-288x288-2021092_2021-09-02-072459_czhv.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Select a canvas."></div></div><p>Click on the "Art &amp; Illustration" tab at the top of the pop-up window and select "1000 pixel grid."</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>You can also choose from a range of canvas templates or create a document with custom dimensions.</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section1-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.3&nbsp;</span><h4 id=name-your-document>Name your document.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-name-your-document-288x288-2021092_2021-09-02-072650_fqmp.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Name your document."></div></div><p>Give your document a title and click on "Create" in the bottom-right corner.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>The resolution is set to 300 Pixels/Inch.</p></div><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Color Mode is set to RGB Color, 8 bit.</p></div></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section2" class="how-to-section"><div
+class="section-title">
+<span>2.&nbsp;</span><h3 id=setting-up-your-workspace>Setting up your workspace.</h3></div><div
+id="how-to-make-a-logo-in-photoshop-section2-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.1&nbsp;</span><h4 id=create-a-save-file>Create a save file.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-save-file-288x288-2021092_2021-09-02-072045_kupy.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Create a save file."></div></div><p>It's important to save your Photoshop document regularly to avoid losing any work.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Go to "File" in the main menu bar and select "Save As..." from the drop-down menu.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>You can choose to "Save to cloud documents" or to "Save on your computer."</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Click on "Save on your computer" and specify the file location.</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section2-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.2&nbsp;</span><h4 id=enable-smart-guides>Enable Smart Guides.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-enable-smart-guides-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Enable Smart Guides."></div></div><p>Smart Guides will help to automatically align elements in your document.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Click on "View" in the main menu bar, hover over "Show," and select "Smart Guides."</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Next, go to "View" and click on "Snap" in the drop-down menu.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>This will 'snap' your logo elements to the Smart Guides.</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section2-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.3&nbsp;</span><h4 id=use-a-grid>Use a grid.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-use-a-grid-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Use a grid."></div></div><p>A grid is another tool that will help guide and structure your design.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Click on "View" in the main menu bar, hover over "Show," and select "Grid."</p></div></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section3" class="how-to-section"><div
+class="section-title">
+<span>3.&nbsp;</span><h3 id=using-shapes>Using shapes.</h3></div><div
+id="how-to-make-a-logo-in-photoshop-section3-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.1&nbsp;</span><h4 id=pick-a-shape-for-your-logo>Pick a shape for your logo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-pick-a-shape-for-your-logo-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Pick a shape for your logo."></div></div><p>The shape will contain the icon and give your logo structure. Different shapes have various associations and can be used to create subconscious impressions on people and reinforce the nature of your brand.</p></div></div><div
+id="how-to-make-a-logo-in-photoshop-section3-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.2&nbsp;</span><h4 id=select-the-shape-tool>Select the Shape Tool.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-the-shape-tool-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Select the Shape Tool."></div></div><p>You'll find the "Shape Tool (U)" in the left menu bar. Right-click on the icon to select the type of shape. In this case, we're using the "Ellipse Tool."</p></div></div><div
+id="how-to-make-a-logo-in-photoshop-section3-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.3&nbsp;</span><h4 id=draw-your-shape>Draw your shape.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-draw-your-shape-288x288-2021092_2021-09-02-081207_yolp.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Draw your shape."></div></div><p>While holding "Shift," click and drag your cursor to create the shape. This will produce a perfect circle.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>For an oval shape, don't hold down "Shift."</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>You can resize your shape using the corner points of the shape box, holding down "Shift" to maintain the proportion.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Select the "Move Tool (V)" and center the shape using the Smart Guides.</p></div></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section4" class="how-to-section"><div
+class="section-title">
+<span>4.&nbsp;</span><h3 id=adding-color>Adding color.</h3></div><div
+id="how-to-make-a-logo-in-photoshop-section4-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.1&nbsp;</span><h4 id=choose-a-color-scheme-for-your-logo>Choose a color scheme for your logo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-choose-a-color-scheme-for-your-logo-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Choose a color scheme for your logo."></div></div><p><a
+href="https://www.zarla.com/guides/logo-colors">Colors in logos</a> play a vital role in branding and will give your business a strong visual identity and help communicate certain values and characteristics.</p></div></div><div
+id="how-to-make-a-logo-in-photoshop-section4-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.2&nbsp;</span><h4 id=set-the-stroke-color>Set the stroke color.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-set-the-stroke-color-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Set the stroke color."></div></div><p>Ensure that the shape layer is selected in the layers panel. Then, select the "Shape Tool (U)" and set the "Stroke" to "No Color" in the top-left of the menu bar.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>You can add a color to give your shape an outline and change the thickness and style of the stroke in the top menu bar.</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section4-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.3&nbsp;</span><h4 id=set-the-fill-color>Set the fill color.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-set-the-fill-color-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Set the fill color."></div></div><p>Change the color of the shape by clicking on the "Fill" icon in the top menu bar. You can choose a solid color or opt to use a gradient by clicking on the "Gradient" icon.</p></div></div><div
+id="how-to-make-a-logo-in-photoshop-section4-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.4&nbsp;</span><h4 id=select-a-gradient>Select a gradient.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-a-gradient-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Select a gradient."></div></div><p>Next, you can select a gradient from a range of presets. In this case, we've selected one from the "Oranges" folder.</p></div></div><div
+id="how-to-make-a-logo-in-photoshop-section4-step5" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.5&nbsp;</span><h4 id=refine-the-gradient>Refine the gradient.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-refine-the-gradient-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Refine the gradient."></div></div><p>You can customize the gradient colors by double-clicking on the small color blocks beneath the gradient slider on the left and right to assign colors, respectively.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Set the gradient angle to 45.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Add more shades to your gradient by clicking beneath the gradient slider.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>To remove a gradient tone, click and drag the color block away from the slider.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>You can adjust the fade between the various tones of your gradient by sliding the color blocks beneath the gradient slider.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Choose various gradient styles by selecting an option from the drop-down menu.</p></div></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section5" class="how-to-section"><div
+class="section-title">
+<span>5.&nbsp;</span><h3 id=creating-an-icon>Creating an icon.</h3></div><div
+id="how-to-make-a-logo-in-photoshop-section5-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.1&nbsp;</span><h4 id=decide-on-an-icon-for-your-logo>Decide on an icon for your logo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-decide-on-an-icon-for-your-logo-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Decide on an icon for your logo."></div></div><p>An icon is an image or symbol that will give your business a brand identity. They can range from geometric designs to objects. In this example, we're going to create an icon of a bird.</p></div></div><div
+id="how-to-make-a-logo-in-photoshop-section5-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.2&nbsp;</span><h4 id=use-a-reference-image>Use a reference image.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-use-a-reference-image-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Use a reference image."></div></div><p>Download a <a
+href="https://unsplash.com/photos/focused-photo-of-blue-and-brown-bird-on-the-stone-6CcoF7h9h-k">reference image</a> to use as a guide for constructing the shape of the icon.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Drag the reference image from the containing folder on your computer into the Photoshop document.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>This will automatically create a new layer.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>With the reference image layer selected, set the opacity to 50%.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Resize and place the image within the ellipse, holding "Shift" when scaling to maintain the aspect ratio.</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section5-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.3&nbsp;</span><h4 id=create-a-new-layer>Create a new layer.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-new-layer-288x288-2021092_2021-09-02-092909_iblp.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Create a new layer."></div></div><p>Add a new layer by clicking on the "+" button in the bottom-right corner beneath the layers panel.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>You can rename your layers by double-clicking on the layer text.</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section5-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.4&nbsp;</span><h4 id=select-the-pen-tool>Select the Pen Tool.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-the-pen-tool-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Select the Pen Tool."></div></div><p>You'll find the "Pen Tool (P)" in the left menu bar. Ensure that the pen tool is set to "Shape" in the top menu bar.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Set the "Fill" and "Stroke" to "No Color."</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section5-step5" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.5&nbsp;</span><h4 id=create-a-rough-outline>Create a rough outline.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-rough-outline-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Create a rough outline."></div></div><p>Pick a starting point and click to add an anchor point with the Pen Tool. When you click again, a straight line will automatically be generated and connect the two anchor points.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Click, hold, and drag the pen tool to create curved lines.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>This will form an arch between the two anchor points.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Increase the amplitude and direction of the arch by moving your cursor away from the anchor point in the opposite direction of the desired curve.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Complete the shape by clicking back on the first anchor point.</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section5-step6" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.6&nbsp;</span><h4 id=add-color-to-the-icon>Add color to the icon.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-add-color-to-the-icon-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Add color to the icon."></div></div><p>Now that the rough icon shape has been formed, you can fill it with a color. For now, set the "Fill" color to "White" and the "Stroke" to "No Color."</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>In the layers panel, click on the eye icon of the reference image layer to make it invisible.</p></div></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section6" class="how-to-section"><div
+class="section-title">
+<span>6.&nbsp;</span><h3 id=refining-the-icon>Refining the icon.</h3></div><div
+id="how-to-make-a-logo-in-photoshop-section6-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.1&nbsp;</span><h4 id=use-the-direct-selection-tool>Use the Direct Selection Tool.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-use-the-direct-selection-tool-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Use the Direct Selection Tool."></div></div><p>You'll find the "Direct Selection Tool (A)" in the left menu bar. This will reveal the anchor points and outline paths of the icon.</p></div></div><div
+id="how-to-make-a-logo-in-photoshop-section6-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.2&nbsp;</span><h4 id=adjust-the-anchor-points-and-curves>Adjust the anchor points and curves.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-adjust-the-anchor-points-and-curves-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Adjust the anchor points and curves."></div></div><p>You can move the anchor points to sculpt the shape. Use the directional lines perpendicular to the curved anchor points to change the amplitude of the arches.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>You can add new anchor points for more detail by right-clicking on the "Pen Tool" icon and selecting the "Add Anchor Point Tool."</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>If you need to delete an anchor point, switch to the "Delete Anchor Point Tool."</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Keep adjusting the anchor points until you are happy with the shape of your icon.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Hide the grid by going to "View" in the main menu bar, hovering over "Show," and clicking on "Grid."</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section6-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.3&nbsp;</span><h4 id=position-the-icon>Position the icon.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-position-the-icon-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Position the icon."></div></div><p>Go to "Edit" in the main menu bar and select "Free Transform Path (Ctrl/Cmd + T)" from the drop-down menu.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Resize the icon by holding down "Shift" and dragging the corner points of the transform box.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Allow the tail to extend beyond the border of the ellipse.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>When you're happy with the size and position of the icon, hit "Enter."</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section6-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.4&nbsp;</span><h4 id=create-a-clipping-mask>Create a Clipping Mask.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-clipping-mask-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Create a Clipping Mask."></div></div><p>In the layers panel, click and drag the <strong>reference image layer</strong> below the <strong>ellipse layer</strong>. Right-click on the <strong>icon layer</strong> and select "Create Clipping Mask" from the pop-up menu.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>This will contain the icon's shape to the borders of the ellipse.</p></div></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section7" class="how-to-section"><div
+class="section-title">
+<span>7.&nbsp;</span><h3 id=adding-detail>Adding detail.</h3></div><div
+id="how-to-make-a-logo-in-photoshop-section7-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.1&nbsp;</span><h4 id=add-another-shape>Add another shape.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-add-another-shape-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Add another shape."></div></div><p>Add more shapes to create detail in your logo. In this case, we'll use the "Ellipse Tool (U)" to give the bird icon an eye.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Create a new layer by clicking on the "+" button in the bottom-right corner of the layers panel.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Follow the process in <a
+href="#draw-your-shape">step 3.3</a> to construct a circle.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>You can repeat this process to add more detail to your icon.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Experiment with colors and outlines in the top menu bar.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Follow the process in <a
+href="#refine-the-gradient">step 4.5</a> to add a gradient to the ellipse.</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section7-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.2&nbsp;</span><h4 id=link-your-layers>Link your layers.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-link-your-layers-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Link your layers."></div></div><p>Once you're happy with the design, you can link your layers so that they stay together and in proportion.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Select the ellipse, icon, and eye layers by holding "Shift" and clicking on the layers. Right-click and select "Link Layers" from the pop-up menu.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>You can now resize and move the elements of your logo together.</p></div></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section8" class="how-to-section"><div
+class="section-title">
+<span>8.&nbsp;</span><h3 id=adding-your-business-name>Adding your business name.</h3></div><div
+id="how-to-make-a-logo-in-photoshop-section8-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>8.1&nbsp;</span><h4 id=select-the-type-tool>Select the Type Tool.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-the-type-tool-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Select the Type Tool."></div></div><p>Create a new layer by clicking on the "+" button in the bottom-right corner of the layers panel. You'll find the "Horizontal Type Tool (T)" in the left menu bar.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Click on the canvas to add your business name.</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section8-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>8.2&nbsp;</span><h4 id=change-the-text-color>Change the text color.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-change-the-text-color-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Change the text color."></div></div><p>Change the color of your text in the right menu bar.</p></div></div><div
+id="how-to-make-a-logo-in-photoshop-section8-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>8.3&nbsp;</span><h4 id=change-the-font>Change the font.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-change-the-font-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Change the font."></div></div><p>Adjust the look of your text by selecting a font from the drop-down menu. You'll find this in the right menu bar under the "Character" heading.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>You can also adjust the text style, size, leading, kerning, and tracking parameters here.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Position your text by selecting the "Move Tool (V)" and dragging your text box into place.</p></div></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section9" class="how-to-section"><div
+class="section-title">
+<span>9.&nbsp;</span><h3 id=creating-variations-of-your-logo>Creating variations of your logo.</h3></div><div
+id="how-to-make-a-logo-in-photoshop-section9-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.1&nbsp;</span><h4 id=compare-different-styles-of-your-design>Compare different styles of your design.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-compare-different-styles-of-your-design-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Compare different styles of your design."></div></div><p>Once you've completed the general structure of your logo, you can start to play with the details.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Try different background colors, shape outlines, fonts, and arrangements to refine the look of your logo.</p></div><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>This will help you picture what your logo will look like in different contexts and help you make a final decision.</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section9-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.2&nbsp;</span><h4 id=set-up-artboards>Set up Artboards.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-set-up-artboards-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Set up Artboards."></div></div><p>Right-click on the lock icon of the "Background" layer and select "Artboard from Layers..." Then, click on "OK."</p></div></div><div
+id="how-to-make-a-logo-in-photoshop-section9-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.3&nbsp;</span><h4 id=create-a-new-artboard>Create a new Artboard.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-new-artboard-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Create a new Artboard."></div></div><p>Make a copy of your logo by right-clicking on the Artboard in the layers panel and selecting "Duplicate Artboard..." Then, click on "OK."</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>This will create a new version of your logo that you can experiment with.</p></div><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>You can create as many Artboards as you like for as many different versions of your logo that you would like to experiment with.</p></div></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section10" class="how-to-section"><div
+class="section-title">
+<span>10.&nbsp;</span><h3 id=finishing-up>Finishing up.</h3></div><div
+id="how-to-make-a-logo-in-photoshop-section10-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>10.1&nbsp;</span><h4 id=export-your-logo>Export your logo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-export-your-logo-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Export your logo."></div></div><p>Once you're happy with your logo design, you can export it in various file formats.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Click on "File" in the main menu bar, hover over "Export," and select "Export As..."</p></div></div></div><div
+id="how-to-make-a-logo-in-photoshop-section10-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>10.2&nbsp;</span><h4 id=select-a-file-format>Select a file format</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-a-file-format-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Select a file format"></div></div><p>The pop-up window will show your different export options. Select a file format from the "Format" drop-down menu.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>"PNG" and "GIF" are high-resolution formats and will keep the background of your logo transparent.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>A "JPG" uses algorithms to compress the image for a smaller file size and will keep a solid background.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Once you've adjusted the settings, click on "Export" in the bottom-right corner and select a file destination on your computer.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"http://schema.org","@type":"HowTo","name":"How to Make a Logo in Photoshop","description":"<p>Ten easy steps to create a professional business logo in Photoshop.<\/p>\n","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-how-to-make-a-logo-in-photoshop-completed-800x800-2021092.jpeg?crop=1:1,smart&width=250&dpr=2","height":"800","width":"800"},"estimatedCost":{"@type":"MonetaryAmount","currency":"USD","value":"0.00"},"totalTime":"PT1H30M","step":[{"@type":"HowToSection","position":"1","name":"<p>Getting started.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Create a new Photoshop document.<\/p>\n","text":"<p>Launch Photoshop, click on \"File\" in the main menu bar, and select \"New... (Ctrl\/Cmd + N)\" from the drop-down menu.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section1-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-new-photoshop-document-288x288-2021092_2021-09-02-072238_ssmm.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Select a canvas.<\/p>\n","text":"<p>Click on the \"Art &amp; Illustration\" tab at the top of the pop-up window and select \"1000 pixel grid.\"<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section1-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-a-canvas-288x288-2021092_2021-09-02-072459_czhv.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>You can also choose from a range of canvas templates or create a document with custom dimensions.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Name your document.<\/p>\n","text":"<p>Give your document a title and click on \"Create\" in the bottom-right corner.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section1-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-name-your-document-288x288-2021092_2021-09-02-072650_fqmp.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>The resolution is set to 300 Pixels\/Inch.<\/p>\n"},{"@type":"HowToTip","text":"<p>Color Mode is set to RGB Color, 8 bit.<\/p>\n"}]}]},{"@type":"HowToSection","position":"2","name":"<p>Setting up your workspace.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Create a save file.<\/p>\n","text":"<p>It's important to save your Photoshop document regularly to avoid losing any work.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section2-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-save-file-288x288-2021092_2021-09-02-072045_kupy.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Go to \"File\" in the main menu bar and select \"Save As...\" from the drop-down menu.<\/p>\n"},{"@type":"HowToTip","text":"<p>You can choose to \"Save to cloud documents\" or to \"Save on your computer.\"<\/p>\n"},{"@type":"HowToDirection","text":"<p>Click on \"Save on your computer\" and specify the file location.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Enable Smart Guides.<\/p>\n","text":"<p>Smart Guides will help to automatically align elements in your document.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section2-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-enable-smart-guides-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Click on \"View\" in the main menu bar, hover over \"Show,\" and select \"Smart Guides.\"<\/p>\n"},{"@type":"HowToDirection","text":"<p>Next, go to \"View\" and click on \"Snap\" in the drop-down menu.<\/p>\n"},{"@type":"HowToTip","text":"<p>This will 'snap' your logo elements to the Smart Guides.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Use a grid.<\/p>\n","text":"<p>A grid is another tool that will help guide and structure your design.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section2-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-use-a-grid-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Click on \"View\" in the main menu bar, hover over \"Show,\" and select \"Grid.\"<\/p>\n"}]}]},{"@type":"HowToSection","position":"3","name":"<p>Using shapes.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Pick a shape for your logo.<\/p>\n","text":"<p>The shape will contain the icon and give your logo structure. Different shapes have various associations and can be used to create subconscious impressions on people and reinforce the nature of your brand.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section3-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-pick-a-shape-for-your-logo-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Select the Shape Tool.<\/p>\n","text":"<p>You'll find the \"Shape Tool (U)\" in the left menu bar. Right-click on the icon to select the type of shape. In this case, we're using the \"Ellipse Tool.\"<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section3-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-shape-tool-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>Draw your shape.<\/p>\n","text":"<p>While holding \"Shift,\" click and drag your cursor to create the shape. This will produce a perfect circle.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section3-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-draw-your-shape-288x288-2021092_2021-09-02-081207_yolp.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>For an oval shape, don't hold down \"Shift.\"<\/p>\n"},{"@type":"HowToTip","text":"<p>You can resize your shape using the corner points of the shape box, holding down \"Shift\" to maintain the proportion.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Select the \"Move Tool (V)\" and center the shape using the Smart Guides.<\/p>\n"}]}]},{"@type":"HowToSection","position":"4","name":"<p>Adding color.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Choose a color scheme for your logo.<\/p>\n","text":"<p><a href=\"https:\/\/www.zarla.com\/guides\/logo-colors\">Colors in logos<\/a> play a vital role in branding and will give your business a strong visual identity and help communicate certain values and characteristics.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section4-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-choose-a-color-scheme-for-your-logo-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Set the stroke color.<\/p>\n","text":"<p>Ensure that the shape layer is selected in the layers panel. Then, select the \"Shape Tool (U)\" and set the \"Stroke\" to \"No Color\" in the top-left of the menu bar.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section4-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-set-the-stroke-color-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>You can add a color to give your shape an outline and change the thickness and style of the stroke in the top menu bar.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Set the fill color.<\/p>\n","text":"<p>Change the color of the shape by clicking on the \"Fill\" icon in the top menu bar. You can choose a solid color or opt to use a gradient by clicking on the \"Gradient\" icon.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section4-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-set-the-fill-color-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"4","name":"<p>Select a gradient.<\/p>\n","text":"<p>Next, you can select a gradient from a range of presets. In this case, we've selected one from the \"Oranges\" folder.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section4-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-a-gradient-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"5","name":"<p>Refine the gradient.<\/p>\n","text":"<p>You can customize the gradient colors by double-clicking on the small color blocks beneath the gradient slider on the left and right to assign colors, respectively.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section4-step5","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-refine-the-gradient-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Set the gradient angle to 45.<\/p>\n"},{"@type":"HowToTip","text":"<p>Add more shades to your gradient by clicking beneath the gradient slider.<\/p>\n"},{"@type":"HowToTip","text":"<p>To remove a gradient tone, click and drag the color block away from the slider.<\/p>\n"},{"@type":"HowToTip","text":"<p>You can adjust the fade between the various tones of your gradient by sliding the color blocks beneath the gradient slider.<\/p>\n"},{"@type":"HowToTip","text":"<p>Choose various gradient styles by selecting an option from the drop-down menu.<\/p>\n"}]}]},{"@type":"HowToSection","position":"5","name":"<p>Creating an icon.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Decide on an icon for your logo.<\/p>\n","text":"<p>An icon is an image or symbol that will give your business a brand identity. They can range from geometric designs to objects. In this example, we're going to create an icon of a bird.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section5-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-decide-on-an-icon-for-your-logo-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Use a reference image.<\/p>\n","text":"<p>Download a <a href=\"https:\/\/unsplash.com\/photos\/focused-photo-of-blue-and-brown-bird-on-the-stone-6CcoF7h9h-k\">reference image<\/a> to use as a guide for constructing the shape of the icon.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section5-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-use-a-reference-image-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Drag the reference image from the containing folder on your computer into the Photoshop document.<\/p>\n"},{"@type":"HowToTip","text":"<p>This will automatically create a new layer.<\/p>\n"},{"@type":"HowToDirection","text":"<p>With the reference image layer selected, set the opacity to 50%.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Resize and place the image within the ellipse, holding \"Shift\" when scaling to maintain the aspect ratio.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Create a new layer.<\/p>\n","text":"<p>Add a new layer by clicking on the \"+\" button in the bottom-right corner beneath the layers panel.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section5-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-new-layer-288x288-2021092_2021-09-02-092909_iblp.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>You can rename your layers by double-clicking on the layer text.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Select the Pen Tool.<\/p>\n","text":"<p>You'll find the \"Pen Tool (P)\" in the left menu bar. Ensure that the pen tool is set to \"Shape\" in the top menu bar.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section5-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-pen-tool-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Set the \"Fill\" and \"Stroke\" to \"No Color.\"<\/p>\n"}]},{"@type":"HowToStep","position":"5","name":"<p>Create a rough outline.<\/p>\n","text":"<p>Pick a starting point and click to add an anchor point with the Pen Tool. When you click again, a straight line will automatically be generated and connect the two anchor points.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section5-step5","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-rough-outline-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Click, hold, and drag the pen tool to create curved lines.<\/p>\n"},{"@type":"HowToTip","text":"<p>This will form an arch between the two anchor points.<\/p>\n"},{"@type":"HowToTip","text":"<p>Increase the amplitude and direction of the arch by moving your cursor away from the anchor point in the opposite direction of the desired curve.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Complete the shape by clicking back on the first anchor point.<\/p>\n"}]},{"@type":"HowToStep","position":"6","name":"<p>Add color to the icon.<\/p>\n","text":"<p>Now that the rough icon shape has been formed, you can fill it with a color. For now, set the \"Fill\" color to \"White\" and the \"Stroke\" to \"No Color.\"<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section5-step6","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-add-color-to-the-icon-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>In the layers panel, click on the eye icon of the reference image layer to make it invisible.<\/p>\n"}]}]},{"@type":"HowToSection","position":"6","name":"<p>Refining the icon.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Use the Direct Selection Tool.<\/p>\n","text":"<p>You'll find the \"Direct Selection Tool (A)\" in the left menu bar. This will reveal the anchor points and outline paths of the icon.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section6-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-use-the-direct-selection-tool-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Adjust the anchor points and curves.<\/p>\n","text":"<p>You can move the anchor points to sculpt the shape. Use the directional lines perpendicular to the curved anchor points to change the amplitude of the arches.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section6-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-adjust-the-anchor-points-and-curves-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>You can add new anchor points for more detail by right-clicking on the \"Pen Tool\" icon and selecting the \"Add Anchor Point Tool.\"<\/p>\n"},{"@type":"HowToTip","text":"<p>If you need to delete an anchor point, switch to the \"Delete Anchor Point Tool.\"<\/p>\n"},{"@type":"HowToDirection","text":"<p>Keep adjusting the anchor points until you are happy with the shape of your icon.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Hide the grid by going to \"View\" in the main menu bar, hovering over \"Show,\" and clicking on \"Grid.\"<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Position the icon.<\/p>\n","text":"<p>Go to \"Edit\" in the main menu bar and select \"Free Transform Path (Ctrl\/Cmd + T)\" from the drop-down menu.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section6-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-position-the-icon-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Resize the icon by holding down \"Shift\" and dragging the corner points of the transform box.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Allow the tail to extend beyond the border of the ellipse.<\/p>\n"},{"@type":"HowToDirection","text":"<p>When you're happy with the size and position of the icon, hit \"Enter.\"<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Create a Clipping Mask.<\/p>\n","text":"<p>In the layers panel, click and drag the <strong>reference image layer<\/strong> below the <strong>ellipse layer<\/strong>. Right-click on the <strong>icon layer<\/strong> and select \"Create Clipping Mask\" from the pop-up menu.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section6-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-clipping-mask-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>This will contain the icon's shape to the borders of the ellipse.<\/p>\n"}]}]},{"@type":"HowToSection","position":"7","name":"<p>Adding detail.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Add another shape.<\/p>\n","text":"<p>Add more shapes to create detail in your logo. In this case, we'll use the \"Ellipse Tool (U)\" to give the bird icon an eye.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section7-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-add-another-shape-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Create a new layer by clicking on the \"+\" button in the bottom-right corner of the layers panel.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Follow the process in <a href=\"#draw-your-shape\">step 3.3<\/a> to construct a circle.<\/p>\n"},{"@type":"HowToTip","text":"<p>You can repeat this process to add more detail to your icon.<\/p>\n"},{"@type":"HowToTip","text":"<p>Experiment with colors and outlines in the top menu bar.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Follow the process in <a href=\"#refine-the-gradient\">step 4.5<\/a> to add a gradient to the ellipse.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Link your layers.<\/p>\n","text":"<p>Once you're happy with the design, you can link your layers so that they stay together and in proportion.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section7-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-link-your-layers-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Select the ellipse, icon, and eye layers by holding \"Shift\" and clicking on the layers. Right-click and select \"Link Layers\" from the pop-up menu.<\/p>\n"},{"@type":"HowToTip","text":"<p>You can now resize and move the elements of your logo together.<\/p>\n"}]}]},{"@type":"HowToSection","position":"8","name":"<p>Adding your business name.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Select the Type Tool.<\/p>\n","text":"<p>Create a new layer by clicking on the \"+\" button in the bottom-right corner of the layers panel. You'll find the \"Horizontal Type Tool (T)\" in the left menu bar.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section8-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-type-tool-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Click on the canvas to add your business name.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Change the text color.<\/p>\n","text":"<p>Change the color of your text in the right menu bar.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section8-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-change-the-text-color-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>Change the font.<\/p>\n","text":"<p>Adjust the look of your text by selecting a font from the drop-down menu. You'll find this in the right menu bar under the \"Character\" heading.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section8-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-change-the-font-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>You can also adjust the text style, size, leading, kerning, and tracking parameters here.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Position your text by selecting the \"Move Tool (V)\" and dragging your text box into place.<\/p>\n"}]}]},{"@type":"HowToSection","position":"9","name":"<p>Creating variations of your logo.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Compare different styles of your design.<\/p>\n","text":"<p>Once you've completed the general structure of your logo, you can start to play with the details.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section9-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-compare-different-styles-of-your-design-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Try different background colors, shape outlines, fonts, and arrangements to refine the look of your logo.<\/p>\n"},{"@type":"HowToTip","text":"<p>This will help you picture what your logo will look like in different contexts and help you make a final decision.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Set up Artboards.<\/p>\n","text":"<p>Right-click on the lock icon of the \"Background\" layer and select \"Artboard from Layers...\" Then, click on \"OK.\"<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section9-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-set-up-artboards-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>Create a new Artboard.<\/p>\n","text":"<p>Make a copy of your logo by right-clicking on the Artboard in the layers panel and selecting \"Duplicate Artboard...\" Then, click on \"OK.\"<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section9-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-new-artboard-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>This will create a new version of your logo that you can experiment with.<\/p>\n"},{"@type":"HowToTip","text":"<p>You can create as many Artboards as you like for as many different versions of your logo that you would like to experiment with.<\/p>\n"}]}]},{"@type":"HowToSection","position":"10","name":"<p>Finishing up.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Export your logo.<\/p>\n","text":"<p>Once you're happy with your logo design, you can export it in various file formats.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section10-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-export-your-logo-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Click on \"File\" in the main menu bar, hover over \"Export,\" and select \"Export As...\"<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Select a file format<\/p>\n","text":"<p>The pop-up window will show your different export options. Select a file format from the \"Format\" drop-down menu.<\/p>\n","url":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop#how-to-make-a-logo-in-photoshop-section10-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-a-file-format-288x288-2021092.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>\"PNG\" and \"GIF\" are high-resolution formats and will keep the background of your logo transparent.<\/p>\n"},{"@type":"HowToTip","text":"<p>A \"JPG\" uses algorithms to compress the image for a smaller file size and will keep a solid background.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Once you've adjusted the settings, click on \"Export\" in the bottom-right corner and select a file destination on your computer.<\/p>\n"}]}]}]}</script> <div
+class="block block-promote"><div
+class="card"><div
+class="row"><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/guides/how-to-make-a-logo-in-illustrator">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="How to Make a Logo in Illustrator" />
+</picture>
+</a></div><div
+class="card-body"><p
+class="card-title">
+<a
+href="https://www.zarla.com/guides/how-to-make-a-logo-in-illustrator">How to Make a Logo in Illustrator</a></p><div
+class="card-text">Learn how to create a business logo in Illustrator with our step-by-step guide.</div></div></div></div></div><div
+class="block"><h2 id=fAQs>FAQs:</h2><h3 id=how-can-i-create-my-own-logo-in-photoshop>How can I create my own logo in Photoshop?</h3><p>You can create your own logo using Photoshop by following our <a
+href="#how-to-make-a-logo-in-photoshop">step-by-step guide</a>.</p><h3 id=is-photoshop-good-for-logo-design>Is Photoshop good for logo design?</h3><p>While Photoshop is a capable option for designing a logo, the application is designed primarily for photo editing and image manipulations. Professionals tend to use vector-based applications like Adobe Illustrator to create logos as the software can produce designs that can be enlarged and scaled more easily.</p><h3 id=how-do-you-make-a-unique-logo-in-photoshop>How do you make a unique logo in Photoshop?</h3><ol><li><a
+href="#getting-started">Create a new Photoshop document</a>.</li><li><a
+href="#setting-up-your-workspace">Set up your workspace</a>.</li><li><a
+href="#using-shapes">Create a basic shape</a>.</li><li><a
+href="#adding-color">Add some color</a>.</li><li><a
+href="#creating-an-icon">Create an icon</a>.</li><li><a
+href="#refining-the-icon">Refine the icon</a>.</li><li><a
+href="#adding-detail">Add some detail</a>.</li><li><a
+href="#adding-your-business-name">Add your business name</a>.</li><li><a
+href="#creating-variations-of-your-logo">Create variations of your logo</a>.</li><li><a
+href="#finishing-up">Export your logo</a>.</li></ol><h3 id=is-it-bad-to-make-a-logo-in-photoshop>Is it bad to make a logo in Photoshop?</h3><p>In a professional context, Photoshop is not the best program for designing logos as the software does not produce vector files. Adobe Illustrator is the preferred application as it works with vector files and allows for infinite resolution and better scaling options.</p><h3 id=can-you-use-photoshop-for-logos>Can you use Photoshop for logos?</h3><p>Yes, Photoshop is a powerful design application that you can use to create logos. While software programs such as Adobe Illustrator are the industry standard for logo designs, Photoshop is a good alternative for creating logos.</p></div></div></div></div><div
+class="section-related-post"><div
+class="container"><h2 class="section-heading">Related Articles</h2><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/guides/how-to-make-a-logo-in-gimp">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="The GIMP logo on a desk with a keyboard and drawing tablet." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/guides/how-to-make-a-logo-in-gimp">How to Make a Logo in GIMP</a></h3><div
+class="card-text">Learn how to create a business logo in GIMP with our step-by-step guide.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/guides/how-to-create-a-logo-in-microsoft-word">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-create-a-logo-in-ms-word-2400x2400-20210907_2021-09-07-065541_yktz.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A woman using a computer to make a logo in Microsoft Word" />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/guides/how-to-create-a-logo-in-microsoft-word">How to Create a Logo in Microsoft Word</a></h3><div
+class="card-text">Learn how to create a business logo in Microsoft Word with our step-by-step guide.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/guides/how-to-make-a-logo-transparent">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2400x2400-02030211.png?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="The background of a business logo being made transparent." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/guides/how-to-make-a-logo-transparent">How to Make a Logo Transparent</a></h3><div
+class="card-text">Learn how to remove a logo background in a few easy steps.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/guides/logo-file-types">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logo-file-types-2500x2500-20210816.png?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo file types over a backdrop of various logos." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/guides/logo-file-types">Logo File Types and When to Use Them</a></h3><div
+class="card-text">6 common logo file types and their uses.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/guides/types-of-logos">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-types-of-logos-4955x3504-20210827.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Types of logos used by mobile applications and social networks." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/guides/types-of-logos">8 Types of Logos You Should Know</a></h3><div
+class="card-text">A detailed guide to the eight types of logos a business can use.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop","name":"How to Make a Logo in Photoshop"},"headline":"How to Make a Logo in Photoshop","description":"Learn how to create a business logo in Photoshop with our step-by-step guide.","image":["https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-08-27T07:32:00-05:00","dateModified":"2024-06-17T11:31:27-05:00","author":{"@type":"Person","name":"Toni Ross","url":"https://www.zarla.com/contributors/toni-ross"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+class="footer"><div
+class="container"><div
+class="row"><div
+class="col-md-6 col-lg-5 footer-info"><div
+class="footer-brand">
+<a
+class="footer-logo without-title" href="/">
+<img
+class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-group"></div>
+</a></div></div><div
+class="col-md-6 col-lg-3"><p
+class="footer-category">Language</p><ul
+class="footer-menu list-unstyled"><li
+class="current" style="color: #3041c4;">English</li><li><a
+href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-photoshop">Español</a></li><li><a
+href="https://www.zarla.com/it/guide/come-creare-un-logo-su-photoshop">Italiano</a></li><li><a
+href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-photoshop">Français</a></li><li><a
+href="https://www.zarla.com/de/leitf%C3%A4den/logo-erstellen-in-photoshop">Deutsch</a></li><li><a
+href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-photoshop">Português (Brasil)</a></li><li><a
+href="https://www.zarla.com/tr/rehberler/photoshopta-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r">Türkçe</a></li><li><a
+href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-photoshopie">Polski</a></li><li><a
+href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-photoshop">Bahasa Indonesia</a></li></ul></div><div
+class="col-md-6 col-lg-3 "><p
+class="footer-category">Resources</p><ul
+class="footer-menu list-unstyled"><li>
+<a
+href="https://www.zarla.com/guides/logo-ideas">
+Logo Ideas
+</a></li><li>
+<a
+href="https://www.zarla.com/">
+AI Website Builder
+</a></li><li>
+<a
+href="https://www.zarla.com/free-logo-maker">
+Free Logo Maker
+</a></li><li>
+<a
+href="https://www.zarla.com/guides/how-to">
+How To
+</a></li><li>
+<a
+href="mailto:hello%40zarla.com">
+hello@zarla.com
+</a></li><li>
+<a
+href="https://www.zarla.com/terms-of-use">
+Terms of Use
+</a></li><li>
+<a
+href="https://www.zarla.com/copyright-policy">
+Copyright Policy
+</a></li><li>
+<a
+href="https://www.zarla.com/privacy-policy">
+Privacy Policy
+</a></li></ul></div></div></div><div
+class="footer-bottom"><div
+class="container"><p
+class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
+class="cta-sticky-footer js-cta-sticky-footer">
+<a
+href="https://www.zarla.com/free-logo-maker?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=en-startdesigningacustomlogo-20240613"
+class="btn btn-primary"
+>
+Start designing a custom logo
+</a></div> <script async src="/scripts/custom-20240618.js"></script> <!--#minify preserve 2024-07-26T15:16:53Z--><!--#minify end preserve-->
+</body></html>

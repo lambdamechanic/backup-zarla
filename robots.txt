@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /artifact/
+Disallow: /design/
+Disallow: /logo-maker
+Disallow: /logo-maker/
+Disallow: /website-builder
+Disallow: /website-builder/
+
+Sitemap: https://www.zarla.com/sitemap.xml
+Sitemap: https://www.zarla.com/es/sitemap.xml
+Sitemap: https://www.zarla.com/it/sitemap.xml
+Sitemap: https://www.zarla.com/fr/sitemap.xml
+Sitemap: https://www.zarla.com/de/sitemap.xml
+Sitemap: https://www.zarla.com/br/sitemap.xml
+Sitemap: https://www.zarla.com/nl/sitemap.xml
+Sitemap: https://www.zarla.com/tr/sitemap.xml
+Sitemap: https://www.zarla.com/pl/sitemap.xml
+Sitemap: https://www.zarla.com/id/sitemap.xml

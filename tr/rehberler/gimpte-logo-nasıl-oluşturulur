@@ -1,0 +1,1134 @@
+<!DOCTYPE html><html
+lang="tr-TR"><head><meta
+charset="utf-8" /> <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWG06X4WML"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-DWG06X4WML');</script> <title>GIMP&#039;te Logo Nasıl Oluşturulur?</title><meta
+name="description" content="Adım adım rehberimizle GIMP&#039;te logo nasıl oluşturulur öğrenin." /><meta
+property="og:title" content="GIMP&#039;te Logo Nasıl Oluşturulur?" /><meta
+property="og:description" content="Adım adım rehberimizle GIMP&#039;te logo nasıl oluşturulur öğrenin." /><link
+rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
+property="og:site_name" content="Zarla" /><meta
+property="og:url" content="https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur"><meta
+property="og:type" content="website"><meta
+property="og:locale" content="tr-TR"><meta
+property="og:image" content="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image:width" content='1200' /><meta
+property="og:image:height" content='630' /><meta
+property="og:image:type" content='image/jpeg' /><link
+rel="canonical" href="https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur"><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-gimp" hreflang="x-default" /><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-gimp" hreflang="en" /><link
+rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-gimp" hreflang="es" /><link
+rel="alternate" href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-gimp" hreflang="fr" /><link
+rel="alternate" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.zarla.com/nl/handleidingen/hoe-maak-je-een-logo-in-gimp" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-gimp" hreflang="id-ID" /><link
+rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
+rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
+name="viewport" content="width=device-width, initial-scale=1" /><meta
+name="format-detection" content="telephone=no" /><meta
+name="theme-color" content="#ffffff" /><link
+rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+class="guideEntries"><header
+class="header"><div
+class="container"><nav
+class="navbar navbar-expand-lg"><div
+class="navbar-brand">
+<a
+class="navbar-logo" href="/tr">
+<img
+class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+</a></div>
+<a
+href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu"
+class="btn btn-primary cta-nav
+"
+>
+Ücretsiz Logo Oluşturucu
+</a></nav></div><div
+class="indicator"><div
+class="indicator-position js-indicator-position"></div></div></header><main
+class="entry entry-is-guide section-guideEntries"><div
+class="section-banner"><div
+class="narrow-container"><div
+class="section-breadcrumb"><ol
+class="breadcrumb"><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler">Rehberler</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler/logolar">Logolar</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler/logolar/nas%C4%B1l-yap%C4%B1l%C4%B1r">Nasıl Yapılır?</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Rehberler","item":"https://www.zarla.com/tr/rehberler"},{"@type":"ListItem","position":2,"name":"Logolar","item":"https://www.zarla.com/tr/rehberler/logolar"},{"@type":"ListItem","position":3,"name":"Nasıl Yapılır?","item":"https://www.zarla.com/tr/rehberler/logolar/nas%C4%B1l-yap%C4%B1l%C4%B1r"},{"@type":"ListItem","position":4,"name":"GIMP&#039;te Logo Nasıl Oluşturulur?","item":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur"}]}</script> <div
+class="card card-featured"><h1 class="card-title">
+GIMP&#039;te Logo Nasıl Oluşturulur?</h1><div
+class="card-body"><div
+class="card-text card-text-prebyline">Adım adım rehberimizle GIMP&#039;te logo nasıl oluşturulur öğrenin.</div><div
+class="card-byline"><div
+class="card-byline-image">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-ebru-celik-800x800-2024058_2024-05-08-080444_wcwn.jpeg?crop=1:1,smart&width=80&dpr=2"
+width="80"
+height="80"
+alt="Ebru Çelik"
+/></div><div
+class="card-byline-details">
+<span>Yazan: <a
+class="card-byline-author" href="https://www.zarla.com/tr/katkı-sağlayanlar/ebru-çelik">Ebru Çelik</a>,</span>
+<span
+class="card-byline-date">17 Haz 2024</span><div
+class="card-byline-bio">
+Ebru Çelik Zarla&#039;da metin yazarı. Çeşitli markaların web sitelerinde blog yazıları yayımlandı. Bir süredir web sitesi tasarımı ile ilgileniyor ve bu konuda makaleler yazıyor.</div></div></div></div><div
+class="card-image-holder"><div
+class="card-preview">
+<picture>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+media="(max-width: 412px)"
+/>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+media="(max-width: 575px)"
+/>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+media="(max-width: 767px)"
+/>
+<img
+class="card-pic"
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=730"
+width="730"
+height="365"
+alt="Klavyeli ve çizim tabletli bir masanın üzerindeki GIMP logosu."
+/>
+</picture></div></div><div
+class="block-intro-text"><p>GNU Image Manipulation Program (GIMP); görüntü düzenleme, dijital çizim ve fotoğraf rötuşlama için kullanılan ücretsiz, açık kaynaklı bir grafik uygulamasıdır. Platform, piyasadaki pahalı tasarım programlarına alternatif olarak 1998'de piyasaya sürüldü ve işletmeniz için doksan dakikadan kısa bir süre içerisinde profesyonel logolar oluşturmanızı sağlayacak harika bir seçenektir.</p><p>Adım adım kılavuzumuz, bir logoyu oluşturan temel ögeleri ve bunları işletmeniz için benzersiz bir görsel kimlik yaratmak için nasıl kullanabileceğinizi anlamanıza yardımcı olacaktır. Harika bir logo oluşturmanın daha hızlı ve daha kolay bir yolunu arıyorsanız <a
+href="https://www.zarla.com/tr/ücretsiz-logo-oluşturucu">ücretsiz logo oluşturucumuzu</a> deneyin.</p></div></div></div></div><div
+class="section-content"><div
+class="container"><div
+class="narrow-container"><div
+class="block block-how-to"><h2 id=gimp-039-te-logo-nasil-olusturulur>GIMP&#039;te Logo Nasıl Oluşturulur?</h2><div
+class="how-to-info"><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px">
+<g>
+<path
+d="M376,151c-39.185,0-136-5.486-136-45v60c0,42.9,113.5,45,136,45s136-2.1,136-45v-60C512,145.514,415.185,151,376,151z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,31c-22.544,0-136,2.168-136,45c0,42.832,113.456,45,136,45s136-2.168,136-45C512,33.168,398.544,31,376,31z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,241c-39.185,0-136-5.486-136-45v22.82c23.293,19.265,41.085,44.854,51.053,74.037    C323.956,300.324,363.763,301,376,301c22.5,0,136-2.1,136-45v-60C512,235.514,415.185,241,376,241z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,331c-11.353,0-46.491-0.524-77.571-6.539C299.357,331.529,300,338.683,300,346c0,13.026-1.675,25.644-4.543,37.808    C327.343,390.376,364.307,391,376,391c22.5,0,136-2.1,136-45v-60C512,325.514,415.185,331,376,331z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,421c-12.87,0-55.932-0.738-89.713-9.333c-7.679,17.622-18.402,33.582-31.419,47.375    C286.104,479.643,358.543,481,376,481c22.5,0,136-2.1,136-45v-60C512,415.514,415.185,421,376,421z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M135,211C60.557,211,0,271.557,0,346s60.557,135,135,135s135-60.557,135-135S209.443,211,135,211z M150.396,418.29    c-0.13,0.048-0.266,0.026-0.396,0.071V436c0,8.291-6.709,15-15,15s-15-6.709-15-15v-17.741    c-9.879-3.338-19.345-9.672-27.437-19.319c-5.332-6.343-4.512-15.806,1.846-21.123c6.343-5.317,15.835-4.482,21.123,1.846    c7.939,9.434,16.963,13.242,24.595,10.444C146.03,387.953,150,382.284,150,376c0-8.276-6.724-15-15-15c-24.814,0-45-20.186-45-45    c0-17.686,9.998-34.92,30-42.085V256c0-8.291,6.709-15,15-15s15,6.709,15,15v17.941c7.771,2.626,15.348,6.799,22.104,13.348    c5.947,5.757,6.094,15.249,0.322,21.211c-5.742,5.947-15.264,6.079-21.211,0.322c-7.295-7.061-15.352-9.492-22.046-6.65    C123.604,304.53,120,309.95,120,316c0,8.276,6.724,15,15,15c24.814,0,45,20.186,45,45C180,394.853,168.105,411.845,150.396,418.29    z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+</svg>
+</span>
+0.00 TRY</div><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" height="512px" viewBox="0 0 512 512" width="512px"><g><path
+d="m256 0c-141.164062 0-256 114.835938-256 256s114.835938 256 256 256 256-114.835938 256-256-114.835938-256-256-256zm121.75 388.414062c-4.160156 4.160157-9.621094 6.253907-15.082031 6.253907-5.460938 0-10.925781-2.09375-15.082031-6.253907l-106.667969-106.664062c-4.011719-3.988281-6.25-9.410156-6.25-15.082031v-138.667969c0-11.796875 9.554687-21.332031 21.332031-21.332031s21.332031 9.535156 21.332031 21.332031v129.835938l100.417969 100.414062c8.339844 8.34375 8.339844 21.824219 0 30.164062zm0 0" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C3"/></g> </svg>
+</span>
+1 Saat
+30 dakika</div></div><div
+class="how-to-desc"><div
+class="how-to-image">
+<picture>
+<img
+data-src="https://www.zarla.com/images/zarla-complete-turkish.jpg?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="GIMP&#039;te Logo Nasıl Oluşturulur?">
+</picture></div><p>GIMP'te profesyonel bir işletme logosu oluşturmak için 9 kolay adım.</p></div><div
+id="gimpte-logo-nasıl-oluşturulur-section1" class="how-to-section"><div
+class="section-title">
+<span>1.&nbsp;</span><h3 id=uygulamayi-indirin>Uygulamayı indirin.</h3></div><div
+id="gimpte-logo-nasıl-oluşturulur-section1-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.1&nbsp;</span><h4 id=gimp-org-039-a-gidin>GIMP.org&#039;a gidin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/Zarla-navigate-to-gimp-org-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="GIMP.org&#039;a gidin."></div></div><p><a
+href="https://www.gimp.org/">GIMP'in ana sayfasının</a> üst başlığından "DOWNLOAD"a tıklayın.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Doğru işletim sistemini seçtiğinizden ve ilgili linke tıkladığınızdan emin olun.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Uygulamayı bilgisayarınıza indirin.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>GIMP'in indirilmesi için diskinizde 200 MB'lik boş bir alan olmalıdır.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>GIMP'i çalıştırmak için bilgisayarınızın Intel Pentium 4 CPU veya eş değer bir işlemciye sahip olması yeterlidir.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Uygulamanın etkin bir şekilde çalışması için minimum 25 MB RAM gereklidir.</p></div></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section2" class="how-to-section"><div
+class="section-title">
+<span>2.&nbsp;</span><h3 id=baslarken>Başlarken.</h3></div><div
+id="gimpte-logo-nasıl-oluşturulur-section2-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.1&nbsp;</span><h4 id=yeni-bir-belge-olusturun>Yeni bir belge oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-yeni-bir-belge-olusturun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Yeni bir belge oluşturun."></div></div><p>GIMP'i başlatın. Ana menü çubuğundan "Dosya"ya tıklayın ve altta açılan menüden "Yeni"yi seçin ya da klavyenizde Ctrl/Cmd + N tuşlarına basın.</p></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section2-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.2&nbsp;</span><h4 id=goruntunun-boyutunu-ayarlayin>Görüntünün boyutunu ayarlayın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-goruntunun-boyutunu-ayarlayin-288x288-20221018_2022-10-18-075024_cyrv.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Görüntünün boyutunu ayarlayın."></div></div><p>Açılan pencereden "Genişlik" ve "Yükseklik" ayarlarını "1000 px"e getirin ve "Tamam"a tıklayın.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Ayrıca "Şablon"a tıkladığınızda açılan menüden önceden ayarlanmış görüntü boyutları arasından bir seçim yapabilirsiniz.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>"Gelişmiş Seçenekler"e tıkladığınızda açılan menüden "Doldur" kutusuna tıklayıp "Önalan rengi", "Saydamlık", "Desen" veya, bizim bu örnekte yaptığımız gibi, "Beyaz"ı seçerek arka plan rengini ayarlayabilirsiniz.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section2-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.3&nbsp;</span><h4 id=dosyayi-kaydedin>Dosyayı kaydedin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-dosyay%C4%B1-kaydedin-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Dosyayı kaydedin."></div></div><p>Yaptığınız düzenlemeleri kaybetmemeniz için GIMP görüntüsünü düzenli olarak kaydetmeniz önemlidir.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ana menüden "Dosya"ya gidin ve açılan menüden "Farklı Kaydet..."i seçin.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Görüntünüzü isimlendirin, dosyayı bilgisayarınızda nereye kaydetmek istediğinizi seçin ve "Kaydet"e tıklayın.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Çalışırken işlemlerinizi "Ctrl/Cmd + S" kısa yoluyla hızlı bir şekilde kaydedebilirsiniz.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section2-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.4&nbsp;</span><h4 id=kilavuzlar-olusturun>Kılavuzlar oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-k%C4%B1lavuzlar-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Kılavuzlar oluşturun."></div></div><p>Kılavuzlar, dosyanızdaki ögeleri otomatik olarak hizalamanıza yardımcı olur.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ana menü çubuğundan "Görüntü"ye tıklayın. "Kılavuzlar"ı bulun ve "Yeni Kılavuz (yüzde olarak)" seçeneğine tıklayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Yön"ü "Yatay", "Konum (% içinde)"yi ise "50,00" olarak ayarlayın ve "Tamam"a tıklayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Bu işlemi tekrarlayın. Bu kez "Yön"ü "Dikey", "Konum (% içinde)"yi "50,00" olarak ayarlayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ana menü çubuğundan "Görünüm"e tıklayın ve açılan menüden "Kılavuzlara Yasla"yı seçin.</p></div></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section3" class="how-to-section"><div
+class="section-title">
+<span>3.&nbsp;</span><h3 id=Sekiller-olusturma>Şekiller oluşturma.</h3></div><div
+id="gimpte-logo-nasıl-oluşturulur-section3-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.1&nbsp;</span><h4 id=yeni-bir-katman-olusturun>Yeni bir katman oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-yeni-bir-katman-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Yeni bir katman oluşturun."></div></div><p>Ana menü çubuğundan "Katman"a tıklayın ve açılan menüden "Yeni Katman"ı seçin ya da Shift + Ctrl/Cmd + N tuşlarına basın.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Katmanınızı "Ana Şekil" olarak adlandırın ve "Tamam"a tıklayın.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Katmanlar panosunun sol alt kısmında yer alan simgeye tıklayarak da yeni bir katman oluşturabilirsiniz.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section3-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.2&nbsp;</span><h4 id=elips-secim-aracini-secin>Elips Seçim Aracını seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-elips-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Elips Seçim Aracını seçin."></div></div><p>Sol üst köşede yer alan araçlar panosundan "Şekil Aracı"na sağ tıklayın ve "Elips Seçim"i seçin.</p></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section3-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.3&nbsp;</span><h4 id=Seklinizi-cizin>Şeklinizi çizin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-s%CC%A7eklinizi-c%CC%A7izin-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Şeklinizi çizin."></div></div><p>Şekli oluşturmak için tuvalin üzerine tıklayın ve sürükleyin.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Şeklin kenarındaki kutuları sürükleyerek elipsin boyutunu ayarlayabilirsiniz.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Görüntüye tıklayıp sürükleyin ve kılavuzlara göre hizalayın.</p></div></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section4" class="how-to-section"><div
+class="section-title">
+<span>4.&nbsp;</span><h3 id=renk-ekleme>Renk ekleme.</h3></div><div
+id="gimpte-logo-nasıl-oluşturulur-section4-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.1&nbsp;</span><h4 id=renk-gecisi-aracini-secin>Renk Geçişi Aracını seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-renk-gec%CC%A7is%CC%A7i-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Renk Geçişi Aracını seçin."></div></div><p>Sol üst köşede yer alan araçlar panelinden "Kovadan Dolum Aracı"na sağ tıklayın ve "Renk Geçişi"ni seçin.</p></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section4-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.2&nbsp;</span><h4 id=renk-gecisi-olusturun>Renk geçişi oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-renk-gec%CC%A7is%CC%A7i-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Renk geçişi oluşturun."></div></div><p>Renk geçişi oluşturmak için herhangi bir yöne tıklayıp sürükleyebilirsiniz. Biz bu örnekte aracı merkez kılavuzdan yukarı sürükleyerek dikey bir renk geçişi oluşturacağız.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Renk geçişi çizgisinin uzunluğu, renk geçişi spektrumun boyutunu belirleyecektir.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section4-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.3&nbsp;</span><h4 id=renk-gecisi-rengini-degistirin>Renk geçişi rengini değiştirin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-renk-gec%CC%A7is%CC%A7i-rengini-deg%CC%86is%CC%A7tirin-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Renk geçişi rengini değiştirin."></div></div><p>Sol menü çubuğundan "Önalan Rengi" bloğuna tıklayın ve renk geçişinin ilk rengini seçin.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Artalan Rengi" bloğuna tıklayın ve renk geçişinin ikinci rengini seçin.</p></div></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section5" class="how-to-section"><div
+class="section-title">
+<span>5.&nbsp;</span><h3 id=simge-olusturma>Simge oluşturma.</h3></div><div
+id="gimpte-logo-nasıl-oluşturulur-section5-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.1&nbsp;</span><h4 id=bir-kaynak-goruntu-kullanin>Bir kaynak görüntü kullanın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-bir-kaynak-go%CC%88ru%CC%88ntu%CC%88-kullan%C4%B1n-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Bir kaynak görüntü kullanın."></div></div><p>Simgenin şeklini oluşturmak için kılavuz olarak kullanabileceğiniz bir <a
+href="https://pixabay.com/vectors/green-leaf-leaves-1299703/">kaynak görüntü</a> indirin. Biz bu örnekte bir yaprak görseli kullanacağız.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>GIMP tuvali 1000 x 1000 px olduğu için 500 x 500 px, kaynak görüntü için yeterli bir büyüklüktür.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ana menü çubuğundan "Dosya"ya gidin. "Katman Olarak Aç..."ı seçin.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kaynak görüntüyü seçin ve "Aç"a tıklayın.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>GIMP'in görüntüyü uygun formata dönüştürmesi gerekebilir. Bunu yapmak için açılan pencereden "Dönüştür"e tıklayın.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Ayrıca görüntüyü GIMP projesinin üzerine sürükleyip bırakabilirsiniz.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kaynak görüntü katmanı seçiliyken katmanlar panosunun üst kısmından matlığı %50 olarak ayarlayın.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section5-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.2&nbsp;</span><h4 id=kaynak-goruntuyu-yeniden-boyutlandirin>Kaynak görüntüyü yeniden boyutlandırın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-kaynak-go%CC%88ru%CC%88ntu%CC%88yu%CC%88-yeniden-boyutland%C4%B1r%C4%B1n-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Kaynak görüntüyü yeniden boyutlandırın."></div></div><p>Kaynak görüntü katmanına sağ tıklayın ve açılan menüden "Katmanı Ölçekle..."yi seçin.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Görüntünün en-boy oranını koruması açısından "Genişlik" ve "Yükseklik" kutularının birbirine bağlı olduğundan emin olun.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Genişlik"i yaklaşık "450 px" olarak ayarlayın ve "Ölçekle"ye tıklayın.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Görüntünün boyutunu düzenlemek için "Genişlik" ya da "Yükseklik" kutuları üzerindeki "yukarı" ve aşağı" oklarını kullanın.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section5-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.3&nbsp;</span><h4 id=kaynak-goruntuyu-konumlandirin>Kaynak görüntüyü konumlandırın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-kaynak-go%CC%88ru%CC%88ntu%CC%88yu%CC%88-konumland%C4%B1r%C4%B1n-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Kaynak görüntüyü konumlandırın."></div></div><p>Sol üst köşede yer alan araçlar panosundan "Taşıma Aracı"nı seçin ya da M tuşuna basın.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kaynak görüntüye tıklayıp sürükleyerek elipsin üzerine konumlandırın.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section5-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.4&nbsp;</span><h4 id=yol-aracini-secin>Yol Aracını seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-yol-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Yol Aracını seçin."></div></div><p>Yeni bir katman oluşturun ve "Simge" olarak adlandırın. Ardından, sol üst köşede yer alan araçlar panosundan "Yol Aracı"na tıklayın ya da B tuşuna basın.</p></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section5-step5" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.5&nbsp;</span><h4 id=simgenin-yolunu-olusturun>Simgenin yolunu oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Simgenin yolunu oluşturun."></div></div><p>Başlangıç noktası seçin ve Yol Aracı ile dayanak noktası eklemek için tıklayın. Tekrar tıkladığınızda otomatik olarak düz bir çizgi oluşacak ve bu iki dayanak noktasını birbirine bağlayacaktır.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Düz çizginin ortasına tıklayın ve bir kavis oluşturmak için sol üst köşeye doğru sürükleyin.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Kavislerin genişliğini ayarlamak için turuncu teğet çizgilerini kullanın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Daha çok çizgi oluşturup kavisleştirerek işlemi tekrarlayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Onları bağlamak için mevcut dayanak noktasına tıkladığınızda Control/Command tuşlarına basılı tutun.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section5-step6" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.6&nbsp;</span><h4 id=simgenin-yolunu-duzenleyin>Simgenin yolunu düzenleyin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-refine-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Simgenin yolunu düzenleyin."></div></div><p>Yolun konumu ve kıvrımlarını düzenlemek için simgenin şekli içinize sinene kadar dayanak noktalarını ve kavis tutamaklarını uydurun.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Simgenin şeklini beğendiğinizde katmanlar panosundan ilgili göz simgesine tıklayarak kaynak görüntüyü gizleyebilirsiniz.</p></div></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section6" class="how-to-section"><div
+class="section-title">
+<span>6.&nbsp;</span><h3 id=simgeyi-tamamlama>Simgeyi tamamlama.</h3></div><div
+id="gimpte-logo-nasıl-oluşturulur-section6-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.1&nbsp;</span><h4 id=simge-icin-bir-darbe-olusturun>Simge için bir darbe oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-simge-ic%CC%A7in-bir-darbe-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Simge için bir darbe oluşturun."></div></div><p>"Önalan Rengi" kutusundan bir renk seçin. Biz bu örnekte önalan rengini beyaz olarak ayarladık.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ana hat seçeneklerinin açılması için sol menü sekmesinden "Yolu Darbele"ye tıklayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Darbe Çizgisi", "Düz Renk" ve "Kenar Yumuşatma" seçeneklerinin işaretli olduğundan emin olun.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Çizgi genişliği" kutusundan pikselleri düzenleyerek çizginin ağırlığını değiştirin.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ana hattı yola uygulamak için "Darbele"ye tıklayın.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>"Çizgi Biçemi" menüsünü genişleterek farklı çizgi seçenekleri ile denemeler yapabilirsiniz.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section6-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.2&nbsp;</span><h4 id=simge-icin-bir-doldurma-olusturun>Simge için bir doldurma oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-simge-ic%CC%A7in-bir-doldurma-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Simge için bir doldurma oluşturun."></div></div><p>Yeni bir katman yaratın ve "Simge Doldurma" olarak adlandırın. Simge için bir darbe oluşturduğumuz gibi aynı şekilde simgeyi bir renk ile de doldurabiliriz.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Önalan renginin beyaza ayarlı olduğundan emin olun.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Doldurma seçeneklerinin açılması için sol menü sekmesinden "Yolu Doldur"a tıklayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Düz Renk" ve "Kenar Yumuşatma" kutularını işaretleyin. Ardından, "Doldur"a tıklayın.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Ayrıca "Desen" kutusunu işaretleyerek simgeyi bir desenle de doldurabilirsiniz.</p></div></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section7" class="how-to-section"><div
+class="section-title">
+<span>7.&nbsp;</span><h3 id=Isletme-adini-ekleme>İşletme adını ekleme.</h3></div><div
+id="gimpte-logo-nasıl-oluşturulur-section7-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.1&nbsp;</span><h4 id=metin-aracini-secin>Metin Aracını seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/Zarla-select-the-text-tool-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Metin Aracını seçin."></div></div><p>Sol üst köşede yer alan araçlar panosundan "Metin Aracı"nı seçin ya da T tuşuna basın.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Metin kutusu oluşturmak için sayfanın herhangi bir yerine tıklayın ve işletme adınızı yazın. Metin için otomatik olarak yeni bir katman oluşacaktır.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section7-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.2&nbsp;</span><h4 id=metnin-rengini-degistirin>Metnin rengini değiştirin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-metnin-rengini-deg%CC%86is%CC%A7tirin-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Metnin rengini değiştirin."></div></div><p>Metnin tamamını seçin ve metin kutusunun üzerinde yer alan pencerenin sağ alt köşesindeki renk bloğuna tıklayarak metnin rengini değiştirin.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Bir harfi seçip bir renk belirleyerek belirli bir harfin rengini değiştirebilirsiniz.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section7-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.3&nbsp;</span><h4 id=yazi-tipini-degistirin>Yazı tipini değiştirin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-yaz%C4%B1-tipini-deg%CC%86is%CC%A7tirin-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Yazı tipini değiştirin."></div></div><p>Sol menü sekmesinden açılan menüdeki "Yazı tipi" kısmından bir yazı tipi seçerek metninizin görüntüsünü değiştirin.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Bu menü sekmesinde yer alan "Boyut" kutusunda düzenlemeler yaparak metnin boyutunu da değiştirebilirsiniz.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Bir harfi seçip boyutunu belirleyerek belirli bir harfin boyutunu değiştirebilirsiniz.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section7-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.4&nbsp;</span><h4 id=Isletme-adini-konumlandirin>İşletme adını konumlandırın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/Zarla-position-the-business-name-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="İşletme adını konumlandırın."></div></div><p>Sol üst köşede yer alan araçlar panosundan "Taşıma Aracı"nı seçin ya da M tuşuna basın.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>İşletme adını konumlandırmak için metnin üzerine tıklayın.</p></div></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section8" class="how-to-section"><div
+class="section-title">
+<span>8.&nbsp;</span><h3 id=varyasyonlar-olusturma>Varyasyonlar oluşturma.</h3></div><div
+id="gimpte-logo-nasıl-oluşturulur-section8-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>8.1&nbsp;</span><h4 id=tasariminizin-farkli-stillerini-karsilastirin>Tasarımınızın farklı stillerini karşılaştırın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-compare-different-styles-of-your-design-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Tasarımınızın farklı stillerini karşılaştırın."></div></div><p>Logonuzun genel yapısını tamamladıktan sonra detaylarla oynamaya başlayabilirsiniz. Örneğin; doldurma katmanının yanında yer alan göz simgesine tıklayarak onu saklayabilir, simgenin sadece darbe yolunu bırakabilirsiniz.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Logonuzun görüntüsünü geliştirmek için farklı arka plan renkleri, şekil ana hatları, yazı tipleri ve düzenlerini deneyin.</p></div><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Bu, logonuzun farklı stillerde nasıl göründüğüne dair size fikir verir ve nihai kararı almanıza yardımcı olur.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section8-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>8.2&nbsp;</span><h4 id=orijinal-yolun-kopyalarini-olusturun>Orijinal yolun kopyalarını oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-orijinal-yolun-kopyas%C4%B1n%C4%B1-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Orijinal yolun kopyalarını oluşturun."></div></div><p>Yeni bir katman oluşturun ve "2. Simge Darbesi" olarak adlandırın.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Katmanlar panosunun üzerinde yer alan "Yollar" sekmesine tıklayın ve simgenin yol katmanına çift tıklayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Şimdi <a
+href="#simgeyi-tamamlama">6. adımda</a> belirtilen işlemin aynısını uygulayarak yeni bir darbe oluşturabilir, simgenizi farklı bir renk ile doldurabilirsiniz.</p></div></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section9" class="how-to-section"><div
+class="section-title">
+<span>9.&nbsp;</span><h3 id=bitirirken>Bitirirken.</h3></div><div
+id="gimpte-logo-nasıl-oluşturulur-section9-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.1&nbsp;</span><h4 id=logonuzu-disa-aktarin>Logonuzu dışa aktarın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-logonuzu-d%C4%B1s%CC%A7a-aktar%C4%B1n-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Logonuzu dışa aktarın."></div></div><p>İstediğiniz logo tasarımını oluşturduğunuzda çeşitli dosya uzantılarında dışa aktarabilirsiniz.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ana menü çubuğundan "Dosya"ya tıklayın ve "Dışa Farklı Aktar..."ı seçin.</p></div></div></div><div
+id="gimpte-logo-nasıl-oluşturulur-section9-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.2&nbsp;</span><h4 id=bir-dosya-uzantisi-secin>Bir dosya uzantısı seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-bir-dosya-uzant%C4%B1s%C4%B1-sec%CC%A7in-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Bir dosya uzantısı seçin."></div></div><p>Çeşitli görüntü uzantılarını görüntülemek için açılan menüden "Dosya Türünü Seç (Uzantıya Göre)" seçeneğini genişletin.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Dosyanın ismini ve bilgisayarınızdaki hedef klasörünü sıralayın.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>"PNG" ve "GIF", yüksek çözünürlüklü uzantılardır ve logonuzun arka planını transparan olarak saklayacaktır.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>"JPG", görüntüyü daha küçük bir dosya boyutuna sıkıştırmak için algoritmalar kullanır ve arka planı düz tutacaktır.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Bir dosya uzantısı seçtikten sonra sağ alt köşeden "Dışa Aktar"a tıklayın.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"http://schema.org","@type":"HowTo","name":"GIMPte Logo Nasl Oluturulur","description":"<p>GIMP'te profesyonel bir i\u015fletme logosu olu\u015fturmak i\u00e7in 9 kolay ad\u0131m.<\/p>\n","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-complete-turkish.jpg?crop=1:1,smart&width=250&dpr=2","height":"800","width":"800"},"estimatedCost":{"@type":"MonetaryAmount","currency":"TRY","value":"0.00"},"totalTime":"PT1H30M","step":[{"@type":"HowToSection","position":"1","name":"<p>Uygulamay\u0131 indirin.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>GIMP.org'a gidin.<\/p>\n","text":"<p><a href=\"https:\/\/www.gimp.org\/\">GIMP'in ana sayfas\u0131n\u0131n<\/a> \u00fcst ba\u015fl\u0131\u011f\u0131ndan \"DOWNLOAD\"a t\u0131klay\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section1-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-navigate-to-gimp-org-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Do\u011fru i\u015fletim sistemini se\u00e7ti\u011finizden ve ilgili linke t\u0131klad\u0131\u011f\u0131n\u0131zdan emin olun.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Uygulamay\u0131 bilgisayar\u0131n\u0131za indirin.<\/p>\n"},{"@type":"HowToTip","text":"<p>GIMP'in indirilmesi i\u00e7in diskinizde 200 MB'lik bo\u015f bir alan olmal\u0131d\u0131r.<\/p>\n"},{"@type":"HowToTip","text":"<p>GIMP'i \u00e7al\u0131\u015ft\u0131rmak i\u00e7in bilgisayar\u0131n\u0131z\u0131n Intel Pentium 4 CPU veya e\u015f de\u011fer bir i\u015flemciye sahip olmas\u0131 yeterlidir.<\/p>\n"},{"@type":"HowToTip","text":"<p>Uygulaman\u0131n etkin bir \u015fekilde \u00e7al\u0131\u015fmas\u0131 i\u00e7in minimum 25 MB RAM gereklidir.<\/p>\n"}]}]},{"@type":"HowToSection","position":"2","name":"<p>Ba\u015flarken.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Yeni bir belge olu\u015fturun.<\/p>\n","text":"<p>GIMP'i ba\u015flat\u0131n. Ana men\u00fc \u00e7ubu\u011fundan \"Dosya\"ya t\u0131klay\u0131n ve altta a\u00e7\u0131lan men\u00fcden \"Yeni\"yi se\u00e7in ya da klavyenizde Ctrl\/Cmd + N tu\u015flar\u0131na bas\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section2-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-yeni-bir-belge-olusturun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>G\u00f6r\u00fcnt\u00fcn\u00fcn boyutunu ayarlay\u0131n.<\/p>\n","text":"<p>A\u00e7\u0131lan pencereden \"Geni\u015flik\" ve \"Y\u00fckseklik\" ayarlar\u0131n\u0131 \"1000 px\"e getirin ve \"Tamam\"a t\u0131klay\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section2-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-goruntunun-boyutunu-ayarlayin-288x288-20221018_2022-10-18-075024_cyrv.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Ayr\u0131ca \"\u015eablon\"a t\u0131klad\u0131\u011f\u0131n\u0131zda a\u00e7\u0131lan men\u00fcden \u00f6nceden ayarlanm\u0131\u015f g\u00f6r\u00fcnt\u00fc boyutlar\u0131 aras\u0131ndan bir se\u00e7im yapabilirsiniz.<\/p>\n"},{"@type":"HowToTip","text":"<p>\"Geli\u015fmi\u015f Se\u00e7enekler\"e t\u0131klad\u0131\u011f\u0131n\u0131zda a\u00e7\u0131lan men\u00fcden \"Doldur\" kutusuna t\u0131klay\u0131p \"\u00d6nalan rengi\", \"Saydaml\u0131k\", \"Desen\" veya, bizim bu \u00f6rnekte yapt\u0131\u011f\u0131m\u0131z gibi, \"Beyaz\"\u0131 se\u00e7erek arka plan rengini ayarlayabilirsiniz.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Dosyay\u0131 kaydedin.<\/p>\n","text":"<p>Yapt\u0131\u011f\u0131n\u0131z d\u00fczenlemeleri kaybetmemeniz i\u00e7in GIMP g\u00f6r\u00fcnt\u00fcs\u00fcn\u00fc d\u00fczenli olarak kaydetmeniz \u00f6nemlidir.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section2-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-dosyay%C4%B1-kaydedin-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Ana men\u00fcden \"Dosya\"ya gidin ve a\u00e7\u0131lan men\u00fcden \"Farkl\u0131 Kaydet...\"i se\u00e7in.<\/p>\n"},{"@type":"HowToDirection","text":"<p>G\u00f6r\u00fcnt\u00fcn\u00fcz\u00fc isimlendirin, dosyay\u0131 bilgisayar\u0131n\u0131zda nereye kaydetmek istedi\u011finizi se\u00e7in ve \"Kaydet\"e t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToTip","text":"<p>\u00c7al\u0131\u015f\u0131rken i\u015flemlerinizi \"Ctrl\/Cmd + S\" k\u0131sa yoluyla h\u0131zl\u0131 bir \u015fekilde kaydedebilirsiniz.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>K\u0131lavuzlar olu\u015fturun.<\/p>\n","text":"<p>K\u0131lavuzlar, dosyan\u0131zdaki \u00f6geleri otomatik olarak hizalaman\u0131za yard\u0131mc\u0131 olur.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section2-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-k%C4%B1lavuzlar-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Ana men\u00fc \u00e7ubu\u011fundan \"G\u00f6r\u00fcnt\u00fc\"ye t\u0131klay\u0131n. \"K\u0131lavuzlar\"\u0131 bulun ve \"Yeni K\u0131lavuz (y\u00fczde olarak)\" se\u00e7ene\u011fine t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\"Y\u00f6n\"\u00fc \"Yatay\", \"Konum (% i\u00e7inde)\"yi ise \"50,00\" olarak ayarlay\u0131n ve \"Tamam\"a t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Bu i\u015flemi tekrarlay\u0131n. Bu kez \"Y\u00f6n\"\u00fc \"Dikey\", \"Konum (% i\u00e7inde)\"yi \"50,00\" olarak ayarlay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Ana men\u00fc \u00e7ubu\u011fundan \"G\u00f6r\u00fcn\u00fcm\"e t\u0131klay\u0131n ve a\u00e7\u0131lan men\u00fcden \"K\u0131lavuzlara Yasla\"y\u0131 se\u00e7in.<\/p>\n"}]}]},{"@type":"HowToSection","position":"3","name":"<p>\u015eekiller olu\u015fturma.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Yeni bir katman olu\u015fturun.<\/p>\n","text":"<p>Ana men\u00fc \u00e7ubu\u011fundan \"Katman\"a t\u0131klay\u0131n ve a\u00e7\u0131lan men\u00fcden \"Yeni Katman\"\u0131 se\u00e7in ya da Shift + Ctrl\/Cmd + N tu\u015flar\u0131na bas\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section3-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-yeni-bir-katman-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Katman\u0131n\u0131z\u0131 \"Ana \u015eekil\" olarak adland\u0131r\u0131n ve \"Tamam\"a t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToTip","text":"<p>Katmanlar panosunun sol alt k\u0131sm\u0131nda yer alan simgeye t\u0131klayarak da yeni bir katman olu\u015fturabilirsiniz.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Elips Se\u00e7im Arac\u0131n\u0131 se\u00e7in.<\/p>\n","text":"<p>Sol \u00fcst k\u00f6\u015fede yer alan ara\u00e7lar panosundan \"\u015eekil Arac\u0131\"na sa\u011f t\u0131klay\u0131n ve \"Elips Se\u00e7im\"i se\u00e7in.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section3-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-elips-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>\u015eeklinizi \u00e7izin.<\/p>\n","text":"<p>\u015eekli olu\u015fturmak i\u00e7in tuvalin \u00fczerine t\u0131klay\u0131n ve s\u00fcr\u00fckleyin.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section3-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-s%CC%A7eklinizi-c%CC%A7izin-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>\u015eeklin kenar\u0131ndaki kutular\u0131 s\u00fcr\u00fckleyerek elipsin boyutunu ayarlayabilirsiniz.<\/p>\n"},{"@type":"HowToDirection","text":"<p>G\u00f6r\u00fcnt\u00fcye t\u0131klay\u0131p s\u00fcr\u00fckleyin ve k\u0131lavuzlara g\u00f6re hizalay\u0131n.<\/p>\n"}]}]},{"@type":"HowToSection","position":"4","name":"<p>Renk ekleme.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Renk Ge\u00e7i\u015fi Arac\u0131n\u0131 se\u00e7in.<\/p>\n","text":"<p>Sol \u00fcst k\u00f6\u015fede yer alan ara\u00e7lar panelinden \"Kovadan Dolum Arac\u0131\"na sa\u011f t\u0131klay\u0131n ve \"Renk Ge\u00e7i\u015fi\"ni se\u00e7in.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section4-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-renk-gec%CC%A7is%CC%A7i-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Renk ge\u00e7i\u015fi olu\u015fturun.<\/p>\n","text":"<p>Renk ge\u00e7i\u015fi olu\u015fturmak i\u00e7in herhangi bir y\u00f6ne t\u0131klay\u0131p s\u00fcr\u00fckleyebilirsiniz. Biz bu \u00f6rnekte arac\u0131 merkez k\u0131lavuzdan yukar\u0131 s\u00fcr\u00fckleyerek dikey bir renk ge\u00e7i\u015fi olu\u015fturaca\u011f\u0131z.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section4-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-renk-gec%CC%A7is%CC%A7i-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Renk ge\u00e7i\u015fi \u00e7izgisinin uzunlu\u011fu, renk ge\u00e7i\u015fi spektrumun boyutunu belirleyecektir.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Renk ge\u00e7i\u015fi rengini de\u011fi\u015ftirin.<\/p>\n","text":"<p>Sol men\u00fc \u00e7ubu\u011fundan \"\u00d6nalan Rengi\" blo\u011funa t\u0131klay\u0131n ve renk ge\u00e7i\u015finin ilk rengini se\u00e7in.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section4-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-renk-gec%CC%A7is%CC%A7i-rengini-deg%CC%86is%CC%A7tirin-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>\"Artalan Rengi\" blo\u011funa t\u0131klay\u0131n ve renk ge\u00e7i\u015finin ikinci rengini se\u00e7in.<\/p>\n"}]}]},{"@type":"HowToSection","position":"5","name":"<p>Simge olu\u015fturma.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Bir kaynak g\u00f6r\u00fcnt\u00fc kullan\u0131n.<\/p>\n","text":"<p>Simgenin \u015feklini olu\u015fturmak i\u00e7in k\u0131lavuz olarak kullanabilece\u011finiz bir <a href=\"https:\/\/pixabay.com\/vectors\/green-leaf-leaves-1299703\/\">kaynak g\u00f6r\u00fcnt\u00fc<\/a> indirin. Biz bu \u00f6rnekte bir yaprak g\u00f6rseli kullanaca\u011f\u0131z.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section5-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-bir-kaynak-go%CC%88ru%CC%88ntu%CC%88-kullan%C4%B1n-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>GIMP tuvali 1000 x 1000 px oldu\u011fu i\u00e7in 500 x 500 px, kaynak g\u00f6r\u00fcnt\u00fc i\u00e7in yeterli bir b\u00fcy\u00fckl\u00fckt\u00fcr.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Ana men\u00fc \u00e7ubu\u011fundan \"Dosya\"ya gidin. \"Katman Olarak A\u00e7...\"\u0131 se\u00e7in.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Kaynak g\u00f6r\u00fcnt\u00fcy\u00fc se\u00e7in ve \"A\u00e7\"a t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToTip","text":"<p>GIMP'in g\u00f6r\u00fcnt\u00fcy\u00fc uygun formata d\u00f6n\u00fc\u015ft\u00fcrmesi gerekebilir. Bunu yapmak i\u00e7in a\u00e7\u0131lan pencereden \"D\u00f6n\u00fc\u015ft\u00fcr\"e t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToTip","text":"<p>Ayr\u0131ca g\u00f6r\u00fcnt\u00fcy\u00fc GIMP projesinin \u00fczerine s\u00fcr\u00fckleyip b\u0131rakabilirsiniz.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Kaynak g\u00f6r\u00fcnt\u00fc katman\u0131 se\u00e7iliyken katmanlar panosunun \u00fcst k\u0131sm\u0131ndan matl\u0131\u011f\u0131 %50 olarak ayarlay\u0131n.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Kaynak g\u00f6r\u00fcnt\u00fcy\u00fc yeniden boyutland\u0131r\u0131n.<\/p>\n","text":"<p>Kaynak g\u00f6r\u00fcnt\u00fc katman\u0131na sa\u011f t\u0131klay\u0131n ve a\u00e7\u0131lan men\u00fcden \"Katman\u0131 \u00d6l\u00e7ekle...\"yi se\u00e7in.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section5-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-kaynak-go%CC%88ru%CC%88ntu%CC%88yu%CC%88-yeniden-boyutland%C4%B1r%C4%B1n-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>G\u00f6r\u00fcnt\u00fcn\u00fcn en-boy oran\u0131n\u0131 korumas\u0131 a\u00e7\u0131s\u0131ndan \"Geni\u015flik\" ve \"Y\u00fckseklik\" kutular\u0131n\u0131n birbirine ba\u011fl\u0131 oldu\u011fundan emin olun.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\"Geni\u015flik\"i yakla\u015f\u0131k \"450 px\" olarak ayarlay\u0131n ve \"\u00d6l\u00e7ekle\"ye t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToTip","text":"<p>G\u00f6r\u00fcnt\u00fcn\u00fcn boyutunu d\u00fczenlemek i\u00e7in \"Geni\u015flik\" ya da \"Y\u00fckseklik\" kutular\u0131 \u00fczerindeki \"yukar\u0131\" ve a\u015fa\u011f\u0131\" oklar\u0131n\u0131 kullan\u0131n.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Kaynak g\u00f6r\u00fcnt\u00fcy\u00fc konumland\u0131r\u0131n.<\/p>\n","text":"<p>Sol \u00fcst k\u00f6\u015fede yer alan ara\u00e7lar panosundan \"Ta\u015f\u0131ma Arac\u0131\"n\u0131 se\u00e7in ya da M tu\u015funa bas\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section5-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-kaynak-go%CC%88ru%CC%88ntu%CC%88yu%CC%88-konumland%C4%B1r%C4%B1n-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Kaynak g\u00f6r\u00fcnt\u00fcye t\u0131klay\u0131p s\u00fcr\u00fckleyerek elipsin \u00fczerine konumland\u0131r\u0131n.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Yol Arac\u0131n\u0131 se\u00e7in.<\/p>\n","text":"<p>Yeni bir katman olu\u015fturun ve \"Simge\" olarak adland\u0131r\u0131n. Ard\u0131ndan, sol \u00fcst k\u00f6\u015fede yer alan ara\u00e7lar panosundan \"Yol Arac\u0131\"na t\u0131klay\u0131n ya da B tu\u015funa bas\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section5-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-yol-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"5","name":"<p>Simgenin yolunu olu\u015fturun.<\/p>\n","text":"<p>Ba\u015flang\u0131\u00e7 noktas\u0131 se\u00e7in ve Yol Arac\u0131 ile dayanak noktas\u0131 eklemek i\u00e7in t\u0131klay\u0131n. Tekrar t\u0131klad\u0131\u011f\u0131n\u0131zda otomatik olarak d\u00fcz bir \u00e7izgi olu\u015facak ve bu iki dayanak noktas\u0131n\u0131 birbirine ba\u011flayacakt\u0131r.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section5-step5","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>D\u00fcz \u00e7izginin ortas\u0131na t\u0131klay\u0131n ve bir kavis olu\u015fturmak i\u00e7in sol \u00fcst k\u00f6\u015feye do\u011fru s\u00fcr\u00fckleyin.<\/p>\n"},{"@type":"HowToTip","text":"<p>Kavislerin geni\u015fli\u011fini ayarlamak i\u00e7in turuncu te\u011fet \u00e7izgilerini kullan\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Daha \u00e7ok \u00e7izgi olu\u015fturup kavisle\u015ftirerek i\u015flemi tekrarlay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Onlar\u0131 ba\u011flamak i\u00e7in mevcut dayanak noktas\u0131na t\u0131klad\u0131\u011f\u0131n\u0131zda Control\/Command tu\u015flar\u0131na bas\u0131l\u0131 tutun.<\/p>\n"}]},{"@type":"HowToStep","position":"6","name":"<p>Simgenin yolunu d\u00fczenleyin.<\/p>\n","text":"<p>Yolun konumu ve k\u0131vr\u0131mlar\u0131n\u0131 d\u00fczenlemek i\u00e7in simgenin \u015fekli i\u00e7inize sinene kadar dayanak noktalar\u0131n\u0131 ve kavis tutamaklar\u0131n\u0131 uydurun.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section5-step6","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-refine-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Simgenin \u015feklini be\u011fendi\u011finizde katmanlar panosundan ilgili g\u00f6z simgesine t\u0131klayarak kaynak g\u00f6r\u00fcnt\u00fcy\u00fc gizleyebilirsiniz.<\/p>\n"}]}]},{"@type":"HowToSection","position":"6","name":"<p>Simgeyi tamamlama.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Simge i\u00e7in bir darbe olu\u015fturun.<\/p>\n","text":"<p>\"\u00d6nalan Rengi\" kutusundan bir renk se\u00e7in. Biz bu \u00f6rnekte \u00f6nalan rengini beyaz olarak ayarlad\u0131k.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section6-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-simge-ic%CC%A7in-bir-darbe-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Ana hat se\u00e7eneklerinin a\u00e7\u0131lmas\u0131 i\u00e7in sol men\u00fc sekmesinden \"Yolu Darbele\"ye t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\"Darbe \u00c7izgisi\", \"D\u00fcz Renk\" ve \"Kenar Yumu\u015fatma\" se\u00e7eneklerinin i\u015faretli oldu\u011fundan emin olun.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\"\u00c7izgi geni\u015fli\u011fi\" kutusundan pikselleri d\u00fczenleyerek \u00e7izginin a\u011f\u0131rl\u0131\u011f\u0131n\u0131 de\u011fi\u015ftirin.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Ana hatt\u0131 yola uygulamak i\u00e7in \"Darbele\"ye t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToTip","text":"<p>\"\u00c7izgi Bi\u00e7emi\" men\u00fcs\u00fcn\u00fc geni\u015fleterek farkl\u0131 \u00e7izgi se\u00e7enekleri ile denemeler yapabilirsiniz.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Simge i\u00e7in bir doldurma olu\u015fturun.<\/p>\n","text":"<p>Yeni bir katman yarat\u0131n ve \"Simge Doldurma\" olarak adland\u0131r\u0131n. Simge i\u00e7in bir darbe olu\u015fturdu\u011fumuz gibi ayn\u0131 \u015fekilde simgeyi bir renk ile de doldurabiliriz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section6-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-simge-ic%CC%A7in-bir-doldurma-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>\u00d6nalan renginin beyaza ayarl\u0131 oldu\u011fundan emin olun.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Doldurma se\u00e7eneklerinin a\u00e7\u0131lmas\u0131 i\u00e7in sol men\u00fc sekmesinden \"Yolu Doldur\"a t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\"D\u00fcz Renk\" ve \"Kenar Yumu\u015fatma\" kutular\u0131n\u0131 i\u015faretleyin. Ard\u0131ndan, \"Doldur\"a t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToTip","text":"<p>Ayr\u0131ca \"Desen\" kutusunu i\u015faretleyerek simgeyi bir desenle de doldurabilirsiniz.<\/p>\n"}]}]},{"@type":"HowToSection","position":"7","name":"<p>\u0130\u015fletme ad\u0131n\u0131 ekleme.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Metin Arac\u0131n\u0131 se\u00e7in.<\/p>\n","text":"<p>Sol \u00fcst k\u00f6\u015fede yer alan ara\u00e7lar panosundan \"Metin Arac\u0131\"n\u0131 se\u00e7in ya da T tu\u015funa bas\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section7-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-select-the-text-tool-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Metin kutusu olu\u015fturmak i\u00e7in sayfan\u0131n herhangi bir yerine t\u0131klay\u0131n ve i\u015fletme ad\u0131n\u0131z\u0131 yaz\u0131n. Metin i\u00e7in otomatik olarak yeni bir katman olu\u015facakt\u0131r.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Metnin rengini de\u011fi\u015ftirin.<\/p>\n","text":"<p>Metnin tamam\u0131n\u0131 se\u00e7in ve metin kutusunun \u00fczerinde yer alan pencerenin sa\u011f alt k\u00f6\u015fesindeki renk blo\u011funa t\u0131klayarak metnin rengini de\u011fi\u015ftirin.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section7-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-metnin-rengini-deg%CC%86is%CC%A7tirin-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Bir harfi se\u00e7ip bir renk belirleyerek belirli bir harfin rengini de\u011fi\u015ftirebilirsiniz.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Yaz\u0131 tipini de\u011fi\u015ftirin.<\/p>\n","text":"<p>Sol men\u00fc sekmesinden a\u00e7\u0131lan men\u00fcdeki \"Yaz\u0131 tipi\" k\u0131sm\u0131ndan bir yaz\u0131 tipi se\u00e7erek metninizin g\u00f6r\u00fcnt\u00fcs\u00fcn\u00fc de\u011fi\u015ftirin.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section7-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-yaz%C4%B1-tipini-deg%CC%86is%CC%A7tirin-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Bu men\u00fc sekmesinde yer alan \"Boyut\" kutusunda d\u00fczenlemeler yaparak metnin boyutunu da de\u011fi\u015ftirebilirsiniz.<\/p>\n"},{"@type":"HowToTip","text":"<p>Bir harfi se\u00e7ip boyutunu belirleyerek belirli bir harfin boyutunu de\u011fi\u015ftirebilirsiniz.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>\u0130\u015fletme ad\u0131n\u0131 konumland\u0131r\u0131n.<\/p>\n","text":"<p>Sol \u00fcst k\u00f6\u015fede yer alan ara\u00e7lar panosundan \"Ta\u015f\u0131ma Arac\u0131\"n\u0131 se\u00e7in ya da M tu\u015funa bas\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section7-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-position-the-business-name-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>\u0130\u015fletme ad\u0131n\u0131 konumland\u0131rmak i\u00e7in metnin \u00fczerine t\u0131klay\u0131n.<\/p>\n"}]}]},{"@type":"HowToSection","position":"8","name":"<p>Varyasyonlar olu\u015fturma.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Tasar\u0131m\u0131n\u0131z\u0131n farkl\u0131 stillerini kar\u015f\u0131la\u015ft\u0131r\u0131n.<\/p>\n","text":"<p>Logonuzun genel yap\u0131s\u0131n\u0131 tamamlad\u0131ktan sonra detaylarla oynamaya ba\u015flayabilirsiniz. \u00d6rne\u011fin; doldurma katman\u0131n\u0131n yan\u0131nda yer alan g\u00f6z simgesine t\u0131klayarak onu saklayabilir, simgenin sadece darbe yolunu b\u0131rakabilirsiniz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section8-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-compare-different-styles-of-your-design-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Logonuzun g\u00f6r\u00fcnt\u00fcs\u00fcn\u00fc geli\u015ftirmek i\u00e7in farkl\u0131 arka plan renkleri, \u015fekil ana hatlar\u0131, yaz\u0131 tipleri ve d\u00fczenlerini deneyin.<\/p>\n"},{"@type":"HowToTip","text":"<p>Bu, logonuzun farkl\u0131 stillerde nas\u0131l g\u00f6r\u00fcnd\u00fc\u011f\u00fcne dair size fikir verir ve nihai karar\u0131 alman\u0131za yard\u0131mc\u0131 olur.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Orijinal yolun kopyalar\u0131n\u0131 olu\u015fturun.<\/p>\n","text":"<p>Yeni bir katman olu\u015fturun ve \"2. Simge Darbesi\" olarak adland\u0131r\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section8-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-orijinal-yolun-kopyas%C4%B1n%C4%B1-olus%CC%A7turun-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Katmanlar panosunun \u00fczerinde yer alan \"Yollar\" sekmesine t\u0131klay\u0131n ve simgenin yol katman\u0131na \u00e7ift t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\u015eimdi <a href=\"#simgeyi-tamamlama\">6. ad\u0131mda<\/a> belirtilen i\u015flemin ayn\u0131s\u0131n\u0131 uygulayarak yeni bir darbe olu\u015fturabilir, simgenizi farkl\u0131 bir renk ile doldurabilirsiniz.<\/p>\n"}]}]},{"@type":"HowToSection","position":"9","name":"<p>Bitirirken.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Logonuzu d\u0131\u015fa aktar\u0131n.<\/p>\n","text":"<p>\u0130stedi\u011finiz logo tasar\u0131m\u0131n\u0131 olu\u015fturdu\u011funuzda \u00e7e\u015fitli dosya uzant\u0131lar\u0131nda d\u0131\u015fa aktarabilirsiniz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section9-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-logonuzu-d%C4%B1s%CC%A7a-aktar%C4%B1n-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Ana men\u00fc \u00e7ubu\u011fundan \"Dosya\"ya t\u0131klay\u0131n ve \"D\u0131\u015fa Farkl\u0131 Aktar...\"\u0131 se\u00e7in.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Bir dosya uzant\u0131s\u0131 se\u00e7in.<\/p>\n","text":"<p>\u00c7e\u015fitli g\u00f6r\u00fcnt\u00fc uzant\u0131lar\u0131n\u0131 g\u00f6r\u00fcnt\u00fclemek i\u00e7in a\u00e7\u0131lan men\u00fcden \"Dosya T\u00fcr\u00fcn\u00fc Se\u00e7 (Uzant\u0131ya G\u00f6re)\" se\u00e7ene\u011fini geni\u015fletin.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur#gimpte-logo-nasıl-oluşturulur-section9-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-bir-dosya-uzant%C4%B1s%C4%B1-sec%CC%A7in-288x288-20220713.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Dosyan\u0131n ismini ve bilgisayar\u0131n\u0131zdaki hedef klas\u00f6r\u00fcn\u00fc s\u0131ralay\u0131n.<\/p>\n"},{"@type":"HowToTip","text":"<p>\"PNG\" ve \"GIF\", y\u00fcksek \u00e7\u00f6z\u00fcn\u00fcrl\u00fckl\u00fc uzant\u0131lard\u0131r ve logonuzun arka plan\u0131n\u0131 transparan olarak saklayacakt\u0131r.<\/p>\n"},{"@type":"HowToTip","text":"<p>\"JPG\", g\u00f6r\u00fcnt\u00fcy\u00fc daha k\u00fc\u00e7\u00fck bir dosya boyutuna s\u0131k\u0131\u015ft\u0131rmak i\u00e7in algoritmalar kullan\u0131r ve arka plan\u0131 d\u00fcz tutacakt\u0131r.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Bir dosya uzant\u0131s\u0131 se\u00e7tikten sonra sa\u011f alt k\u00f6\u015feden \"D\u0131\u015fa Aktar\"a t\u0131klay\u0131n.<\/p>\n"}]}]}]}</script> <div
+class="block block-promote"><div
+class="card"><div
+class="row"><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/microsoft-wordde-logo-nas%C4%B1l-olu%C5%9Fturulur">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-create-a-logo-in-ms-word-2400x2400-20210907_2021-09-07-065541_yktz.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Microsoft Word&#039;de Logo Nasıl Oluşturulur?" />
+</picture>
+</a></div><div
+class="card-body"><p
+class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/microsoft-wordde-logo-nas%C4%B1l-olu%C5%9Fturulur">Microsoft Word&#039;de Logo Nasıl Oluşturulur?</a></p><div
+class="card-text">Adım adım rehberimiz ile Microsoft Word&#039;de işletme logosu nasıl oluşturulur öğrenin.</div></div></div></div></div><div
+class="block"><h2 id=sss>SSS:</h2><h3 id=gIMPte-logo-nasil-olustururum>GIMP'te logo nasıl oluştururum?</h3><p><a
+href="#gimp-039-te-logo-nasil-olusturulur">Adım adım rehberimizde</a> yer alan talimatları takip ederek GIMP'te kendi logonuzu oluşturabilirsiniz.</p><h3 id=gIMPte-tasarim-nasil-olusturulur>GIMP'te tasarım nasıl oluşturulur?</h3><ol><li><a
+href="#uygulamayi-indirin">Uygulamayı indirin</a>.</li><li><a
+href="#baslarken">GIMP'te yeni bir görüntü oluşturun</a>.</li><li><a
+href="#Sekiller-olusturma">Bir şekil oluşturun</a>.</li><li><a
+href="#renk-ekleme">Tasarımı renklendirin</a>.</li><li><a
+href="#simge-olusturma">Bir simge oluşturun</a>.</li><li><a
+href="#simgeyi-tamamlama">Simgeyi tamamlayın</a>.</li><li><a
+href="#Isletme-adini-ekleme">İşletme adınızı ekleyin</a>.</li><li><a
+href="#varyasyonlar-olusturma">Logonuzun farklı varyasyonlarını oluşturun</a>.</li><li><a
+href="#bitirirken">Logonuzu dışa aktarın</a>.</li></ol><h3 id=gIMPte-youTube-logosu-nasil-olustururum>GIMP'te YouTube logosu nasıl oluştururum?</h3><ol><li>Ürettiğiniz içeriğin türünü ve hedef pazarınızı düşünün.</li><li>Mevcut YouTube logolarından ilham alın.</li><li>GIMP'i indirin ve <a
+href="#gimp-039-te-logo-nasil-olusturulur">adım adım rehberimizde</a> yer alan talimatları takip ederek bir logo oluşturun.</li><li>Logonuzu arkadaşlarınız ve ailenizle paylaşarak geri bildirimlerini alın.</li><li>Geri bildirimlere göre tasarımı geliştirin ve dışa aktarın.</li></ol><h3 id=gIMPte-logomu-hangi-boyutta-olusturmaliyim>GIMP'te logomu hangi boyutta oluşturmalıyım?</h3><p>GIMP, tarama tabanlı bir tasarım uygulamasıdır ve görüntüleri ölçeklendirmek kalite kaybına neden olabilir. Bu sebeple logonuz için görüntü ne kadar büyük olursa o kadar iyi olur. İşi garantiye almak için minimum 1.000 x 1.000 piksel öneriyoruz.</p><h3 id=gimp-logolar-icin-iyi-mi>GIMP logolar için iyi mi?</h3><p>Adobe Illustrator gibi vektör tabanlı uygulamalar, logo tasarımı için en iyi programlar olarak kabul edilse de GIMP, harika bir ücretsiz alternatiftir. Üstelik açık kaynak yazılımı, kullanıcıların kaynak koduna yeni araçlar ve fonksiyonlar eklemelerine olanak tanır.</p></div></div></div></div><div
+class="section-related-post"><div
+class="container"><h2 class="section-heading">Benzer Yazılar</h2><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/logo-nas%C4%B1l-yap%C4%B1l%C4%B1r">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-2475x2475-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Elle bir logo tasarlayan bir kişi." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/logo-nas%C4%B1l-yap%C4%B1l%C4%B1r">Logo Nasıl Yapılır?</a></h3><div
+class="card-text">İşletmeniz için nasıl çekici bir logo yapacağınıza dair eksiksiz bir rehber.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/logo-de%C4%9Fi%C5%9Ftirme">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logo-redesign-6240x4160-20220118.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bir şirket logosunu yeniden tasarlayarak değiştiren bir adam." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/logo-de%C4%9Fi%C5%9Ftirme">Logo Değiştirme</a></h3><div
+class="card-text">Kapsamlı ve bilgilendirici logo değişimi rehberimizle markanıza yeni bir soluk getirin.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/bir-logo-nas%C4%B1l-%C5%9Feffaf-yap%C4%B1l%C4%B1r">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2400x2400-02030211.png?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Arka planı şeffaf yapılan bir logo tasarımı." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/bir-logo-nas%C4%B1l-%C5%9Feffaf-yap%C4%B1l%C4%B1r">Bir Logo Nasıl Şeffaf Yapılır?</a></h3><div
+class="card-text">Bir logonun arka planını birkaç kolay adımda nasıl kaldıracağınızı öğrenin.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/logo-fontlar%C4%B1">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917_2022-11-13-135717_uoka.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bir sayfada görüntülenen çeşitli logo fontları." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/logo-fontlar%C4%B1">Logo Fontları — İndirme Linkleriyle Kapsamlı Bir Rehber</a></h3><div
+class="card-text">Logo tasarımınız için harika yazı tiplerini keşfedin ve indirin.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Adobe Illustrator uygulama simgesi." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r">Illustrator ile Logo Nasıl Yapılır?</a></h3><div
+class="card-text">Adım adım açıklamalı rehberimizle Illustrator&#039;da bir işletme logosunu nasıl tasarlayacağınızı öğrenin.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur","name":"GIMP&#039;te Logo Nasıl Oluşturulur?"},"headline":"GIMP&#039;te Logo Nasıl Oluşturulur?","description":"Adım adım rehberimizle GIMP&#039;te logo nasıl oluşturulur öğrenin.","image":["https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-10-19T02:57:00-05:00","dateModified":"2024-06-17T11:30:33-05:00","author":{"@type":"Person","name":"Ebru Çelik","url":"https://www.zarla.com/tr/katkı-sağlayanlar/ebru-çelik"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+class="footer"><div
+class="container"><div
+class="row"><div
+class="col-md-6 col-lg-5 footer-info"><div
+class="footer-brand">
+<a
+class="footer-logo without-title" href="/tr">
+<img
+class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-group"></div>
+</a></div></div><div
+class="col-md-6 col-lg-3"><p
+class="footer-category">Dil</p><ul
+class="footer-menu list-unstyled"><li><a
+href="https://www.zarla.com/guides/how-to-make-a-logo-in-gimp">English</a></li><li><a
+href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-gimp">Español</a></li><li><a
+href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-gimp">Français</a></li><li><a
+href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp">Português (Brasil)</a></li><li><a
+href="https://www.zarla.com/nl/handleidingen/hoe-maak-je-een-logo-in-gimp">Nederlands</a></li><li
+class="current" style="color: #3041c4;">Türkçe</li><li><a
+href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie">Polski</a></li><li><a
+href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-gimp">Bahasa Indonesia</a></li></ul></div><div
+class="col-md-6 col-lg-3 "><p
+class="footer-category">Kaynaklar</p><ul
+class="footer-menu list-unstyled"><li>
+<a
+href="https://www.zarla.com/tr/rehberler/logo-fikirleri">
+Logo Fikirleri
+</a></li><li>
+<a
+href="/tr">
+AI Web Sitesi Oluşturma Aracı
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
+Ücretsiz Logo Oluşturucu
+</a></li><li>
+<a
+href="mailto:hello%40zarla.com">
+hello@zarla.com
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
+Kullanım Koşulları
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
+Telif Hakkı Politikası
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/gizlilik-politikas%C4%B1">
+Gizlilik Politikası
+</a></li></ul></div></div></div><div
+class="footer-bottom"><div
+class="container"><p
+class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
+class="cta-sticky-footer js-cta-sticky-footer">
+<a
+href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=tr-startdesigningacustomlogo-20240613"
+class="btn btn-primary"
+>
+Özel bir logo tasarlamaya başlayın
+</a></div> <script async src="/scripts/custom-20240618.js"></script> <!--#minify preserve 2024-07-26T15:16:53Z--><!--#minify end preserve-->
+</body></html>

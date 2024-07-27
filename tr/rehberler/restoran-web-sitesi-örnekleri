@@ -1,0 +1,789 @@
+<!DOCTYPE html><html
+lang="tr-TR"><head><meta
+charset="utf-8" /> <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWG06X4WML"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-DWG06X4WML');</script> <title>Restoran Web Sitesi Örnekleri - Müşterileri Müdavimlere Dönüştürecek 5 Web Sitesi</title><meta
+name="description" content="Tasarımı ile iştah kabartan ve eşsiz lezzetlerini vurgulayan 5 restoran web sitesi örneği." /><meta
+property="og:title" content="Restoran Web Sitesi Örnekleri - Müşterileri Müdavimlere Dönüştürecek 5 Web Sitesi" /><meta
+property="og:description" content="Tasarımı ile iştah kabartan ve eşsiz lezzetlerini vurgulayan 5 restoran web sitesi örneği." /><link
+rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
+property="og:site_name" content="Zarla" /><meta
+property="og:url" content="https://www.zarla.com/tr/rehberler/restoran-web-sitesi-%C3%B6rnekleri"><meta
+property="og:type" content="website"><meta
+property="og:locale" content="tr-TR"><meta
+property="og:image" content="https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image:width" content='1200' /><meta
+property="og:image:height" content='630' /><meta
+property="og:image:type" content='image/jpeg' /><link
+rel="canonical" href="https://www.zarla.com/tr/rehberler/restoran-web-sitesi-%C3%B6rnekleri"><link
+rel="alternate" href="https://www.zarla.com/guides/restaurant-website-examples" hreflang="x-default" /><link
+rel="alternate" href="https://www.zarla.com/guides/restaurant-website-examples" hreflang="en" /><link
+rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/restaurant-website-examples" hreflang="de" /><link
+rel="alternate" href="https://www.zarla.com/br/guias/exemplos-de-sites-de-restaurantes" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.zarla.com/tr/rehberler/restoran-web-sitesi-%C3%B6rnekleri" hreflang="tr-TR" /><link
+rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
+rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
+name="viewport" content="width=device-width, initial-scale=1" /><meta
+name="format-detection" content="telephone=no" /><meta
+name="theme-color" content="#ffffff" /><link
+rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+class="websiteExamples"><header
+class="header"><div
+class="container"><nav
+class="navbar navbar-expand-lg"><div
+class="navbar-brand">
+<a
+class="navbar-logo" href="/tr">
+<img
+class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+</a></div>
+<a
+href="https://www.zarla.com/tr"
+class="btn btn-primary cta-nav
+"
+>
+AI Web Sitesi Oluşturma Aracı
+</a></nav></div><div
+class="indicator"><div
+class="indicator-position js-indicator-position"></div></div></header><main
+class="entry entry-is-guide section-websiteExamples"><div
+class="section-banner"><div
+class="narrow-container"><div
+class="section-breadcrumb"><ol
+class="breadcrumb"><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler">Rehberler</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler/web-sitesi-%C3%B6rnekleri">Web Sitesi Örnekleri</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler/web-sitesi-%C3%B6rnekleri/konaklama-ve-yiyecek-hizmetleri">Konaklama ve Yiyecek Hizmetleri</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Rehberler","item":"https://www.zarla.com/tr/rehberler"},{"@type":"ListItem","position":2,"name":"Web Sitesi Örnekleri","item":"https://www.zarla.com/tr/rehberler/web-sitesi-%C3%B6rnekleri"},{"@type":"ListItem","position":3,"name":"Konaklama ve Yiyecek Hizmetleri","item":"https://www.zarla.com/tr/rehberler/web-sitesi-%C3%B6rnekleri/konaklama-ve-yiyecek-hizmetleri"},{"@type":"ListItem","position":4,"name":"Restoran Web Sitesi Örnekleri - Müşterileri Müdavimlere Dönüştürecek 5 Web Sitesi","item":"https://www.zarla.com/tr/rehberler/restoran-web-sitesi-%C3%B6rnekleri"}]}</script> <div
+class="card card-featured"><h1 class="card-title">
+Restoran Web Sitesi Örnekleri - Müşterileri Müdavimlere Dönüştürecek 5 Web Sitesi</h1><div
+class="card-body"><div
+class="card-text card-text-prebyline">Tasarımı ile iştah kabartan ve eşsiz lezzetlerini vurgulayan 5 restoran web sitesi örneği.</div><div
+class="card-byline"><div
+class="card-byline-image">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-esra-c%CC%A7evik-800x800-2024059-1.webp?crop=1:1,smart&width=80&dpr=2"
+width="80"
+height="80"
+alt="Esra Çevik"
+/></div><div
+class="card-byline-details">
+<span>Yazan: <a
+class="card-byline-author" href="https://www.zarla.com/tr/katkı-sağlayanlar/esra-çevik">Esra Çevik</a>,</span>
+<span
+class="card-byline-date">23 Tem 2024</span><div
+class="card-byline-bio">
+Reklamcılık alanında eğitim alan Esra Çevik, çeşitli sektörler için 10 yılı aşkın süredir içerik üretmeye devam ediyor.</div></div></div></div><div
+class="card-image-holder"><div
+class="card-preview">
+<picture>
+<source
+srcset="https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=2:1,smart&width=372&dpr=2 2x"
+media="(max-width: 412px)"
+/>
+<source
+srcset="https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=2:1,smart&width=535&dpr=2 2x"
+media="(max-width: 575px)"
+/>
+<source
+srcset="https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=2:1,smart&width=727&dpr=2 2x"
+media="(max-width: 767px)"
+/>
+<img
+class="card-pic"
+srcset="https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=2:1,smart&width=730"
+width="730"
+height="365"
+alt="Bir restoranda beyaz seramik bir tabakta servis edilen bir yemek."
+/>
+</picture></div></div><div
+class="block-intro-text"><p>Restoran web siteleri, kullanıcı deneyimini geliştirmek ve potansiyel müşterileri yönlendirmek için birkaç temel özelliğe sahip olmalı. Web siteniz, hikayenizi anlatmak için ideal yerdir. Menülerin, etkinliklerin ve çevrim içi siparişlerin kolayca düzenlenmesine olanak tanıyan hepsi bir arada bir sisteme sahip olmak, restoranlar için çok önemlidir.</p><p>Yüksek kaliteli görseller, ziyaretçileri müşteriye dönüştürür. Konum ve alerjen bilgisi, müşterilerin bilgiye dayalı karar vermesine yardımcı olur. <a
+href="/tr">AI restoran web sitesi oluşturucumuz</a> ile bir dakikadan daha kısa sürede şık ve kullanıcı dostu bir restoran web sitesi oluşturun. Yepyeni bir iş kurmaya başlamak için ise <a
+href="https://www.zarla.com/tr/rehberler/restoran-logoları">restoran logolarını</a> inceleyin.</p></div><div
+class="mt-0 mt-md-2 entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="block-wrapper"><div
+class="block block-heads-up"><div
+class="heads-up-title-wrapper">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><h2>Web Sitelerini Nasıl Değerlendiriyoruz?</h2></div><p>Zarla, sitelerin mobil ve masaüstü için temel web standartlarını karşılayıp karşılamadığını kontrol eder. Aynı zamanda Google'ın PageSpeed Insights aracını ve engelli kişiler için erişilebilirliği değerlendiren WAVE aracını da kullanır. PageSpeed puanları ve erişilebilirlik, arama motoru sıralaması için belirleyici faktörlerdir. PageSpeed puanları, kullanıcı deneyimiyle eşleşmeyebilir ve genellikle değişiklik gösterir.</p></div></div><div
+class="entry-content-section"><div
+class="entry-text"><ol
+class="entry-list"><li>
+<span
+class="entry-list-number">1.</span>
+<span
+class="entry-list-item">
+<a
+href="#od-urla">Od Urla</a><span>.</span>
+</span></li><li>
+<span
+class="entry-list-number">2.</span>
+<span
+class="entry-list-item">
+<a
+href="#yalova-restaurant">Yalova Restaurant</a><span>.</span>
+</span></li><li>
+<span
+class="entry-list-number">3.</span>
+<span
+class="entry-list-item">
+<a
+href="#novikov-i̇stanbul">Novikov İstanbul</a><span>.</span>
+</span></li><li>
+<span
+class="entry-list-number">4.</span>
+<span
+class="entry-list-item">
+<a
+href="#ohannes-burger">Ohannes Burger</a><span>.</span>
+</span></li><li>
+<span
+class="entry-list-number">5.</span>
+<span
+class="entry-list-item">
+<a
+href="#efendy-i̇stanbul">Efendy İstanbul</a><span>.</span>
+</span></li></ol></div></div></div></div></div><div
+class="entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="entry-content-section"><h3 id="od-urla" class="entry-website-title">Od Urla</h3><div
+class="entry-website-img"><div
+class="entry-faux-browser"><div
+class="entry-browser-menu"><div
+class="dot"></div><div
+class="dot"></div><div
+class="dot"></div></div>
+<picture>
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-odurla-2024068-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-odurla-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-odurla-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+width="650"
+height="403"
+alt="desktop screenshot of website Od Urla"
+/>
+</picture></div></div><p
+class="entry-website-detail website-detail-url">
+<span
+class="icon">
+<img
+src="/assets/images/icon-link.svg" alt="chain icon" width="29" height="29" />
+</span>
+<a
+class="force-single-line" href="https://odurla.com/" target="_blank" rel="noopener nofollow">
+https://odurla.com/
+</a></p><p
+class="entry-website-detail website-detail-location">
+<span
+class="icon">
+<img
+src="/assets/images/icon-pin.svg" alt="pin icon" width="30" height="30" />
+</span>
+<span>İzmir, Türkiye</span></p><div
+class="entry-text"><p>Osman Sezener tarafından kurulan "çiftlikten sofraya" felsefesine sahip Od Urla, Ege mutfağını ve sürdürülebilirliği vurguluyor. Web sitesinin minimalist tasarımı, şefin Türk mutfağına yaklaşımını yansıtıyor. Restoranın rakiplerine göre avantajı sayılabilecek şarap mahzeni ve konukevini yüksek kaliteli görsellerle vurgulaması, akıllıca bir tercih.</p><p>Şefin hikayesinin ve Michelin yıldızının vurgulanması, güven uyandıran bir eklenti. Yazı tipi, okunabilirlik açısından etkili olmasa da marka kimliğiyle uyumlu. Topraksı renk şeması, doğayla bağlantıyı çağrıştırıyor. Sezgisel bir düzen tercih edilmesi, kullanıcıların menü ve rezervasyon gibi bölümlere sorunsuz bir şekilde ulaşmasını sağlayabilir.</p></div><h4>Artılar ve Eksiler</h4><div
+class="entry-indented-box"><div
+class="entry-website-pros">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-plus.svg" alt="plus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Web sitesi, restoranı farklılaştıran cam binayı belirgin bir şekilde sergiliyor ve mimari benzersizliği vurguluyor. Restoranın felsefesi ve sunduğu yemek dışı deneyimler, ızgara şeklindeki tasarımla öne çıkarılmış. Site, WAVE’de iyi bir performans gösteriyor.</p></div></div><div
+class="entry-website-cons">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Navigasyon eksikliği, kullanıcıların temel bilgileri bulmasını zorlaştırıyor. Site, mobil cihazlarda yavaş yükleme süreleri veya düzen sorunları yaşayabilir. Bazı link ve butonlardaki isimlendirme sorunları, ekran okuyucu gibi teknolojilere ihtiyaç duyan kullanıcılar için engel oluşturabilir.</p></div></div></div><h4>Masaüstü İncelemesi</h4><div
+class="entry-website-desktop"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-odurla-2024068-desktop.webp"
+data-type="desktop"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-odurla-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+alt="desktop screenshot of website"
+width="400"
+height="248"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Masaüstü sürümü, yüksek çözünürlüklü görseller ve ayrıntılı açıklamalarla restoranın estetiğini mobile göre daha iyi sergiliyor. Masaüstü kullanıcıları daha hızlı yükleme sürelerinin ve kesintisiz bir tarama deneyiminin keyfini çıkarabilir.</p><p>"Rezervasyon" butonunun kolay erişilebilen menü barında yer alması, müşterilerin karar alma sürecini hızlandırmak açısından akıllıca. Hamburger menü kullanımı, kompakt bir tasarım oluştursa da açılır menünün tüm sayfayı kaplaması, masaüstü deneyimini olumsuz etkiliyor.</p></div></div><h4>Mobil İncelemesi</h4><div
+class="entry-website-mobile"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-odurla-2024068-mobile.webp"
+data-type="mobile"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-odurla-2024068-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+alt="mobile screenshot of website"
+width="325"
+height="542"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Seçilen görseller mobil cihazlarda da aynı estetik duygusunu uyandırıyor ve boyutlandırma oldukça başarılı. Ancak mobil sürüm, görsel ve yazı boyutlarında denge sağlayarak, sadelik ve okunabilirliğe öncelik vermeli.</p><p>Mobil tasarımda net bir CTA’in bulunmaması, harekete geçiriciliği azaltıyor. Mobil performans, menü ve rezervasyon ayrıntılarına hızlı erişim sağlamalı.  Mobil sürümün Google Pagespeed'deki performans skoru ise 100 üzerinden 70 ile masaüstü versiyonuna göre daha düşük.</p></div></div></div></div></div></div><div
+class="entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="entry-content-section"><h3 id="yalova-restaurant" class="entry-website-title">Yalova Restaurant</h3><div
+class="entry-website-img"><div
+class="entry-faux-browser"><div
+class="entry-browser-menu"><div
+class="dot"></div><div
+class="dot"></div><div
+class="dot"></div></div>
+<picture>
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yalovarestoran-2024068-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yalovarestoran-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yalovarestoran-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+width="650"
+height="403"
+alt="desktop screenshot of website Yalova Restaurant"
+/>
+</picture></div></div><p
+class="entry-website-detail website-detail-url">
+<span
+class="icon">
+<img
+src="/assets/images/icon-link.svg" alt="chain icon" width="29" height="29" />
+</span>
+<a
+class="force-single-line" href="https://yalovarestoran.com/" target="_blank" rel="noopener nofollow">
+https://yalovarestoran.com/
+</a></p><p
+class="entry-website-detail website-detail-location">
+<span
+class="icon">
+<img
+src="/assets/images/icon-pin.svg" alt="pin icon" width="30" height="30" />
+</span>
+<span>Yalova, Türkiye</span></p><div
+class="entry-text"><p>Deniz ürünü ağırlıklı Yalova Restoran, Çanakkale ve Bozcaada'da iki farklı konumda hizmet veriyor. Restoran, modern pişirme tekniklerini dünya mutfağından tariflerle birleştiriyor. Restoran web sitesi; kuruluş hikayesine, müşteri deneyimlerine ve farklı konumlarına ana sayfada yer vererek güvenilirlik ve ulaşılabilirlik özelliklerini vurguluyor.</p><p>Site, yüksek kaliteli yemek görselleri kullanıyor. Belirgin üst menü, kullanıcıların hizmetleri ve lezzetleri keşfetmelerine olanak tanıyor. İletişim bilgilerine kolayca erişim mümkün ancak online rezervasyon sistemi bulunmuyor. Ünlü konukların yorumlarının yer aldığı "Anı Defteri" bölümü ise restoranın güvenilirliği ve köklü geçmişini vurguluyor.</p></div><h4>Artılar ve Eksiler</h4><div
+class="entry-indented-box"><div
+class="entry-website-pros">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-plus.svg" alt="plus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Sitenin zarif tasarımı ve çekici yemek fotoğrafları ziyaretçileri etkiliyor. Kullanıcılar açılış saatleri ve menü seçenekleri gibi temel bilgileri hızla bulabilir. Çanakkale'nin mutfak mirasını vurgulamak özgünlük katıyor. Site WAVE'de erişilebilirlik açısından güzel bir performans gösteriyor.</p></div></div><div
+class="entry-website-cons">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Site bilgilendirici olsa da etkileşimli özellikler veya kişiselleştirilmiş ögeler barındırmıyor. Restoranın benzersiz kimliği, favicon gibi markalama ögeleri aracılığıyla daha iyi vurgulanabilir. Bazı sayfalar biraz yavaş yükleniyor ve bu da genel kullanıcı deneyimini etkiliyor. Metin ve arka plan renkleri arasındaki düşük kontrast okunabilirliği azaltıyor.</p></div></div></div><h4>Masaüstü İncelemesi</h4><div
+class="entry-website-desktop"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yalovarestoran-2024068-desktop.webp"
+data-type="desktop"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yalovarestoran-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+alt="desktop screenshot of website"
+width="400"
+height="248"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Yalova Restoran'ın web sitesi masaüstünde oldukça etkileyici. Zarif görseller, net menü ve duyarlı düzen, gezinmeyi keyifli hale getiriyor. Ancak, daha hızlı yükleme süreleri için performans optimizasyonu geliştirilebilir.</p><p>Arka plan ve ön plan renklerinin düşük kontrasta sahip olması dışında ulaşılabilirliği olumsuz etkileyen pek bir etken bulunmuyor. Doğru kullanılan başlıklar, görme engelli kişiler için yardımcı teknolojilerin sayfa gezinmesini kolaylaştırıyor. Meta tags eksikliği ve linklerin taranamıyor olması, sitenin SEO performansını olumsuz etkiliyor.</p></div></div><h4>Mobil İncelemesi</h4><div
+class="entry-website-mobile"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yalovarestoran-2024068-mobile.webp"
+data-type="mobile"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-yalovarestoran-2024068-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+alt="mobile screenshot of website"
+width="325"
+height="542"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Mobil sürüm kullanılabilirliği koruyor ancak daha küçük ekran, yemek görsellerinin etkisini sınırlıyor. Yine de, temel bilgiler erişilebilirliğini koruyarak hareket halindeki kullanıcılar için tatmin edici bir deneyim sağlıyor. Mobil sürümde hamburgere dönüşen menü, kullanıcı deneyimini olumlu etkiliyor.</p><p>Sitenin mobil sürümü, Google PageSpeed’de performansıyla 100 üzerinden 59 puan alıyor ve bu masaüstü sürümüne göre oldukça düşük. Mobil sürümde düşük kontrastlı metinler bulunuyor ve bu durum erişilebilirliği birçok kullanıcı için olumsuz etkiliyor. Ayırt edilebilir bağlantı metni, görme engelli kullanıcılar için de deneyimi iyileştirir.</p></div></div></div></div></div></div><div
+class="entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="entry-content-section"><h3 id="novikov-i̇stanbul" class="entry-website-title">Novikov İstanbul</h3><div
+class="entry-website-img"><div
+class="entry-faux-browser"><div
+class="entry-browser-menu"><div
+class="dot"></div><div
+class="dot"></div><div
+class="dot"></div></div>
+<picture>
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-novikovistanbul-2024068-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-novikovistanbul-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-novikovistanbul-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+width="650"
+height="403"
+alt="desktop screenshot of website Novikov İstanbul"
+/>
+</picture></div></div><p
+class="entry-website-detail website-detail-url">
+<span
+class="icon">
+<img
+src="/assets/images/icon-link.svg" alt="chain icon" width="29" height="29" />
+</span>
+<a
+class="force-single-line" href="https://www.novikovistanbul.com/" target="_blank" rel="noopener nofollow">
+https://www.novikovistanbul.com/
+</a></p><p
+class="entry-website-detail website-detail-location">
+<span
+class="icon">
+<img
+src="/assets/images/icon-pin.svg" alt="pin icon" width="30" height="30" />
+</span>
+<span>İstanbul, Türkiye</span></p><div
+class="entry-text"><p>Novikov İstanbul, Asya ve İtalyan mutfaklarını bir araya getiren ve İstanbul Kuruçeşme'de yer alan bir restoran. Restoran, açık büfe tarzındaki "market" konseptiyle farklılaşıyor. Web sitesi de taze ürünlerin sergilendiği stantları yüksek kaliteli görsellerle sergileyerek bu özelliği öne çıkarıyor.</p><p>Novikov İstanbul'un web sitesinin tasarımı, belirgin bir modern ve sofistike stile sahip. Restoranın açık mutfağında taze meyve, sebze, deniz ürünleri ve Pekin ördeği sunuluyor. Bu, Novikov'un dünyaca ünlü "market" konseptine bir gönderme. Boğaz'a bakan geniş teras ve bahçe alanı görseli, davetkar bir imaj yaratıyor.</p></div><h4>Artılar ve Eksiler</h4><div
+class="entry-indented-box"><div
+class="entry-website-pros">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-plus.svg" alt="plus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Tasarım ögeleri, restoranın özgün konseptini yansıtarak ziyaretçiler için ilgi çekici bir atmosfer yaratıyor. İletişim bilgilerinin yanı sıra online rezervasyon sistemine de sahip site, karar alma sürecinin aksiyonla sonuçlanmasını garanti altına alıyor. Hem yemekleri hem de mekanı detaylarıyla sergileyen galeri bölümü, restoranın güçlü yönlerini vurguluyor.</p></div></div><div
+class="entry-website-cons">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Görsel olarak etkileyici olmasına rağmen, web sitesinde belirli erişilebilirlik ayrıntıları eksik. Klavye gezintisi, renk kontrastı ve ekran okuyucu uyumluluğu artırılmalı. Kıyafet kodu ve rezervasyon politikası gibi önemli bilgilerin de Türkçe diline çevrilmesi gerekiyor. Site, WAVE’de pek iç açıcı bir performans sergilemiyor.</p></div></div></div><h4>Masaüstü İncelemesi</h4><div
+class="entry-website-desktop"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-novikovistanbul-2024068-desktop.webp"
+data-type="desktop"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-novikovistanbul-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+alt="desktop screenshot of website"
+width="400"
+height="248"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Novikov İstanbul'un zarif çağdaş tasarımı, masaüstü cihazlarda öne çıkıyor. Site, Google Pagespeed'de masaüstünde mobile göre daha yüksek bir performans gösteriyor. Menü, kullanıcı hareketini takip ediyor ve kullanıcı deneyimini güçlendiriyor. E-bülten özelliği ile müşterileri müdavimlere dönüştürmek için hoş bir adım atılıyor.</p><p>Bunun yanında başlıkların düzenlenme biçimi, sayfanın anlamsal yapısını aktarmakta başarısız ve yardımcı teknolojiler kullanıldığında gezinmeyi ve anlamayı zorlaştırıyor. Farkedilebilir bağlantı metinlerinin eksikliği ise ekran okuyucu kullanıcıları için gezinme deneyimini olumsuz etkiliyor.</p></div></div><h4>Mobil İncelemesi</h4><div
+class="entry-website-mobile"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-novikovistanbul-2024068-mobile.webp"
+data-type="mobile"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-novikovistanbul-2024068-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+alt="mobile screenshot of website"
+width="325"
+height="542"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Sitenin mobil sürümü, restoranın sofistike stilini koruyor ancak gezinme ve okunabilirlik ile ilgili bir takım zorluklar yaratıyor. Novikov İstanbul için kusursuz bir mobil deneyim sağlamak (özellikle erişilebilirlik açısından) öncelik olmalı. Net etiketler, dokunmaya duyarlı düğmeler ve duyarlı tasarım, mobil kullanıcılar için olmazsa olmaz.</p><p>Mobil sürümün Google PageSpeed performansı 100 üzerinden 44. Mobilde görsellerin yeniden boyutlandırılması ile bazı iyileştirmeler yapmak mümkün. Görsellerdeki en boy oranı da iyileştirmelere ihtiyaç duyuyor. Dokunulabilir hedefler ise yeterli boyutlara sahip ve kullanıcı deneyimini geliştiriyor.</p></div></div></div></div></div></div><div
+class="entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="entry-content-section"><h3 id="ohannes-burger" class="entry-website-title">Ohannes Burger</h3><div
+class="entry-website-img"><div
+class="entry-faux-browser"><div
+class="entry-browser-menu"><div
+class="dot"></div><div
+class="dot"></div><div
+class="dot"></div></div>
+<picture>
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-ohannesburger-2024068-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-ohannesburger-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-ohannesburger-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+width="650"
+height="403"
+alt="desktop screenshot of website Ohannes Burger"
+/>
+</picture></div></div><p
+class="entry-website-detail website-detail-url">
+<span
+class="icon">
+<img
+src="/assets/images/icon-link.svg" alt="chain icon" width="29" height="29" />
+</span>
+<a
+class="force-single-line" href="https://www.ohannesburger.com/" target="_blank" rel="noopener nofollow">
+https://www.ohannesburger.com/
+</a></p><p
+class="entry-website-detail website-detail-location">
+<span
+class="icon">
+<img
+src="/assets/images/icon-pin.svg" alt="pin icon" width="30" height="30" />
+</span>
+<span>Türkiye</span></p><div
+class="entry-text"><p>Ohannes Burger; burger, patates kızartması ve diğer fast food ürünlerinde uzmanlaşmış. Restoran, İzmir başta olmak üzere Bursa ve Antalya gibi farklı şehirlerde şubelere sahip. Ana sayfa, ziyaretçileri menüyü keşfetmeye teşvik eden görsel açıdan etkileyici burger resimleri sergiliyor.</p><p>Gezinme sezgisel ve farklı burger seçenekleri için net bölümler var. Erişilebilirlik açısından iyileştirmeye ihtiyaç duyuyor. Resimler için alternatif metin ve uygun semantik HTML etiketleri, sitenin kullanılabilirliğini artırabilir.</p></div><h4>Artılar ve Eksiler</h4><div
+class="entry-indented-box"><div
+class="entry-website-pros">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-plus.svg" alt="plus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Sitenin burger görselleri, görsel olarak çekici ve online sipariş özelliği, ziyaretçilerin harekete geçmesini sağlıyor. Site aracılığıyla mobil uygulamayı tanıtmak akıllıca. Şubelere ise harita eklentisiyle kolayca ulaşmak mümkün. Net menü bölümleri, kullanıcıların istedikleri burgeri bulmasını kolaylaştırıyor.</p></div></div><div
+class="entry-website-cons">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Uygun alt metin eksikliği, boş buton ve linkler, engelli kullanıcılar için zorluk yaratabilir. Site, küçük ekranlarda olumlu bir deneyim için özellikle menü itemlerinin mobil duyarlılığını artırabilir. Görme engelli kullanıcılar için metnin yeterli kontrasta sahip olması gerekir. WAVE’e göre site erişilebilirlik açısından gelişime ihtiyaç duyuyor.</p></div></div></div><h4>Masaüstü İncelemesi</h4><div
+class="entry-website-desktop"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-ohannesburger-2024068-desktop.webp"
+data-type="desktop"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-ohannesburger-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+alt="desktop screenshot of website"
+width="400"
+height="248"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Ohannes Burger'ın sitesi masaüstünde ağız sulandıran görselleriyle parlıyor. Gezinme basit, ancak erişilebilirliği iyileştirmeleri gerekiyor. Daha hızlı yükleme süreleri performans açısından genel deneyimi geliştirebilir.</p><p>Dokunulabilir hedefler masaüstünde yeterli boyuta sahip değil ve bu da kullanıcı deneyimini olumsuz etkiliyor. Düşük kontrastlı metinler, birçok kullanıcı için okumayı zor veya imkansız kılıyor. Butonlar, erişilebilir bir ada sahip değil ve bu da siteyi ekran okuyuculara güvenen kullanıcılar için kullanılamaz hale getiriyor.</p></div></div><h4>Mobil İncelemesi</h4><div
+class="entry-website-mobile"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-ohannesburger-2024068-mobile.webp"
+data-type="mobile"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-ohannesburger-2024068-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+alt="mobile screenshot of website"
+width="325"
+height="542"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Site mobilde işlevsel kalırken, daha iyi yanıt verme özelliğinden faydalanabilir. Sorunsuz gezinme ve daha hızlı yükleme süreleri sağlamak, mobil kullanıcı deneyimini iyileştirecektir. Geniş düzen, mobil sürümün performansını olumsuz etkiliyor gibi görünüyor.</p><p>Mobilde hamburger menü kullanımı, kullanım kolaylığı ve alandan tasarruf sağlarken online sipariş daha fazla vurgulanabilir. Ayrıca görseller mobilde daha düşük kalitede sergileniyor. Google PageSpeed, sitenin performansına 100 üzerinden 22 puan veriyor.</p></div></div></div></div></div></div><div
+class="entry-container entry-container-content"><div
+class="entry-content-wrapper"><div
+class="entry-content"><div
+class="entry-content-section"><h3 id="efendy-i̇stanbul" class="entry-website-title">Efendy İstanbul</h3><div
+class="entry-website-img"><div
+class="entry-faux-browser"><div
+class="entry-browser-menu"><div
+class="dot"></div><div
+class="dot"></div><div
+class="dot"></div></div>
+<picture>
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-efendyistanbul-2024068-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+<source
+data-srcset="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-efendyistanbul-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-efendyistanbul-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+width="650"
+height="403"
+alt="desktop screenshot of website Efendy İstanbul"
+/>
+</picture></div></div><p
+class="entry-website-detail website-detail-url">
+<span
+class="icon">
+<img
+src="/assets/images/icon-link.svg" alt="chain icon" width="29" height="29" />
+</span>
+<a
+class="force-single-line" href="https://efendyistanbul.com/" target="_blank" rel="noopener nofollow">
+https://efendyistanbul.com/
+</a></p><p
+class="entry-website-detail website-detail-location">
+<span
+class="icon">
+<img
+src="/assets/images/icon-pin.svg" alt="pin icon" width="30" height="30" />
+</span>
+<span>İstanbul</span></p><div
+class="entry-text"><p>Efendy İstanbul, geleneksel Anadolu yemeklerinden esinlenen bir fine dining restoranı. Yerel ürünlerle çağdaş bir sunum sergileyen restoranın web sitesi, yiyecekleri sergilemeye odaklanan temiz ve zarif bir tasarıma sahip. Boş linkler ve ana başlık eksikliği, ekran okuyuculara ihtiyaç duyan kişiler için kullanıcı deneyimini olumsuz etkiliyor.</p><p>Yemeklerin yüksek kaliteli görselleri, belirgin bir şekilde öne çıkıyor ve kullanıcıları daha fazla lezzeti keşfetmeye teşvik ediyor. Michelin'in sağladığı Bib Gourmand rütbesi ve Gault Millau rehberinde yer aldığının ana sayfada vurgulanması güven verici duruyor. Bazı sayfalar daha kısa metinlere ve daha iyi organizasyona ihtiyaç duyuyor.</p></div><h4>Artılar ve Eksiler</h4><div
+class="entry-indented-box"><div
+class="entry-website-pros">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-plus.svg" alt="plus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Canlı yemek fotoğraflarının kullanımı, ziyaretçiler için iştah açıcı bir deneyim yaratıyor. Site farklı ekran boyutlarına iyi uyum sağlıyor ve cihazlarda tutarlı bir deneyim sunuyor. Yerel malzemeleri ve Anadolu mutfağını vurgulamak, restoranın özgünlüğünü web sitesi aracılığıyla da belirtiyor. Site, WAVE’de erişilebilirlik açısından iyi bir performans gösteriyor.</p></div></div><div
+class="entry-website-cons">
+<span
+class="icon icon-sm">
+<img
+src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
+</span><div
+class="entry-text"><p>Bazı sayfalarda kullanıcıları bunaltabilecek uzun metinler bulunuyor. Tasarım, görsel olarak çekici olsa da resimler için alternatif metin gibi geliştirmelere ihtiyaç duyuyor. Bazı bağlantıların ayırt edilebilir bir adı yok. Bu, ekran okuma gibi yardımcı teknoloji kullanıcılarının deneyimini olumsuz etkileyebilir.</p></div></div></div><h4>Masaüstü İncelemesi</h4><div
+class="entry-website-desktop"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-efendyistanbul-2024068-desktop.webp"
+data-type="desktop"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-efendyistanbul-2024068-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+alt="desktop screenshot of website"
+width="400"
+height="248"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Sitenin geniş masaüstü düzeni, görsellerin öne çıkmasına olanak tanıyor. Gezinme menüsüne kolayca erişilebiliyor. Yükleme süreleri makul ancak görsel boyutlarını optimize etmek performansı daha da artırabilir.</p><p>Kayan navigasyon menüsünü yapışkan hale getirmek, kullanıcı deneyimini artırabilir. Ana sayfanın masaüstü versiyonunda online rezervasyon seçeneğinin yanı sıra dil desteğinin de bulunması, daha geniş bir müşteri kitlesine ulaşmayı mümkün kılıyor.</p></div></div><h4>Mobil İncelemesi</h4><div
+class="entry-website-mobile"><div
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-efendyistanbul-2024068-mobile.webp"
+data-type="mobile"
+class="lightbox-trigger js-lightbox-trigger"
+><div
+class="lightbox-thumbnail">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-websitesio%CC%88rneg%CC%86i-efendyistanbul-2024068-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+alt="mobile screenshot of website"
+width="325"
+height="542"
+/></div>
+<img
+class="lightbox-thumbnail-magnifier"
+src="/assets/images/icon-magnifying.svg"
+alt="magnifying glass"
+width="50"
+height="50"
+/></div><div
+class="entry-text"><p>Mobil sürüm, temiz bir düzene sahip, ancak metin okunabilirliği geliştirilebilir. Yazı tipi seçimi ve boyutu, görsel üzerinde okunabilirliği olumsuz etkiliyor. Buna ek olarak yakınlaştırmayı da devre dışı bırakmak, bir web sayfasının içeriğini düzgün bir şekilde görebilmek için ekran büyütmesine güvenen kullanıcılar için sorun teşkil edebilir.</p><p>Mobil sürüm, Google PageSpeed testinde 100 üzerinden 65 puanlık bir performans gösteriyor. Geniş görsellerin sıkıştırılması ve kullanılan eklentilerin gözden geçirilmesi, performansın artırılmasına yardımcı olabilir.</p></div></div></div></div></div></div></div></div></div><div
+class="section-content"><div
+class="container"><div
+class="narrow-container"></div></div></div><div
+class="section-faq"><div
+class="container"><h2 id=sss class="section-heading">SSS:</h2><div
+class="row"><div
+class="col-12 faq-item"><h3 id=en-iyi-restoran-web-sitesi-orneklerini-nerede-bulabilirim class="question">En iyi restoran web sitesi örneklerini nerede bulabilirim?</h3><div
+class="answer"><p>Masaüstü ve mobil deneyimin ayrı ayrı incelemelerini içeren <a
+href="#od-urla">restoran web sitelerini</a> derledik. En sevdiğimiz örnekler arasında Od Urla ve Yalova Restaurant yer alıyor.</p></div></div><div
+class="col-12 faq-item"><h3 id=etkili-bir-restoran-web-sitesinin-temel-ozellikleri-nelerdir class="question">Etkili bir restoran web sitesinin temel özellikleri nelerdir?</h3><div
+class="answer"><p>Restoran web siteleri, mobil cihazlarda iyi görünmelidir. Yemek fotoğrafları ve görsellerle zenginleştirilmiş menüler, kullanıcıların ilgisini çekebilir. Web sitenizde rezervasyon yapma veya online sipariş verme seçenekleri sunmak da kullanıcı deneyimini artırabilir.</p></div></div><div
+class="col-12 faq-item"><h3 id=Sik-bir-restoran-web-sitesi-nasil-olusturabilirim class="question">Şık bir restoran web sitesi nasıl oluşturabilirim?</h3><div
+class="answer"><p>Başarılı restoran web sitelerini incelemek, neyin işe yaradığını anlamanıza yardımcı olabilir. Ambiyans, yüksek kaliteli görseller ve kullanıcı dostu düzenler gibi faktörleri göz önünde bulundurun. <a
+href="/tr">AI web sitesi oluşturucumuzu</a> kullanın.</p></div></div><div
+class="col-12 faq-item"><h3 id=bazi-restoran-web-sitesi-tasarim-trendleri-nelerdir class="question">Bazı restoran web sitesi tasarım trendleri nelerdir?</h3><div
+class="answer"><p>Canlı ve enerjik renkler, kullanıcıların dikkatini çekmek için tercih ediliyor. Keskin köşeler yerine yuvarlatılmış köşeler, daha modern bir görünüm sağlıyor. Doğal ve samimi görseller, potansiyel müşterilerde güven oluşturabilir.
+Restoran web sitesi kullanıcı etkileşimini artırmak için animasyonlar da sıkça kullanılıyor.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"En iyi restoran web sitesi örneklerini nerede bulabilirim?","acceptedAnswer":{"@type":"Answer","text":"<p>Masa\u00fcst\u00fc ve mobil deneyimin ayr\u0131 ayr\u0131 incelemelerini i\u00e7eren <a href=\"#od-urla\">restoran web sitelerini<\/a> derledik. En sevdi\u011fimiz \u00f6rnekler aras\u0131nda Od Urla ve Yalova Restaurant yer al\u0131yor.<\/p>\n"}},{"@type":"Question","name":"Etkili bir restoran web sitesinin temel özellikleri nelerdir?","acceptedAnswer":{"@type":"Answer","text":"<p>Restoran web siteleri, mobil cihazlarda iyi g\u00f6r\u00fcnmelidir. Yemek foto\u011fraflar\u0131 ve g\u00f6rsellerle zenginle\u015ftirilmi\u015f men\u00fcler, kullan\u0131c\u0131lar\u0131n ilgisini \u00e7ekebilir. Web sitenizde rezervasyon yapma veya online sipari\u015f verme se\u00e7enekleri sunmak da kullan\u0131c\u0131 deneyimini art\u0131rabilir.<\/p>\n"}},{"@type":"Question","name":"Şık bir restoran web sitesi nasıl oluşturabilirim?","acceptedAnswer":{"@type":"Answer","text":"<p>Ba\u015far\u0131l\u0131 restoran web sitelerini incelemek, neyin i\u015fe yarad\u0131\u011f\u0131n\u0131 anlaman\u0131za yard\u0131mc\u0131 olabilir. Ambiyans, y\u00fcksek kaliteli g\u00f6rseller ve kullan\u0131c\u0131 dostu d\u00fczenler gibi fakt\u00f6rleri g\u00f6z \u00f6n\u00fcnde bulundurun. <a href=\"\/tr\">AI web sitesi olu\u015fturucumuzu<\/a> kullan\u0131n.<\/p>\n"}},{"@type":"Question","name":"Bazı restoran web sitesi tasarım trendleri nelerdir?","acceptedAnswer":{"@type":"Answer","text":"<p>Canl\u0131 ve enerjik renkler, kullan\u0131c\u0131lar\u0131n dikkatini \u00e7ekmek i\u00e7in tercih ediliyor. Keskin k\u00f6\u015feler yerine yuvarlat\u0131lm\u0131\u015f k\u00f6\u015feler, daha modern bir g\u00f6r\u00fcn\u00fcm sa\u011fl\u0131yor. Do\u011fal ve samimi g\u00f6rseller, potansiyel m\u00fc\u015fterilerde g\u00fcven olu\u015fturabilir.\nRestoran web sitesi kullan\u0131c\u0131 etkile\u015fimini art\u0131rmak i\u00e7in animasyonlar da s\u0131k\u00e7a kullan\u0131l\u0131yor.<\/p>\n"}}]}</script> <div
+class="section-related-post"><div
+class="container"><h2 class="section-heading">Benzer Yazılar</h2><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/restoran-logolar%C4%B1">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-restaurant-logo-2400x2400-20210203.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Masalarında servis örtüleri olan boş bir restoran." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/restoran-logolar%C4%B1">Restoran Logoları</a></h3><div
+class="card-text">Restoranınız için 10 ağız sulandıran logo fikri.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/frans%C4%B1z-restoran%C4%B1-logolar%C4%B1">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-french-restaurant-logos-4592x3448-20210129.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bir Fransız restoranının açık hava bölümü." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/frans%C4%B1z-restoran%C4%B1-logolar%C4%B1">Fransız Restoranı Logoları</a></h3><div
+class="card-text">Fransız restoranınız için 10 iştah açıcı logo fikri.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/%C5%9Fef-logolar%C4%B1">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-s%CC%A7ef-logolar%C4%B1-3244x4734-20230426.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Servis edilecek yemeklerin üzerine baharat serpen bir şef." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/%C5%9Fef-logolar%C4%B1">Şef Logoları</a></h3><div
+class="card-text">Şef temalı 15 hamarat logo fikri.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/marka-kimli%C4%9Fi-nas%C4%B1l-olu%C5%9Fturulur">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-marka-kimlig%CC%86i-nas%C4%B1l-olus%CC%A7turulur-4573x3049-20230126.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bir şirketin marka kimliğiyle ilgili istatistikleri sunan bir yönetici." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/marka-kimli%C4%9Fi-nas%C4%B1l-olu%C5%9Fturulur">Marka Kimliği Nasıl Oluşturulur?</a></h3><div
+class="card-text">İşletmeniz için bir marka kimliği oluşturma rehberi.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/yemek-logolar%C4%B1">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-food-logos-5184x3456-20210129.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bir yemek işletmesinde sunulan sandviçler." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/yemek-logolar%C4%B1">Yemek Logoları</a></h3><div
+class="card-text">Yemek işletmeniz için 10 iştah kabartan logo fikri.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/tr/rehberler/restoran-web-sitesi-%C3%B6rnekleri","name":"Restoran Web Sitesi Örnekleri - Müşterileri Müdavimlere Dönüştürecek 5 Web Sitesi"},"headline":"Restoran Web Sitesi Örnekleri - Müşterileri Müdavimlere Dönüştürecek 5 Web Sitesi","description":"Tasarımı ile iştah kabartan ve eşsiz lezzetlerini vurgulayan 5 restoran web sitesi örneği.","image":["https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-restoranwebsitesirnekleri-4402x2935-20240610.webp?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-05-02T06:00:00-05:00","dateModified":"2024-07-23T11:34:28-05:00","author":{"@type":"Person","name":"Esra Çevik","url":"https://www.zarla.com/tr/katkı-sağlayanlar/esra-çevik"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+class="footer"><div
+class="container"><div
+class="row"><div
+class="col-md-6 col-lg-5 footer-info"><div
+class="footer-brand">
+<a
+class="footer-logo without-title" href="/tr">
+<img
+class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-group"></div>
+</a></div></div><div
+class="col-md-6 col-lg-3"><p
+class="footer-category">Dil</p><ul
+class="footer-menu list-unstyled"><li><a
+href="https://www.zarla.com/guides/restaurant-website-examples">English</a></li><li><a
+href="https://www.zarla.com/de/leitf%C3%A4den/restaurant-website-examples">Deutsch</a></li><li><a
+href="https://www.zarla.com/br/guias/exemplos-de-sites-de-restaurantes">Português (Brasil)</a></li><li
+class="current" style="color: #3041c4;">Türkçe</li></ul></div><div
+class="col-md-6 col-lg-3 "><p
+class="footer-category">Kaynaklar</p><ul
+class="footer-menu list-unstyled"><li>
+<a
+href="https://www.zarla.com/tr/rehberler/logo-fikirleri">
+Logo Fikirleri
+</a></li><li>
+<a
+href="/tr">
+AI Web Sitesi Oluşturma Aracı
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
+Ücretsiz Logo Oluşturucu
+</a></li><li>
+<a
+href="mailto:hello%40zarla.com">
+hello@zarla.com
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
+Kullanım Koşulları
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
+Telif Hakkı Politikası
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/gizlilik-politikas%C4%B1">
+Gizlilik Politikası
+</a></li></ul></div></div></div><div
+class="footer-bottom"><div
+class="container"><p
+class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer> <script async src="/scripts/custom-20240618.js"></script> <!--#minify preserve 2024-07-26T15:16:53Z--><!--#minify end preserve-->
+</body></html>

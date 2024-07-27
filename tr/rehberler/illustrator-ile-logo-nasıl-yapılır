@@ -1,0 +1,1228 @@
+<!DOCTYPE html><html
+lang="tr-TR"><head><meta
+charset="utf-8" /> <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWG06X4WML"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-DWG06X4WML');</script> <title>Illustrator ile Logo Nasıl Yapılır?</title><meta
+name="description" content="Adım adım açıklamalı rehberimizle Illustrator&#039;da bir işletme logosunu nasıl tasarlayacağınızı öğrenin." /><meta
+property="og:title" content="Illustrator ile Logo Nasıl Yapılır?" /><meta
+property="og:description" content="Adım adım açıklamalı rehberimizle Illustrator&#039;da bir işletme logosunu nasıl tasarlayacağınızı öğrenin." /><link
+rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
+property="og:site_name" content="Zarla" /><meta
+property="og:url" content="https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r"><meta
+property="og:type" content="website"><meta
+property="og:locale" content="tr-TR"><meta
+property="og:image" content="https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image:width" content='1200' /><meta
+property="og:image:height" content='630' /><meta
+property="og:image:type" content='image/jpeg' /><link
+rel="canonical" href="https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r"><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-illustrator" hreflang="x-default" /><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-illustrator" hreflang="en" /><link
+rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-illustrator" hreflang="es" /><link
+rel="alternate" href="https://www.zarla.com/it/guide/come-creare-un-logo-su-illustrator" hreflang="it" /><link
+rel="alternate" href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-dans-illustrator" hreflang="fr" /><link
+rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/logo-erstellen-in-illustrator" hreflang="de" /><link
+rel="alternate" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-illustratorze" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-illustrator" hreflang="id-ID" /><link
+rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
+rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
+name="viewport" content="width=device-width, initial-scale=1" /><meta
+name="format-detection" content="telephone=no" /><meta
+name="theme-color" content="#ffffff" /><link
+rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+class="guideEntries"><header
+class="header"><div
+class="container"><nav
+class="navbar navbar-expand-lg"><div
+class="navbar-brand">
+<a
+class="navbar-logo" href="/tr">
+<img
+class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+</a></div>
+<a
+href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu"
+class="btn btn-primary cta-nav
+"
+>
+Ücretsiz Logo Oluşturucu
+</a></nav></div><div
+class="indicator"><div
+class="indicator-position js-indicator-position"></div></div></header><main
+class="entry entry-is-guide section-guideEntries"><div
+class="section-banner"><div
+class="narrow-container"><div
+class="section-breadcrumb"><ol
+class="breadcrumb"><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler">Rehberler</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler/logolar">Logolar</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/tr/rehberler/logolar/nas%C4%B1l-yap%C4%B1l%C4%B1r">Nasıl Yapılır?</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Rehberler","item":"https://www.zarla.com/tr/rehberler"},{"@type":"ListItem","position":2,"name":"Logolar","item":"https://www.zarla.com/tr/rehberler/logolar"},{"@type":"ListItem","position":3,"name":"Nasıl Yapılır?","item":"https://www.zarla.com/tr/rehberler/logolar/nas%C4%B1l-yap%C4%B1l%C4%B1r"},{"@type":"ListItem","position":4,"name":"Illustrator ile Logo Nasıl Yapılır?","item":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r"}]}</script> <div
+class="card card-featured"><h1 class="card-title">
+Illustrator ile Logo Nasıl Yapılır?</h1><div
+class="card-body"><div
+class="card-text card-text-prebyline">Adım adım açıklamalı rehberimizle Illustrator&#039;da bir işletme logosunu nasıl tasarlayacağınızı öğrenin.</div><div
+class="card-byline"><div
+class="card-byline-image">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-ebru-celik-800x800-2024058_2024-05-08-080444_wcwn.jpeg?crop=1:1,smart&width=80&dpr=2"
+width="80"
+height="80"
+alt="Ebru Çelik"
+/></div><div
+class="card-byline-details">
+<span>Yazan: <a
+class="card-byline-author" href="https://www.zarla.com/tr/katkı-sağlayanlar/ebru-çelik">Ebru Çelik</a>,</span>
+<span
+class="card-byline-date">17 Haz 2024</span><div
+class="card-byline-bio">
+Ebru Çelik Zarla&#039;da metin yazarı. Çeşitli markaların web sitelerinde blog yazıları yayımlandı. Bir süredir web sitesi tasarımı ile ilgileniyor ve bu konuda makaleler yazıyor.</div></div></div></div><div
+class="card-image-holder"><div
+class="card-preview">
+<picture>
+<source
+srcset="https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+media="(max-width: 412px)"
+/>
+<source
+srcset="https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+media="(max-width: 575px)"
+/>
+<source
+srcset="https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+media="(max-width: 767px)"
+/>
+<img
+class="card-pic"
+srcset="https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=2:1,smart&width=730"
+width="730"
+height="365"
+alt="Adobe Illustrator uygulama simgesi."
+/>
+</picture></div></div><div
+class="block-intro-text"><p>Adobe Illustrator, logo oluşturmak için endüstri standardı olan güçlü bir vektör tabanlı tasarım uygulamasıdır. Uygulama hakkında temel bilgiye sahip olan herkes, 90 dakikadan az bir sürede profesyonel görünümlü logolar oluşturmak için programı kullanabilir.</p><p>Adım adım açıklamalı rehberimiz, bir logoyu oluşturan temel ögeleri ve bunları benzersiz bir görsel kimlik oluşturmak üzere nasıl kullanabileceğinizi anlamanızı sağlayacaktır. Illustrator programınız yoksa <a
+href="https://www.zarla.com/tr/ücretsiz-logo-oluşturucu">ücretsiz logo oluşturucumuzu</a> kullanarak çarpıcı bir logo oluşturabilirsiniz.</p></div></div></div></div><div
+class="section-content"><div
+class="container"><div
+class="narrow-container"><div
+class="block block-how-to"><h2 id=illustrator-ile-logo-nasil-yapilir>Illustrator ile Logo Nasıl Yapılır?</h2><div
+class="how-to-info"><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px">
+<g>
+<path
+d="M376,151c-39.185,0-136-5.486-136-45v60c0,42.9,113.5,45,136,45s136-2.1,136-45v-60C512,145.514,415.185,151,376,151z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,31c-22.544,0-136,2.168-136,45c0,42.832,113.456,45,136,45s136-2.168,136-45C512,33.168,398.544,31,376,31z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,241c-39.185,0-136-5.486-136-45v22.82c23.293,19.265,41.085,44.854,51.053,74.037    C323.956,300.324,363.763,301,376,301c22.5,0,136-2.1,136-45v-60C512,235.514,415.185,241,376,241z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,331c-11.353,0-46.491-0.524-77.571-6.539C299.357,331.529,300,338.683,300,346c0,13.026-1.675,25.644-4.543,37.808    C327.343,390.376,364.307,391,376,391c22.5,0,136-2.1,136-45v-60C512,325.514,415.185,331,376,331z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,421c-12.87,0-55.932-0.738-89.713-9.333c-7.679,17.622-18.402,33.582-31.419,47.375    C286.104,479.643,358.543,481,376,481c22.5,0,136-2.1,136-45v-60C512,415.514,415.185,421,376,421z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M135,211C60.557,211,0,271.557,0,346s60.557,135,135,135s135-60.557,135-135S209.443,211,135,211z M150.396,418.29    c-0.13,0.048-0.266,0.026-0.396,0.071V436c0,8.291-6.709,15-15,15s-15-6.709-15-15v-17.741    c-9.879-3.338-19.345-9.672-27.437-19.319c-5.332-6.343-4.512-15.806,1.846-21.123c6.343-5.317,15.835-4.482,21.123,1.846    c7.939,9.434,16.963,13.242,24.595,10.444C146.03,387.953,150,382.284,150,376c0-8.276-6.724-15-15-15c-24.814,0-45-20.186-45-45    c0-17.686,9.998-34.92,30-42.085V256c0-8.291,6.709-15,15-15s15,6.709,15,15v17.941c7.771,2.626,15.348,6.799,22.104,13.348    c5.947,5.757,6.094,15.249,0.322,21.211c-5.742,5.947-15.264,6.079-21.211,0.322c-7.295-7.061-15.352-9.492-22.046-6.65    C123.604,304.53,120,309.95,120,316c0,8.276,6.724,15,15,15c24.814,0,45,20.186,45,45C180,394.853,168.105,411.845,150.396,418.29    z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+</svg>
+</span>
+0.00 TRY</div><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" height="512px" viewBox="0 0 512 512" width="512px"><g><path
+d="m256 0c-141.164062 0-256 114.835938-256 256s114.835938 256 256 256 256-114.835938 256-256-114.835938-256-256-256zm121.75 388.414062c-4.160156 4.160157-9.621094 6.253907-15.082031 6.253907-5.460938 0-10.925781-2.09375-15.082031-6.253907l-106.667969-106.664062c-4.011719-3.988281-6.25-9.410156-6.25-15.082031v-138.667969c0-11.796875 9.554687-21.332031 21.332031-21.332031s21.332031 9.535156 21.332031 21.332031v129.835938l100.417969 100.414062c8.339844 8.34375 8.339844 21.824219 0 30.164062zm0 0" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C3"/></g> </svg>
+</span>
+1 Saat
+30 dakika</div></div><div
+class="how-to-desc"><p>Illustrator'da profesyonel bir işletme logosu oluşturmak için 11 kolay adım.</p></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section1" class="how-to-section"><div
+class="section-title">
+<span>1.&nbsp;</span><h3 id=baslarken>Başlarken.</h3></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section1-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.1&nbsp;</span><h4 id=yeni-bir-illustrator-belgesi-olusturun>Yeni bir Illustrator belgesi oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-yeni-bir-illustrator-belgesi-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Yeni bir Illustrator belgesi oluşturun."></div></div><p>Illustrator'ı başlatın, üst menü çubuğunda "Dosya"ya tıklayın ve açılır menüden "Yeni... (Ctrl/Cmd + N)"yi seçin.</p></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section1-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.2&nbsp;</span><h4 id=bir-tuval-olusturun>Bir tuval oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-bir-tuval-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Bir tuval oluşturun."></div></div><p>Biz bu örnek için özel bir tuval oluşturacağız; ancak siz şablonlar arasından istediğiniz seçimi yapabilirsiniz.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Belgenize bir başlık verin.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ölçümü "Piksel" olarak ayarlayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Genişlik" ve "Yükseklik"i "1000 piksel" olarak ayarlayın.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Baskı için amaçlanan renk formatı bu olduğu için "Renk Modu" otomatik olarak "CMYK Renk" olarak ayarlanır.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Optimum görüntü çözünürlüğü için "Raster Efektleri", "Yüksek (300 ppi)" olarak ayarlanmıştır.</p></div></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section2" class="how-to-section"><div
+class="section-title">
+<span>2.&nbsp;</span><h3 id=Calisma-alanini-ayarlama>Çalışma alanını ayarlama.</h3></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section2-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.1&nbsp;</span><h4 id=Calisma-alaninizi-degistirin>Çalışma alanınızı değiştirin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-c%CC%A7al%C4%B1s%CC%A7ma-alan%C4%B1n%C4%B1z%C4%B1-deg%CC%86is%CC%A7tirin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Çalışma alanınızı değiştirin."></div></div><p>Belgenizi oluşturduktan sonra sağ üst köşedeki "Çalışma Alanını Değiştir" simgesinin açılır menüsünden "Boyama" çalışma alanını seçin.</p></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section2-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.2&nbsp;</span><h4 id=dosyayi-kaydedin>Dosyayı kaydedin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-dosyay%C4%B1-kaydedin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Dosyayı kaydedin."></div></div><p>Herhangi bir çalışmanızı kaybetmemek için Illustrator belgenizi düzenli olarak kaydetmeniz önemlidir.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ana menü çubuğunda "Dosya"ya gidin ve açılır menüden "Farklı Kaydet..." seçeneğini seçin.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>"Bulut belgesi olarak kaydedin" veya "Bilgisayarınıza kaydedin"i seçebilirsiniz.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Bilgisayarınıza kaydedin" butonuna tıklayın ve dosya yerini seçin.</p></div></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section3" class="how-to-section"><div
+class="section-title">
+<span>3.&nbsp;</span><h3 id=Sekiller-kullanma>Şekiller kullanma.</h3></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section3-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.1&nbsp;</span><h4 id=logonuz-icin-bir-sekil-secin>Logonuz için bir şekil seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-logonuz-ic%CC%A7in-bir-s%CC%A7ekil-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Logonuz için bir şekil seçin."></div></div><p>Şekil, logonun yapısı olacak ve simgeyi içerecektir. Farklı şekillerin çeşitli çağrışımları vardır ve işletmenizin belirli değerlerini ve özelliklerini iletmek için kullanılabilir.</p></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section3-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.2&nbsp;</span><h4 id=Sekil-aracini-secin>Şekil Aracını seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-s%CC%A7ekil-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Şekil Aracını seçin."></div></div><p>Sol menü çubuğunda "Şekil Aracı"nı bulacaksınız. Şeklin türünü seçmek için simgeye sağ tıklayın. Biz bu örnekte "Dikdörtgen Aracı (M)" kullanıyoruz.</p></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section3-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.3&nbsp;</span><h4 id=Sekli-cizin>Şekli çizin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-s%CC%A7ekli-c%CC%A7izin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Şekli çizin."></div></div><p>Şekli oluşturmak için "Shift" tuşuna basılı tutun ve imlece tıklayıp sürükleyin. Böylece mükemmel bir kare oluşturabilirsiniz.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Özel bir dikdörtgen şekil için "Shift" tuşuna basılı tutmayın.</p></div><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Üst menü çubuğundaki "Yatay" ve "Dikey Ortaya Hizala" simgelerine tıklayarak şeklinizi ortalayabilirsiniz.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section3-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.4&nbsp;</span><h4 id=koseleri-yumusatin>Köşeleri yumuşatın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-ko%CC%88s%CC%A7eleri-yumus%CC%A7at%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Köşeleri yumuşatın."></div></div><p>Köşelerin yuvarlaklığından memnun kalana kadar karenin köşelerinin içindeki küçük dairesel tutamaca tıklayın ve şeklin merkezine doğru sürükleyin.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section4" class="how-to-section"><div
+class="section-title">
+<span>4.&nbsp;</span><h3 id=renk-ekleme>Renk ekleme.</h3></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section4-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.1&nbsp;</span><h4 id=logonuz-icin-bir-renk-semasi-secin>Logonuz için bir renk şeması seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-logonuz-ic%CC%A7in-bir-renk-s%CC%A7emas%C4%B1-sec%CC%A7in-288x288-20230125-1.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Logonuz için bir renk şeması seçin."></div></div><p><a
+href="https://www.zarla.com/tr/rehberler/logo-renkleri">Logolardaki renkler</a>, işletmenizin markalaşmasında önemli bir rol oynar. Renklerin insanlar üzerinde belirli psikolojik çağrışımları ve etkileri vardır ve markanıza tanımlayıcı bir karakter kazandırmaya yardımcı olabilir.</p></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section4-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.2&nbsp;</span><h4 id=kontur-rengini-ayarlayin>Kontur rengini ayarlayın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-kontur-rengini-ayarlay%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Kontur rengini ayarlayın."></div></div><p>Menü çubuğunun sol üst kısmından "Kontur" rengini "[Yok]" olarak ayarlayın.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Şeklinize bir dış hat vermek için renk ekleyebilir ve üst menü çubuğundan konturun kalınlığını ve stilini değiştirebilirsiniz.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section4-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.3&nbsp;</span><h4 id=dolgu-rengini-ayarlayin>Dolgu rengini ayarlayın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-dolgu-rengini-ayarlay%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Dolgu rengini ayarlayın."></div></div><p>Üst menü çubuğundaki "Doldur" simgesine tıklayarak şeklin rengini değiştirin. Düz bir renk seçebilir veya "Degrade" simgesine tıklayarak bir degrade kullanmayı tercih edebilirsiniz.</p></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section4-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.4&nbsp;</span><h4 id=bir-degrade-olusturun>Bir degrade oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-bir-degrade-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Bir degrade oluşturun."></div></div><p>Degrade seçeneklerini açmak için sağ menü çubuğundaki "Degrade" simgesine tıklayın. Açılır menüden "Beyaz, Siyah" gradyan seçeneğini seçin.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Bir "Tür" seçeneği belirleyerek çeşitli degrade stilleri seçin.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section4-step5" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.5&nbsp;</span><h4 id=degrade-039-ye-renk-tonlari-ekleyin>Degrade&#039;ye renk tonları ekleyin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-degrade-e-renk-tonlar%C4%B1-ekleyin-288x288-20230125-1.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Degrade&#039;ye renk tonları ekleyin."></div></div><p>Degrade oluşturulduktan sonra degrade sürgüsünü kullanarak renkleri özelleştirebilirsiniz.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Degrade açısını "45°" olarak ayarlayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Degrade sürgüsünün sol altındaki beyaz daireye çift tıklayın ve bir renk seçin. Biz bu örnekte açık mavi seçiyoruz.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Degrade sürgüsünün sağındaki siyah daire için de aynısını yapın ve farklı bir renk seçin. Biz daha koyu bir mavi tonu seçtik.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Degrade sürgüsünün altına tıklayarak degradenize daha fazla renk tonu ekleyin.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Bir degrade tonunu kaldırmak için renk dairesine tıklayın ve sürgüden uzağa doğru sürükleyin.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Degrade sürgüsünün altındaki renk dairelerini kaydırarak degradenizin çeşitli tonları arasındaki solmayı ayarlayabilirsiniz.</p></div></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section5" class="how-to-section"><div
+class="section-title">
+<span>5.&nbsp;</span><h3 id=bir-simge-olusturma>Bir simge oluşturma.</h3></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section5-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.1&nbsp;</span><h4 id=logonuz-icin-bir-simgeye-karar-verin>Logonuz için bir simgeye karar verin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-logonuz-ic%CC%A7in-bir-simgeye-karar-verin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Logonuz için bir simgeye karar verin."></div></div><p>Simge, işletmenize marka kimliği kazandıracak bir resim veya semboldür. İşletmenizin doğasını ve değerlerini yansıtan bir şey düşünün ve birkaç referans görsel toplayın. Biz bu örnekte çeşitli şekiller kullanarak bir bulut simgesi oluşturacağız.</p></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section5-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.2&nbsp;</span><h4 id=yeni-bir-katman-olusturun>Yeni bir katman oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-yeni-bir-katman-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Yeni bir katman oluşturun."></div></div><p>Katmanlar panelinin altındaki sağ alt köşede "+" butonuna tıklayarak yeni bir katman ekleyin.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Katman metnine çift tıklayarak katmanlarınızı yeniden adlandırabilirsiniz.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section5-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.3&nbsp;</span><h4 id=Sekil-aracini-secin>Şekil aracını seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-s%CC%A7ekil-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20230125-1.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Şekil aracını seçin."></div></div><p>Sol menü çubuğundaki şekil simgesine sağ tıklayın ve "Elips Aracı (L)"nı seçin.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Üst menü çubuğunda "Doldur"u "Beyaz" olarak ve "Kontur"u "[Yok]" olarak ayarlayın.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section5-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.4&nbsp;</span><h4 id=Sekiller-olusturun>Şekiller oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-s%CC%A7ekiller-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Şekiller oluşturun."></div></div><p>Temel bir bulut görüntüsü yaratmak için "Shift" tuşuna basılı tutun ve çeşitli boyutlarda daireler oluşturmaya başlayın.</p></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section5-step5" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.5&nbsp;</span><h4 id=simgeyi-tamamlayin>Simgeyi tamamlayın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-simgeyi-tamamlay%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Simgeyi tamamlayın."></div></div><p>Sol menü çubuğundaki "Seçim aracı (V)" simgesine tıklayın. Ardından konumlandırmak ve yeniden boyutlandırmak için bir şekle tıklayın.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Bulutun kabarcıklı üst bölümünü oluşturduktan sonra simgenin altını tamamlayacak bir dikdörtgen oluşturmak için "Dikdörtgen Aracı (M)"na geçin.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>İmlecinizi en soldaki dairenin alt orta bağlantı noktasına konumlandırın ve en sağdaki dairenin alt orta bağlantı noktasıyla birleşene kadar "Shift" tuşuna basılı tutmadan dikdörtgeni oluşturun.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Oranlarını korumak için şekilleri yeniden boyutlandırırken "Shift" tuşuna basılı tutun.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Bulutun en altındaki iki dairenin alt kenarını hizalamak için pembe "Akıllı Kılavuzlar"ı kullanın.</p></div></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section6" class="how-to-section"><div
+class="section-title">
+<span>6.&nbsp;</span><h3 id=simgeyi-gelistirme>Simgeyi geliştirme.</h3></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section6-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.1&nbsp;</span><h4 id=Sekilleri-secin>Şekilleri seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-s%CC%A7ekilleri-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Şekilleri seçin."></div></div><p>Simge katmanının seçili olduğundan emin olun. Ardından simgedeki tüm şekilleri seçmek için "Seçim aracı (M)"nı kullanın ve "Shift" tuşuna basılı tutarak her şekle tıklayın.</p></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section6-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.2&nbsp;</span><h4 id=Sekil-olusturucu-aracini-secin>Şekil Oluşturucu aracını seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-s%CC%A7ekil-olus%CC%A7turucu-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Şekil Oluşturucu aracını seçin."></div></div><p>Sol menü çubuğunda "Şekil Oluşturucu aracı (Shift + M)" bulacaksınız.</p></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section6-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.3&nbsp;</span><h4 id=Sekilleri-baglayin>Şekilleri bağlayın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-s%CC%A7ekilleri-bag%CC%86lay%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Şekilleri bağlayın."></div></div><p>İmlecinizi kullanarak şekillerin üst üste binen bölümlerinin üzerine bir çizgi çizin ve şekilleri bağlayın.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Tüm şekiller birleştirilene ve yalnızca bulut simgesinin ana hatları kalana kadar bu işlemi tekrarlayın.</p></div></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section7" class="how-to-section"><div
+class="section-title">
+<span>7.&nbsp;</span><h3 id=ayrinti-ekleme>Ayrıntı ekleme.</h3></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section7-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.1&nbsp;</span><h4 id=kalem-aracini-secin>Kalem aracını seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-kalem-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Kalem aracını seçin."></div></div><p>Simgenin tam anlamıyla öne çıkması için küçük bir ayrıntı ekleyebiliriz. Biz bu örnekte bir gölge oluşturacağız.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Katmanlar panelinin altındaki sağ alt köşede "+" düğmesine tıklayarak yeni bir katman oluşturun.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Sol menü çubuğundaki "Kalem aracı (P)" simgesine tıklayın.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section7-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.2&nbsp;</span><h4 id=golgeyi-olusturun>Gölgeyi oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-go%CC%88lgeyi-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Gölgeyi oluşturun."></div></div><p>"Görünüm"e tıklayarak ve "Anahat (Ctrl/Cmd + Y)"yi seçerek "Anahat" moduna geçin. Böylece Illustrator uygulamasının görüntüleri oluşturmak için kullandığı temel vektör çizgilerini göreceksiniz.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Kalem aracını seçin ve bir bağlantı noktası eklemek için bulut simgesinin dış çizgisinin sol tarafına tıklayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>45°'lik bir açı oluşturmak için "Shift" tuşuna basılı tutarak kare şeklin sol alt kısmının dışında ikinci bir bağlantı noktası oluşturun.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Bu işlemi, bu sefer sağ alta doğru 45° açıyla yeni bir çizgi oluşturarak tekrarlayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Sağ üste doğru 45° açıyla üçüncü bir bağlantı noktası oluşturun ve bunu ilk bağlantı noktasıyla aynı hizaya getirmek için akıllı kılavuzları kullanın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Son olarak, orijinal bağlantı noktasına tıklayarak şekli tamamlayın.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section7-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.3&nbsp;</span><h4 id=yollari-hizalayin>Yolları hizalayın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-yollar%C4%B1-hizalay%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Yolları hizalayın."></div></div><p>Sol gölge yolu düzgün bir şekilde hizalanmış olacaktır; ancak sağ gölge yolunun bulut simgesiyle bağlandığından emin olmalısınız.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Sol menü çubuğundaki "Doğrudan Seçim aracı (A)" simgesine tıklayın ve en sağdaki gölge yoluna tıklayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Yolu, bulutun sağ alt köşesine bağlanacak şekilde sürükleyin.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Çizgilerin birleştiğinden emin olmak için yakınlaştırın.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section7-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.4&nbsp;</span><h4 id=golgeye-renk-ekleyin>Gölgeye renk ekleyin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-go%CC%88lgeye-renk-ekleyin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Gölgeye renk ekleyin."></div></div><p>"Anahat" görünümünden (Ctrl/Cmd + Y) çıkın ve "Seçim aracı (V)" simgesine tıklayın. Ardından seçmek için gölgeye tıklayın.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Sağ üst menü çubuğunda gölgenin "Dolgu"sunu koyu maviye ve "Kontur"u "[Yok]"a değiştirin.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Üst menü çubuğunda "Opaklık"ı %50'ye ayarlayarak şeffaflığı değiştirin.</p></div></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section8" class="how-to-section"><div
+class="section-title">
+<span>8.&nbsp;</span><h3 id=Ogeleri-uygun-hale-getirme>Ögeleri uygun hale getirme.</h3></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section8-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>8.1&nbsp;</span><h4 id=golgeyi-sekle-sigdirin>Gölgeyi şekle sığdırın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-go%CC%88lgeyi-s%CC%A7ekle-s%C4%B1g%CC%86d%C4%B1r%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Gölgeyi şekle sığdırın."></div></div><p>Gölgenin şeklini tamamlayabilmemiz için onu simge kenarlığı içine ve bulutun alt kısmına sığdırmamız gerekiyor.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Sol menü çubuğundaki "Seçim aracı (V)" simgesine tıklayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Katmanlar panelinde katman simgesinin sağındaki küçük daireye tıklayarak mavi kare şeklini seçin.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ana menü çubuğunda "Düzenle"ye tıklayın ve açılır menüden "Kopyala"yı seçin.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Katmanlar panelinde gölge şeklini seçin ve menü çubuğunda "Düzenle"ye tıklayın ve "Arkaya Yapıştır"a tıklayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Shift" tuşuna basılı tutun ve her iki nesnenin de seçilmesi için gölge şekline tıklayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Son olarak, sağ menü çubuğundaki "Yol Bulucu" simgesine tıklayın ve "Kesiştir" seçeneğini seçin.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Bu, kare simgesinin kenarlıklarının gölgesini içerecektir.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section8-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>8.2&nbsp;</span><h4 id=golgeyi-simgenin-cevresine-sigdirin>Gölgeyi simgenin çevresine sığdırın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-go%CC%88lgeyi-simgenin-c%CC%A7evresine-s%C4%B1g%CC%86d%C4%B1r%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Gölgeyi simgenin çevresine sığdırın."></div></div><p>Gölgeyi bulutun ana hatlarına sığdırmak için benzer bir işlem uygulayacağız.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Bulut katmanını seçin, ana menü çubuğunda "Düzenle"ye tıklayın ve açılır menüden "Kopyala"yı seçin.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Katmanlar panelinde gölge şeklini seçin ve ana menü çubuğunda "Düzenle"ye tıklayın ve "Öne Yapıştır"ı seçin.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Shift" tuşunu basılı tutun ve her iki nesnenin de seçilmesi için gölge şekline tıklayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Yol Bulucu" simgesine tıklayın ve "Öndekini Çıkar" ögesini seçin.</p></div></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section9" class="how-to-section"><div
+class="section-title">
+<span>9.&nbsp;</span><h3 id=Isletme-adini-ekleme>İşletme adını ekleme.</h3></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section9-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.1&nbsp;</span><h4 id=yazim-aracini-secin>Yazım aracını seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-yaz%C4%B1m-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Yazım aracını seçin."></div></div><p>Katmanlar panelinin altında sağ alt köşedeki "+" butonuna tıklayarak yeni bir katman oluşturun. Sol menü çubuğunda "Yazım aracı (T)" ögesini seçin.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Bir metin kutusu oluşturmak için tuvale tıklayın ve işletmenizin adını yazın.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section9-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.2&nbsp;</span><h4 id=metin-rengini-degistirin>Metin rengini değiştirin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-metnin-rengini-deg%CC%86is%CC%A7tirin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Metin rengini değiştirin."></div></div><p>Üst menü çubuğundaki "Doldur" simgesine tıklayın ve metniniz için bir renk seçin.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Kontur" rengini "[Yok]" olarak ayarlayın.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section9-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.3&nbsp;</span><h4 id=fontu-degistirin>Fontu değiştirin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-fontu-deg%CC%86is%CC%A7tirin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Fontu değiştirin."></div></div><p>Açılır menüden bir font seçerek metninizin görünümünü ayarlayın. Font seçeneklerini üst menü çubuğunun ortasında bulabilirsiniz.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Seçim aracı (V)" ögesini seçip metin kutunuzu sürükleyerek metninizi konumlandırın.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Üst menü çubuğundaki "Karakter" seçeneğine tıklayarak metin stilini, boyutunu, satır aralığını, karakter aralığını ve izleme parametrelerini ayarlayabilirsiniz.</p></div></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section10" class="how-to-section"><div
+class="section-title">
+<span>10.&nbsp;</span><h3 id=logonuzun-varyasyonlarini-olusturma>Logonuzun varyasyonlarını oluşturma.</h3></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section10-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>10.1&nbsp;</span><h4 id=tasariminizin-farkli-stillerini-karsilastirin>Tasarımınızın farklı stillerini karşılaştırın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-tasar%C4%B1m%C4%B1n%C4%B1z%C4%B1n-farkl%C4%B1-stillerini-kars%CC%A7%C4%B1las%CC%A7t%C4%B1r%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Tasarımınızın farklı stillerini karşılaştırın."></div></div><p>Logonuzun genel yapısını tamamladıktan sonra detaylarla oynamaya başlayabilirsiniz.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Logonuzun görünümünü iyileştirmek için farklı arka plan renkleri, şekil ana hatları, fontlar ve düzenlemeler deneyin.</p></div><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Bu, logonuzun farklı bağlamlarda nasıl görüneceğini aklınızda canlandırmanıza ve bir karar vermenize yardımcı olacaktır.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section10-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>10.2&nbsp;</span><h4 id=Calisma-yuzeyleri-olusturun>Çalışma Yüzeyleri oluşturun.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-c%CC%A7al%C4%B1s%CC%A7ma-yu%CC%88zeyleri-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Çalışma Yüzeyleri oluşturun."></div></div><p>Sol menü çubuğundaki "Çalışma Yüzeyi aracı (Shift + O)" simgesine tıklayın ve üst menü çubuğunda "Resmi Çalışma Yüzeyiyle Taşı/Kopyala" seçeneğinin seçili olduğundan emin olun. Ardından Windows'ta "Alt" veya Mac'te "Option" tuşuna basılı tutun ve yeni bir Çalışma Yüzeyi'nde logonun bir kopyasını oluşturmak için tuvali tıklayıp sürükleyin.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Ek Çalışma Yüzeyleri oluşturmak için işlemi tekrarlayın.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Tasarımınızın farklı versiyonlarını karşılaştırmak ve nihai kararınızı vermenize yardımcı olması için renkler, ana hatlar ve kompozisyon düzenleriyle denemeler yapın.</p></div></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section11" class="how-to-section"><div
+class="section-title">
+<span>11.&nbsp;</span><h3 id=bitirirken>Bitirirken.</h3></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section11-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>11.1&nbsp;</span><h4 id=logonuzu-disa-aktarin>Logonuzu dışa aktarın.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-logonuzu-d%C4%B1s%CC%A7a-aktar%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Logonuzu dışa aktarın."></div></div><p>Logo tasarımınız içinize sindiğinde onu çeşitli dosya formatlarında dışa aktarabilirsiniz.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Ana menü çubuğunda "Dosya" üzerine tıklayın, "Dışa Aktar"ın üzerine gelin ve "Farklı Dışa Aktar..." öğesini seçin.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Bilgisayarınızda dışa aktarma hedefini belirtin.</p></div></div></div><div
+id="illustrator-ile-logo-nasıl-yapılır-section11-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>11.2&nbsp;</span><h4 id=bir-dosya-formati-secin>Bir dosya formatı seçin.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-bir-dosya-format%C4%B1-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Bir dosya formatı seçin."></div></div><p>Illustrator'ın avantajı, sonsuz çözünürlük sunan ve dolayısıyla çeşitli uygulamalar için mükemmel şekilde ölçeklenebilen vektör dosyaları oluşturmasıdır. Bir Illustrator projesini kaydettiğinizde onu bir "AI" belgesi olarak kaydeder. Bu, düzenlemelerin yapılabileceği çalışma alanınızı içeren "Çalışma", "Kaynak" veya "Ana" dosya olarak da geçer.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Açılır pencere, farklı dışa aktarma seçenekleri gösterecektir.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>"Format" sekmesinin açılır menüsünden bir dosya türü seçin.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>"EPS" ve "SVG" formatları, görüntüleri kalite kaybı olmadan ölçeklendirmenizi sağlayan vektör dosyalarıdır. Sırasıyla baskı ve web için tasarlanmıştır.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>"PNG" ve "JPG" dosyaları, piksel tabanlıdır ve ölçeklendirildiklerinde çözünürlüklerini kaybederler. "PNG", şeffaf arka planlara izin verirken "JPG", bunu yapmaz.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"http://schema.org","@type":"HowTo","name":"Illustrator ile Logo Nasl Yaplr","description":"<p>Illustrator'da profesyonel bir i\u015fletme logosu olu\u015fturmak i\u00e7in 11 kolay ad\u0131m.<\/p>\n","estimatedCost":{"@type":"MonetaryAmount","currency":"TRY","value":"0.00"},"totalTime":"PT1H30M","step":[{"@type":"HowToSection","position":"1","name":"<p>Ba\u015flarken.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Yeni bir Illustrator belgesi olu\u015fturun.<\/p>\n","text":"<p>Illustrator'\u0131 ba\u015flat\u0131n, \u00fcst men\u00fc \u00e7ubu\u011funda \"Dosya\"ya t\u0131klay\u0131n ve a\u00e7\u0131l\u0131r men\u00fcden \"Yeni... (Ctrl\/Cmd + N)\"yi se\u00e7in.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section1-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-yeni-bir-illustrator-belgesi-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Bir tuval olu\u015fturun.<\/p>\n","text":"<p>Biz bu \u00f6rnek i\u00e7in \u00f6zel bir tuval olu\u015fturaca\u011f\u0131z; ancak siz \u015fablonlar aras\u0131ndan istedi\u011finiz se\u00e7imi yapabilirsiniz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section1-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-bir-tuval-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Belgenize bir ba\u015fl\u0131k verin.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\u00d6l\u00e7\u00fcm\u00fc \"Piksel\" olarak ayarlay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\"Geni\u015flik\" ve \"Y\u00fckseklik\"i \"1000 piksel\" olarak ayarlay\u0131n.<\/p>\n"},{"@type":"HowToTip","text":"<p>Bask\u0131 i\u00e7in ama\u00e7lanan renk format\u0131 bu oldu\u011fu i\u00e7in \"Renk Modu\" otomatik olarak \"CMYK Renk\" olarak ayarlan\u0131r.<\/p>\n"},{"@type":"HowToTip","text":"<p>Optimum g\u00f6r\u00fcnt\u00fc \u00e7\u00f6z\u00fcn\u00fcrl\u00fc\u011f\u00fc i\u00e7in \"Raster Efektleri\", \"Y\u00fcksek (300 ppi)\" olarak ayarlanm\u0131\u015ft\u0131r.<\/p>\n"}]}]},{"@type":"HowToSection","position":"2","name":"<p>\u00c7al\u0131\u015fma alan\u0131n\u0131 ayarlama.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>\u00c7al\u0131\u015fma alan\u0131n\u0131z\u0131 de\u011fi\u015ftirin.<\/p>\n","text":"<p>Belgenizi olu\u015fturduktan sonra sa\u011f \u00fcst k\u00f6\u015fedeki \"\u00c7al\u0131\u015fma Alan\u0131n\u0131 De\u011fi\u015ftir\" simgesinin a\u00e7\u0131l\u0131r men\u00fcs\u00fcnden \"Boyama\" \u00e7al\u0131\u015fma alan\u0131n\u0131 se\u00e7in.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section2-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-c%CC%A7al%C4%B1s%CC%A7ma-alan%C4%B1n%C4%B1z%C4%B1-deg%CC%86is%CC%A7tirin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Dosyay\u0131 kaydedin.<\/p>\n","text":"<p>Herhangi bir \u00e7al\u0131\u015fman\u0131z\u0131 kaybetmemek i\u00e7in Illustrator belgenizi d\u00fczenli olarak kaydetmeniz \u00f6nemlidir.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section2-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-dosyay%C4%B1-kaydedin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Ana men\u00fc \u00e7ubu\u011funda \"Dosya\"ya gidin ve a\u00e7\u0131l\u0131r men\u00fcden \"Farkl\u0131 Kaydet...\" se\u00e7ene\u011fini se\u00e7in.<\/p>\n"},{"@type":"HowToTip","text":"<p>\"Bulut belgesi olarak kaydedin\" veya \"Bilgisayar\u0131n\u0131za kaydedin\"i se\u00e7ebilirsiniz.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\"Bilgisayar\u0131n\u0131za kaydedin\" butonuna t\u0131klay\u0131n ve dosya yerini se\u00e7in.<\/p>\n"}]}]},{"@type":"HowToSection","position":"3","name":"<p>\u015eekiller kullanma.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Logonuz i\u00e7in bir \u015fekil se\u00e7in.<\/p>\n","text":"<p>\u015eekil, logonun yap\u0131s\u0131 olacak ve simgeyi i\u00e7erecektir. Farkl\u0131 \u015fekillerin \u00e7e\u015fitli \u00e7a\u011fr\u0131\u015f\u0131mlar\u0131 vard\u0131r ve i\u015fletmenizin belirli de\u011ferlerini ve \u00f6zelliklerini iletmek i\u00e7in kullan\u0131labilir.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section3-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-logonuz-ic%CC%A7in-bir-s%CC%A7ekil-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>\u015eekil Arac\u0131n\u0131 se\u00e7in.<\/p>\n","text":"<p>Sol men\u00fc \u00e7ubu\u011funda \"\u015eekil Arac\u0131\"n\u0131 bulacaks\u0131n\u0131z. \u015eeklin t\u00fcr\u00fcn\u00fc se\u00e7mek i\u00e7in simgeye sa\u011f t\u0131klay\u0131n. Biz bu \u00f6rnekte \"Dikd\u00f6rtgen Arac\u0131 (M)\" kullan\u0131yoruz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section3-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-s%CC%A7ekil-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>\u015eekli \u00e7izin.<\/p>\n","text":"<p>\u015eekli olu\u015fturmak i\u00e7in \"Shift\" tu\u015funa bas\u0131l\u0131 tutun ve imlece t\u0131klay\u0131p s\u00fcr\u00fckleyin. B\u00f6ylece m\u00fckemmel bir kare olu\u015fturabilirsiniz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section3-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-s%CC%A7ekli-c%CC%A7izin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>\u00d6zel bir dikd\u00f6rtgen \u015fekil i\u00e7in \"Shift\" tu\u015funa bas\u0131l\u0131 tutmay\u0131n.<\/p>\n"},{"@type":"HowToTip","text":"<p>\u00dcst men\u00fc \u00e7ubu\u011fundaki \"Yatay\" ve \"Dikey Ortaya Hizala\" simgelerine t\u0131klayarak \u015feklinizi ortalayabilirsiniz.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>K\u00f6\u015feleri yumu\u015fat\u0131n.<\/p>\n","text":"<p>K\u00f6\u015felerin yuvarlakl\u0131\u011f\u0131ndan memnun kalana kadar karenin k\u00f6\u015felerinin i\u00e7indeki k\u00fc\u00e7\u00fck dairesel tutamaca t\u0131klay\u0131n ve \u015feklin merkezine do\u011fru s\u00fcr\u00fckleyin.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section3-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-ko%CC%88s%CC%A7eleri-yumus%CC%A7at%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}}]},{"@type":"HowToSection","position":"4","name":"<p>Renk ekleme.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Logonuz i\u00e7in bir renk \u015femas\u0131 se\u00e7in.<\/p>\n","text":"<p><a href=\"https:\/\/www.zarla.com\/tr\/rehberler\/logo-renkleri\">Logolardaki renkler<\/a>, i\u015fletmenizin markala\u015fmas\u0131nda \u00f6nemli bir rol oynar. Renklerin insanlar \u00fczerinde belirli psikolojik \u00e7a\u011fr\u0131\u015f\u0131mlar\u0131 ve etkileri vard\u0131r ve markan\u0131za tan\u0131mlay\u0131c\u0131 bir karakter kazand\u0131rmaya yard\u0131mc\u0131 olabilir.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section4-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-logonuz-ic%CC%A7in-bir-renk-s%CC%A7emas%C4%B1-sec%CC%A7in-288x288-20230125-1.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Kontur rengini ayarlay\u0131n.<\/p>\n","text":"<p>Men\u00fc \u00e7ubu\u011funun sol \u00fcst k\u0131sm\u0131ndan \"Kontur\" rengini \"[Yok]\" olarak ayarlay\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section4-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-kontur-rengini-ayarlay%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>\u015eeklinize bir d\u0131\u015f hat vermek i\u00e7in renk ekleyebilir ve \u00fcst men\u00fc \u00e7ubu\u011fundan konturun kal\u0131nl\u0131\u011f\u0131n\u0131 ve stilini de\u011fi\u015ftirebilirsiniz.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Dolgu rengini ayarlay\u0131n.<\/p>\n","text":"<p>\u00dcst men\u00fc \u00e7ubu\u011fundaki \"Doldur\" simgesine t\u0131klayarak \u015feklin rengini de\u011fi\u015ftirin. D\u00fcz bir renk se\u00e7ebilir veya \"Degrade\" simgesine t\u0131klayarak bir degrade kullanmay\u0131 tercih edebilirsiniz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section4-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-dolgu-rengini-ayarlay%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"4","name":"<p>Bir degrade olu\u015fturun.<\/p>\n","text":"<p>Degrade se\u00e7eneklerini a\u00e7mak i\u00e7in sa\u011f men\u00fc \u00e7ubu\u011fundaki \"Degrade\" simgesine t\u0131klay\u0131n. A\u00e7\u0131l\u0131r men\u00fcden \"Beyaz, Siyah\" gradyan se\u00e7ene\u011fini se\u00e7in.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section4-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-bir-degrade-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Bir \"T\u00fcr\" se\u00e7ene\u011fi belirleyerek \u00e7e\u015fitli degrade stilleri se\u00e7in.<\/p>\n"}]},{"@type":"HowToStep","position":"5","name":"<p>Degrade'ye renk tonlar\u0131 ekleyin.<\/p>\n","text":"<p>Degrade olu\u015fturulduktan sonra degrade s\u00fcrg\u00fcs\u00fcn\u00fc kullanarak renkleri \u00f6zelle\u015ftirebilirsiniz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section4-step5","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-degrade-e-renk-tonlar%C4%B1-ekleyin-288x288-20230125-1.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Degrade a\u00e7\u0131s\u0131n\u0131 \"45\u00b0\" olarak ayarlay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Degrade s\u00fcrg\u00fcs\u00fcn\u00fcn sol alt\u0131ndaki beyaz daireye \u00e7ift t\u0131klay\u0131n ve bir renk se\u00e7in. Biz bu \u00f6rnekte a\u00e7\u0131k mavi se\u00e7iyoruz.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Degrade s\u00fcrg\u00fcs\u00fcn\u00fcn sa\u011f\u0131ndaki siyah daire i\u00e7in de ayn\u0131s\u0131n\u0131 yap\u0131n ve farkl\u0131 bir renk se\u00e7in. Biz daha koyu bir mavi tonu se\u00e7tik.<\/p>\n"},{"@type":"HowToTip","text":"<p>Degrade s\u00fcrg\u00fcs\u00fcn\u00fcn alt\u0131na t\u0131klayarak degradenize daha fazla renk tonu ekleyin.<\/p>\n"},{"@type":"HowToTip","text":"<p>Bir degrade tonunu kald\u0131rmak i\u00e7in renk dairesine t\u0131klay\u0131n ve s\u00fcrg\u00fcden uza\u011fa do\u011fru s\u00fcr\u00fckleyin.<\/p>\n"},{"@type":"HowToTip","text":"<p>Degrade s\u00fcrg\u00fcs\u00fcn\u00fcn alt\u0131ndaki renk dairelerini kayd\u0131rarak degradenizin \u00e7e\u015fitli tonlar\u0131 aras\u0131ndaki solmay\u0131 ayarlayabilirsiniz.<\/p>\n"}]}]},{"@type":"HowToSection","position":"5","name":"<p>Bir simge olu\u015fturma.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Logonuz i\u00e7in bir simgeye karar verin.<\/p>\n","text":"<p>Simge, i\u015fletmenize marka kimli\u011fi kazand\u0131racak bir resim veya sembold\u00fcr. \u0130\u015fletmenizin do\u011fas\u0131n\u0131 ve de\u011ferlerini yans\u0131tan bir \u015fey d\u00fc\u015f\u00fcn\u00fcn ve birka\u00e7 referans g\u00f6rsel toplay\u0131n. Biz bu \u00f6rnekte \u00e7e\u015fitli \u015fekiller kullanarak bir bulut simgesi olu\u015fturaca\u011f\u0131z.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section5-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-logonuz-ic%CC%A7in-bir-simgeye-karar-verin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Yeni bir katman olu\u015fturun.<\/p>\n","text":"<p>Katmanlar panelinin alt\u0131ndaki sa\u011f alt k\u00f6\u015fede \"+\" butonuna t\u0131klayarak yeni bir katman ekleyin.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section5-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-yeni-bir-katman-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Katman metnine \u00e7ift t\u0131klayarak katmanlar\u0131n\u0131z\u0131 yeniden adland\u0131rabilirsiniz.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>\u015eekil arac\u0131n\u0131 se\u00e7in.<\/p>\n","text":"<p>Sol men\u00fc \u00e7ubu\u011fundaki \u015fekil simgesine sa\u011f t\u0131klay\u0131n ve \"Elips Arac\u0131 (L)\"n\u0131 se\u00e7in.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section5-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-s%CC%A7ekil-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20230125-1.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>\u00dcst men\u00fc \u00e7ubu\u011funda \"Doldur\"u \"Beyaz\" olarak ve \"Kontur\"u \"[Yok]\" olarak ayarlay\u0131n.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>\u015eekiller olu\u015fturun.<\/p>\n","text":"<p>Temel bir bulut g\u00f6r\u00fcnt\u00fcs\u00fc yaratmak i\u00e7in \"Shift\" tu\u015funa bas\u0131l\u0131 tutun ve \u00e7e\u015fitli boyutlarda daireler olu\u015fturmaya ba\u015flay\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section5-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-s%CC%A7ekiller-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"5","name":"<p>Simgeyi tamamlay\u0131n.<\/p>\n","text":"<p>Sol men\u00fc \u00e7ubu\u011fundaki \"Se\u00e7im arac\u0131 (V)\" simgesine t\u0131klay\u0131n. Ard\u0131ndan konumland\u0131rmak ve yeniden boyutland\u0131rmak i\u00e7in bir \u015fekle t\u0131klay\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section5-step5","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-simgeyi-tamamlay%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Bulutun kabarc\u0131kl\u0131 \u00fcst b\u00f6l\u00fcm\u00fcn\u00fc olu\u015fturduktan sonra simgenin alt\u0131n\u0131 tamamlayacak bir dikd\u00f6rtgen olu\u015fturmak i\u00e7in \"Dikd\u00f6rtgen Arac\u0131 (M)\"na ge\u00e7in.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\u0130mlecinizi en soldaki dairenin alt orta ba\u011flant\u0131 noktas\u0131na konumland\u0131r\u0131n ve en sa\u011fdaki dairenin alt orta ba\u011flant\u0131 noktas\u0131yla birle\u015fene kadar \"Shift\" tu\u015funa bas\u0131l\u0131 tutmadan dikd\u00f6rtgeni olu\u015fturun.<\/p>\n"},{"@type":"HowToTip","text":"<p>Oranlar\u0131n\u0131 korumak i\u00e7in \u015fekilleri yeniden boyutland\u0131r\u0131rken \"Shift\" tu\u015funa bas\u0131l\u0131 tutun.<\/p>\n"},{"@type":"HowToTip","text":"<p>Bulutun en alt\u0131ndaki iki dairenin alt kenar\u0131n\u0131 hizalamak i\u00e7in pembe \"Ak\u0131ll\u0131 K\u0131lavuzlar\"\u0131 kullan\u0131n.<\/p>\n"}]}]},{"@type":"HowToSection","position":"6","name":"<p>Simgeyi geli\u015ftirme.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>\u015eekilleri se\u00e7in.<\/p>\n","text":"<p>Simge katman\u0131n\u0131n se\u00e7ili oldu\u011fundan emin olun. Ard\u0131ndan simgedeki t\u00fcm \u015fekilleri se\u00e7mek i\u00e7in \"Se\u00e7im arac\u0131 (M)\"n\u0131 kullan\u0131n ve \"Shift\" tu\u015funa bas\u0131l\u0131 tutarak her \u015fekle t\u0131klay\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section6-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-s%CC%A7ekilleri-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>\u015eekil Olu\u015fturucu arac\u0131n\u0131 se\u00e7in.<\/p>\n","text":"<p>Sol men\u00fc \u00e7ubu\u011funda \"\u015eekil Olu\u015fturucu arac\u0131 (Shift + M)\" bulacaks\u0131n\u0131z.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section6-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-s%CC%A7ekil-olus%CC%A7turucu-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>\u015eekilleri ba\u011flay\u0131n.<\/p>\n","text":"<p>\u0130mlecinizi kullanarak \u015fekillerin \u00fcst \u00fcste binen b\u00f6l\u00fcmlerinin \u00fczerine bir \u00e7izgi \u00e7izin ve \u015fekilleri ba\u011flay\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section6-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-s%CC%A7ekilleri-bag%CC%86lay%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>T\u00fcm \u015fekiller birle\u015ftirilene ve yaln\u0131zca bulut simgesinin ana hatlar\u0131 kalana kadar bu i\u015flemi tekrarlay\u0131n.<\/p>\n"}]}]},{"@type":"HowToSection","position":"7","name":"<p>Ayr\u0131nt\u0131 ekleme.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Kalem arac\u0131n\u0131 se\u00e7in.<\/p>\n","text":"<p>Simgenin tam anlam\u0131yla \u00f6ne \u00e7\u0131kmas\u0131 i\u00e7in k\u00fc\u00e7\u00fck bir ayr\u0131nt\u0131 ekleyebiliriz. Biz bu \u00f6rnekte bir g\u00f6lge olu\u015fturaca\u011f\u0131z.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section7-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-kalem-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Katmanlar panelinin alt\u0131ndaki sa\u011f alt k\u00f6\u015fede \"+\" d\u00fc\u011fmesine t\u0131klayarak yeni bir katman olu\u015fturun.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Sol men\u00fc \u00e7ubu\u011fundaki \"Kalem arac\u0131 (P)\" simgesine t\u0131klay\u0131n.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>G\u00f6lgeyi olu\u015fturun.<\/p>\n","text":"<p>\"G\u00f6r\u00fcn\u00fcm\"e t\u0131klayarak ve \"Anahat (Ctrl\/Cmd + Y)\"yi se\u00e7erek \"Anahat\" moduna ge\u00e7in. B\u00f6ylece Illustrator uygulamas\u0131n\u0131n g\u00f6r\u00fcnt\u00fcleri olu\u015fturmak i\u00e7in kulland\u0131\u011f\u0131 temel vekt\u00f6r \u00e7izgilerini g\u00f6receksiniz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section7-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-go%CC%88lgeyi-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Kalem arac\u0131n\u0131 se\u00e7in ve bir ba\u011flant\u0131 noktas\u0131 eklemek i\u00e7in bulut simgesinin d\u0131\u015f \u00e7izgisinin sol taraf\u0131na t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>45\u00b0'lik bir a\u00e7\u0131 olu\u015fturmak i\u00e7in \"Shift\" tu\u015funa bas\u0131l\u0131 tutarak kare \u015feklin sol alt k\u0131sm\u0131n\u0131n d\u0131\u015f\u0131nda ikinci bir ba\u011flant\u0131 noktas\u0131 olu\u015fturun.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Bu i\u015flemi, bu sefer sa\u011f alta do\u011fru 45\u00b0 a\u00e7\u0131yla yeni bir \u00e7izgi olu\u015fturarak tekrarlay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Sa\u011f \u00fcste do\u011fru 45\u00b0 a\u00e7\u0131yla \u00fc\u00e7\u00fcnc\u00fc bir ba\u011flant\u0131 noktas\u0131 olu\u015fturun ve bunu ilk ba\u011flant\u0131 noktas\u0131yla ayn\u0131 hizaya getirmek i\u00e7in ak\u0131ll\u0131 k\u0131lavuzlar\u0131 kullan\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Son olarak, orijinal ba\u011flant\u0131 noktas\u0131na t\u0131klayarak \u015fekli tamamlay\u0131n.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Yollar\u0131 hizalay\u0131n.<\/p>\n","text":"<p>Sol g\u00f6lge yolu d\u00fczg\u00fcn bir \u015fekilde hizalanm\u0131\u015f olacakt\u0131r; ancak sa\u011f g\u00f6lge yolunun bulut simgesiyle ba\u011fland\u0131\u011f\u0131ndan emin olmal\u0131s\u0131n\u0131z.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section7-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-yollar%C4%B1-hizalay%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Sol men\u00fc \u00e7ubu\u011fundaki \"Do\u011frudan Se\u00e7im arac\u0131 (A)\" simgesine t\u0131klay\u0131n ve en sa\u011fdaki g\u00f6lge yoluna t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Yolu, bulutun sa\u011f alt k\u00f6\u015fesine ba\u011flanacak \u015fekilde s\u00fcr\u00fckleyin.<\/p>\n"},{"@type":"HowToTip","text":"<p>\u00c7izgilerin birle\u015fti\u011finden emin olmak i\u00e7in yak\u0131nla\u015ft\u0131r\u0131n.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>G\u00f6lgeye renk ekleyin.<\/p>\n","text":"<p>\"Anahat\" g\u00f6r\u00fcn\u00fcm\u00fcnden (Ctrl\/Cmd + Y) \u00e7\u0131k\u0131n ve \"Se\u00e7im arac\u0131 (V)\" simgesine t\u0131klay\u0131n. Ard\u0131ndan se\u00e7mek i\u00e7in g\u00f6lgeye t\u0131klay\u0131n.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section7-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-go%CC%88lgeye-renk-ekleyin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Sa\u011f \u00fcst men\u00fc \u00e7ubu\u011funda g\u00f6lgenin \"Dolgu\"sunu koyu maviye ve \"Kontur\"u \"[Yok]\"a de\u011fi\u015ftirin.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\u00dcst men\u00fc \u00e7ubu\u011funda \"Opakl\u0131k\"\u0131 %50'ye ayarlayarak \u015feffafl\u0131\u011f\u0131 de\u011fi\u015ftirin.<\/p>\n"}]}]},{"@type":"HowToSection","position":"8","name":"<p>\u00d6geleri uygun hale getirme.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>G\u00f6lgeyi \u015fekle s\u0131\u011fd\u0131r\u0131n.<\/p>\n","text":"<p>G\u00f6lgenin \u015feklini tamamlayabilmemiz i\u00e7in onu simge kenarl\u0131\u011f\u0131 i\u00e7ine ve bulutun alt k\u0131sm\u0131na s\u0131\u011fd\u0131rmam\u0131z gerekiyor.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section8-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-go%CC%88lgeyi-s%CC%A7ekle-s%C4%B1g%CC%86d%C4%B1r%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Sol men\u00fc \u00e7ubu\u011fundaki \"Se\u00e7im arac\u0131 (V)\" simgesine t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Katmanlar panelinde katman simgesinin sa\u011f\u0131ndaki k\u00fc\u00e7\u00fck daireye t\u0131klayarak mavi kare \u015feklini se\u00e7in.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Ana men\u00fc \u00e7ubu\u011funda \"D\u00fczenle\"ye t\u0131klay\u0131n ve a\u00e7\u0131l\u0131r men\u00fcden \"Kopyala\"y\u0131 se\u00e7in.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Katmanlar panelinde g\u00f6lge \u015feklini se\u00e7in ve men\u00fc \u00e7ubu\u011funda \"D\u00fczenle\"ye t\u0131klay\u0131n ve \"Arkaya Yap\u0131\u015ft\u0131r\"a t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\"Shift\" tu\u015funa bas\u0131l\u0131 tutun ve her iki nesnenin de se\u00e7ilmesi i\u00e7in g\u00f6lge \u015fekline t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Son olarak, sa\u011f men\u00fc \u00e7ubu\u011fundaki \"Yol Bulucu\" simgesine t\u0131klay\u0131n ve \"Kesi\u015ftir\" se\u00e7ene\u011fini se\u00e7in.<\/p>\n"},{"@type":"HowToTip","text":"<p>Bu, kare simgesinin kenarl\u0131klar\u0131n\u0131n g\u00f6lgesini i\u00e7erecektir.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>G\u00f6lgeyi simgenin \u00e7evresine s\u0131\u011fd\u0131r\u0131n.<\/p>\n","text":"<p>G\u00f6lgeyi bulutun ana hatlar\u0131na s\u0131\u011fd\u0131rmak i\u00e7in benzer bir i\u015flem uygulayaca\u011f\u0131z.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section8-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-go%CC%88lgeyi-simgenin-c%CC%A7evresine-s%C4%B1g%CC%86d%C4%B1r%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Bulut katman\u0131n\u0131 se\u00e7in, ana men\u00fc \u00e7ubu\u011funda \"D\u00fczenle\"ye t\u0131klay\u0131n ve a\u00e7\u0131l\u0131r men\u00fcden \"Kopyala\"y\u0131 se\u00e7in.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Katmanlar panelinde g\u00f6lge \u015feklini se\u00e7in ve ana men\u00fc \u00e7ubu\u011funda \"D\u00fczenle\"ye t\u0131klay\u0131n ve \"\u00d6ne Yap\u0131\u015ft\u0131r\"\u0131 se\u00e7in.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\"Shift\" tu\u015funu bas\u0131l\u0131 tutun ve her iki nesnenin de se\u00e7ilmesi i\u00e7in g\u00f6lge \u015fekline t\u0131klay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\"Yol Bulucu\" simgesine t\u0131klay\u0131n ve \"\u00d6ndekini \u00c7\u0131kar\" \u00f6gesini se\u00e7in.<\/p>\n"}]}]},{"@type":"HowToSection","position":"9","name":"<p>\u0130\u015fletme ad\u0131n\u0131 ekleme.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Yaz\u0131m arac\u0131n\u0131 se\u00e7in.<\/p>\n","text":"<p>Katmanlar panelinin alt\u0131nda sa\u011f alt k\u00f6\u015fedeki \"+\" butonuna t\u0131klayarak yeni bir katman olu\u015fturun. Sol men\u00fc \u00e7ubu\u011funda \"Yaz\u0131m arac\u0131 (T)\" \u00f6gesini se\u00e7in.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section9-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-yaz%C4%B1m-arac%C4%B1n%C4%B1-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Bir metin kutusu olu\u015fturmak i\u00e7in tuvale t\u0131klay\u0131n ve i\u015fletmenizin ad\u0131n\u0131 yaz\u0131n.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Metin rengini de\u011fi\u015ftirin.<\/p>\n","text":"<p>\u00dcst men\u00fc \u00e7ubu\u011fundaki \"Doldur\" simgesine t\u0131klay\u0131n ve metniniz i\u00e7in bir renk se\u00e7in.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section9-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-metnin-rengini-deg%CC%86is%CC%A7tirin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>\"Kontur\" rengini \"[Yok]\" olarak ayarlay\u0131n.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Fontu de\u011fi\u015ftirin.<\/p>\n","text":"<p>A\u00e7\u0131l\u0131r men\u00fcden bir font se\u00e7erek metninizin g\u00f6r\u00fcn\u00fcm\u00fcn\u00fc ayarlay\u0131n. Font se\u00e7eneklerini \u00fcst men\u00fc \u00e7ubu\u011funun ortas\u0131nda bulabilirsiniz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section9-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-fontu-deg%CC%86is%CC%A7tirin-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>\"Se\u00e7im arac\u0131 (V)\" \u00f6gesini se\u00e7ip metin kutunuzu s\u00fcr\u00fckleyerek metninizi konumland\u0131r\u0131n.<\/p>\n"},{"@type":"HowToTip","text":"<p>\u00dcst men\u00fc \u00e7ubu\u011fundaki \"Karakter\" se\u00e7ene\u011fine t\u0131klayarak metin stilini, boyutunu, sat\u0131r aral\u0131\u011f\u0131n\u0131, karakter aral\u0131\u011f\u0131n\u0131 ve izleme parametrelerini ayarlayabilirsiniz.<\/p>\n"}]}]},{"@type":"HowToSection","position":"10","name":"<p>Logonuzun varyasyonlar\u0131n\u0131 olu\u015fturma.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Tasar\u0131m\u0131n\u0131z\u0131n farkl\u0131 stillerini kar\u015f\u0131la\u015ft\u0131r\u0131n.<\/p>\n","text":"<p>Logonuzun genel yap\u0131s\u0131n\u0131 tamamlad\u0131ktan sonra detaylarla oynamaya ba\u015flayabilirsiniz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section10-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-tasar%C4%B1m%C4%B1n%C4%B1z%C4%B1n-farkl%C4%B1-stillerini-kars%CC%A7%C4%B1las%CC%A7t%C4%B1r%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Logonuzun g\u00f6r\u00fcn\u00fcm\u00fcn\u00fc iyile\u015ftirmek i\u00e7in farkl\u0131 arka plan renkleri, \u015fekil ana hatlar\u0131, fontlar ve d\u00fczenlemeler deneyin.<\/p>\n"},{"@type":"HowToTip","text":"<p>Bu, logonuzun farkl\u0131 ba\u011flamlarda nas\u0131l g\u00f6r\u00fcnece\u011fini akl\u0131n\u0131zda canland\u0131rman\u0131za ve bir karar vermenize yard\u0131mc\u0131 olacakt\u0131r.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>\u00c7al\u0131\u015fma Y\u00fczeyleri olu\u015fturun.<\/p>\n","text":"<p>Sol men\u00fc \u00e7ubu\u011fundaki \"\u00c7al\u0131\u015fma Y\u00fczeyi arac\u0131 (Shift + O)\" simgesine t\u0131klay\u0131n ve \u00fcst men\u00fc \u00e7ubu\u011funda \"Resmi \u00c7al\u0131\u015fma Y\u00fczeyiyle Ta\u015f\u0131\/Kopyala\" se\u00e7ene\u011finin se\u00e7ili oldu\u011fundan emin olun. Ard\u0131ndan Windows'ta \"Alt\" veya Mac'te \"Option\" tu\u015funa bas\u0131l\u0131 tutun ve yeni bir \u00c7al\u0131\u015fma Y\u00fczeyi'nde logonun bir kopyas\u0131n\u0131 olu\u015fturmak i\u00e7in tuvali t\u0131klay\u0131p s\u00fcr\u00fckleyin.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section10-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-c%CC%A7al%C4%B1s%CC%A7ma-yu%CC%88zeyleri-olus%CC%A7turun-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Ek \u00c7al\u0131\u015fma Y\u00fczeyleri olu\u015fturmak i\u00e7in i\u015flemi tekrarlay\u0131n.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Tasar\u0131m\u0131n\u0131z\u0131n farkl\u0131 versiyonlar\u0131n\u0131 kar\u015f\u0131la\u015ft\u0131rmak ve nihai karar\u0131n\u0131z\u0131 vermenize yard\u0131mc\u0131 olmas\u0131 i\u00e7in renkler, ana hatlar ve kompozisyon d\u00fczenleriyle denemeler yap\u0131n.<\/p>\n"}]}]},{"@type":"HowToSection","position":"11","name":"<p>Bitirirken.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Logonuzu d\u0131\u015fa aktar\u0131n.<\/p>\n","text":"<p>Logo tasar\u0131m\u0131n\u0131z i\u00e7inize sindi\u011finde onu \u00e7e\u015fitli dosya formatlar\u0131nda d\u0131\u015fa aktarabilirsiniz.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section11-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-logonuzu-d%C4%B1s%CC%A7a-aktar%C4%B1n-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Ana men\u00fc \u00e7ubu\u011funda \"Dosya\" \u00fczerine t\u0131klay\u0131n, \"D\u0131\u015fa Aktar\"\u0131n \u00fczerine gelin ve \"Farkl\u0131 D\u0131\u015fa Aktar...\" \u00f6\u011fesini se\u00e7in.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Bilgisayar\u0131n\u0131zda d\u0131\u015fa aktarma hedefini belirtin.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Bir dosya format\u0131 se\u00e7in.<\/p>\n","text":"<p>Illustrator'\u0131n avantaj\u0131, sonsuz \u00e7\u00f6z\u00fcn\u00fcrl\u00fck sunan ve dolay\u0131s\u0131yla \u00e7e\u015fitli uygulamalar i\u00e7in m\u00fckemmel \u015fekilde \u00f6l\u00e7eklenebilen vekt\u00f6r dosyalar\u0131 olu\u015fturmas\u0131d\u0131r. Bir Illustrator projesini kaydetti\u011finizde onu bir \"AI\" belgesi olarak kaydeder. Bu, d\u00fczenlemelerin yap\u0131labilece\u011fi \u00e7al\u0131\u015fma alan\u0131n\u0131z\u0131 i\u00e7eren \"\u00c7al\u0131\u015fma\", \"Kaynak\" veya \"Ana\" dosya olarak da ge\u00e7er.<\/p>\n","url":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r#illustrator-ile-logo-nasıl-yapılır-section11-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-bir-dosya-format%C4%B1-sec%CC%A7in-288x288-20230125.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>A\u00e7\u0131l\u0131r pencere, farkl\u0131 d\u0131\u015fa aktarma se\u00e7enekleri g\u00f6sterecektir.<\/p>\n"},{"@type":"HowToDirection","text":"<p>\"Format\" sekmesinin a\u00e7\u0131l\u0131r men\u00fcs\u00fcnden bir dosya t\u00fcr\u00fc se\u00e7in.<\/p>\n"},{"@type":"HowToTip","text":"<p>\"EPS\" ve \"SVG\" formatlar\u0131, g\u00f6r\u00fcnt\u00fcleri kalite kayb\u0131 olmadan \u00f6l\u00e7eklendirmenizi sa\u011flayan vekt\u00f6r dosyalar\u0131d\u0131r. S\u0131ras\u0131yla bask\u0131 ve web i\u00e7in tasarlanm\u0131\u015ft\u0131r.<\/p>\n"},{"@type":"HowToTip","text":"<p>\"PNG\" ve \"JPG\" dosyalar\u0131, piksel tabanl\u0131d\u0131r ve \u00f6l\u00e7eklendirildiklerinde \u00e7\u00f6z\u00fcn\u00fcrl\u00fcklerini kaybederler. \"PNG\", \u015feffaf arka planlara izin verirken \"JPG\", bunu yapmaz.<\/p>\n"}]}]}]}</script> <div
+class="block block-promote"><div
+class="card"><div
+class="row"><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/logo-nas%C4%B1l-yap%C4%B1l%C4%B1r">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-2475x2475-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo Nasıl Yapılır?" />
+</picture>
+</a></div><div
+class="card-body"><p
+class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/logo-nas%C4%B1l-yap%C4%B1l%C4%B1r">Logo Nasıl Yapılır?</a></p><div
+class="card-text">İşletmeniz için nasıl çekici bir logo yapacağınıza dair eksiksiz bir rehber.</div></div></div></div></div><div
+class="block"><h2 id=sss>SSS:</h2><h3 id=adobe-illustratorda-logo-yapimini-resimli-anlatim-olarak-nerede-bulabilirim>Adobe Illustrator'da logo yapımını resimli anlatım olarak nerede bulabilirim?</h3><p>Illustrator'da logo yapımını resimli olarak anlattığımız <a
+href="#illustrator-ile-logo-nasil-yapilir">adım adım rehberimizi</a> kullanarak Illustrator ile kendi işletme logonuzu oluşturabilirsiniz.</p><h3 id=adobe-illustrator-logo-yapmak-icin-iyi-midir>Adobe Illustrator, logo yapmak için iyi midir?</h3><p>Adobe Illustrator, sonsuz çözünürlüklü görüntüler oluşturan vektör tabanlı bir program olduğu için logo yapmak için ideal bir uygulamadır, yani görüntüleriniz herhangi bir boyuta ölçeklenebilir.</p><h3 id=illustratorda-logo-nasil-yapilir>Illustrator'da logo nasıl yapılır?</h3><ol><li><a
+href="#baslarken">Yeni bir Illustrator belgesi oluşturun</a>.</li><li><a
+href="#Calisma-alanini-ayarlama">Çalışma alanınızı ayarlayın</a>.</li><li><a
+href="#Sekiller-kullanma">Temel bir şekil oluşturun</a>.</li><li><a
+href="#renk-ekleme">Biraz renk ekleyin</a>.</li><li><a
+href="#bir-simge-olusturma">Bir simge oluşturun</a>.</li><li><a
+href="#simgeyi-gelistirme">Simgeyi geliştirin</a>.</li><li><a
+href="#ayrinti-ekleme">Ayrıntı ekleyin</a>.</li><li><a
+href="#Ogeleri-uygun-hale-getirme">Ögeleri uygun hale getirin</a>.</li><li><a
+href="#Isletme-adini-ekleme">İşletmenizin adını ekleyin</a>.</li><li><a
+href="#logonuzun-varyasyonlarini-olusturma">Logonuzun varyasyonlarını oluşturun</a>.</li><li><a
+href="#bitirirken">Logonuzu dışa aktarın</a>.</li></ol><h3 id=illustratorda-modern-bir-logo-nasil-yapilir>Illustrator'da modern bir logo nasıl yapılır?</h3><p>Logo tasarımındaki modern trend, minimalizmdir. Basit şekiller, kolayca tanınan simgeler ve rafine bir renk paleti kullanın. Logonuzun işinizde nasıl kullanılacağını düşünün. Örneğin; modern logolar, genellikle akıllı telefonlarda iyi okunacak dairesel formlar ve basit ikonografi kullanan uygulama simgeleri düşünülerek tasarlanır.</p><h3 id=logolari-photoshopta-mi-yoksa-illustratorda-mi-yapmaliyim>Logoları Photoshop'ta mı yoksa Illustrator'da mı yapmalıyım?</h3><p>Photoshop, logo oluşturmaktan daha fazla özelliğe sahip olsa da vektör tabanlı formatı nedeniyle Illustrator, kesinlikle daha iyi bir seçenektir. Vektör tabanlı olması, onu web uygulamaları, büyük ölçekli baskılar veya tabelalar için görseller tasarlamak için en iyi program haline getirir.</p></div></div></div></div><div
+class="section-related-post"><div
+class="container"><h2 class="section-heading">Benzer Yazılar</h2><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/photoshopta-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-photoshop-6000x3375-20230312-1.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bilgisayar ekranındaki bir uygulama simgesindeki Adobe Photoshop logosu." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/photoshopta-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r">Photoshop’ta Logo Nasıl Yapılır?</a></h3><div
+class="card-text">Adım adım açıklamalı rehberimizle Photoshop&#039;ta bir işletme logosunu nasıl oluşturacağınızı öğrenin.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Klavyeli ve çizim tabletli bir masanın üzerindeki GIMP logosu." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur">GIMP&#039;te Logo Nasıl Oluşturulur?</a></h3><div
+class="card-text">Adım adım rehberimizle GIMP&#039;te logo nasıl oluşturulur öğrenin.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/microsoft-wordde-logo-nas%C4%B1l-olu%C5%9Fturulur">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-create-a-logo-in-ms-word-2400x2400-20210907_2021-09-07-065541_yktz.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Microsoft Word&#039;de bir logo oluşturmak için bilgisayar kullanan bir kadın." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/microsoft-wordde-logo-nas%C4%B1l-olu%C5%9Fturulur">Microsoft Word&#039;de Logo Nasıl Oluşturulur?</a></h3><div
+class="card-text">Adım adım rehberimiz ile Microsoft Word&#039;de işletme logosu nasıl oluşturulur öğrenin.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/bir-logo-nas%C4%B1l-%C5%9Feffaf-yap%C4%B1l%C4%B1r">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2400x2400-02030211.png?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Arka planı şeffaf yapılan bir logo tasarımı." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/bir-logo-nas%C4%B1l-%C5%9Feffaf-yap%C4%B1l%C4%B1r">Bir Logo Nasıl Şeffaf Yapılır?</a></h3><div
+class="card-text">Bir logonun arka planını birkaç kolay adımda nasıl kaldıracağınızı öğrenin.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/tr/rehberler/logo-dosya-t%C3%BCrleri">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logo-file-types-2500x2500-20210816_2022-11-02-094823_hemf.png?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Çeşitli logolardan oluşan bir fon üzerinde logo dosya türleri." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/tr/rehberler/logo-dosya-t%C3%BCrleri">Logo Dosya Türleri Nelerdir ve Ne Zaman Kullanılır?</a></h3><div
+class="card-text">6 yaygın logo dosya türü ve kullanımları.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r","name":"Illustrator ile Logo Nasıl Yapılır?"},"headline":"Illustrator ile Logo Nasıl Yapılır?","description":"Adım adım açıklamalı rehberimizle Illustrator&#039;da bir işletme logosunu nasıl tasarlayacağınızı öğrenin.","image":["https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r-5996x3374-20230125.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-08-31T01:04:00-05:00","dateModified":"2024-06-17T11:30:52-05:00","author":{"@type":"Person","name":"Ebru Çelik","url":"https://www.zarla.com/tr/katkı-sağlayanlar/ebru-çelik"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+class="footer"><div
+class="container"><div
+class="row"><div
+class="col-md-6 col-lg-5 footer-info"><div
+class="footer-brand">
+<a
+class="footer-logo without-title" href="/tr">
+<img
+class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-group"></div>
+</a></div></div><div
+class="col-md-6 col-lg-3"><p
+class="footer-category">Dil</p><ul
+class="footer-menu list-unstyled"><li><a
+href="https://www.zarla.com/guides/how-to-make-a-logo-in-illustrator">English</a></li><li><a
+href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-illustrator">Español</a></li><li><a
+href="https://www.zarla.com/it/guide/come-creare-un-logo-su-illustrator">Italiano</a></li><li><a
+href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-dans-illustrator">Français</a></li><li><a
+href="https://www.zarla.com/de/leitf%C3%A4den/logo-erstellen-in-illustrator">Deutsch</a></li><li><a
+href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator">Português (Brasil)</a></li><li
+class="current" style="color: #3041c4;">Türkçe</li><li><a
+href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-illustratorze">Polski</a></li><li><a
+href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-illustrator">Bahasa Indonesia</a></li></ul></div><div
+class="col-md-6 col-lg-3 "><p
+class="footer-category">Kaynaklar</p><ul
+class="footer-menu list-unstyled"><li>
+<a
+href="https://www.zarla.com/tr/rehberler/logo-fikirleri">
+Logo Fikirleri
+</a></li><li>
+<a
+href="/tr">
+AI Web Sitesi Oluşturma Aracı
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
+Ücretsiz Logo Oluşturucu
+</a></li><li>
+<a
+href="mailto:hello%40zarla.com">
+hello@zarla.com
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
+Kullanım Koşulları
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
+Telif Hakkı Politikası
+</a></li><li>
+<a
+href="https://www.zarla.com/tr/gizlilik-politikas%C4%B1">
+Gizlilik Politikası
+</a></li></ul></div></div></div><div
+class="footer-bottom"><div
+class="container"><p
+class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
+class="cta-sticky-footer js-cta-sticky-footer">
+<a
+href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=tr-startdesigningacustomlogo-20240613"
+class="btn btn-primary"
+>
+Özel bir logo tasarlamaya başlayın
+</a></div> <script async src="/scripts/custom-20240618.js"></script> <!--#minify preserve 2024-07-26T15:16:53Z--><!--#minify end preserve-->
+</body></html>

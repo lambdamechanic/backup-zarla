@@ -1,0 +1,1243 @@
+<!DOCTYPE html><html
+lang="pt-BR"><head><meta
+charset="utf-8" /> <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWG06X4WML"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','G-DWG06X4WML');</script> <title>Como criar um logotipo no Illustrator</title><meta
+name="description" content="Aprenda a criar um logotipo para a sua empresa usando o Illustrator com nosso guia passo a passo." /><meta
+property="og:title" content="Como criar um logotipo no Illustrator" /><meta
+property="og:description" content="Aprenda a criar um logotipo para a sua empresa usando o Illustrator com nosso guia passo a passo." /><link
+rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
+property="og:site_name" content="Zarla" /><meta
+property="og:url" content="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator"><meta
+property="og:type" content="website"><meta
+property="og:locale" content="pt-BR"><meta
+property="og:image" content="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image:width" content='1200' /><meta
+property="og:image:height" content='630' /><meta
+property="og:image:type" content='image/jpeg' /><link
+rel="canonical" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator"><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-illustrator" hreflang="x-default" /><link
+rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-illustrator" hreflang="en" /><link
+rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-illustrator" hreflang="es" /><link
+rel="alternate" href="https://www.zarla.com/it/guide/come-creare-un-logo-su-illustrator" hreflang="it" /><link
+rel="alternate" href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-dans-illustrator" hreflang="fr" /><link
+rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/logo-erstellen-in-illustrator" hreflang="de" /><link
+rel="alternate" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-illustratorze" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-illustrator" hreflang="id-ID" /><link
+rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
+rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
+name="viewport" content="width=device-width, initial-scale=1" /><meta
+name="format-detection" content="telephone=no" /><meta
+name="theme-color" content="#ffffff" /><link
+rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+class="guideEntries"><header
+class="header"><div
+class="container"><nav
+class="navbar navbar-expand-lg"><div
+class="navbar-brand">
+<a
+class="navbar-logo" href="/br">
+<img
+class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+</a></div>
+<a
+href="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis"
+class="btn btn-primary cta-nav
+"
+>
+Criador de Logo Grátis
+</a></nav></div><div
+class="indicator"><div
+class="indicator-position js-indicator-position"></div></div></header><main
+class="entry entry-is-guide section-guideEntries"><div
+class="section-banner"><div
+class="narrow-container"><div
+class="section-breadcrumb"><ol
+class="breadcrumb"><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/br/guias">Guias</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/br/guias/logotipos">Logotipos</a></li><li
+class="breadcrumb-item"><a
+href="https://www.zarla.com/br/guias/logotipos/guias-pr%C3%A1ticos">Guias práticos</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guias","item":"https://www.zarla.com/br/guias"},{"@type":"ListItem","position":2,"name":"Logotipos","item":"https://www.zarla.com/br/guias/logotipos"},{"@type":"ListItem","position":3,"name":"Guias práticos","item":"https://www.zarla.com/br/guias/logotipos/guias-pr%C3%A1ticos"},{"@type":"ListItem","position":4,"name":"Como criar um logotipo no Illustrator","item":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator"}]}</script> <div
+class="card card-featured"><h1 class="card-title">
+Como criar um logotipo no Illustrator</h1><div
+class="card-body"><div
+class="card-text card-text-prebyline">Aprenda a criar um logotipo para a sua empresa usando o Illustrator com nosso guia passo a passo.</div><div
+class="card-byline"><div
+class="card-byline-image">
+<img
+class="lazyload"
+data-src="https://www.zarla.com/images/zarla-fabiana-de-freitas-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
+width="80"
+height="80"
+alt="Fabiana de Freitas"
+/></div><div
+class="card-byline-details">
+<span>Por <a
+class="card-byline-author" href="https://www.zarla.com/br/colaboradores/fabiana-de-freitas">Fabiana de Freitas</a>,</span>
+<span
+class="card-byline-date">17 de jun. de 2024</span><div
+class="card-byline-bio">
+Fabiana de Freitas é uma copywriter do Zarla. Ela é graduada em Letras e tem experiência em copywriting, escrevendo artigos sobre logotipos para pequenas empresas desde 2021.</div></div></div></div><div
+class="card-image-holder"><div
+class="card-preview">
+<picture>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+media="(max-width: 412px)"
+/>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+media="(max-width: 575px)"
+/>
+<source
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+media="(max-width: 767px)"
+/>
+<img
+class="card-pic"
+srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=2:1,smart&width=730"
+width="730"
+height="365"
+alt="O ícone do aplicativo Adobe Illustrator."
+/>
+</picture></div></div><div
+class="block-intro-text"><p>Adobe Illustrator é uma poderosa ferramenta de design baseada em ilustrações vetoriais e o padrão da indústria para a criação de logotipos. Qualquer pessoa com conhecimento básico em software pode usar o programa para criar logotipos com aparência profissional em menos de noventa minutos.</p><p>Nosso guia passo a passo o ajudará a entender os elementos básicos que compõem um logotipo e como você pode usá-los para criar uma identidade visual única para o seu negócio. Se você não tem o Illustrator, ainda pode criar um logotipo incrível usando nosso <a
+href="https://www.zarla.com/br/criador-de-logo-grátis">criador de logo grátis</a>.</p></div></div></div></div><div
+class="section-content"><div
+class="container"><div
+class="narrow-container"><div
+class="block block-how-to"><h2 id=como-criar-um-logotipo-no-illustrator>Como criar um logotipo no Illustrator:</h2><div
+class="how-to-info"><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px">
+<g>
+<path
+d="M376,151c-39.185,0-136-5.486-136-45v60c0,42.9,113.5,45,136,45s136-2.1,136-45v-60C512,145.514,415.185,151,376,151z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,31c-22.544,0-136,2.168-136,45c0,42.832,113.456,45,136,45s136-2.168,136-45C512,33.168,398.544,31,376,31z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,241c-39.185,0-136-5.486-136-45v22.82c23.293,19.265,41.085,44.854,51.053,74.037    C323.956,300.324,363.763,301,376,301c22.5,0,136-2.1,136-45v-60C512,235.514,415.185,241,376,241z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,331c-11.353,0-46.491-0.524-77.571-6.539C299.357,331.529,300,338.683,300,346c0,13.026-1.675,25.644-4.543,37.808    C327.343,390.376,364.307,391,376,391c22.5,0,136-2.1,136-45v-60C512,325.514,415.185,331,376,331z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M376,421c-12.87,0-55.932-0.738-89.713-9.333c-7.679,17.622-18.402,33.582-31.419,47.375    C286.104,479.643,358.543,481,376,481c22.5,0,136-2.1,136-45v-60C512,415.514,415.185,421,376,421z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+<g>
+<path
+d="M135,211C60.557,211,0,271.557,0,346s60.557,135,135,135s135-60.557,135-135S209.443,211,135,211z M150.396,418.29    c-0.13,0.048-0.266,0.026-0.396,0.071V436c0,8.291-6.709,15-15,15s-15-6.709-15-15v-17.741    c-9.879-3.338-19.345-9.672-27.437-19.319c-5.332-6.343-4.512-15.806,1.846-21.123c6.343-5.317,15.835-4.482,21.123,1.846    c7.939,9.434,16.963,13.242,24.595,10.444C146.03,387.953,150,382.284,150,376c0-8.276-6.724-15-15-15c-24.814,0-45-20.186-45-45    c0-17.686,9.998-34.92,30-42.085V256c0-8.291,6.709-15,15-15s15,6.709,15,15v17.941c7.771,2.626,15.348,6.799,22.104,13.348    c5.947,5.757,6.094,15.249,0.322,21.211c-5.742,5.947-15.264,6.079-21.211,0.322c-7.295-7.061-15.352-9.492-22.046-6.65    C123.604,304.53,120,309.95,120,316c0,8.276,6.724,15,15,15c24.814,0,45,20.186,45,45C180,394.853,168.105,411.845,150.396,418.29    z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C4"/>
+</g>
+</svg>
+</span>
+$0.00 USD</div><div
+class="info">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" height="512px" viewBox="0 0 512 512" width="512px"><g><path
+d="m256 0c-141.164062 0-256 114.835938-256 256s114.835938 256 256 256 256-114.835938 256-256-114.835938-256-256-256zm121.75 388.414062c-4.160156 4.160157-9.621094 6.253907-15.082031 6.253907-5.460938 0-10.925781-2.09375-15.082031-6.253907l-106.667969-106.664062c-4.011719-3.988281-6.25-9.410156-6.25-15.082031v-138.667969c0-11.796875 9.554687-21.332031 21.332031-21.332031s21.332031 9.535156 21.332031 21.332031v129.835938l100.417969 100.414062c8.339844 8.34375 8.339844 21.824219 0 30.164062zm0 0" data-original="#000000" class="active-path" data-old_color="#000000" fill="#3041C3"/></g> </svg>
+</span>
+1 Hora
+30 Minutos</div></div><div
+class="how-to-desc"><div
+class="how-to-image">
+<picture>
+<img
+data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-in-illustrator-completed-800x800-2021091.jpeg?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Como criar um logotipo no Illustrator:">
+</picture></div><p>Onze etapas fáceis para criar um logotipo profissional no Illustrator.</p></div><div
+id="como-criar-um-logotipo-no-illustrator-section1" class="how-to-section"><div
+class="section-title">
+<span>1.&nbsp;</span><h3 id=comecando>Começando.</h3></div><div
+id="como-criar-um-logotipo-no-illustrator-section1-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.1&nbsp;</span><h4 id=crie-um-novo-documento-no-illustrator>Crie um novo documento no Illustrator.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-new-illustrator-document-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie um novo documento no Illustrator."></div></div><p>Abra o Illustrator, clique em "Arquivo" na barra de menu superior e selecione "Novo ... (Ctrl / Cmd + N)" no menu suspenso.</p></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section1-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>1.2&nbsp;</span><h4 id=crie-uma-tela>Crie uma tela.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-canvas-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie uma tela."></div></div><p>Para este exemplo, criaremos uma tela personalizada, mas você pode escolher entre uma variedade de modelos.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Dê um título ao seu documento.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Defina a medição para "Pixels".</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Defina a "Largura" e a "Altura" como "1000 px".</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>O "Modo de cor" é definido automaticamente para "Cor CMYK", pois este é o formato de cor pretendido para impressão.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>"Raster Effects" ou "Efeitos de Rasterização" deve ser definido para "Alto (300 ppi)" para uma resolução de imagem ideal.</p></div></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section2" class="how-to-section"><div
+class="section-title">
+<span>2.&nbsp;</span><h3 id=configurando-sua-area-de-trabalho>Configurando sua área de trabalho.</h3></div><div
+id="como-criar-um-logotipo-no-illustrator-section2-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.1&nbsp;</span><h4 id=alterne-sua-area-de-trabalho>Alterne sua área de trabalho.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-switch-your-workspace-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Alterne sua área de trabalho."></div></div><p>Depois de criar seu documento, selecione a área de trabalho "Pintura" no menu suspenso do ícone "Alternar área de trabalho" no canto superior direito.</p></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section2-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>2.2&nbsp;</span><h4 id=salve-seu-arquivo>Salve seu arquivo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-save-file-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Salve seu arquivo."></div></div><p>É importante salvar seu documento do Illustrator regularmente para evitar qualquer perda de alterações.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Vá para "Arquivo" na barra de menu principal e selecione "Salvar como ..." no menu suspenso.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Você pode escolher "Salvar documento na nuvem da Adobe" ou "Salvar no computador".</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Clique em "Salvar no computador" e especifique o local de destino do arquivo.</p></div></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section3" class="how-to-section"><div
+class="section-title">
+<span>3.&nbsp;</span><h3 id=usando-formas>Usando formas.</h3></div><div
+id="como-criar-um-logotipo-no-illustrator-section3-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.1&nbsp;</span><h4 id=escolha-uma-forma-para-o-seu-logotipo>Escolha uma forma para o seu logotipo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-pick-a-shape-for-your-logo-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Escolha uma forma para o seu logotipo."></div></div><p>A forma será a estrutura do seu logotipo e conterá o ícone. Cada forma possui uma associação diferente que pode ser usada para comunicar determinados valores e características do seu negócio.</p></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section3-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.2&nbsp;</span><h4 id=selecione-a-ferramenta-forma>Selecione a ferramenta Forma.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-the-shape-tool-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta Forma."></div></div><p>Você encontrará a ferramenta "Construtor de formas" na barra de menu à esquerda. Clique com o botão direito no ícone para selecionar o tipo de forma. Neste caso, estamos usando a "Ferramenta Retângulo (M)".</p></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section3-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.3&nbsp;</span><h4 id=desenhe-sua-forma>Desenhe sua forma.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-draw-your-shape-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Desenhe sua forma."></div></div><p>Segure "Shift" e clique e arraste o cursor para criar a forma. Isso produzirá um quadrado perfeito.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Para uma forma retangular personalizada, não mantenha pressionada a tecla "Shift".</p></div><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Você pode centralizar sua forma clicando nos ícones "Horizontal" e "Vertical" na barra de menu superior.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section3-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>3.4&nbsp;</span><h4 id=suavize-os-cantos>Suavize os cantos.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-soften-the-corners-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Suavize os cantos."></div></div><p>Clique e arraste a pequena alça circular dentro dos cantos do quadrado em direção ao centro da forma até ficar satisfeito com o arredondamento dos cantos.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section4" class="how-to-section"><div
+class="section-title">
+<span>4.&nbsp;</span><h3 id=adicionando-cor>Adicionando cor.</h3></div><div
+id="como-criar-um-logotipo-no-illustrator-section4-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.1&nbsp;</span><h4 id=escolha-um-esquema-de-cores-para-o-seu-logotipo>Escolha um esquema de cores para o seu logotipo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-choose-a-color-scheme-for-your-logo-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Escolha um esquema de cores para o seu logotipo."></div></div><p>As cores desempenham um papel importante na identidade visual da sua empresa, uma vez que podem causar efeitos psicológicos nas pessoas e ajudar a dar à sua marca um caráter definidor.</p></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section4-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.2&nbsp;</span><h4 id=defina-a-cor-do-traco>Defina a cor do traço.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-set-the-stroke-color-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Defina a cor do traço."></div></div><p>No canto superior esquerdo da barra de menu, defina a cor "Traço" para "Nenhum".</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Você pode adicionar cor para dar um contorno à sua forma e alterar a espessura e o estilo do traço na barra de menu superior.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section4-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.3&nbsp;</span><h4 id=defina-a-cor-de-preenchimento>Defina a cor de preenchimento.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-set-the-fill-color-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Defina a cor de preenchimento."></div></div><p>Mude a cor da forma clicando no ícone "Preencher" na barra de menu superior. Você pode escolher uma cor sólida ou optar por usar um gradiente clicando na ferramenta "Gradiente".</p></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section4-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.4&nbsp;</span><h4 id=crie-um-gradiente>Crie um gradiente.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-gradient-288x288-2021096.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie um gradiente."></div></div><p>Clique na ferramenta "Gradiente" na barra de menu à direita para abrir as opções de gradiente. Selecione a opção gradiente "Branco e Preto" no menu suspenso.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Escolha vários estilos de gradiente selecionando a opção "Tipo de degradê".</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section4-step5" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>4.5&nbsp;</span><h4 id=adicione-sombras-ao-gradiente>Adicione sombras ao gradiente.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-add-shades-to-the-gradient-288x288-2021096.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Adicione sombras ao gradiente."></div></div><p>Depois de criar o gradiente, você pode personalizar as cores usando o controle deslizante de gradiente.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Defina o ângulo de gradiente para "45°".</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Clique duas vezes no círculo branco esquerdo abaixo do controle deslizante de gradiente e atribua uma cor. Neste caso, estamos selecionando um azul claro.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Faça o mesmo para o círculo preto à direita do controle deslizante de gradiente, selecionando uma cor diferente. Selecionamos um azul mais escuro.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Adicione mais sombras ao seu gradiente clicando abaixo do controle deslizante de gradiente.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Para remover um tom de gradiente, clique e arraste o círculo de cores para longe do controle deslizante.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Você pode ajustar os tons de seu gradiente deslizando os círculos de cores abaixo do controle deslizante de gradiente.</p></div></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section5" class="how-to-section"><div
+class="section-title">
+<span>5.&nbsp;</span><h3 id=criando-um-icone>Criando um ícone.</h3></div><div
+id="como-criar-um-logotipo-no-illustrator-section5-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.1&nbsp;</span><h4 id=escolha-um-icone-para-o-seu-logotipo>Escolha um ícone para o seu logotipo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-decide-on-an-icon-for-your-logo-288x288-2021092_2021-09-03-104343_jiqd.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Escolha um ícone para o seu logotipo."></div></div><p>Um ícone é uma imagem ou símbolo que dará à sua empresa uma forte identidade visual. Pense em algo que capte a natureza e os valores do seu negócio e reúna algumas imagens de referência. Para este exemplo, vamos construir um ícone de nuvem usando várias formas.</p></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section5-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.2&nbsp;</span><h4 id=crie-uma-nova-camada>Crie uma nova camada.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-a-new-layer-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie uma nova camada."></div></div><p>Adicione uma nova camada clicando no botão "+" no canto inferior direito abaixo do painel de camadas.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Você pode renomear suas camadas clicando duas vezes no texto de cada camada.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section5-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.3&nbsp;</span><h4 id=selecione-a-ferramenta-de-forma>Selecione a ferramenta de forma.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-the-shape-tool-288x288-2021093_2021-09-03-073739_spgc.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta de forma."></div></div><p>Clique com o botão direito do mouse no ícone de forma na barra de ferramentas à esquerda e selecione a ferramenta "Elipse (L)".</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Defina o "Preenchimento" como "Branco" e o "Traço" como "Nenhum" na barra de ferramentas.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section5-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.4&nbsp;</span><h4 id=crie-suas-formas>Crie suas formas.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-your-shapes-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie suas formas."></div></div><p>Mantenha "Shift" pressionado e comece a criar círculos de vários tamanhos para criar a impressão visual de uma nuvem.</p></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section5-step5" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>5.5&nbsp;</span><h4 id=complete-o-icone>Complete o ícone.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-complete-the-icon-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Complete o ícone."></div></div><p>Clique no ícone "Ferramenta de seleção (V)" na barra de menu à esquerda. Em seguida, clique em uma forma para posicioná-la e redimensioná-la.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Mantenha pressionada a tecla "Shift" ao redimensionar as formas para manter suas proporções.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Use as "guias inteligentes" para alinhar a borda inferior dos dois círculos mais baixos da nuvem.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Depois de criar a seção superior da nuvem, mude para a "Ferramenta Retângulo (M)" para construir um retângulo que irá completar a parte inferior do ícone.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Posicione o cursor no ponto de ancoragem central inferior do círculo à esquerda e construa o retângulo sem segurar "Shift" até que ele se junte ao ponto de ancoragem central inferior do círculo mais à direita.</p></div></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section6" class="how-to-section"><div
+class="section-title">
+<span>6.&nbsp;</span><h3 id=refinando-o-icone>Refinando o ícone.</h3></div><div
+id="como-criar-um-logotipo-no-illustrator-section6-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.1&nbsp;</span><h4 id=selecione-as-formas>Selecione as formas.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-the-shapes-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione as formas."></div></div><p>Certifique-se de que a camada de ícone esteja selecionada. Então, use a "Ferramenta de Seleção (M)" para selecionar todas as formas no ícone segurando "Shift" e clicando em cada forma.</p></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section6-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.2&nbsp;</span><h4 id=selecione-a-ferramenta-construtor-de-formas>Selecione a ferramenta Construtor de formas.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-the-shape-builder-tool-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta Construtor de formas."></div></div><p>Você encontrará a ferramenta "Construtor de Formas (Shift + M)" na barra de menu à esquerda.</p></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section6-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>6.3&nbsp;</span><h4 id=conecte-as-formas>Conecte as formas.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-connect-the-shapes-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Conecte as formas."></div></div><p>Use o cursor para conectar as formas, desenhando uma linha sobre as seções sobrepostas das formas.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Repita esse processo até que todas as formas tenham sido mescladas e apenas o contorno do ícone da nuvem permaneça.</p></div></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section7" class="how-to-section"><div
+class="section-title">
+<span>7.&nbsp;</span><h3 id=adicionando-detalhes>Adicionando detalhes.</h3></div><div
+id="como-criar-um-logotipo-no-illustrator-section7-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.1&nbsp;</span><h4 id=selecione-a-ferramenta-caneta>Selecione a ferramenta Caneta.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-the-pen-tool-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta Caneta."></div></div><p>Podemos adicionar uma pequena quantidade de detalhes para fazer com que o ícone se destaque. Nesse caso, vamos criar uma sombra.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Crie uma nova camada clicando no botão "+" no canto inferior direito abaixo do painel de camadas.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Clique no ícone "Ferramenta Caneta (P)" na barra de menu à esquerda.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section7-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.2&nbsp;</span><h4 id=construa-a-sombra>Construa a sombra.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-construct-the-shadow-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Construa a sombra."></div></div><p>Mude para o modo "Contorno" clicando em "Visualizar" e selecionando "Contorno (Ctrl / Cmd + Y)". Isso exibirá as linhas vetoriais que o Illustrator utiliza para construir imagens.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Selecione a ferramenta Caneta e clique para adicionar um ponto de ancoragem no lado esquerdo do contorno do ícone da nuvem.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Crie um segundo ponto de ancoragem fora da parte inferior esquerda da forma quadrada, mantendo pressionada a tecla "Shift" para criar um ângulo de 45 °.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Repita esse processo, desta vez criando uma nova linha em um ângulo de 45° em direção ao canto inferior direito.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Crie um terceiro ponto de ancoragem em um ângulo de 45° em direção ao canto superior direito e use as guias inteligentes para alinhá-lo com o primeiro ponto de ancoragem.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Finalmente, complete a forma clicando no ponto de ancoragem original.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section7-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.3&nbsp;</span><h4 id=alinhe-os-caminhos>Alinhe os caminhos.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-line-up-the-paths-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Alinhe os caminhos."></div></div><p>O caminho da sombra à esquerda está alinhado corretamente, mas precisamos garantir que o caminho da sombra à direita se alinhe ao ícone da nuvem.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Clique no ícone "Ferramenta de Seleção direta (A)" na barra de menu à esquerda e clique no caminho de sombra mais à direita.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Arraste o caminho para que ele se conecte ao canto inferior direito da nuvem.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Aumente o zoom para garantir que as linhas se encontrem.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section7-step4" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>7.4&nbsp;</span><h4 id=adicione-cor-a-sombra>Adicione cor à sombra.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-add-color-to-the-shadow-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Adicione cor à sombra."></div></div><p>Saia da visualização "Contorno" (Ctrl / Cmd + Y) e clique no ícone "Ferramenta de Seleção (V)". Em seguida, clique na sombra para selecioná-la.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Na barra de menu superior à direita, altere o "Preenchimento" da sombra para um azul escuro e o "Traço" para "Nenhum".</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Altere a transparência ajustando a "Opacidade" para 50% na barra de menu superior.</p></div></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section8" class="how-to-section"><div
+class="section-title">
+<span>8.&nbsp;</span><h3 id=fazendo-os-elementos-se-encaixarem>Fazendo os elementos se encaixarem.</h3></div><div
+id="como-criar-um-logotipo-no-illustrator-section8-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>8.1&nbsp;</span><h4 id=faca-a-sombra-se-ajustar-a-forma>Faça a sombra se ajustar à forma.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-make-the-shadow-fit-into-the-shape-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Faça a sombra se ajustar à forma."></div></div><p>Para completar a forma da sombra, precisamos fazer com que ela se encaixe na borda do ícone e ao redor da parte inferior da nuvem.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Clique no ícone "Ferramenta de seleção (V)" na barra de menu à esquerda.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Selecione a forma quadrada azul clicando no pequeno círculo à direita do ícone da camada no painel de camadas.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Clique em "Editar" na barra de menu principal e selecione "Copiar".</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Selecione a forma da sombra no painel de camadas e clique em "Editar" na barra de menu e clique em "Colar atrás".</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Mantenha a tecla "Shift" pressionada e clique na forma da sombra para que os dois objetos sejam selecionados.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Por fim, clique no ícone "Pathfinder" na barra de menu à direita e selecione a opção "Intersectar".</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Isso irá conter a sombra das bordas do ícone quadrado.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section8-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>8.2&nbsp;</span><h4 id=faca-com-que-a-sombra-se-ajuste-ao-icone>Faça com que a sombra se ajuste ao ícone.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-make-the-shadow-fit-around-the-icon-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Faça com que a sombra se ajuste ao ícone."></div></div><p>Para fazer com que a sombra se ajuste ao contorno da nuvem, usaremos um processo semelhante.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Selecione a camada da nuvem, clique em "Editar" na barra de menu principal e selecione "Copiar".</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Selecione a forma da sombra no painel de camadas e clique em "Editar" na barra de menu principal e selecione "Colar na frente".</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Mantenha a tecla "Shift" pressionada e clique na forma da sombra para que os dois objetos sejam selecionados.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Clique no ícone "Pathfinder" e selecione "Menos frente".</p></div></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section9" class="how-to-section"><div
+class="section-title">
+<span>9.&nbsp;</span><h3 id=adicionando-o-nome-da-sua-empresa>Adicionando o nome da sua empresa.</h3></div><div
+id="como-criar-um-logotipo-no-illustrator-section9-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.1&nbsp;</span><h4 id=selecione-a-ferramenta-tipo>Selecione a ferramenta Tipo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-the-type-tool-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta Tipo."></div></div><p>Crie uma nova camada clicando no botão "+" no canto inferior direito abaixo do painel de camadas. Selecione a ferramenta "Tipo (T)" na barra de menu à esquerda.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Clique na tela para criar uma caixa de texto e escreva o nome da sua empresa.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section9-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.2&nbsp;</span><h4 id=altere-a-cor-do-texto>Altere a cor do texto.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-change-the-text-color-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Altere a cor do texto."></div></div><p>Clique no ícone "Preencher" na barra de menu superior e selecione uma cor para o seu texto.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Defina a cor "Traço" para "Nenhum".</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section9-step3" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>9.3&nbsp;</span><h4 id=altere-a-fonte>Altere a fonte.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-change-the-font-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Altere a fonte."></div></div><p>Ajuste a aparência do seu texto selecionando uma fonte no menu suspenso. Você encontrará isso no meio da barra de menu superior.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Você pode ajustar o estilo do texto, tamanho e espaçamento clicando em "Caracteres" no menu superior.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Posicione seu texto selecionando a "Ferramenta de Seleção (V)" e arrastando sua caixa de texto para o lugar desejado.</p></div></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section10" class="how-to-section"><div
+class="section-title">
+<span>10.&nbsp;</span><h3 id=criando-variacoes-do-seu-logotipo>Criando variações do seu logotipo.</h3></div><div
+id="como-criar-um-logotipo-no-illustrator-section10-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>10.1&nbsp;</span><h4 id=compare-diferentes-estilos-de-seu-design>Compare diferentes estilos de seu design.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-compare-different-styles-of-your-design-288x288-2021091.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Compare diferentes estilos de seu design."></div></div><p>Depois de concluir a estrutura geral do seu logotipo, você pode começar a brincar com os detalhes.</p><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Experimente diferentes cores de fundo, contornos de formas, fontes e ícones para refinar a aparência do seu logotipo.</p></div><div
+class="step-tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Isso o ajudará a imaginar como será a aparência do seu logotipo em diferentes contextos e escolher o mais adequado.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section10-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>10.2&nbsp;</span><h4 id=crie-pranchetas>Crie pranchetas.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-create-artboards-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie pranchetas."></div></div><p>Clique no ícone "Pranchetas" na barra de menu à direita. Em seguida, clique no ícone do menu no canto superior direito da janela da prancheta e selecione "Duplicar pranchetas".</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Isso criará uma nova versão do logotipo que você pode experimentar.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Repita o processo para criar pranchetas adicionais.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Experimente cores, contornos e layouts para comparar diferentes versões e escolher a melhor.</p></div></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section11" class="how-to-section"><div
+class="section-title">
+<span>11.&nbsp;</span><h3 id=finalizando>Finalizando.</h3></div><div
+id="como-criar-um-logotipo-no-illustrator-section11-step1" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>11.1&nbsp;</span><h4 id=exporte-seu-logotipo>Exporte seu logotipo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-export-your-logo-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Exporte seu logotipo."></div></div><p>Quando estiver satisfeito com o design do seu logotipo, você poderá exportá-lo em vários formatos de arquivo.</p><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Clique em "Arquivo" na barra do menu principal, passe o mouse sobre "Exportar" e selecione "Exportar como..."</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Especifique onde deseja salvar o arquivo no seu computador.</p></div></div></div><div
+id="como-criar-um-logotipo-no-illustrator-section11-step2" class="step"><div
+class="step-desc"><div
+class="step-title">
+<span>11.2&nbsp;</span><h4 id=selecione-um-formato-de-arquivo>Selecione um formato de arquivo.</h4></div><div
+class="image-wrapper"><div
+class="image-holder">
+<img
+data-src="https://www.zarla.com/images/zarla-select-a-file-format-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione um formato de arquivo."></div></div><p>A vantagem do Illustrator é que ele cria arquivos vetoriais, que oferecem uma resolução infinita e, portanto, podem ser dimensionados perfeitamente para várias aplicações. Quando você salva um projeto do Illustrator, ele o salva como um documento "AI". Isso também é conhecido como um arquivo "trabalho", "origem" ou "mestre" que contém sua área de trabalho onde modificações podem ser feitas.</p><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>A janela pop-up mostrará suas diferentes opções de exportação.</p></div><div
+class="step-direction">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<path
+d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
+</svg>
+</span><p>Escolha um tipo de arquivo no menu suspenso da guia "Formato".</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Os formatos "EPS" e "SVG" são arquivos vetoriais que permitem dimensionar as imagens sem que elas percam a qualidade. Eles são projetados para impressão e web, respectivamente.</p></div><div
+class="step-direction tip">
+<span
+class="icon">
+<svg
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<g>
+<path
+d="M256,0C114.844,0,0,114.844,0,256s114.844,256,256,256s256-114.844,256-256S397.156,0,256,0z M298.667,416    c0,5.896-4.771,10.667-10.667,10.667h-64c-5.896,0-10.667-4.771-10.667-10.667V256h-10.667c-5.896,0-10.667-4.771-10.667-10.667    v-42.667c0-5.896,4.771-10.667,10.667-10.667H288c5.896,0,10.667,4.771,10.667,10.667V416z M256,170.667    c-23.531,0-42.667-19.135-42.667-42.667S232.469,85.333,256,85.333s42.667,19.135,42.667,42.667S279.531,170.667,256,170.667z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#4949E7"/>
+</g>
+</svg>
+</span><p>Os arquivos "PNG" e "JPG" são baseados em pixels e perderão a resolução quando aumentados. O primeiro permite fundos transparentes, enquanto o último não.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"http://schema.org","@type":"HowTo","name":"Como criar um logotipo no Illustrator","description":"<p>Onze etapas f\u00e1ceis para criar um logotipo profissional no Illustrator.<\/p>\n","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-how-to-make-a-logo-in-illustrator-completed-800x800-2021091.jpeg?crop=1:1,smart&width=250&dpr=2","height":"800","width":"800"},"estimatedCost":{"@type":"MonetaryAmount","currency":"USD","value":"0.00"},"totalTime":"PT1H30M","step":[{"@type":"HowToSection","position":"1","name":"<p>Come\u00e7ando.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Crie um novo documento no Illustrator.<\/p>\n","text":"<p>Abra o Illustrator, clique em \"Arquivo\" na barra de menu superior e selecione \"Novo ... (Ctrl \/ Cmd + N)\" no menu suspenso.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section1-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-new-illustrator-document-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Crie uma tela.<\/p>\n","text":"<p>Para este exemplo, criaremos uma tela personalizada, mas voc\u00ea pode escolher entre uma variedade de modelos.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section1-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-canvas-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>D\u00ea um t\u00edtulo ao seu documento.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Defina a medi\u00e7\u00e3o para \"Pixels\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Defina a \"Largura\" e a \"Altura\" como \"1000 px\".<\/p>\n"},{"@type":"HowToTip","text":"<p>O \"Modo de cor\" \u00e9 definido automaticamente para \"Cor CMYK\", pois este \u00e9 o formato de cor pretendido para impress\u00e3o.<\/p>\n"},{"@type":"HowToTip","text":"<p>\"Raster Effects\" ou \"Efeitos de Rasteriza\u00e7\u00e3o\" deve ser definido para \"Alto (300 ppi)\" para uma resolu\u00e7\u00e3o de imagem ideal.<\/p>\n"}]}]},{"@type":"HowToSection","position":"2","name":"<p>Configurando sua \u00e1rea de trabalho.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Alterne sua \u00e1rea de trabalho.<\/p>\n","text":"<p>Depois de criar seu documento, selecione a \u00e1rea de trabalho \"Pintura\" no menu suspenso do \u00edcone \"Alternar \u00e1rea de trabalho\" no canto superior direito.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section2-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-switch-your-workspace-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Salve seu arquivo.<\/p>\n","text":"<p>\u00c9 importante salvar seu documento do Illustrator regularmente para evitar qualquer perda de altera\u00e7\u00f5es.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section2-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-save-file-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>V\u00e1 para \"Arquivo\" na barra de menu principal e selecione \"Salvar como ...\" no menu suspenso.<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea pode escolher \"Salvar documento na nuvem da Adobe\" ou \"Salvar no computador\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique em \"Salvar no computador\" e especifique o local de destino do arquivo.<\/p>\n"}]}]},{"@type":"HowToSection","position":"3","name":"<p>Usando formas.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Escolha uma forma para o seu logotipo.<\/p>\n","text":"<p>A forma ser\u00e1 a estrutura do seu logotipo e conter\u00e1 o \u00edcone. Cada forma possui uma associa\u00e7\u00e3o diferente que pode ser usada para comunicar determinados valores e caracter\u00edsticas do seu neg\u00f3cio.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section3-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-pick-a-shape-for-your-logo-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Selecione a ferramenta Forma.<\/p>\n","text":"<p>Voc\u00ea encontrar\u00e1 a ferramenta \"Construtor de formas\" na barra de menu \u00e0 esquerda. Clique com o bot\u00e3o direito no \u00edcone para selecionar o tipo de forma. Neste caso, estamos usando a \"Ferramenta Ret\u00e2ngulo (M)\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section3-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-shape-tool-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>Desenhe sua forma.<\/p>\n","text":"<p>Segure \"Shift\" e clique e arraste o cursor para criar a forma. Isso produzir\u00e1 um quadrado perfeito.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section3-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-draw-your-shape-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Para uma forma retangular personalizada, n\u00e3o mantenha pressionada a tecla \"Shift\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea pode centralizar sua forma clicando nos \u00edcones \"Horizontal\" e \"Vertical\" na barra de menu superior.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Suavize os cantos.<\/p>\n","text":"<p>Clique e arraste a pequena al\u00e7a circular dentro dos cantos do quadrado em dire\u00e7\u00e3o ao centro da forma at\u00e9 ficar satisfeito com o arredondamento dos cantos.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section3-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-soften-the-corners-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}}]},{"@type":"HowToSection","position":"4","name":"<p>Adicionando cor.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Escolha um esquema de cores para o seu logotipo.<\/p>\n","text":"<p>As cores desempenham um papel importante na identidade visual da sua empresa, uma vez que podem causar efeitos psicol\u00f3gicos nas pessoas e ajudar a dar \u00e0 sua marca um car\u00e1ter definidor.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section4-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-choose-a-color-scheme-for-your-logo-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Defina a cor do tra\u00e7o.<\/p>\n","text":"<p>No canto superior esquerdo da barra de menu, defina a cor \"Tra\u00e7o\" para \"Nenhum\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section4-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-set-the-stroke-color-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Voc\u00ea pode adicionar cor para dar um contorno \u00e0 sua forma e alterar a espessura e o estilo do tra\u00e7o na barra de menu superior.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Defina a cor de preenchimento.<\/p>\n","text":"<p>Mude a cor da forma clicando no \u00edcone \"Preencher\" na barra de menu superior. Voc\u00ea pode escolher uma cor s\u00f3lida ou optar por usar um gradiente clicando na ferramenta \"Gradiente\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section4-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-set-the-fill-color-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"4","name":"<p>Crie um gradiente.<\/p>\n","text":"<p>Clique na ferramenta \"Gradiente\" na barra de menu \u00e0 direita para abrir as op\u00e7\u00f5es de gradiente. Selecione a op\u00e7\u00e3o gradiente \"Branco e Preto\" no menu suspenso.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section4-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-gradient-288x288-2021096.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Escolha v\u00e1rios estilos de gradiente selecionando a op\u00e7\u00e3o \"Tipo de degrad\u00ea\".<\/p>\n"}]},{"@type":"HowToStep","position":"5","name":"<p>Adicione sombras ao gradiente.<\/p>\n","text":"<p>Depois de criar o gradiente, voc\u00ea pode personalizar as cores usando o controle deslizante de gradiente.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section4-step5","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-add-shades-to-the-gradient-288x288-2021096.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Defina o \u00e2ngulo de gradiente para \"45\u00b0\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique duas vezes no c\u00edrculo branco esquerdo abaixo do controle deslizante de gradiente e atribua uma cor. Neste caso, estamos selecionando um azul claro.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Fa\u00e7a o mesmo para o c\u00edrculo preto \u00e0 direita do controle deslizante de gradiente, selecionando uma cor diferente. Selecionamos um azul mais escuro.<\/p>\n"},{"@type":"HowToTip","text":"<p>Adicione mais sombras ao seu gradiente clicando abaixo do controle deslizante de gradiente.<\/p>\n"},{"@type":"HowToTip","text":"<p>Para remover um tom de gradiente, clique e arraste o c\u00edrculo de cores para longe do controle deslizante.<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea pode ajustar os tons de seu gradiente deslizando os c\u00edrculos de cores abaixo do controle deslizante de gradiente.<\/p>\n"}]}]},{"@type":"HowToSection","position":"5","name":"<p>Criando um \u00edcone.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Escolha um \u00edcone para o seu logotipo.<\/p>\n","text":"<p>Um \u00edcone \u00e9 uma imagem ou s\u00edmbolo que dar\u00e1 \u00e0 sua empresa uma forte identidade visual. Pense em algo que capte a natureza e os valores do seu neg\u00f3cio e re\u00fana algumas imagens de refer\u00eancia. Para este exemplo, vamos construir um \u00edcone de nuvem usando v\u00e1rias formas.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section5-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-decide-on-an-icon-for-your-logo-288x288-2021092_2021-09-03-104343_jiqd.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Crie uma nova camada.<\/p>\n","text":"<p>Adicione uma nova camada clicando no bot\u00e3o \"+\" no canto inferior direito abaixo do painel de camadas.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section5-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-new-layer-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Voc\u00ea pode renomear suas camadas clicando duas vezes no texto de cada camada.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Selecione a ferramenta de forma.<\/p>\n","text":"<p>Clique com o bot\u00e3o direito do mouse no \u00edcone de forma na barra de ferramentas \u00e0 esquerda e selecione a ferramenta \"Elipse (L)\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section5-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-shape-tool-288x288-2021093_2021-09-03-073739_spgc.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Defina o \"Preenchimento\" como \"Branco\" e o \"Tra\u00e7o\" como \"Nenhum\" na barra de ferramentas.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Crie suas formas.<\/p>\n","text":"<p>Mantenha \"Shift\" pressionado e comece a criar c\u00edrculos de v\u00e1rios tamanhos para criar a impress\u00e3o visual de uma nuvem.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section5-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-your-shapes-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"5","name":"<p>Complete o \u00edcone.<\/p>\n","text":"<p>Clique no \u00edcone \"Ferramenta de sele\u00e7\u00e3o (V)\" na barra de menu \u00e0 esquerda. Em seguida, clique em uma forma para posicion\u00e1-la e redimension\u00e1-la.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section5-step5","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-complete-the-icon-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Mantenha pressionada a tecla \"Shift\" ao redimensionar as formas para manter suas propor\u00e7\u00f5es.<\/p>\n"},{"@type":"HowToTip","text":"<p>Use as \"guias inteligentes\" para alinhar a borda inferior dos dois c\u00edrculos mais baixos da nuvem.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Depois de criar a se\u00e7\u00e3o superior da nuvem, mude para a \"Ferramenta Ret\u00e2ngulo (M)\" para construir um ret\u00e2ngulo que ir\u00e1 completar a parte inferior do \u00edcone.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Posicione o cursor no ponto de ancoragem central inferior do c\u00edrculo \u00e0 esquerda e construa o ret\u00e2ngulo sem segurar \"Shift\" at\u00e9 que ele se junte ao ponto de ancoragem central inferior do c\u00edrculo mais \u00e0 direita.<\/p>\n"}]}]},{"@type":"HowToSection","position":"6","name":"<p>Refinando o \u00edcone.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Selecione as formas.<\/p>\n","text":"<p>Certifique-se de que a camada de \u00edcone esteja selecionada. Ent\u00e3o, use a \"Ferramenta de Sele\u00e7\u00e3o (M)\" para selecionar todas as formas no \u00edcone segurando \"Shift\" e clicando em cada forma.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section6-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-shapes-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Selecione a ferramenta Construtor de formas.<\/p>\n","text":"<p>Voc\u00ea encontrar\u00e1 a ferramenta \"Construtor de Formas (Shift + M)\" na barra de menu \u00e0 esquerda.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section6-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-shape-builder-tool-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>Conecte as formas.<\/p>\n","text":"<p>Use o cursor para conectar as formas, desenhando uma linha sobre as se\u00e7\u00f5es sobrepostas das formas.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section6-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-connect-the-shapes-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Repita esse processo at\u00e9 que todas as formas tenham sido mescladas e apenas o contorno do \u00edcone da nuvem permane\u00e7a.<\/p>\n"}]}]},{"@type":"HowToSection","position":"7","name":"<p>Adicionando detalhes.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Selecione a ferramenta Caneta.<\/p>\n","text":"<p>Podemos adicionar uma pequena quantidade de detalhes para fazer com que o \u00edcone se destaque. Nesse caso, vamos criar uma sombra.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section7-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-pen-tool-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Crie uma nova camada clicando no bot\u00e3o \"+\" no canto inferior direito abaixo do painel de camadas.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique no \u00edcone \"Ferramenta Caneta (P)\" na barra de menu \u00e0 esquerda.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Construa a sombra.<\/p>\n","text":"<p>Mude para o modo \"Contorno\" clicando em \"Visualizar\" e selecionando \"Contorno (Ctrl \/ Cmd + Y)\". Isso exibir\u00e1 as linhas vetoriais que o Illustrator utiliza para construir imagens.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section7-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-construct-the-shadow-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Selecione a ferramenta Caneta e clique para adicionar um ponto de ancoragem no lado esquerdo do contorno do \u00edcone da nuvem.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Crie um segundo ponto de ancoragem fora da parte inferior esquerda da forma quadrada, mantendo pressionada a tecla \"Shift\" para criar um \u00e2ngulo de 45 \u00b0.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Repita esse processo, desta vez criando uma nova linha em um \u00e2ngulo de 45\u00b0 em dire\u00e7\u00e3o ao canto inferior direito.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Crie um terceiro ponto de ancoragem em um \u00e2ngulo de 45\u00b0 em dire\u00e7\u00e3o ao canto superior direito e use as guias inteligentes para alinh\u00e1-lo com o primeiro ponto de ancoragem.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Finalmente, complete a forma clicando no ponto de ancoragem original.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Alinhe os caminhos.<\/p>\n","text":"<p>O caminho da sombra \u00e0 esquerda est\u00e1 alinhado corretamente, mas precisamos garantir que o caminho da sombra \u00e0 direita se alinhe ao \u00edcone da nuvem.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section7-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-line-up-the-paths-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique no \u00edcone \"Ferramenta de Sele\u00e7\u00e3o direta (A)\" na barra de menu \u00e0 esquerda e clique no caminho de sombra mais \u00e0 direita.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Arraste o caminho para que ele se conecte ao canto inferior direito da nuvem.<\/p>\n"},{"@type":"HowToTip","text":"<p>Aumente o zoom para garantir que as linhas se encontrem.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Adicione cor \u00e0 sombra.<\/p>\n","text":"<p>Saia da visualiza\u00e7\u00e3o \"Contorno\" (Ctrl \/ Cmd + Y) e clique no \u00edcone \"Ferramenta de Sele\u00e7\u00e3o (V)\". Em seguida, clique na sombra para selecion\u00e1-la.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section7-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-add-color-to-the-shadow-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Na barra de menu superior \u00e0 direita, altere o \"Preenchimento\" da sombra para um azul escuro e o \"Tra\u00e7o\" para \"Nenhum\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Altere a transpar\u00eancia ajustando a \"Opacidade\" para 50% na barra de menu superior.<\/p>\n"}]}]},{"@type":"HowToSection","position":"8","name":"<p>Fazendo os elementos se encaixarem.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Fa\u00e7a a sombra se ajustar \u00e0 forma.<\/p>\n","text":"<p>Para completar a forma da sombra, precisamos fazer com que ela se encaixe na borda do \u00edcone e ao redor da parte inferior da nuvem.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section8-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-make-the-shadow-fit-into-the-shape-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique no \u00edcone \"Ferramenta de sele\u00e7\u00e3o (V)\" na barra de menu \u00e0 esquerda.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Selecione a forma quadrada azul clicando no pequeno c\u00edrculo \u00e0 direita do \u00edcone da camada no painel de camadas.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique em \"Editar\" na barra de menu principal e selecione \"Copiar\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Selecione a forma da sombra no painel de camadas e clique em \"Editar\" na barra de menu e clique em \"Colar atr\u00e1s\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Mantenha a tecla \"Shift\" pressionada e clique na forma da sombra para que os dois objetos sejam selecionados.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Por fim, clique no \u00edcone \"Pathfinder\" na barra de menu \u00e0 direita e selecione a op\u00e7\u00e3o \"Intersectar\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Isso ir\u00e1 conter a sombra das bordas do \u00edcone quadrado.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Fa\u00e7a com que a sombra se ajuste ao \u00edcone.<\/p>\n","text":"<p>Para fazer com que a sombra se ajuste ao contorno da nuvem, usaremos um processo semelhante.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section8-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-make-the-shadow-fit-around-the-icon-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Selecione a camada da nuvem, clique em \"Editar\" na barra de menu principal e selecione \"Copiar\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Selecione a forma da sombra no painel de camadas e clique em \"Editar\" na barra de menu principal e selecione \"Colar na frente\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Mantenha a tecla \"Shift\" pressionada e clique na forma da sombra para que os dois objetos sejam selecionados.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique no \u00edcone \"Pathfinder\" e selecione \"Menos frente\".<\/p>\n"}]}]},{"@type":"HowToSection","position":"9","name":"<p>Adicionando o nome da sua empresa.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Selecione a ferramenta Tipo.<\/p>\n","text":"<p>Crie uma nova camada clicando no bot\u00e3o \"+\" no canto inferior direito abaixo do painel de camadas. Selecione a ferramenta \"Tipo (T)\" na barra de menu \u00e0 esquerda.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section9-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-type-tool-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique na tela para criar uma caixa de texto e escreva o nome da sua empresa.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Altere a cor do texto.<\/p>\n","text":"<p>Clique no \u00edcone \"Preencher\" na barra de menu superior e selecione uma cor para o seu texto.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section9-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-change-the-text-color-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Defina a cor \"Tra\u00e7o\" para \"Nenhum\".<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Altere a fonte.<\/p>\n","text":"<p>Ajuste a apar\u00eancia do seu texto selecionando uma fonte no menu suspenso. Voc\u00ea encontrar\u00e1 isso no meio da barra de menu superior.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section9-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-change-the-font-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Voc\u00ea pode ajustar o estilo do texto, tamanho e espa\u00e7amento clicando em \"Caracteres\" no menu superior.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Posicione seu texto selecionando a \"Ferramenta de Sele\u00e7\u00e3o (V)\" e arrastando sua caixa de texto para o lugar desejado.<\/p>\n"}]}]},{"@type":"HowToSection","position":"10","name":"<p>Criando varia\u00e7\u00f5es do seu logotipo.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Compare diferentes estilos de seu design.<\/p>\n","text":"<p>Depois de concluir a estrutura geral do seu logotipo, voc\u00ea pode come\u00e7ar a brincar com os detalhes.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section10-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-compare-different-styles-of-your-design-288x288-2021091.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Experimente diferentes cores de fundo, contornos de formas, fontes e \u00edcones para refinar a apar\u00eancia do seu logotipo.<\/p>\n"},{"@type":"HowToTip","text":"<p>Isso o ajudar\u00e1 a imaginar como ser\u00e1 a apar\u00eancia do seu logotipo em diferentes contextos e escolher o mais adequado.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Crie pranchetas.<\/p>\n","text":"<p>Clique no \u00edcone \"Pranchetas\" na barra de menu \u00e0 direita. Em seguida, clique no \u00edcone do menu no canto superior direito da janela da prancheta e selecione \"Duplicar pranchetas\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section10-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-artboards-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Isso criar\u00e1 uma nova vers\u00e3o do logotipo que voc\u00ea pode experimentar.<\/p>\n"},{"@type":"HowToTip","text":"<p>Repita o processo para criar pranchetas adicionais.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Experimente cores, contornos e layouts para comparar diferentes vers\u00f5es e escolher a melhor.<\/p>\n"}]}]},{"@type":"HowToSection","position":"11","name":"<p>Finalizando.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Exporte seu logotipo.<\/p>\n","text":"<p>Quando estiver satisfeito com o design do seu logotipo, voc\u00ea poder\u00e1 export\u00e1-lo em v\u00e1rios formatos de arquivo.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section11-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-export-your-logo-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique em \"Arquivo\" na barra do menu principal, passe o mouse sobre \"Exportar\" e selecione \"Exportar como...\"<\/p>\n"},{"@type":"HowToDirection","text":"<p>Especifique onde deseja salvar o arquivo no seu computador.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Selecione um formato de arquivo.<\/p>\n","text":"<p>A vantagem do Illustrator \u00e9 que ele cria arquivos vetoriais, que oferecem uma resolu\u00e7\u00e3o infinita e, portanto, podem ser dimensionados perfeitamente para v\u00e1rias aplica\u00e7\u00f5es. Quando voc\u00ea salva um projeto do Illustrator, ele o salva como um documento \"AI\". Isso tamb\u00e9m \u00e9 conhecido como um arquivo \"trabalho\", \"origem\" ou \"mestre\" que cont\u00e9m sua \u00e1rea de trabalho onde modifica\u00e7\u00f5es podem ser feitas.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator#como-criar-um-logotipo-no-illustrator-section11-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-a-file-format-288x288-2021093.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>A janela pop-up mostrar\u00e1 suas diferentes op\u00e7\u00f5es de exporta\u00e7\u00e3o.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Escolha um tipo de arquivo no menu suspenso da guia \"Formato\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Os formatos \"EPS\" e \"SVG\" s\u00e3o arquivos vetoriais que permitem dimensionar as imagens sem que elas percam a qualidade. Eles s\u00e3o projetados para impress\u00e3o e web, respectivamente.<\/p>\n"},{"@type":"HowToTip","text":"<p>Os arquivos \"PNG\" e \"JPG\" s\u00e3o baseados em pixels e perder\u00e3o a resolu\u00e7\u00e3o quando aumentados. O primeiro permite fundos transparentes, enquanto o \u00faltimo n\u00e3o.<\/p>\n"}]}]}]}</script> <div
+class="block block-promote"><div
+class="card"><div
+class="row"><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-photoshop">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Como criar um logotipo no Photoshop" />
+</picture>
+</a></div><div
+class="card-body"><p
+class="card-title">
+<a
+href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-photoshop">Como criar um logotipo no Photoshop</a></p><div
+class="card-text">Aprenda a criar um logotipo no Photoshop com nosso guia passo a passo.</div></div></div></div></div><div
+class="block"><h2 id=fAQs>FAQs:</h2><h3 id=como-faco-para-criar-um-logotipo-no-adobe-illustrator>Como faço para criar um logotipo no Adobe Illustrator?</h3><p>Você pode criar seu próprio logotipo profissional usando o Illustrator, seguindo nosso <a
+href="#como-criar-um-logotipo-no-illustrator">guia passo a passo</a>.</p><h3 id=o-adobe-illustrator-e-bom-para-fazer-logotipos>O Adobe Illustrator é bom para fazer logotipos?</h3><p>Adobe Illustrator é o programa ideal para fazer logotipos, pois é baseado em vetores que criam imagens com resolução infinita, o que significa que as imagens podem ser redimensionadas em qualquer tamanho.</p><h3 id=como-faco-para-criar-um-logotipo-no-illustrator-2021>Como faço para criar um logotipo no Illustrator 2021?</h3><ol><li><a
+href="#comecando">Crie um novo documento no Illustrator</a>.</li><li><a
+href="#configurando-sua-area-de-trabalho">Configure sua área de trabalho</a>.</li><li><a
+href="#usando-formas">Crie uma forma básica</a>.</li><li><a
+href="#adicionando-cor">Adicione uma cor</a>.</li><li><a
+href="#criando-um-icone">Crie um ícone</a>.</li><li><a
+href="#refinando-o-icone">Refine o ícone</a>.</li><li><a
+href="#adicionando-detalhes">Adicione algum detalhe</a>.</li><li><a
+href="#fazendo-os-elementos-se-encaixarem">Faça os elementos se encaixarem</a>.</li><li><a
+href="#adicionando-o-nome-da-sua-empresa">Adicione o nome da sua empresa</a>.</li><li><a
+href="#criando-variacoes-do-seu-logotipo">Crie variações de seu logotipo</a>.</li><li><a
+href="#finalizando">Salve seu logotipo</a>.</li></ol><h3 id=como-posso-fazer-um-logotipo-moderno-no-illustrator>Como posso fazer um logotipo moderno no Illustrator?</h3><p>A tendência moderna em logotipos é o minimalismo. Use formas simples, ícones facilmente reconhecíveis e uma paleta de cores refinada. Considere como seu logotipo será usado. Por exemplo, logotipos modernos são frequentemente projetados para ícones de aplicativos, usando formas circulares e iconografia simples.</p><h3 id=devo-fazer-logotipos-no-photoshop-ou-illustrator>Devo fazer logotipos no Photoshop ou Illustrator?</h3><p>Enquanto o Photoshop é mais do que capaz de criar logotipos, o Illustrator é definitivamente a melhor opção devido ao seu formato baseado em ilustrações vetoriais, tornando-o o melhor programa para criar imagens para aplicativos da web, impressões em grande escala ou sinalização.</p></div></div></div></div><div
+class="section-related-post"><div
+class="container"><h2 class="section-heading">Artigos relacionados</h2><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/br/guias/logotipos-en%C3%A9rgicos">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-snappy-logos-6000x4000-2021097.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Uma pessoa estalando os dedos." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/br/guias/logotipos-en%C3%A9rgicos">Logotipos enérgicos</a></h3><div
+class="card-text">20 logotipos enérgicos e ativos para a sua empresa, loja ou marca.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/br/guias/logotipos-profissionais">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-professional-logos-5066x3377-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Um profissional de terno e gravata em um saguão." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/br/guias/logotipos-profissionais">Logotipos profissionais</a></h3><div
+class="card-text">10 ideias de logotipos profissionais para o seu negócio.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/br/guias/logotipos-gerais">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-general-logo-2400x2400-20210204.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Uma bicicleta do lado de fora de um armazém." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/br/guias/logotipos-gerais">Logotipos gerais</a></h3><div
+class="card-text">10 ideias de logotipos gerais que podem funcionar para várias empresas.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/br/guias/tipos-de-logotipos">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-types-of-logos-4955x3504-20210827.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Tipos de logotipos para aplicativos e rede sociais." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/br/guias/tipos-de-logotipos">8 tipos de logotipos que você deve conhecer</a></h3><div
+class="card-text">Um guia detalhado com os oito tipos de logotipos que as empresas podem usar.</div></div></div><div
+class="card "><div
+class="card-image-holder">
+<a
+class="card-preview" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-microsoft-word">
+<picture>
+<img
+class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-create-a-logo-in-ms-word-2400x2400-20210907_2021-09-07-065541_yktz.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Uma mulher usando um computador para criar um logotipo no Microsoft Word." />
+</picture>
+</a></div><div
+class="card-body"><h3 class="card-title">
+<a
+href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-microsoft-word">Como criar um logotipo no Microsoft Word</a></h3><div
+class="card-text">Aprenda a criar um logotipo no Microsoft Word com nosso guia passo a passo.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator","name":"Como criar um logotipo no Illustrator"},"headline":"Como criar um logotipo no Illustrator","description":"Aprenda a criar um logotipo para a sua empresa usando o Illustrator com nosso guia passo a passo.","image":["https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-08-31T01:04:00-05:00","dateModified":"2024-06-17T11:30:52-05:00","author":{"@type":"Person","name":"Fabiana de Freitas","url":"https://www.zarla.com/br/colaboradores/fabiana-de-freitas"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+class="footer"><div
+class="container"><div
+class="row"><div
+class="col-md-6 col-lg-5 footer-info"><div
+class="footer-brand">
+<a
+class="footer-logo without-title" href="/br">
+<img
+class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-group"></div>
+</a></div></div><div
+class="col-md-6 col-lg-3"><p
+class="footer-category">Idioma</p><ul
+class="footer-menu list-unstyled"><li><a
+href="https://www.zarla.com/guides/how-to-make-a-logo-in-illustrator">English</a></li><li><a
+href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-illustrator">Español</a></li><li><a
+href="https://www.zarla.com/it/guide/come-creare-un-logo-su-illustrator">Italiano</a></li><li><a
+href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-dans-illustrator">Français</a></li><li><a
+href="https://www.zarla.com/de/leitf%C3%A4den/logo-erstellen-in-illustrator">Deutsch</a></li><li
+class="current" style="color: #3041c4;">Português (Brasil)</li><li><a
+href="https://www.zarla.com/tr/rehberler/illustrator-ile-logo-nas%C4%B1l-yap%C4%B1l%C4%B1r">Türkçe</a></li><li><a
+href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-illustratorze">Polski</a></li><li><a
+href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-illustrator">Bahasa Indonesia</a></li></ul></div><div
+class="col-md-6 col-lg-3 "><p
+class="footer-category">Recursos</p><ul
+class="footer-menu list-unstyled"><li>
+<a
+href="https://www.zarla.com/br/guias/ideias-de-logotipos">
+Ideias de logotipos
+</a></li><li>
+<a
+href="/br">
+Criador de sites por IA
+</a></li><li>
+<a
+href="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis">
+Criador de Logo Grátis
+</a></li><li>
+<a
+href="mailto:hello%40zarla.com">
+hello@zarla.com
+</a></li><li>
+<a
+href="https://www.zarla.com/br/termos-de-uso">
+Termos de uso
+</a></li><li>
+<a
+href="https://www.zarla.com/br/pol%C3%ADtica-de-direitos-autorais">
+Política de Direitos Autorais
+</a></li><li>
+<a
+href="https://www.zarla.com/br/pol%C3%ADtica-de-privacidade">
+Política de Privacidade
+</a></li></ul></div></div></div><div
+class="footer-bottom"><div
+class="container"><p
+class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
+class="cta-sticky-footer js-cta-sticky-footer">
+<a
+href="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pt-startdesigningacustomlogo-20240613"
+class="btn btn-primary"
+>
+Comece a projetar um logotipo personalizado
+</a></div> <script async src="/scripts/custom-20240618.js"></script> <!--#minify preserve 2024-07-26T15:16:53Z--><!--#minify end preserve-->
+</body></html>
