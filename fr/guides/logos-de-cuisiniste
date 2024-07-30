@@ -7,34 +7,34 @@ property="og:title" content="Logos de cuisiniste + Créateur de Logos Gratuit" /
 property="og:description" content="10 suggestions de logos de meubles et accessoires de cuisine pour votre magasin de cuisine." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/fr/guides/logos-de-cuisiniste"><meta
+property="og:url" content="https://www.notzarla.com/fr/guides/logos-de-cuisiniste"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="fr"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/fr/guides/logos-de-cuisiniste"><link
-rel="alternate" href="https://www.zarla.com/guides/kitchen-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/kitchen-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-cocinas" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-per-aziende-di-cucine" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-de-cuisiniste" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/k%C3%BCchen-logo-ideen" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-de-cozinha" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/keuken-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/mutfak-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-kuchenne" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-dapur" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/fr/guides/logos-de-cuisiniste"><link
+rel="alternate" href="https://www.notzarla.com/guides/kitchen-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/kitchen-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-cocinas" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-per-aziende-di-cucine" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-de-cuisiniste" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/k%C3%BCchen-logo-ideen" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-de-cozinha" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/keuken-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/mutfak-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-kuchenne" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-dapur" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/fr">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit"
+href="https://www.notzarla.com/fr/cr%C3%A9ateur-de-logos-gratuit"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides">Guides</a></li><li
+href="https://www.notzarla.com/fr/guides">Guides</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides/logos">Logos</a></li><li
+href="https://www.notzarla.com/fr/guides/logos">Logos</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides/logos/vente-au-d%C3%A9tail">Vente au détail</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/fr/guides"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.zarla.com/fr/guides/logos"},{"@type":"ListItem","position":3,"name":"Vente au détail","item":"https://www.zarla.com/fr/guides/logos/vente-au-d%C3%A9tail"},{"@type":"ListItem","position":4,"name":"Logos de cuisiniste + Créateur de Logos Gratuit","item":"https://www.zarla.com/fr/guides/logos-de-cuisiniste"}]}</script> <div
+href="https://www.notzarla.com/fr/guides/logos/vente-au-d%C3%A9tail">Vente au détail</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.notzarla.com/fr/guides"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.notzarla.com/fr/guides/logos"},{"@type":"ListItem","position":3,"name":"Vente au détail","item":"https://www.notzarla.com/fr/guides/logos/vente-au-d%C3%A9tail"},{"@type":"ListItem","position":4,"name":"Logos de cuisiniste + Créateur de Logos Gratuit","item":"https://www.notzarla.com/fr/guides/logos-de-cuisiniste"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Logos de cuisiniste + Créateur de Logos Gratuit</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-owen-fagundes-800x800-2024058_2024-05-08-214321_hkra.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-owen-fagundes-800x800-2024058_2024-05-08-214321_hkra.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Owen Fagundes"
 /></div><div
 class="card-byline-details">
 <span>Par <a
-class="card-byline-author" href="https://www.zarla.com/fr/contributeurs/owen-fagundes">Owen Fagundes</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/fr/contributeurs/owen-fagundes">Owen Fagundes</a>,</span>
 <span
 class="card-byline-date">25 juin 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Une cuisine blanche avec une casserole sur la cuisinière et un bol de citrons."
 />
 </picture></div></div><div
 class="block-intro-text"><p>La cuisine est le centre des réunions familiales, où les repas et les discussions ont lieu. Que vous soyez dans le domaine de la construction et/ou rénovation ou que vous fournissiez des ustensiles ou meubles de cuisine, un bon logo est clé. Consultez notre liste ci-dessous pour des idées, ou utilisez notre <a
-href="https://www.zarla.com/fr/créateur-de-logos-gratuit">créateur gratuit de logos de cuisiniste</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/fr/créateur-de-logos-gratuit">créateur gratuit de logos de cuisiniste</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -126,144 +126,144 @@ d="M 497 36.953125 L 431.296875 36.953125 C 431.535156 29.675781 431.667969 22.3
 </g>
 </svg>
 </span><h2 id=vous-cherchez-un-logo-de-cuisine>Vous cherchez un logo de cuisine ?</h2></div><p>Si vous cherchez un logo de cuisine pour une entreprise dans le secteur de la restauration, consultez nos <a
-href="https://www.zarla.com/fr/guides/logos-de-cuisine">idées de logos de cuisine</a> ainsi que nos <a
-href="https://www.zarla.com/fr/guides/logos-de-nourriture">idées de logos de nourriture</a>.</p></div><div
+href="https://www.notzarla.com/fr/guides/logos-de-cuisine">idées de logos de cuisine</a> ainsi que nos <a
+href="https://www.notzarla.com/fr/guides/logos-de-nourriture">idées de logos de nourriture</a>.</p></div><div
 class="block block-image-table with-mobile"><h2 id=idees-de-logos-de-cuisiniste>Idées de logos de cuisiniste :</h2><div
 class="table-wrapper"><div
 class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Description</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/qg897ktfjbd44w89878f/edit?brand=Cuisinart">
+href="https://www.notzarla.com/logo-maker/qg897ktfjbd44w89878f/edit?brand=Cuisinart">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-cuisinart-1x1-2400x2400-20210610-qg897ktfjbd44w89878f.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
+data-src="https://www.notzarla.com/images/zarla-cuisinart-1x1-2400x2400-20210610-qg897ktfjbd44w89878f.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/qg897ktfjbd44w89878f/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/qg897ktfjbd44w89878f/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Ici, l'or est synonyme de prospérité et de sécurité, suscitant ainsi la confiance de la clientèle souhaitant faire appel à votre entreprise pour concevoir ou aménager sa cuisine. La police Hind Madurai est claire et lisible, donnant l'impression d'une cuisine bien conçue et structurée.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/bt4hk4vg9m6mv7h7dwxc/edit?brand=Cuisinart">
+href="https://www.notzarla.com/logo-maker/bt4hk4vg9m6mv7h7dwxc/edit?brand=Cuisinart">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-cuisinart-1x1-2400x2400-20210604-bt4hk4vg9m6mv7h7dwxc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
+data-src="https://www.notzarla.com/images/zarla-cuisinart-1x1-2400x2400-20210604-bt4hk4vg9m6mv7h7dwxc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/bt4hk4vg9m6mv7h7dwxc/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/bt4hk4vg9m6mv7h7dwxc/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Les éléments de cette image sont bien équilibrés et l'image du chef avec sa toque décorée et sa moustache est amusante. Entouré de ses couronnes de laurier, l'icône suggère des produits de qualité. La police Skranki et l'utilisation du noir et blanc donne une impression de sophistication élégante.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/89mvmqqqrwrfkxyfct9h/edit?brand=Cuisinart">
+href="https://www.notzarla.com/logo-maker/89mvmqqqrwrfkxyfct9h/edit?brand=Cuisinart">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-cuisinart-1x1-2400x2400-20210604-89mvmqqqrwrfkxyfct9h.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
+data-src="https://www.notzarla.com/images/zarla-cuisinart-1x1-2400x2400-20210604-89mvmqqqrwrfkxyfct9h.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/89mvmqqqrwrfkxyfct9h/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/89mvmqqqrwrfkxyfct9h/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>L'élégant lettrage bleu foncé de la fonte Comfortaa Bold renvoie au ton plus clair du pot contenant une spatule, un fouet et une cuillère, qui sont tous des ustensiles de cuisine vitaux. Cet élégant logo suggère que vous vendez des accessoires de cuisine élégants et de bon goût dans votre magasin.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/p4b3cg6fyrhbqjgpygq9/edit?brand=Cuisinart">
+href="https://www.notzarla.com/logo-maker/p4b3cg6fyrhbqjgpygq9/edit?brand=Cuisinart">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-cuisinart-1x1-2400x2400-20220112-p4b3cg6fyrhbqjgpygq9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
+data-src="https://www.notzarla.com/images/zarla-cuisinart-1x1-2400x2400-20220112-p4b3cg6fyrhbqjgpygq9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/p4b3cg6fyrhbqjgpygq9/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/p4b3cg6fyrhbqjgpygq9/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>La disposition en arc de cercle des ustensiles crée un symbole clair pour une marque d'ustensiles de cuisine. L'orange vif ajoute de la vivacité et de la joie au design. La simplicité de l'icône est reflétée par la police Poppins, dont les grandes lettres noires équilibrent parfaitement l'icône.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/tgxgkbqcjbwk6ybfq9cp/edit?brand=Cuisinart">
+href="https://www.notzarla.com/logo-maker/tgxgkbqcjbwk6ybfq9cp/edit?brand=Cuisinart">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-cuisinart-1x1-2400x2400-20220112-tgxgkbqcjbwk6ybfq9cp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
+data-src="https://www.notzarla.com/images/zarla-cuisinart-1x1-2400x2400-20220112-tgxgkbqcjbwk6ybfq9cp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/tgxgkbqcjbwk6ybfq9cp/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/tgxgkbqcjbwk6ybfq9cp/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Cette icône illustre clairement l'idée que "la cuisine est le cœur de la maison". Les cœurs qui poussent et les couleurs roses créent une impression chaleureuse et réconfortante qui plaira aux adeptes de la cuisine. La police grise et sophistiquée Jomolhari ajoute une touche de finesse au design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/69kx4pbq4rbmxvtgjh6m/edit?brand=Cuisinart">
+href="https://www.notzarla.com/logo-maker/69kx4pbq4rbmxvtgjh6m/edit?brand=Cuisinart">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-cuisinart-1x1-2400x2400-20210610-69kx4pbq4rbmxvtgjh6m.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
+data-src="https://www.notzarla.com/images/zarla-cuisinart-1x1-2400x2400-20210610-69kx4pbq4rbmxvtgjh6m.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/69kx4pbq4rbmxvtgjh6m/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/69kx4pbq4rbmxvtgjh6m/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Le sublime fond vert est synonyme de fraîcheur, sécurité et fiabilité, indiquant à quiconque désire rénover sa cuisine que vous êtes l'option idéale. L'utilisation habile de l'espace négatif dans l'icône blanche révèle des outils de cuisine typiques et la fonte DM Serif Text Regular est très classe.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/bmpgmhycjptvtw3yjfyd/edit?brand=Cuisinart">
+href="https://www.notzarla.com/logo-maker/bmpgmhycjptvtw3yjfyd/edit?brand=Cuisinart">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-cuisinart-1x1-2400x2400-20220112-bmpgmhycjptvtw3yjfyd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
+data-src="https://www.notzarla.com/images/zarla-cuisinart-1x1-2400x2400-20220112-bmpgmhycjptvtw3yjfyd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/bmpgmhycjptvtw3yjfyd/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/bmpgmhycjptvtw3yjfyd/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>L'icône d'une cuillère en bois, d'une spatule et d'une casserole, rappelle une table dressée, créant intelligemment un lien entre la cuisine et les repas avec des motifs simples. La police Lusitana complète la simplicité de l'image, et la couleur anthracite renforce l'esthétique moderne du logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9cmy6b6r7cfyhw49vvhh/edit?brand=Cuisinart">
+href="https://www.notzarla.com/logo-maker/9cmy6b6r7cfyhw49vvhh/edit?brand=Cuisinart">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-cuisinart-1x1-2400x2400-20220112-9cmy6b6r7cfyhw49vvhh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
+data-src="https://www.notzarla.com/images/zarla-cuisinart-1x1-2400x2400-20220112-9cmy6b6r7cfyhw49vvhh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9cmy6b6r7cfyhw49vvhh/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/9cmy6b6r7cfyhw49vvhh/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Cette icône ronde met en évidence la gamme d'ustensiles de cuisine que propose votre magasin. La toque de chef donne du charme au design, et la couleur rouge vif évoque la passion et l'amour, se mariant bien avec le texte noir. La police Jomolhari est moderne, élégante et professionnelle.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/prvp9wyp639dq7b7wdyy/edit?brand=Cuisinart">
+href="https://www.notzarla.com/logo-maker/prvp9wyp639dq7b7wdyy/edit?brand=Cuisinart">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-cuisinart-1x1-2400x2400-20220112-prvp9wyp639dq7b7wdyy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
+data-src="https://www.notzarla.com/images/zarla-cuisinart-1x1-2400x2400-20220112-prvp9wyp639dq7b7wdyy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/prvp9wyp639dq7b7wdyy/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/prvp9wyp639dq7b7wdyy/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Ce logo respire l'élégance, promettant à la clientèle des offres de haute qualité. L'icône abstraite beige rappelle le carrelage élégant d'une cuisine vintage avec son fond bleu de Prusse foncé plein de confiance. Ces idées sont complétées par l'aspect pittoresque et vintage de la police Alice.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wxvd9vxtpgbdx7pxvkkx/edit?brand=Cuisinart">
+href="https://www.notzarla.com/logo-maker/wxvd9vxtpgbdx7pxvkkx/edit?brand=Cuisinart">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-cuisinart-1x1-2400x2400-20210610-wxvd9vxtpgbdx7pxvkkx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
+data-src="https://www.notzarla.com/images/zarla-cuisinart-1x1-2400x2400-20210610-wxvd9vxtpgbdx7pxvkkx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo de cuisiniste pour une entreprise appelée Cuisinart.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wxvd9vxtpgbdx7pxvkkx/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/wxvd9vxtpgbdx7pxvkkx/edit?brand=Cuisinart" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>En matière de logos la simplicité est parfois de mise, et ce fond transparent, dépourvu d'icône, attire toute l'attention sur le nom de l'entreprise. La police SeoulHangang, simple et élégante, est facile à lire, et la couleur violette évoque l'élégance, le luxe et l'audace.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-d-entrepreneur-en-construction">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-d-entrepreneur-en-construction">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-contractor-logos-6000x4000-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logos d&#039;entrepreneur en construction" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-contractor-logos-6000x4000-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logos d&#039;entrepreneur en construction" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-d-entrepreneur-en-construction">Logos d&#039;entrepreneur en construction</a></p><div
+href="https://www.notzarla.com/fr/guides/logos-d-entrepreneur-en-construction">Logos d&#039;entrepreneur en construction</a></p><div
 class="card-text">10 belles idées de logos pour votre entreprise de sous-traitance en bâtiment.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=fAQs class="section-heading">FAQs :</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=comment-concevoir-un-logo-de-cuisiniste class="question">Comment concevoir un logo de cuisiniste ?</h3><div
 class="answer"><ol><li>Regardez différentes polices et icônes.</li><li>Utilisez différents schémas de couleurs et trouvez ceux que vous préférez.</li><li>Utilisez un <a
-href="https://www.zarla.com/fr/créateur-de-logos-gratuit">générateur gratuit de logos de cuisiniste</a>.</li><li>Lorsque vous avez présélectionné vos favoris, demandez à vos proches ce qu'ils et elles en pensent.</li></ol></div></div><div
+href="https://www.notzarla.com/fr/créateur-de-logos-gratuit">générateur gratuit de logos de cuisiniste</a>.</li><li>Lorsque vous avez présélectionné vos favoris, demandez à vos proches ce qu'ils et elles en pensent.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=ou-puis-je-telecharger-gratuitement-un-logo-de-cuisiniste class="question">Où puis-je télécharger gratuitement un logo de cuisiniste ?</h3><div
 class="answer"><p>Vous pouvez créer, personnaliser et télécharger gratuitement un logo de cuisiniste avec Zarla en cliquant sur "Modifier" sous l'un de <a
 href="#idees-de-logos-de-cuisiniste">nos exemples de logos</a>, ou en utilisant notre créateur de logo.</p></div></div><div
@@ -276,68 +276,68 @@ class="container"><h2 class="section-heading">Articles Liés</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-magasin-d-articles-pour-la-maison">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-magasin-d-articles-pour-la-maison">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-home-store-logos-5633x3726-2021023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un canapé sectionnel marron contre un mur avec une table basse, de la lumière et des ornements autour de lui mis en place dans un magasin de meubles pour la maison." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-home-store-logos-5633x3726-2021023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un canapé sectionnel marron contre un mur avec une table basse, de la lumière et des ornements autour de lui mis en place dans un magasin de meubles pour la maison." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-magasin-d-articles-pour-la-maison">Logos de magasin d&#039;articles pour la maison</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-de-magasin-d-articles-pour-la-maison">Logos de magasin d&#039;articles pour la maison</a></h3><div
 class="card-text">10 idées de logos élégants pour votre magasin de meubles et de décoration intérieure.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-luminaires">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-luminaires">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-lighting-logos-4608x3072-2021022.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Des dizaines de lumières et de lampes suspendues dans un magasin de luminaires." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-lighting-logos-4608x3072-2021022.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Des dizaines de lumières et de lampes suspendues dans un magasin de luminaires." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-luminaires">Logos de luminaires</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-de-luminaires">Logos de luminaires</a></h3><div
 class="card-text">10 lumineuses idées de logos pour votre marque ou magasin de luminaires.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-d-architecte">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-d-architecte">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-architect-logo-2400x2400-20210203.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un bâtiment à l&#039;architecture intéressante construit par un cabinet d&#039;architectes." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-architect-logo-2400x2400-20210203.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un bâtiment à l&#039;architecture intéressante construit par un cabinet d&#039;architectes." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-d-architecte">Logos d&#039;architecte</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-d-architecte">Logos d&#039;architecte</a></h3><div
 class="card-text">10 idées de logos tendance pour votre entreprise d&#039;architecture.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-design-d-int%C3%A9rieur">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-design-d-int%C3%A9rieur">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-interior-design-logos-4708x3139-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un showroom présentant un design d&#039;intérieur." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-interior-design-logos-4708x3139-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un showroom présentant un design d&#039;intérieur." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-design-d-int%C3%A9rieur">Logos de design d&#039;intérieur</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-de-design-d-int%C3%A9rieur">Logos de design d&#039;intérieur</a></h3><div
 class="card-text">10 idées de logos professionnels pour votre entreprise de décoration d&#039;intérieur.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-meuble">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-meuble">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-furniture-logos-3840x2563-20210728.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Canapés, chaises et tables élégants mis en vente par un magasin de meubles." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-furniture-logos-3840x2563-20210728.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Canapés, chaises et tables élégants mis en vente par un magasin de meubles." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-meuble">Logos de meuble</a></h3><div
-class="card-text">10 idées inspirantes de logos pour votre entreprise ou magasin de meubles.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/fr/guides/logos-de-cuisiniste","name":"Logos de cuisiniste + Créateur de Logos Gratuit"},"headline":"Logos de cuisiniste + Créateur de Logos Gratuit","description":"10 suggestions de logos de meubles et accessoires de cuisine pour votre magasin de cuisine.","image":["https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-02-02T04:44:00-06:00","dateModified":"2024-06-25T09:21:01-05:00","author":{"@type":"Person","name":"Owen Fagundes","url":"https://www.zarla.com/fr/contributeurs/owen-fagundes"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/fr/guides/logos-de-meuble">Logos de meuble</a></h3><div
+class="card-text">10 idées inspirantes de logos pour votre entreprise ou magasin de meubles.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/fr/guides/logos-de-cuisiniste","name":"Logos de cuisiniste + Créateur de Logos Gratuit"},"headline":"Logos de cuisiniste + Créateur de Logos Gratuit","description":"10 suggestions de logos de meubles et accessoires de cuisine pour votre magasin de cuisine.","image":["https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-02-02T04:44:00-06:00","dateModified":"2024-06-25T09:21:01-05:00","author":{"@type":"Person","name":"Owen Fagundes","url":"https://www.notzarla.com/fr/contributeurs/owen-fagundes"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -346,27 +346,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/fr">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Langue</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/kitchen-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-cocinas">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-per-aziende-di-cucine">Italiano</a></li><li
+href="https://www.notzarla.com/guides/kitchen-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-cocinas">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-per-aziende-di-cucine">Italiano</a></li><li
 class="current" style="color: #3041c4;">Français</li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/k%C3%BCchen-logo-ideen">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-de-cozinha">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/keuken-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/mutfak-logolar%C4%B1">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-kuchenne">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-dapur">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/k%C3%BCchen-logo-ideen">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-de-cozinha">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/keuken-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/mutfak-logolar%C4%B1">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-kuchenne">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-dapur">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Ressources</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/fr/guides/id%C3%A9es-de-logo">
+href="https://www.notzarla.com/fr/guides/id%C3%A9es-de-logo">
 Idées de logo
 </a></li><li>
 <a
@@ -374,7 +374,7 @@ href="/fr">
 Créateur de sites web par IA
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit">
+href="https://www.notzarla.com/fr/cr%C3%A9ateur-de-logos-gratuit">
 Créateur de logos gratuit
 </a></li><li>
 <a
@@ -382,15 +382,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/conditions-dutilisation">
+href="https://www.notzarla.com/fr/conditions-dutilisation">
 Conditions d&#039;utilisation
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/politique-droits-dauteur">
+href="https://www.notzarla.com/fr/politique-droits-dauteur">
 Politique de droits d&#039;auteur
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/politique-confidentialit%C3%A9">
+href="https://www.notzarla.com/fr/politique-confidentialit%C3%A9">
 Politique de confidentialité
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -398,7 +398,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=fr-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/fr/cr%C3%A9ateur-de-logos-gratuit?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=fr-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Commencez à concevoir un logo personnalisé

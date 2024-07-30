@@ -7,33 +7,33 @@ property="og:title" content="Logotipos para centros comunitários" /><meta
 property="og:description" content="10 logotipos para o seu centro comunitário." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/br/guias/logotipos-para-centros-comunit%C3%A1rios"><meta
+property="og:url" content="https://www.notzarla.com/br/guias/logotipos-para-centros-comunit%C3%A1rios"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="pt-BR"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/br/guias/logotipos-para-centros-comunit%C3%A1rios"><link
-rel="alternate" href="https://www.zarla.com/guides/community-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/community-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-negocios-comunitarios" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-per-comunit%C3%A0" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-de-communaute" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-wohlt%C3%A4tigkeitsvereine" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-para-centros-comunit%C3%A1rios" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/gemeenschap-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/topluluk-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-komunitas" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/br/guias/logotipos-para-centros-comunit%C3%A1rios"><link
+rel="alternate" href="https://www.notzarla.com/guides/community-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/community-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-negocios-comunitarios" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-per-comunit%C3%A0" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-de-communaute" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-wohlt%C3%A4tigkeitsvereine" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-para-centros-comunit%C3%A1rios" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/gemeenschap-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/topluluk-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-komunitas" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -42,10 +42,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/br">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis"
+href="https://www.notzarla.com/br/criador-de-logo-gr%C3%A1tis"
 class="btn btn-primary cta-nav
 "
 >
@@ -59,11 +59,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/br/guias">Guias</a></li><li
+href="https://www.notzarla.com/br/guias">Guias</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/br/guias/logotipos">Logotipos</a></li><li
+href="https://www.notzarla.com/br/guias/logotipos">Logotipos</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/br/guias/logotipos/assist%C3%AAncia-m%C3%A9dica-e-assist%C3%AAncia-social">Assistência médica e assistência social</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guias","item":"https://www.zarla.com/br/guias"},{"@type":"ListItem","position":2,"name":"Logotipos","item":"https://www.zarla.com/br/guias/logotipos"},{"@type":"ListItem","position":3,"name":"Assistência médica e assistência social","item":"https://www.zarla.com/br/guias/logotipos/assist%C3%AAncia-m%C3%A9dica-e-assist%C3%AAncia-social"},{"@type":"ListItem","position":4,"name":"Logotipos para centros comunitários","item":"https://www.zarla.com/br/guias/logotipos-para-centros-comunit%C3%A1rios"}]}</script> <div
+href="https://www.notzarla.com/br/guias/logotipos/assist%C3%AAncia-m%C3%A9dica-e-assist%C3%AAncia-social">Assistência médica e assistência social</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guias","item":"https://www.notzarla.com/br/guias"},{"@type":"ListItem","position":2,"name":"Logotipos","item":"https://www.notzarla.com/br/guias/logotipos"},{"@type":"ListItem","position":3,"name":"Assistência médica e assistência social","item":"https://www.notzarla.com/br/guias/logotipos/assist%C3%AAncia-m%C3%A9dica-e-assist%C3%AAncia-social"},{"@type":"ListItem","position":4,"name":"Logotipos para centros comunitários","item":"https://www.notzarla.com/br/guias/logotipos-para-centros-comunit%C3%A1rios"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Logotipos para centros comunitários</h1><div
 class="card-body"><div
@@ -72,14 +72,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-fabiana-de-freitas-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-fabiana-de-freitas-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Fabiana de Freitas"
 /></div><div
 class="card-byline-details">
 <span>Por <a
-class="card-byline-author" href="https://www.zarla.com/br/colaboradores/fabiana-de-freitas">Fabiana de Freitas</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/br/colaboradores/fabiana-de-freitas">Fabiana de Freitas</a>,</span>
 <span
 class="card-byline-date">26 de abr. de 2024</span><div
 class="card-byline-bio">
@@ -88,28 +88,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Comunidade de pessoas unindo as mãos pintadas para formar a imagem de um coração."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Um logotipo para um centro comunitário é um símbolo da identidade de sua comunidade. Por meio de cores, imagens e texto, o logo visa comunicar o caráter e os valores centrais daquele local. Listamos 10 logotipos para ajudar. Se preferir, use nosso <a
-href="https://www.zarla.com/br/criador-de-logo-grátis">criador de logo grátis para centros comunitários</a> para criar o seu próprio design.</p></div></div></div></div><div
+href="https://www.notzarla.com/br/criador-de-logo-grátis">criador de logo grátis para centros comunitários</a> para criar o seu próprio design.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -119,129 +119,129 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logotipos</p></th><th><p>Descrição</p></th></tr><tr><td
 data-label="Logotipos" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/8p368b4kvvfwjhp36crk/edit?brand=Todos%20Por%20Todos">
+href="https://www.notzarla.com/logo-maker/8p368b4kvvfwjhp36crk/edit?brand=Todos%20Por%20Todos">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-8p368b4kvvfwjhp36crk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
+data-src="https://www.notzarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-8p368b4kvvfwjhp36crk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/8p368b4kvvfwjhp36crk/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
+href="https://www.notzarla.com/logo-maker/8p368b4kvvfwjhp36crk/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
 data-label="Descrição"><p>Simples e cativante, este logotipo usa um ícone que lembra pessoas celebrando em um círculo, uma flor desabrochando ou até mesmo um átomo. A mensagem que ele transmite é de unidade, crescimento e propósito comum. O azul ajuda a chamar atenção e representa cura e tranquilidade.</p></td></tr><tr><td
 data-label="Logotipos" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/6cqch3xqtf8pcpwrjk7f/edit?brand=Todos%20Por%20Todos">
+href="https://www.notzarla.com/logo-maker/6cqch3xqtf8pcpwrjk7f/edit?brand=Todos%20Por%20Todos">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-6cqch3xqtf8pcpwrjk7f.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
+data-src="https://www.notzarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-6cqch3xqtf8pcpwrjk7f.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/6cqch3xqtf8pcpwrjk7f/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
+href="https://www.notzarla.com/logo-maker/6cqch3xqtf8pcpwrjk7f/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
 data-label="Descrição"><p>O ícone é uma referência a um navio ou uma arca, o que pode representar suporte, segurança e propósito. Os dois tons de verde juntos são mais atraentes visualmente do que se o ícone tivesse um único tom, e transmitem uma sensação de equilíbrio. As letras da fonte Libre Baskerville são fáceis de ler.</p></td></tr><tr><td
 data-label="Logotipos" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wg8dgpdk46cb6vwqfbbp/edit?brand=Todos%20Por%20Todos">
+href="https://www.notzarla.com/logo-maker/wg8dgpdk46cb6vwqfbbp/edit?brand=Todos%20Por%20Todos">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-wg8dgpdk46cb6vwqfbbp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
+data-src="https://www.notzarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-wg8dgpdk46cb6vwqfbbp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wg8dgpdk46cb6vwqfbbp/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
+href="https://www.notzarla.com/logo-maker/wg8dgpdk46cb6vwqfbbp/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
 data-label="Descrição"><p>O esquema de cores não convencional neste logotipo o torna intrigante e memorável. O ícone é um referência a pessoas se reunindo em um círculo para planejar ou comemorar. O fundo transparente ajuda a destacar o nome da empresa na fonte Baloo Bhai 2. Ele pode ser usado de várias maneiras diferentes.</p></td></tr><tr><td
 data-label="Logotipos" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/97ktxpdg6dtq3jd86vfw/edit?brand=Todos%20Por%20Todos">
+href="https://www.notzarla.com/logo-maker/97ktxpdg6dtq3jd86vfw/edit?brand=Todos%20Por%20Todos">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-97ktxpdg6dtq3jd86vfw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
+data-src="https://www.notzarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-97ktxpdg6dtq3jd86vfw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/97ktxpdg6dtq3jd86vfw/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
+href="https://www.notzarla.com/logo-maker/97ktxpdg6dtq3jd86vfw/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
 data-label="Descrição"><p>O azul está associado à tranquilidade. O fundo azul mais escuro representa conhecimento e integridade. A árvore azul mais clara representa confiança. Isso por si só confirma um compromisso com o crescimento, desenvolvimento e perseverança. A fonte Libre Baskerville complementa bem esse design.</p></td></tr><tr><td
 data-label="Logotipos" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/w6md9jvkj3m7g7jcyc88/edit?brand=Todos%20Por%20Todos">
+href="https://www.notzarla.com/logo-maker/w6md9jvkj3m7g7jcyc88/edit?brand=Todos%20Por%20Todos">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-w6md9jvkj3m7g7jcyc88_2021-12-27-141231_sxis.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
+data-src="https://www.notzarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-w6md9jvkj3m7g7jcyc88_2021-12-27-141231_sxis.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/w6md9jvkj3m7g7jcyc88/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
+href="https://www.notzarla.com/logo-maker/w6md9jvkj3m7g7jcyc88/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
 data-label="Descrição"><p>Este logotipo será facilmente reconhecido e pode ser usado de muitas maneiras diferentes. O roxo do ícone e do texto cria uma sensação de autenticidade e qualidade. O ícone dá a impressão de movimento e integração entre uma comunidade. A fonte Bree Serif é simples e profissional.</p></td></tr><tr><td
 data-label="Logotipos" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/bwcgqtd86ct4gywywcfc/edit?brand=Todos%20Por%20Todos">
+href="https://www.notzarla.com/logo-maker/bwcgqtd86ct4gywywcfc/edit?brand=Todos%20Por%20Todos">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-bwcgqtd86ct4gywywcfc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
+data-src="https://www.notzarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-bwcgqtd86ct4gywywcfc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/bwcgqtd86ct4gywywcfc/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
+href="https://www.notzarla.com/logo-maker/bwcgqtd86ct4gywywcfc/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
 data-label="Descrição"><p>Atraente e memorável, este logotipo usa uma abordagem minimalista para transmitir as ideias de unidade e movimento. A forma única do ícone é atraente e interessante. O laranja representa entusiasmo e determinação, enquanto o branco destaca o ícone e texto. A fonte Hind Madurai é muito fácil de ler.</p></td></tr><tr><td
 data-label="Logotipos" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wff7rhfx4cqykt69f7xc/edit?brand=Todos%20Por%20Todos">
+href="https://www.notzarla.com/logo-maker/wff7rhfx4cqykt69f7xc/edit?brand=Todos%20Por%20Todos">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20210604-wff7rhfx4cqykt69f7xc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
+data-src="https://www.notzarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20210604-wff7rhfx4cqykt69f7xc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wff7rhfx4cqykt69f7xc/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
+href="https://www.notzarla.com/logo-maker/wff7rhfx4cqykt69f7xc/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
 data-label="Descrição"><p>Os tons verde-oliva do ícone representam paz e harmonia. As figuras em círculo, como pessoas ao redor de uma mesa, também formam uma espécie de flor desabrochando. Isso pode representar crescimento e realização. As suaves letras azul-esverdeadas da fonte Baloo Bhai 2 aumentam a serenidade do logo.</p></td></tr><tr><td
 data-label="Logotipos" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/f7wwy968vgjh39vfpjmk/edit?brand=Todos%20por%20Todos">
+href="https://www.notzarla.com/logo-maker/f7wwy968vgjh39vfpjmk/edit?brand=Todos%20por%20Todos">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20210604-f7wwy968vgjh39vfpjmk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
+data-src="https://www.notzarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20210604-f7wwy968vgjh39vfpjmk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/f7wwy968vgjh39vfpjmk/edit?brand=Todos%20por%20Todos" class="btn btn-primary">Editar</a></td><td
+href="https://www.notzarla.com/logo-maker/f7wwy968vgjh39vfpjmk/edit?brand=Todos%20por%20Todos" class="btn btn-primary">Editar</a></td><td
 data-label="Descrição"><p>As árvores são símbolos de vida e crescimento, associações muito positivas e perfeitas para o seu centro comunitário. As bordas das letras da fonte Viga e a forma orgânica da árvore fazem com que o logotipo pareça convidativo e acolhedor. Uma imagem que vai impactar positivamente as pessoas.</p></td></tr><tr><td
 data-label="Logotipos" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/pk96fwvh37vfwtbv6qrd/edit?brand=Todos%20Por%20Todos">
+href="https://www.notzarla.com/logo-maker/pk96fwvh37vfwtbv6qrd/edit?brand=Todos%20Por%20Todos">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-pk96fwvh37vfwtbv6qrd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
+data-src="https://www.notzarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-pk96fwvh37vfwtbv6qrd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/pk96fwvh37vfwtbv6qrd/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
+href="https://www.notzarla.com/logo-maker/pk96fwvh37vfwtbv6qrd/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
 data-label="Descrição"><p>A sensação reconfortante transmitida pelas mãos envolventes neste ícone é reforçada pela cor laranja quente. As três pessoas em azul fornecem contraste no ícone e destacam o trabalho em equipe e a comunidade. Os grandes caracteres pretos da fonte Kanit criam uma impressão realista.</p></td></tr><tr><td
 data-label="Logotipos" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9kf6bc3bp36qwv7m799k/edit?brand=Todos%20Por%20Todos">
+href="https://www.notzarla.com/logo-maker/9kf6bc3bp36qwv7m799k/edit?brand=Todos%20Por%20Todos">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-9kf6bc3bp36qwv7m799k.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
+data-src="https://www.notzarla.com/images/zarla-todos-por-todos-1x1-2400x2400-20211227-9kf6bc3bp36qwv7m799k.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logotipo para um centro comunitário chamado Todos Por Todos.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9kf6bc3bp36qwv7m799k/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
+href="https://www.notzarla.com/logo-maker/9kf6bc3bp36qwv7m799k/edit?brand=Todos%20Por%20Todos" class="btn btn-primary">Editar</a></td><td
 data-label="Descrição"><p>Este ícone é uma homenagem à Távola Redonda do Rei Arthur, transmitindo igualdade e colaboração. O roxo está associado à autenticidade e qualidade, combinando bem com os tons quentes do laranja. As letras suavemente arredondadas da fonte Viga realçam o apelo amigável do logotipo.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/logotipos-profissionais">
+class="card-preview" href="https://www.notzarla.com/br/guias/logotipos-profissionais">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-professional-logos-5066x3377-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logotipos profissionais" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-professional-logos-5066x3377-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logotipos profissionais" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/logotipos-profissionais">Logotipos profissionais</a></p><div
+href="https://www.notzarla.com/br/guias/logotipos-profissionais">Logotipos profissionais</a></p><div
 class="card-text">10 ideias de logotipos profissionais para o seu negócio.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=fAQs class="section-heading">FAQs:</h2><div
@@ -266,68 +266,68 @@ class="container"><h2 class="section-heading">Artigos relacionados</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/logotipos-para-imobili%C3%A1rias">
+class="card-preview" href="https://www.notzarla.com/br/guias/logotipos-para-imobili%C3%A1rias">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-real-estate-logos-6016x4000-20211215.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Um homem segurando uma chave de um imóvel recém-comprado." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-real-estate-logos-6016x4000-20211215.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Um homem segurando uma chave de um imóvel recém-comprado." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/logotipos-para-imobili%C3%A1rias">Logotipos para imobiliárias</a></h3><div
+href="https://www.notzarla.com/br/guias/logotipos-para-imobili%C3%A1rias">Logotipos para imobiliárias</a></h3><div
 class="card-text">10 ideias de logotipos atraentes para a sua imobiliária.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/logotipos-de-arquitetura">
+class="card-preview" href="https://www.notzarla.com/br/guias/logotipos-de-arquitetura">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-architect-logo-2400x2400-20210203.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Um prédio moderno e bem arquitetado." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-architect-logo-2400x2400-20210203.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Um prédio moderno e bem arquitetado." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/logotipos-de-arquitetura">Logotipos de arquitetura</a></h3><div
+href="https://www.notzarla.com/br/guias/logotipos-de-arquitetura">Logotipos de arquitetura</a></h3><div
 class="card-text">10 logotipos de arquitetura estilosos para o seu negócio.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/logotipos-m%C3%A9dicos">
+class="card-preview" href="https://www.notzarla.com/br/guias/logotipos-m%C3%A9dicos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523_2023-05-23-091435_mtfz.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Aparelhos médicos, remédios e um copo de água em cima de um fundo branco." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523_2023-05-23-091435_mtfz.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Aparelhos médicos, remédios e um copo de água em cima de um fundo branco." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/logotipos-m%C3%A9dicos">Logotipos médicos</a></h3><div
+href="https://www.notzarla.com/br/guias/logotipos-m%C3%A9dicos">Logotipos médicos</a></h3><div
 class="card-text">10 ideias de logotipos médicos para a sua clínica ou consultório.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/logotipos-de-sa%C3%BAde">
+class="card-preview" href="https://www.notzarla.com/br/guias/logotipos-de-sa%C3%BAde">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logos-para-empresas-de-salud-2448x2448-20210419.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Mulher cuidando da sua saúde comendo algumas frutas." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-logos-para-empresas-de-salud-2448x2448-20210419.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Mulher cuidando da sua saúde comendo algumas frutas." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/logotipos-de-sa%C3%BAde">Logotipos de saúde</a></h3><div
+href="https://www.notzarla.com/br/guias/logotipos-de-sa%C3%BAde">Logotipos de saúde</a></h3><div
 class="card-text">10 logotipos apropriados para a sua empresa de saúde.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/logotipos-profissionais">
+class="card-preview" href="https://www.notzarla.com/br/guias/logotipos-profissionais">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-professional-logos-5066x3377-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Um profissional de terno e gravata em um saguão." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-professional-logos-5066x3377-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Um profissional de terno e gravata em um saguão." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/logotipos-profissionais">Logotipos profissionais</a></h3><div
-class="card-text">10 ideias de logotipos profissionais para o seu negócio.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/br/guias/logotipos-para-centros-comunit%C3%A1rios","name":"Logotipos para centros comunitários"},"headline":"Logotipos para centros comunitários","description":"10 logotipos para o seu centro comunitário.","image":["https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-02-02T05:46:00-06:00","dateModified":"2024-04-26T02:28:05-05:00","author":{"@type":"Person","name":"Fabiana de Freitas","url":"https://www.zarla.com/br/colaboradores/fabiana-de-freitas"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/br/guias/logotipos-profissionais">Logotipos profissionais</a></h3><div
+class="card-text">10 ideias de logotipos profissionais para o seu negócio.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/br/guias/logotipos-para-centros-comunit%C3%A1rios","name":"Logotipos para centros comunitários"},"headline":"Logotipos para centros comunitários","description":"10 logotipos para o seu centro comunitário.","image":["https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-community-logos-5184x3456-2021022.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-02-02T05:46:00-06:00","dateModified":"2024-04-26T02:28:05-05:00","author":{"@type":"Person","name":"Fabiana de Freitas","url":"https://www.notzarla.com/br/colaboradores/fabiana-de-freitas"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -336,26 +336,26 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/br">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Idioma</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/community-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-negocios-comunitarios">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-per-comunit%C3%A0">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-de-communaute">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-wohlt%C3%A4tigkeitsvereine">Deutsch</a></li><li
+href="https://www.notzarla.com/guides/community-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-negocios-comunitarios">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-per-comunit%C3%A0">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-de-communaute">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-wohlt%C3%A4tigkeitsvereine">Deutsch</a></li><li
 class="current" style="color: #3041c4;">Português (Brasil)</li><li><a
-href="https://www.zarla.com/nl/handleidingen/gemeenschap-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/topluluk-logolar%C4%B1">Türkçe</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-komunitas">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/nl/handleidingen/gemeenschap-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/topluluk-logolar%C4%B1">Türkçe</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-komunitas">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Recursos</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/br/guias/ideias-de-logotipos">
+href="https://www.notzarla.com/br/guias/ideias-de-logotipos">
 Ideias de logotipos
 </a></li><li>
 <a
@@ -363,7 +363,7 @@ href="/br">
 Criador de sites por IA
 </a></li><li>
 <a
-href="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis">
+href="https://www.notzarla.com/br/criador-de-logo-gr%C3%A1tis">
 Criador de Logo Grátis
 </a></li><li>
 <a
@@ -371,15 +371,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/br/termos-de-uso">
+href="https://www.notzarla.com/br/termos-de-uso">
 Termos de uso
 </a></li><li>
 <a
-href="https://www.zarla.com/br/pol%C3%ADtica-de-direitos-autorais">
+href="https://www.notzarla.com/br/pol%C3%ADtica-de-direitos-autorais">
 Política de Direitos Autorais
 </a></li><li>
 <a
-href="https://www.zarla.com/br/pol%C3%ADtica-de-privacidade">
+href="https://www.notzarla.com/br/pol%C3%ADtica-de-privacidade">
 Política de Privacidade
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -387,7 +387,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pt-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/br/criador-de-logo-gr%C3%A1tis?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pt-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Comece a projetar um logotipo personalizado

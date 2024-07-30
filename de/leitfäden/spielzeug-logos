@@ -7,34 +7,34 @@ property="og:title" content="Spielzeug-Logos + Gratis-Logo-Generator" /><meta
 property="og:description" content="20 originelle Ideen für ein Logo mit einem Spielzeugmotiv." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/de/leitf%C3%A4den/spielzeug-logos"><meta
+property="og:url" content="https://www.notzarla.com/de/leitf%C3%A4den/spielzeug-logos"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="de"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/de/leitf%C3%A4den/spielzeug-logos"><link
-rel="alternate" href="https://www.zarla.com/guides/toy-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/toy-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-de-juguetes" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-con-giocattoli" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-de-jouet" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/spielzeug-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-de-brinquedos" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/speelgoed-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/oyuncak-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-zabawki" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-mainan" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/de/leitf%C3%A4den/spielzeug-logos"><link
+rel="alternate" href="https://www.notzarla.com/guides/toy-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/toy-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-de-juguetes" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-con-giocattoli" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-de-jouet" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/spielzeug-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-de-brinquedos" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/speelgoed-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/oyuncak-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-zabawki" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-mainan" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/de">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/de/gratis-logo-generator"
+href="https://www.notzarla.com/de/gratis-logo-generator"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/de/leitf%C3%A4den">Leitfäden</a></li><li
+href="https://www.notzarla.com/de/leitf%C3%A4den">Leitfäden</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos">Logos</a></li><li
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos">Logos</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos/einzelhandel">Einzelhandel</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Leitfäden","item":"https://www.zarla.com/de/leitf%C3%A4den"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.zarla.com/de/leitf%C3%A4den/logos"},{"@type":"ListItem","position":3,"name":"Einzelhandel","item":"https://www.zarla.com/de/leitf%C3%A4den/logos/einzelhandel"},{"@type":"ListItem","position":4,"name":"Spielzeug-Logos + Gratis-Logo-Generator","item":"https://www.zarla.com/de/leitf%C3%A4den/spielzeug-logos"}]}</script> <div
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos/einzelhandel">Einzelhandel</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Leitfäden","item":"https://www.notzarla.com/de/leitf%C3%A4den"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.notzarla.com/de/leitf%C3%A4den/logos"},{"@type":"ListItem","position":3,"name":"Einzelhandel","item":"https://www.notzarla.com/de/leitf%C3%A4den/logos/einzelhandel"},{"@type":"ListItem","position":4,"name":"Spielzeug-Logos + Gratis-Logo-Generator","item":"https://www.notzarla.com/de/leitf%C3%A4den/spielzeug-logos"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Spielzeug-Logos + Gratis-Logo-Generator</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/stefanie-sattler-800x800-20240523.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/stefanie-sattler-800x800-20240523.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Stefanie Sattler"
 /></div><div
 class="card-byline-details">
 <span>Von <a
-class="card-byline-author" href="https://www.zarla.com/de/autoren/stefanie-sattler">Stefanie Sattler</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/de/autoren/stefanie-sattler">Stefanie Sattler</a>,</span>
 <span
 class="card-byline-date">03.05.2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Zwei niedliche Spielzeugfiguren aus der beliebten Super-Mario-Serie."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Egal, ob Sie in der Spielzeugbranche tätig sind oder sich einfach nur verspielt in einer oft viel zu ernsten Welt positionieren wollen – ein buntes Logo mit einem niedlichen Motiv zaubert Kunden ein Lächeln ins Gesicht und weckt Neugierde. Lassen Sie sich von unseren Ideen und unserem <a
-href="https://www.zarla.com/de/gratis-logo-generator">kostenlosen Spielzeug-Logo-Generator</a> inspirieren.</p></div></div></div></div><div
+href="https://www.notzarla.com/de/gratis-logo-generator">kostenlosen Spielzeug-Logo-Generator</a> inspirieren.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,240 +120,240 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Beschreibung</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3drp93xkptm777vvdmgm/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/3drp93xkptm777vvdmgm/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220405-3drp93xkptm777vvdmgm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220405-3drp93xkptm777vvdmgm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3drp93xkptm777vvdmgm/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/3drp93xkptm777vvdmgm/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Die süße Giraffe als Logomotiv gibt ein hervorragendes Maskottchen für einen Spielzeugladen ab, da sie nicht zuletzt dank des kräftigen Gelbtons mit einer motivierenden, positiven Ausstrahlung punktet. Ein besonderer Hingucker ist die pinke Ribeye-Schrift, deren asymmetrische Buchstaben den fröhlichen Gesamteindruck des Logos noch verstärken.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jdftrf4mcx8qrbjbmrb3/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/jdftrf4mcx8qrbjbmrb3/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220405-jdftrf4mcx8qrbjbmrb3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220405-jdftrf4mcx8qrbjbmrb3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jdftrf4mcx8qrbjbmrb3/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/jdftrf4mcx8qrbjbmrb3/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Kinder sind von den Geheimnissen der Ozeane fasziniert – was liegt daher näher als einen lächelnden Wal, der von tanzenden Seesternen umgeben ist, als zentrales Logomotiv einzusetzen, um kleine Kunden zu begeistern? Der violette Farbton wirkt verspielt und mystisch zugleich, während die kantige Asap-Fettschrift das Design harmonisch ausbalanciert.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/djwjykvwvvxw4bk6pdd6/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/djwjykvwvvxw4bk6pdd6/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220405-djwjykvwvvxw4bk6pdd6-1.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220405-djwjykvwvvxw4bk6pdd6-1.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/djwjykvwvvxw4bk6pdd6/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/djwjykvwvvxw4bk6pdd6/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Egal, ob auf Kleidung und Bettwäsche oder als Spielzeugfigur – Dinosaurier haben bei Kindern stets Hochkonjunktur. Daher ist eine lächelnde Urzeitechse das perfekte Motiv für ein zeitloses Spielzeug-Logo, das gut von dem verspielten Türkis in Szene gesetzt wird. Die klare Poppins-Schrift harmoniert dabei bestens mit den Kanten und Kurven des Icons.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/98gxcbtqtqgp9vh7dvwv/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/98gxcbtqtqgp9vh7dvwv/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220405-98gxcbtqtqgp9vh7dvwv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220405-98gxcbtqtqgp9vh7dvwv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/98gxcbtqtqgp9vh7dvwv/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/98gxcbtqtqgp9vh7dvwv/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Das minimalistische Hubschrauber-Icon ist aus Marketingsicht ein Logomotiv für Überflieger, da das Icon und die rosarote Farbwahl Jungs und Mädchen gleichermaßen ansprechen, ohne dabei den klassischen Geschlechterstereotypen zu entsprechen. Clever gewählt ist die kantige Fascinate-Inline-Schrift, die dem Logo eine technisch-stylische Note zufügt.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/qrdyh88b344cmxwcfr44/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/qrdyh88b344cmxwcfr44/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-qrdyh88b344cmxwcfr44.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-qrdyh88b344cmxwcfr44.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/qrdyh88b344cmxwcfr44/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/qrdyh88b344cmxwcfr44/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Das Logomotiv, das dank der Anwendung des Kindchenschemas an einen niedlichen Außerirdischen erinnert, ist ein tolles Maskottchen für Firmen, die auf spielerische Weise technisches Wissen und Interesse am Weltall vermitteln wollen –  Ansätze, die von dem professionellen Blautton und der klar strukturierten Baloo-Bhai-2-Schrift unterstrichen werden.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/t8jdvgcd947xhyfhf9r9/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/t8jdvgcd947xhyfhf9r9/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-t8jdvgcd947xhyfhf9r9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-t8jdvgcd947xhyfhf9r9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/t8jdvgcd947xhyfhf9r9/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/t8jdvgcd947xhyfhf9r9/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Falls Sie sich auf Bildungsangebote für Kleinkinder spezialisieren, dann ist das Ihr Logo. Die Grafik mit dem süßen Dinosaurierbaby in dem braunen Klecks erinnert an ein Fossil und vermittelt dadurch auf liebevolle Weise die Geschichte der Urzeitechsen. Unterstrichen wird die erzieherische Botschaft von der gut lesbaren Arbutus-Slab-Schrift.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/8r6q4hgktgc7bh7dy6x3/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/8r6q4hgktgc7bh7dy6x3/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-8r6q4hgktgc7bh7dy6x3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-8r6q4hgktgc7bh7dy6x3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/8r6q4hgktgc7bh7dy6x3/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/8r6q4hgktgc7bh7dy6x3/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Herzlich willkommen: Der lächelnde Seestern vermittelt den Eindruck, als würde er die Arme ausbreiten. Dadurch erhält das dynamische Icon einen einladenden Charme, der bestens von dem freundlichen Pink in Szene gesetzt wird. Perfekt auf die verspielte Geometrie der Grafik abgestimmt, sind die kantigen Lettern der sympathischen Zilla-Slab-Schrift.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/df7v6fgwq6336ypc8jck/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/df7v6fgwq6336ypc8jck/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-df7v6fgwq6336ypc8jck.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-df7v6fgwq6336ypc8jck.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/df7v6fgwq6336ypc8jck/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/df7v6fgwq6336ypc8jck/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Egal, ob Elektroautos das Fortbewegungsmittel der Zukunft sind oder nicht – die sympathische Spielzeugautografik mit dem Stecker regt spielerisch den Forschergeist von kleinen Tüftlern an – ein Ansatz, der von der kinderfreundlichen Bubblegum-Schrift betont wird. Das Hellblau mit dem pinken Farbakzent spricht Jungs und Mädchen gleichermaßen an.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/bxfv84yqywjbwvd4dp6w/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/bxfv84yqywjbwvd4dp6w/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-bxfv84yqywjbwvd4dp6w-1.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-bxfv84yqywjbwvd4dp6w-1.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/bxfv84yqywjbwvd4dp6w/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/bxfv84yqywjbwvd4dp6w/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Hund, Katze, Maus – abstrakte Tiermotive sind für ein Spielzeug-Logo stets eine gute Wahl. Das lächelnde Gesicht wirkt dabei einladend und freundlich, während die violette Farbpalette eine fantasieanregende und geheimnisvolle Wirkung hat. Die klar geformten Buchstaben der PoetsenOne-Schrift geben dem
 sympathischen Logo Struktur und Balance.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gdb7gq3y3d93gmhmxm84/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/gdb7gq3y3d93gmhmxm84/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-gdb7gq3y3d93gmhmxm84.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-gdb7gq3y3d93gmhmxm84.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gdb7gq3y3d93gmhmxm84/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/gdb7gq3y3d93gmhmxm84/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Ein subtiles Maskottchen für Toleranz: Das lächelnde Schleimmonster lädt Kinder jeglicher Couleur zum freundlichen Miteinander ein und vermittelt so fundamentale Werte bereits im frühen Alter. Die grüne Farbwahl unterstreicht die harmonische Positionierung, während die klar geformte Righteous-Schrift der komplexen Botschaft Nachdruck verleiht.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/br7ppf6by67ftm8hdkqx/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/br7ppf6by67ftm8hdkqx/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-br7ppf6by67ftm8hdkqx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-br7ppf6by67ftm8hdkqx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/br7ppf6by67ftm8hdkqx/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/br7ppf6by67ftm8hdkqx/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Welches Kind wünscht sich wohl keinen T-Rex-Roboter als Spielgefährten? Und genau dieses Wunschdenken macht dieses Icon zum idealen Logomotiv für Firmen in der Spielzeugbranche. Die frische, blaue Farbwahl und der dezente Kreis verleihen dem Design eine verspielte Note, die von der schönen Dosis-Schrift mit ihren klaren Linien komplettiert wird.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/vthgjrtq7dvpvpc7b7k6/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/vthgjrtq7dvpvpc7b7k6/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-vthgjrtq7dvpvpc7b7k6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-vthgjrtq7dvpvpc7b7k6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/vthgjrtq7dvpvpc7b7k6/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/vthgjrtq7dvpvpc7b7k6/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Der Steckturm ist ein Klassiker unter den Spielzeugen für Kleinkinder, um die motorischen Fähigkeiten zu steigern. Daher ist dieses Logo perfekt für Anbieter von Bildungsspielwaren. Die violette Farbpalette wirkt fantasieanregend und unterstreicht im Zusammenspiel mit den Sternen und der feinen Miriam-Libre-Schrift die Qualität Ihrer Produkte.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/cqmpqxktrc9g7vh8w3v4/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/cqmpqxktrc9g7vh8w3v4/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-cqmpqxktrc9g7vh8w3v4.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-cqmpqxktrc9g7vh8w3v4.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/cqmpqxktrc9g7vh8w3v4/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/cqmpqxktrc9g7vh8w3v4/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Wie aus einem Disneyfilm: Das niedliche Icon erinnert an den fliegenden Elefanten Dumbo und versprüht – auch im Zusammenspiel mit den Herzen – einen liebevollen Charme, dem sich weder Groß noch Klein entziehen können. Die gelbe Farbwahl mit den violetten Akzenten sowie die runden Lettern der Baloo-Schrift strahlen Wärme und Freundlichkeit aus.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/v3bff37pwyrtpgdvxfxq/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/v3bff37pwyrtpgdvxfxq/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-v3bff37pwyrtpgdvxfxq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-v3bff37pwyrtpgdvxfxq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/v3bff37pwyrtpgdvxfxq/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/v3bff37pwyrtpgdvxfxq/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Die beiden Vögel scheinen sich angeregt zu unterhalten und vermitteln dadurch spielerisch Zusammenhalt, Dialog und Fürsorge. Die türkis-grüne Farbpalette, die symbolisch für Kommunikation und Harmonie steht, setzt diese Ansätze ausgezeichnet in Szene. Professionell abgerundet wird das schöne Logo von den klaren Kanten der seriösen Asap-Schrift</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7dbt79qbcw878y9py39r/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/7dbt79qbcw878y9py39r/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-7dbt79qbcw878y9py39r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-7dbt79qbcw878y9py39r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7dbt79qbcw878y9py39r/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/7dbt79qbcw878y9py39r/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Ein Einhorn als Logomotiv versprüht nicht nur einen mystischen Charme, sondern regt zugleich die Fantasie an und strahlt sowohl Sanftmut als auch Reinheit aus. Um dem Logo einen kreativen Charakter zuzufügen, wurde das Icon in einem fließenden, orangen Farbklecks platziert, der clever von der dunklen, modernen Quicksand-Schrift kontrastiert wird.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/t7r8kyqkgvtcy7b4vqc6/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/t7r8kyqkgvtcy7b4vqc6/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-t7r8kyqkgvtcy7b4vqc6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-t7r8kyqkgvtcy7b4vqc6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/t7r8kyqkgvtcy7b4vqc6/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/t7r8kyqkgvtcy7b4vqc6/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Am Ende dieses Regenbogens wartet zwar kein Goldschatz, aber dafür eine Spielzeugeisenbahn – und genau diese ungewöhnliche Komposition gibt dem Logo einen hohen Wiedererkennungswert. Die violette Farbwahl mit den gelben Akzenten wirkt motivierend, während die Linien der Righteous-Schrift an Gleise erinnern und die Grafik so schön komplettieren.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/khvm7vh4ywyb4y636h96/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/khvm7vh4ywyb4y636h96/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-khvm7vh4ywyb4y636h96.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-khvm7vh4ywyb4y636h96.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/khvm7vh4ywyb4y636h96/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/khvm7vh4ywyb4y636h96/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Der niedliche Hase mag zwar auf den ersten Blick unproportional oder sogar etwas verloren wirken, aber genau diese kleinen Ecken und Kanten machen dieses Icon zu einem ganz besonderen Logomotiv, an das sich Betrachter erinnern. Harmonisch und kreativ abgerundet wird das Logo von dem warmen Orangeton und der verspielten Luckiest-Guy-Schrift.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/txwhvh3dg7pbhq7xrqfb/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/txwhvh3dg7pbhq7xrqfb/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-txwhvh3dg7pbhq7xrqfb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-txwhvh3dg7pbhq7xrqfb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/txwhvh3dg7pbhq7xrqfb/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/txwhvh3dg7pbhq7xrqfb/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Das witzige Logomaskottchen scheint direkt aus einem Comic-Heft für Kinder entsprungen zu sein und hat dank seiner ungewöhnlichen Dimensionen und der originellen, violett-blauen Farbpalette das Potenzial, Kultstatus zu erlangen. Die leicht schräg stehenden Buchstaben der PoetsenOne-Schrift versprühen einen dynamischen, sympathischen Charme.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/rtpwvwb8vh943bxxtgyy/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/rtpwvwb8vh943bxxtgyy/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-rtpwvwb8vh943bxxtgyy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-rtpwvwb8vh943bxxtgyy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/rtpwvwb8vh943bxxtgyy/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/rtpwvwb8vh943bxxtgyy/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Der zurückhaltende kleine Fuchs löst Beschützerinstinkte aus und stellt dadurch schnell eine emotionale Bindung her. Clever gewählt ist dabei der gedeckte, grüne Farbton, der auf Naturverbundenheit und Nachhaltigkeit schließen lässt. Ein Hingucker ist die kreative Gochi-Hand-Schrift in Lila, die dem Logo einen persönlichen Touch gibt.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/dwgjfpfg3q66bk936vqw/edit?brand=Bitte%20L%C3%A4cheln">
+href="https://www.notzarla.com/logo-maker/dwgjfpfg3q66bk936vqw/edit?brand=Bitte%20L%C3%A4cheln">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-dwgjfpfg3q66bk936vqw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
+data-src="https://www.notzarla.com/images/zarla-bitte-lcheln-1x1-2400x2400-20220406-dwgjfpfg3q66bk936vqw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Spielzeug-Logo für eine Firma namens Bitte Lächeln.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/dwgjfpfg3q66bk936vqw/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/dwgjfpfg3q66bk936vqw/edit?brand=Bitte%20L%C3%A4cheln" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Der große Teddybär, der schützend seine Arme um den kleinen Bären legt, ist eine hervorragende Metapher für Fürsorge, Schutz und Zusammengehörigkeit und wird bestens von dem beruhigend wirkenden, türkisen Farbton in Szene gesetzt. Die sympathische Rum-Raisin-Schrift unterstreicht den freundlichen Charakter des kinderfreundlichen Logos.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/kinderfreundliche-logos">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/kinderfreundliche-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-chirldren-themed-logos-3648x2432-20220131.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Kinderfreundliche Logos" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-chirldren-themed-logos-3648x2432-20220131.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Kinderfreundliche Logos" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/kinderfreundliche-logos">Kinderfreundliche Logos</a></p><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/kinderfreundliche-logos">Kinderfreundliche Logos</a></p><div
 class="card-text">20 verspielte Ideen für kinderfreundliche Logos.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=fAQs class="section-heading">FAQs:</h2><div
@@ -363,7 +363,7 @@ class="answer"><p>Ein Spielzeug-Logo sollte Betrachtern ein Lächeln ins Gesicht
 href="#ideen-fuer-spielzeug-logos">tollen Spielzeug-Logodesigns</a> inspirieren.</p></div></div><div
 class="col-12 faq-item"><h3 id=wie-gehe-ich-vor-um-ein-cooles-spielzeug-logo-zu-erstellen class="question">Wie gehe ich vor, um ein cooles Spielzeug-Logo zu erstellen?</h3><div
 class="answer"><ol><li>Überlegen Sie sich, mit welchen Schriften, Farben und verspielten Motiven Sie Ihre Positionierung visualisieren können.</li><li>Schauen Sie sich zur Inspiration die Logos von Firmen aus der Spielzeugbranche an.</li><li>Nutzen Sie einen <a
-href="https://www.zarla.com/de/gratis-logo-generator">Logo-Generator</a> wie Zarla, um verschiedene Entwürfe zu entwerfen.</li><li>Bitten Sie Familie und Freunde um Feedback.</li></ol></div></div><div
+href="https://www.notzarla.com/de/gratis-logo-generator">Logo-Generator</a> wie Zarla, um verschiedene Entwürfe zu entwerfen.</li><li>Bitten Sie Familie und Freunde um Feedback.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=wo-kann-ich-ein-gutes-spielzeug-logo-gratis-herunterladen class="question">Wo kann ich ein gutes Spielzeug-Logo gratis herunterladen?</h3><div
 class="answer"><p>Mit dem Logo-Generator von Zarla können Sie auf Hunderte von Designvorlagen zugreifen und in wenigen Klicks maßgeschneiderte Spielzeug-Logos kostenlos erstellen und herunterladen. Nach dem Download gehört das Logo Ihnen. Versteckte Kosten gibt es keine.</p></div></div><div
 class="col-12 faq-item"><h3 id=welches-sind-bekannte-logos-von-spielzeugmarken class="question">Welches sind bekannte Logos von Spielzeugmarken?</h3><div
@@ -373,68 +373,68 @@ class="container"><h2 class="section-heading">Verwandte Artikel</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/slime-logos">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/slime-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-slime-logos-3975x2650-2021023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eine weiß gepuderte Hand quetscht orangen Spielschleim." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-slime-logos-3975x2650-2021023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eine weiß gepuderte Hand quetscht orangen Spielschleim." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/slime-logos">Slime-Logos</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/slime-logos">Slime-Logos</a></h3><div
 class="card-text">10 verspielte Ideen für ein Spielschleim-Logo.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/niedliche-logos">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/niedliche-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-cute-logos-4480x6720-20210831.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein brauner Teddy neben einem kleinen Paar brauner Schuhe beim Sonnenuntergang." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-cute-logos-4480x6720-20210831.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein brauner Teddy neben einem kleinen Paar brauner Schuhe beim Sonnenuntergang." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/niedliche-logos">Niedliche Logos</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/niedliche-logos">Niedliche Logos</a></h3><div
 class="card-text">20 niedliche Logo-Ideen für Ihr Unternehmen.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/fr%C3%B6hliche-logos">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/fr%C3%B6hliche-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-happy-logos-5760x3840-2021099.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein fröhliches Kind läuft lächelnd durch die Tropfen einer Bewässerungsanlage." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-happy-logos-5760x3840-2021099.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein fröhliches Kind läuft lächelnd durch die Tropfen einer Bewässerungsanlage." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/fr%C3%B6hliche-logos">Fröhliche Logos</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/fr%C3%B6hliche-logos">Fröhliche Logos</a></h3><div
 class="card-text">20 Ideen für fröhliche Logos, die Glücksgefühle auslösen.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/verspielte-logos">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/verspielte-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-playful-logos-3839x4239-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein Mädchen hat sich als Hase verkleidet und hält verspielt zwei Eier vor ihre Augen." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-playful-logos-3839x4239-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein Mädchen hat sich als Hase verkleidet und hält verspielt zwei Eier vor ihre Augen." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/verspielte-logos">Verspielte Logos</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/verspielte-logos">Verspielte Logos</a></h3><div
 class="card-text">20 verspielte Logo-Ideen für Ihre Firma.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/spieleladen-logos">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/spieleladen-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logo-game-store.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eine Nintendo Switch in einem Spieleladen." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-logo-game-store.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eine Nintendo Switch in einem Spieleladen." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/spieleladen-logos">Spieleladen-Logos</a></h3><div
-class="card-text">10 originelle Logo-Ideen für Ihren Spieleladen.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/de/leitf%C3%A4den/spielzeug-logos","name":"Spielzeug-Logos + Gratis-Logo-Generator"},"headline":"Spielzeug-Logos + Gratis-Logo-Generator","description":"20 originelle Ideen für ein Logo mit einem Spielzeugmotiv.","image":["https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-10-08T03:19:00-05:00","dateModified":"2024-05-03T02:39:40-05:00","author":{"@type":"Person","name":"Stefanie Sattler","url":"https://www.zarla.com/de/autoren/stefanie-sattler"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/de/leitf%C3%A4den/spieleladen-logos">Spieleladen-Logos</a></h3><div
+class="card-text">10 originelle Logo-Ideen für Ihren Spieleladen.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/de/leitf%C3%A4den/spielzeug-logos","name":"Spielzeug-Logos + Gratis-Logo-Generator"},"headline":"Spielzeug-Logos + Gratis-Logo-Generator","description":"20 originelle Ideen für ein Logo mit einem Spielzeugmotiv.","image":["https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-toy-logos-2400x2400-20210810.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-10-08T03:19:00-05:00","dateModified":"2024-05-03T02:39:40-05:00","author":{"@type":"Person","name":"Stefanie Sattler","url":"https://www.notzarla.com/de/autoren/stefanie-sattler"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -443,27 +443,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/de">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Sprache</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/toy-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-de-juguetes">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-con-giocattoli">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-de-jouet">Français</a></li><li
+href="https://www.notzarla.com/guides/toy-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-de-juguetes">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-con-giocattoli">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-de-jouet">Français</a></li><li
 class="current" style="color: #3041c4;">Deutsch</li><li><a
-href="https://www.zarla.com/br/guias/logotipos-de-brinquedos">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/speelgoed-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/oyuncak-logolar%C4%B1">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-zabawki">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-mainan">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/br/guias/logotipos-de-brinquedos">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/speelgoed-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/oyuncak-logolar%C4%B1">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-zabawki">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-mainan">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Verweise</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/logo-ideen">
+href="https://www.notzarla.com/de/leitf%C3%A4den/logo-ideen">
 Logo-Ideen
 </a></li><li>
 <a
@@ -471,7 +471,7 @@ href="/de">
 KI-Website-Builder
 </a></li><li>
 <a
-href="https://www.zarla.com/de/gratis-logo-generator">
+href="https://www.notzarla.com/de/gratis-logo-generator">
 Gratis-Logo-Generator
 </a></li><li>
 <a
@@ -479,15 +479,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/de/nutzungsbedingungen">
+href="https://www.notzarla.com/de/nutzungsbedingungen">
 Nutzungsbedingungen
 </a></li><li>
 <a
-href="https://www.zarla.com/de/urheberrichtlinie">
+href="https://www.notzarla.com/de/urheberrichtlinie">
 Urheberrichtlinie
 </a></li><li>
 <a
-href="https://www.zarla.com/de/datenschutzrichtlinie">
+href="https://www.notzarla.com/de/datenschutzrichtlinie">
 Datenschutzrichtlinie
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -495,7 +495,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/de/gratis-logo-generator?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=de-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/de/gratis-logo-generator?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=de-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Gestalten Sie ein eigenes Logo

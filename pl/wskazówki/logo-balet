@@ -7,34 +7,34 @@ property="og:title" content="Logo: Balet + Darmowy Kreator Logo" /><meta
 property="og:description" content="10 czarujących projektów logo inspirowanych baletem." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-balet"><meta
+property="og:url" content="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-balet"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="pl-PL"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-balet"><link
-rel="alternate" href="https://www.zarla.com/guides/ballet-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/ballet-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-ballet" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-a-tema-balletto" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-de-ballet" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/ballett-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-de-bal%C3%A9" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/ballet-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/bale-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-balet" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-balet" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-balet"><link
+rel="alternate" href="https://www.notzarla.com/guides/ballet-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/ballet-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-ballet" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-a-tema-balletto" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-de-ballet" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/ballett-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-de-bal%C3%A9" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/ballet-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/bale-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-balet" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-balet" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/pl">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo"
+href="https://www.notzarla.com/pl/darmowy-kreator-logo"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki">Wskazówki</a></li><li
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki">Wskazówki</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo">Projekty Logo</a></li><li
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo">Projekty Logo</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/sztuka-rozrywka-i-rekreacja">Sztuka, Rozrywka i Rekreacja</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Wskazówki","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki"},{"@type":"ListItem","position":2,"name":"Projekty Logo","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo"},{"@type":"ListItem","position":3,"name":"Sztuka, Rozrywka i Rekreacja","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/sztuka-rozrywka-i-rekreacja"},{"@type":"ListItem","position":4,"name":"Logo: Balet + Darmowy Kreator Logo","item":"https://www.zarla.com/pl/wskaz%C3%B3wki/logo-balet"}]}</script> <div
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo/sztuka-rozrywka-i-rekreacja">Sztuka, Rozrywka i Rekreacja</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Wskazówki","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki"},{"@type":"ListItem","position":2,"name":"Projekty Logo","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo"},{"@type":"ListItem","position":3,"name":"Sztuka, Rozrywka i Rekreacja","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo/sztuka-rozrywka-i-rekreacja"},{"@type":"ListItem","position":4,"name":"Logo: Balet + Darmowy Kreator Logo","item":"https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-balet"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Logo: Balet + Darmowy Kreator Logo</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-natalia-smigielska-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-natalia-smigielska-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Natalia Śmigielska"
 /></div><div
 class="card-byline-details">
 <span> <a
-class="card-byline-author" href="https://www.zarla.com/pl/współautorzy/natalia-śmigielska">Natalia Śmigielska</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/pl/współautorzy/natalia-śmigielska">Natalia Śmigielska</a>,</span>
 <span
 class="card-byline-date">3 maj 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Dwójka tancerzy wykonujących figurę baletową."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Budzące zachwyt logo z motywem baletowym powinno emanować gracją i klasą, jednocześnie przywodząc na myśl profesjonalizm, precyzję oraz dążenie do perfekcji. Przed wykonaniem projektu zapoznaj się z psychologią kolorów, aby dobrze oddać ducha twojej firmy. Zobacz nasze propozycje poniżej lub użyj <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">darmowego kreatora logo inspirowanych baletem</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">darmowego kreatora logo inspirowanych baletem</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,129 +120,129 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Opis</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/t8xrkvj64px9dmvbr9qf/edit?brand=Baletek%20Bal">
+href="https://www.notzarla.com/logo-maker/t8xrkvj64px9dmvbr9qf/edit?brand=Baletek%20Bal">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-t8xrkvj64px9dmvbr9qf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Baletnica - logo firmy o nazwie Baletek Bal.">
+data-src="https://www.notzarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-t8xrkvj64px9dmvbr9qf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Baletnica - logo firmy o nazwie Baletek Bal.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/t8xrkvj64px9dmvbr9qf/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/t8xrkvj64px9dmvbr9qf/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Klasyczne pointy są najbardziej rozpoznawalnym symbolem baletu – logo przedstawiające je w minimalistycznym okręgu będzie idealnym wyborem dla świetnie wyposażonego sklepu dla tancerzy. Współczesna, charakterystyczna czcionka Sansation podkreśla nowoczesny ton projektu, a intensywny pomarańcz jest barwą entuzjazmu, pewności siebie oraz optymizmu.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/6h37kqtgv7v946y9myyk/edit?brand=Baletek%20Bal">
+href="https://www.notzarla.com/logo-maker/6h37kqtgv7v946y9myyk/edit?brand=Baletek%20Bal">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-6h37kqtgv7v946y9myyk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Baletnica - logo firmy o nazwie Baletek Bal.">
+data-src="https://www.notzarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-6h37kqtgv7v946y9myyk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Baletnica - logo firmy o nazwie Baletek Bal.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/6h37kqtgv7v946y9myyk/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/6h37kqtgv7v946y9myyk/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Kojący cyjan symbolizuje odnowę i relaks, co w połączeniu ze sportową ikoną może sugerować firmę wspierającą tancerzy w regeneracji. Szykowny krój pisma Cinzel prezentuje się niezwykle stylowo oraz perfekcyjnie współgra z pełną klasy grafiką baletnicy – to zestawienie emanuje ponadczasową elegancją i przywodzi na myśl piękno.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fprhb9bg948vq6gvythm/edit?brand=Baletek%20Bal">
+href="https://www.notzarla.com/logo-maker/fprhb9bg948vq6gvythm/edit?brand=Baletek%20Bal">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-fprhb9bg948vq6gvythm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Baletnica - logo firmy o nazwie Baletek Bal.">
+data-src="https://www.notzarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-fprhb9bg948vq6gvythm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Baletnica - logo firmy o nazwie Baletek Bal.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fprhb9bg948vq6gvythm/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/fprhb9bg948vq6gvythm/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Żywy oranż – symbol chęci do działania i nieskończonych pokładów energii – oraz biel, czyli kolor nowych początków, to perfekcyjne barwy do logo szkoły baletowej dla najmłodszych. Baletnica z wyciągniętymi ku górze ramionami przywodzi na myśl sięganie gwiazd i dążenie do sukcesu. Klasyczny font Noto Serif dobrze oddaje grację kojarzoną z baletem.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3ggc8qdjmvk364h9rh4d/edit?brand=Baletek%20Bal">
+href="https://www.notzarla.com/logo-maker/3ggc8qdjmvk364h9rh4d/edit?brand=Baletek%20Bal">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-3ggc8qdjmvk364h9rh4d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Baletnica - logo firmy o nazwie Baletek Bal.">
+data-src="https://www.notzarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-3ggc8qdjmvk364h9rh4d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Baletnica - logo firmy o nazwie Baletek Bal.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3ggc8qdjmvk364h9rh4d/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/3ggc8qdjmvk364h9rh4d/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Zieleń symbolizuje odnowę, wzrastanie oraz sprzyjające szczęście – to doskonały wybór koloru logo dla szkoły baletowej. Baletnica w przepięknej pozie i jej fantazyjna suknia nadają projektowi wyjątkowo dynamicznego wyglądu; ułożenie materiału i figura tancerki przypominają sylwetkę motyla. Łagodny font Miriam Libre sugeruje przystępność biznesu.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/tmkf8v6y7f9wmhyf3pmg/edit?brand=Baletek%20Bal">
+href="https://www.notzarla.com/logo-maker/tmkf8v6y7f9wmhyf3pmg/edit?brand=Baletek%20Bal">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-tmkf8v6y7f9wmhyf3pmg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Baletnica - logo firmy o nazwie Baletek Bal.">
+data-src="https://www.notzarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-tmkf8v6y7f9wmhyf3pmg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Baletnica - logo firmy o nazwie Baletek Bal.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/tmkf8v6y7f9wmhyf3pmg/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/tmkf8v6y7f9wmhyf3pmg/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Kształtny font Playball perfekcyjnie uwydatnia się na ciemnym tle, skutecznie eksponując nazwę firmy; jego kaligraficzny krój w połączeniu z ikoną baleriny przywodzi na myśl ręcznie szytą odzież baletową. Zestawienie głębokiego granatu i żywej czerwieni łączy w sobie symbolikę profesjonalizmu i pasji – wartości cechujących znakomitych tancerzy.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/89y4h4tx4tyqdwjtvm3g/edit?brand=Baletek%20Bal">
+href="https://www.notzarla.com/logo-maker/89y4h4tx4tyqdwjtvm3g/edit?brand=Baletek%20Bal">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-89y4h4tx4tyqdwjtvm3g.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - baletnica dla firmy o nazwie Baletek Bal.">
+data-src="https://www.notzarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-89y4h4tx4tyqdwjtvm3g.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - baletnica dla firmy o nazwie Baletek Bal.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/89y4h4tx4tyqdwjtvm3g/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/89y4h4tx4tyqdwjtvm3g/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Wydatna czcionka Enriqueta stanowi mocną podstawę tego projektu – jej wyraziste litery zasugerują solidność i wysoką klasę twojego biznesu. Głęboki, malinowy róż symbolizuje kobiecość, beztroskę i zabawę. Swobodnie puszczony, powiewający materiał podkreśla energetyzujący wygląd ikony baletnicy w przepięknej, wymagającej pozie.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/grbmd6bm4f6yvxccccvd/edit?brand=Baletek%20Bal">
+href="https://www.notzarla.com/logo-maker/grbmd6bm4f6yvxccccvd/edit?brand=Baletek%20Bal">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-grbmd6bm4f6yvxccccvd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - baletnica dla firmy o nazwie Baletek Bal.">
+data-src="https://www.notzarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-grbmd6bm4f6yvxccccvd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - baletnica dla firmy o nazwie Baletek Bal.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/grbmd6bm4f6yvxccccvd/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/grbmd6bm4f6yvxccccvd/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Zjawiskowa balerina unosząca się w powietrzu niczym motyl emanuje aurą delikatności i pomoże ci wzbudzić zaciekawienie twoich potencjalnych klientów – dynamiczny urok tej ikony w połączeniu z łagodnym cyjanem tworzy interesujący dla oka kontrast. Prosta, subtelnie obła czcionka Asap idealnie dopełnia tę przepiękną kompozycję.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7b3997xbvrqjmyhc6937/edit?brand=Baletek%20Bal">
+href="https://www.notzarla.com/logo-maker/7b3997xbvrqjmyhc6937/edit?brand=Baletek%20Bal">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-7b3997xbvrqjmyhc6937.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - baletnica dla firmy o nazwie Baletek Bal.">
+data-src="https://www.notzarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-7b3997xbvrqjmyhc6937.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - baletnica dla firmy o nazwie Baletek Bal.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7b3997xbvrqjmyhc6937/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/7b3997xbvrqjmyhc6937/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Mocno wyróżniająca się na ciemnym tle, czarująca czcionka Alice przepięknie wyeksponuje nazwę twojej firmy. Duo bieli i niemal czarnego koloru emanuje ponadczasową klasą – reprezentuje elegancję, profesjonalizm oraz bogate doświadczenie; razem z ikoną pary tancerzy idealnie sprawdzi się m.in. w logo prestiżowej szkoły baletowej dla dorosłych.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/tbk4dqp9mxd37gyxhj9b/edit?brand=Baletek%20Bal">
+href="https://www.notzarla.com/logo-maker/tbk4dqp9mxd37gyxhj9b/edit?brand=Baletek%20Bal">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-tbk4dqp9mxd37gyxhj9b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - baletnica dla firmy o nazwie Baletek Bal.">
+data-src="https://www.notzarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-tbk4dqp9mxd37gyxhj9b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - baletnica dla firmy o nazwie Baletek Bal.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/tbk4dqp9mxd37gyxhj9b/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/tbk4dqp9mxd37gyxhj9b/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Soczysty pomarańcz przykuje uwagę twoich potencjalnych klientów – doskonale sprawdzi się w wyróżniającym się, rozpoznawalnym brandingu. Nienaganna poza baletnicy świetnie oddaje ciężką pracę tancerzy głodnych sukcesu – pomoże ci zbudować profesjonalny wizerunek swojej marki. Prosty font Barlow Semi Condensed pięknie uzupełnia kompozycję.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/qd9x4xvwdgggwqbydcpq/edit?brand=Baletek%20Bal">
+href="https://www.notzarla.com/logo-maker/qd9x4xvwdgggwqbydcpq/edit?brand=Baletek%20Bal">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-qd9x4xvwdgggwqbydcpq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - baletnica dla firmy o nazwie Baletek Bal.">
+data-src="https://www.notzarla.com/images/zarla-baletek-bal-1x1-2400x2400-20230718-qd9x4xvwdgggwqbydcpq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - baletnica dla firmy o nazwie Baletek Bal.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/qd9x4xvwdgggwqbydcpq/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/qd9x4xvwdgggwqbydcpq/edit?brand=Baletek%20Bal" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>To godne podziwu logo doskonale oddaje wszechstronność i grację balerin – zestawienie trzech nienagannie wyegzekwowanych póz z pewnością wzbudzi zachwyt odbiorców, nie tylko tych, którzy na co dzień interesują się baletem. Zieleń emanuje przyjaznym, zachęcającym urokiem, a smukły font Caudex w nowoczesnej szarości przyciągnie wzrok do nazwy firmy.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-taniec">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-taniec">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-dance-logos-4000x2660-2022124.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo: Taniec" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-dance-logos-4000x2660-2022124.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo: Taniec" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-taniec">Logo: Taniec</a></p><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-taniec">Logo: Taniec</a></p><div
 class="card-text">10 porywających projektów logo dla twojej firmy związanej z tańcem.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=faq class="section-heading">FAQ:</h2><div
@@ -252,7 +252,7 @@ class="answer"><p>Możesz stworzyć, edytować i pobrać darmowe logo inspirowan
 href="#pomysly-na-logo-inspirowane-baletem">naszych projektów</a> lub użyjesz naszego kreatora logo.</p></div></div><div
 class="col-12 faq-item"><h3 id=jak-stworzyc-logo-dla-sklepu-baletowego class="question">Jak stworzyć logo dla sklepu baletowego?</h3><div
 class="answer"><ol><li>Zastanów się, jaki styl projektu najbardziej doceni twoja grupa docelowa.</li><li>Zrób research wśród konkurencyjnych biznesów i zastanów się, jak możesz wyróżnić się na ich tle.</li><li>Użyj <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">generatora logo</a>, by stworzyć przeróżne, piękne kompozycje, eksperymentując z doborem grafik, czcionek i kolorów.</li><li>Wybierz najładniejsze projekty i poproś znajomych oraz rodzinę o opinię.</li><li>Pobierz logo, które spodoba się im najbardziej.</li></ol></div></div><div
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">generatora logo</a>, by stworzyć przeróżne, piękne kompozycje, eksperymentując z doborem grafik, czcionek i kolorów.</li><li>Wybierz najładniejsze projekty i poproś znajomych oraz rodzinę o opinię.</li><li>Pobierz logo, które spodoba się im najbardziej.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=gdzie-znalezc-przepiekne-logo-dla-szkoly-baletowej class="question">Gdzie znaleźć przepiękne logo dla szkoły baletowej?</h3><div
 class="answer"><p>Na Zarla znajdziesz kolekcję logo, które idealnie sprawdzą się dla szkoły baletowej – 10 eleganckich projektów, które doskonale będą reprezentowały twoje kursy taneczne. Możesz także wykorzystać nasz kreator logo i stworzyć własny projekt od zera, wyszukując ciekawe szablony logo inspirowanych baletem.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Skąd pobrać logo z baletnicą w formacie PNG?","acceptedAnswer":{"@type":"Answer","text":"<p>Mo\u017cesz stworzy\u0107, edytowa\u0107 i pobra\u0107 darmowe logo inspirowane baletem w formacie PNG na Zarla. Wystarczy, \u017ce klikniesz \u201eEdytuj\u201d pod jednym z <a href=\"#pomysly-na-logo-inspirowane-baletem\">naszych projekt\u00f3w<\/a> lub u\u017cyjesz naszego kreatora logo.<\/p>\n"}},{"@type":"Question","name":"Jak stworzyć logo dla sklepu baletowego?","acceptedAnswer":{"@type":"Answer","text":"<ol>\n<li>Zastan\u00f3w si\u0119, jaki styl projektu najbardziej doceni twoja grupa docelowa.<\/li>\n<li>Zr\u00f3b research w\u015br\u00f3d konkurencyjnych biznes\u00f3w i zastan\u00f3w si\u0119, jak mo\u017cesz wyr\u00f3\u017cni\u0107 si\u0119 na ich tle.<\/li>\n<li>U\u017cyj <a href=\"https:\/\/www.zarla.com\/pl\/darmowy-kreator-logo\">generatora logo<\/a>, by stworzy\u0107 przer\u00f3\u017cne, pi\u0119kne kompozycje, eksperymentuj\u0105c z doborem grafik, czcionek i kolor\u00f3w.<\/li>\n<li>Wybierz naj\u0142adniejsze projekty i popro\u015b znajomych oraz rodzin\u0119 o opini\u0119.<\/li>\n<li>Pobierz logo, kt\u00f3re spodoba si\u0119 im najbardziej.<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Gdzie znaleźć przepiękne logo dla szkoły baletowej?","acceptedAnswer":{"@type":"Answer","text":"<p>Na Zarla znajdziesz kolekcj\u0119 logo, kt\u00f3re idealnie sprawdz\u0105 si\u0119 dla szko\u0142y baletowej \u2013 10 eleganckich projekt\u00f3w, kt\u00f3re doskonale b\u0119d\u0105 reprezentowa\u0142y twoje kursy taneczne. Mo\u017cesz tak\u017ce wykorzysta\u0107 nasz kreator logo i stworzy\u0107 w\u0142asny projekt od zera, wyszukuj\u0105c ciekawe szablony logo inspirowanych baletem.<\/p>\n"}}]}</script> <div
 class="section-related-post"><div
@@ -260,68 +260,68 @@ class="container"><h2 class="section-heading">Podobne Treści</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-muzyczne">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-muzyczne">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-music-business-logo-2400x2400-20210202.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Elektryczne gitary wyeksponowane na wystawie w sklepie z instrumentami muzycznymi." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-music-business-logo-2400x2400-20210202.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Elektryczne gitary wyeksponowane na wystawie w sklepie z instrumentami muzycznymi." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-muzyczne">Logo muzyczne</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-muzyczne">Logo muzyczne</a></h3><div
 class="card-text">10 obłędnych pomysłów na logo muzyczne.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/eteryczne-logo">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/eteryczne-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-ethereal-logos-4751x3337-20230523_2023-05-23-113940_tqxy.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eteryczna kompozycja kobiety w białej sukni pozującej na tle w kolorze morskim." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-ethereal-logos-4751x3337-20230523_2023-05-23-113940_tqxy.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eteryczna kompozycja kobiety w białej sukni pozującej na tle w kolorze morskim." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/eteryczne-logo">Eteryczne logo</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/eteryczne-logo">Eteryczne logo</a></h3><div
 class="card-text">20 wymyślnych projektów eterycznych logo dla twojej firmy.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/fantazyjne-logo">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/fantazyjne-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Fantazyjna grafika książki, z której wyłania się obraz kobiety śpiącej na chmurach." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Fantazyjna grafika książki, z której wyłania się obraz kobiety śpiącej na chmurach." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/fantazyjne-logo">Fantazyjne logo</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/fantazyjne-logo">Fantazyjne logo</a></h3><div
 class="card-text">20 szykownych projektów fantazyjnych logo dla twojej firmy.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/cudne-logo">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/cudne-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-darling-logos-6000x4000-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Trzy cudne kociaki wyglądające zza drzwi." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-darling-logos-6000x4000-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Trzy cudne kociaki wyglądające zza drzwi." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/cudne-logo">Cudne logo</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/cudne-logo">Cudne logo</a></h3><div
 class="card-text">20 uroczych projektów cudnych logo dla twojej firmy.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-motyl">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-motyl">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-butterfly-logos-3515x2116-20230215.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Motyl odpoczywający na pomarańczowym kwiatku." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-butterfly-logos-3515x2116-20230215.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Motyl odpoczywający na pomarańczowym kwiatku." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-motyl">Logo: Motyl</a></h3><div
-class="card-text">15 olśniewających projektów logo z motylem dla twojej firmy.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/pl/wskaz%C3%B3wki/logo-balet","name":"Logo: Balet + Darmowy Kreator Logo"},"headline":"Logo: Balet + Darmowy Kreator Logo","description":"10 czarujących projektów logo inspirowanych baletem.","image":["https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2023-01-13T07:59:00-06:00","dateModified":"2024-05-03T01:33:16-05:00","author":{"@type":"Person","name":"Natalia Śmigielska","url":"https://www.zarla.com/pl/współautorzy/natalia-śmigielska"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-motyl">Logo: Motyl</a></h3><div
+class="card-text">15 olśniewających projektów logo z motylem dla twojej firmy.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-balet","name":"Logo: Balet + Darmowy Kreator Logo"},"headline":"Logo: Balet + Darmowy Kreator Logo","description":"10 czarujących projektów logo inspirowanych baletem.","image":["https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-ballet-logos-5972x3981-20230113.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2023-01-13T07:59:00-06:00","dateModified":"2024-05-03T01:33:16-05:00","author":{"@type":"Person","name":"Natalia Śmigielska","url":"https://www.notzarla.com/pl/współautorzy/natalia-śmigielska"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -330,27 +330,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/pl">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Język</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/ballet-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-ballet">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-a-tema-balletto">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-de-ballet">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/ballett-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-de-bal%C3%A9">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/ballet-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/bale-logolar%C4%B1">Türkçe</a></li><li
+href="https://www.notzarla.com/guides/ballet-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-ballet">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-a-tema-balletto">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-de-ballet">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/ballett-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-de-bal%C3%A9">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/ballet-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/bale-logolar%C4%B1">Türkçe</a></li><li
 class="current" style="color: #3041c4;">Polski</li><li><a
-href="https://www.zarla.com/id/panduan/logo-balet">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/id/panduan/logo-balet">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Zasoby</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/projekty-logo">
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/projekty-logo">
 Projekty Logo
 </a></li><li>
 <a
@@ -358,7 +358,7 @@ href="/pl">
 Kreator stron internetowych AI
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">
 Darmowy kreator logo
 </a></li><li>
 <a
@@ -366,15 +366,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/regulamin">
+href="https://www.notzarla.com/pl/regulamin">
 Regulamin
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/polityka-praw-autorskich">
+href="https://www.notzarla.com/pl/polityka-praw-autorskich">
 Polityka Praw Autorskich
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/polityka-prywatno%C5%9Bci">
+href="https://www.notzarla.com/pl/polityka-prywatno%C5%9Bci">
 Polityka Prywatności
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -382,7 +382,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pl-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/pl/darmowy-kreator-logo?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pl-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Zacznij projektować własne logo

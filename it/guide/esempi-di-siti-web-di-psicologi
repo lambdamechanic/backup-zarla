@@ -7,25 +7,25 @@ property="og:title" content="Esempi di siti web di psicologi - 5 siti pensati pe
 property="og:description" content="5 siti web di professionisti psicologi e psicoterapeuti da prendere come esempio per costruire il tuo sito." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/it/guide/esempi-di-siti-web-di-psicologi"><meta
+property="og:url" content="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-psicologi"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="it"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-psicologi"><link
-rel="alternate" href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-psicologi" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-psicologi" hreflang="it" /><link
+rel="canonical" href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-psicologi"><link
+rel="alternate" href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-psicologi" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-psicologi" hreflang="it" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="websiteExamples"><header
 class="header"><div
 class="container"><nav
@@ -34,10 +34,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/it">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/it"
+href="https://www.notzarla.com/it"
 class="btn btn-primary cta-nav
 "
 >
@@ -51,11 +51,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide">Guide</a></li><li
+href="https://www.notzarla.com/it/guide">Guide</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide/esempi-di-siti-web">Esempi di siti web</a></li><li
+href="https://www.notzarla.com/it/guide/esempi-di-siti-web">Esempi di siti web</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide/esempi-di-siti-web/sanit%C3%A0-e-assistenza-sociale">Sanità e Assistenza Sociale</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guide","item":"https://www.zarla.com/it/guide"},{"@type":"ListItem","position":2,"name":"Esempi di siti web","item":"https://www.zarla.com/it/guide/esempi-di-siti-web"},{"@type":"ListItem","position":3,"name":"Sanità e Assistenza Sociale","item":"https://www.zarla.com/it/guide/esempi-di-siti-web/sanit%C3%A0-e-assistenza-sociale"},{"@type":"ListItem","position":4,"name":"Esempi di siti web di psicologi - 5 siti pensati per i pazienti","item":"https://www.zarla.com/it/guide/esempi-di-siti-web-di-psicologi"}]}</script> <div
+href="https://www.notzarla.com/it/guide/esempi-di-siti-web/sanit%C3%A0-e-assistenza-sociale">Sanità e Assistenza Sociale</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guide","item":"https://www.notzarla.com/it/guide"},{"@type":"ListItem","position":2,"name":"Esempi di siti web","item":"https://www.notzarla.com/it/guide/esempi-di-siti-web"},{"@type":"ListItem","position":3,"name":"Sanità e Assistenza Sociale","item":"https://www.notzarla.com/it/guide/esempi-di-siti-web/sanit%C3%A0-e-assistenza-sociale"},{"@type":"ListItem","position":4,"name":"Esempi di siti web di psicologi - 5 siti pensati per i pazienti","item":"https://www.notzarla.com/it/guide/esempi-di-siti-web-di-psicologi"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Esempi di siti web di psicologi - 5 siti pensati per i pazienti</h1><div
 class="card-body"><div
@@ -64,14 +64,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-emma-martinelli-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-emma-martinelli-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Emma Martinelli"
 /></div><div
 class="card-byline-details">
 <span>Di <a
-class="card-byline-author" href="https://www.zarla.com/it/contributors/emma-martinelli">Emma Martinelli</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/it/contributors/emma-martinelli">Emma Martinelli</a>,</span>
 <span
 class="card-byline-date">26 lug 2024</span><div
 class="card-byline-bio">
@@ -80,21 +80,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Uno psicologo nel suo studio di psicoterapia."
@@ -168,12 +168,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-gabriella-toscano-2024066-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-gabriella-toscano-2024066-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-gabriella-toscano-2024066-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-gabriella-toscano-2024066-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-gabriella-toscano-2024066-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-gabriella-toscano-2024066-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Dott.ssa Gabriella Toscano"
@@ -213,14 +213,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>WAVE mette in evidenza diversi errori di contrasto. Non vengono fornite informazioni sull'accessibilità per persone con disabilità. Il sito presenta qualche refuso e sono presenti due link invalidi nel carosello. Inoltre, alcune immagini sono prive di testo alternativo, essenziale per persone non vedenti e ipovedenti.</p></div></div></div><h4>Recensione desktop</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-gabriella-toscano-2024066-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-gabriella-toscano-2024066-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-gabriella-toscano-2024066-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-gabriella-toscano-2024066-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -234,14 +234,14 @@ height="50"
 /></div><div
 class="entry-text"><p>Il sito web, nella sua versione per desktop, offre un'ottima esperienza di navigazione. Ogni elemento si carica senza intoppi, una velocità confermata da PageSpeed Insights di Google, il quale assegna al sito web un punteggio di 90/100 in performance. La chiara divisione in categorie e il menu fisso, inoltre, agevolano ancora di più la navigazione.</p></div></div><h4>Recensione mobile</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-gabriella-toscano-2024066-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-gabriella-toscano-2024066-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-gabriella-toscano-2024066-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-gabriella-toscano-2024066-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -266,12 +266,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-rossana-raso-2024065-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-rossana-raso-2024065-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-rossana-raso-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-rossana-raso-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-rossana-raso-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-rossana-raso-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Dott.ssa Rossana Raso"
@@ -311,14 +311,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>Non vengono fornite informazioni sull'accessibilità allo studio per persone in sedia a rotelle. Due pulsanti del menu mancano di testo descrittivo, importante per le persone con difficoltà visive che usano lo screen reader. Alcuni testi trarrebbero beneficio da una diversa formattazione, ad esempio con l'uso del grassetto o di paragrafi più brevi.</p></div></div></div><h4>Recensione desktop</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-rossana-raso-2024065-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-rossana-raso-2024065-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-rossana-raso-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-rossana-raso-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -332,14 +332,14 @@ height="50"
 /></div><div
 class="entry-text"><p>Per quanto riguarda le prestazioni, PageSpeed Insights di Google assegna alla versione desktop del sito web un punteggio eccellente, di 99/100. Questo risultato viene riconfermato dall'esperienza reale di navigazione, infatti tutte le pagine vengono caricate fluidamente e senza intoppi. In generale, la navigazione si rivela agile: un riflesso dell'impaginazione e dell'organizzazione semplice e chiara del sito.</p></div></div><h4>Recensione mobile</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-rossana-raso-2024065-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-rossana-raso-2024065-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-rossana-raso-2024065-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-rossana-raso-2024065-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -364,12 +364,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-daniele-colombo-2024065-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-daniele-colombo-2024065-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-daniele-colombo-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-daniele-colombo-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-daniele-colombo-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-daniele-colombo-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Dott. Daniele Colombo"
@@ -409,14 +409,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>Non vengono fornite informazioni sull'accessibilità allo studio per le persone in sedia a rotelle. L'analisi effettuata da WAVE rivela alcuni errori tra cui diversi link ai social non funzionanti nel footer. Il testo iniziale della pagina "Chi sono" è poco leggibile poiché posizionato su una foto. La funzionalità "cerca" non dà risultati.</p></div></div></div><h4>Recensione desktop</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-daniele-colombo-2024065-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-daniele-colombo-2024065-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-daniele-colombo-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-daniele-colombo-2024065-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -430,14 +430,14 @@ height="50"
 /></div><div
 class="entry-text"><p>PageSpeed Insights di Google assegna alle prestazioni della versione desktop un buon punteggio, di 72/100. Infatti, durante la navigazione non si riscontrano problemi di caricamento nonostante la presenza di diverse foto e immagini. In generale, l'esperienza utente è buona, le informazioni sono facilmente reperibili e le sezioni tutte raggiungibili in maniera intuitiva.</p></div></div><h4>Recensione mobile</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-daniele-colombo-2024065-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-daniele-colombo-2024065-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-daniele-colombo-2024065-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-daniele-colombo-2024065-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -462,12 +462,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-elena-de-simone-2024065-desktop_2024-06-20-091934_uhdk.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-elena-de-simone-2024065-desktop_2024-06-20-091934_uhdk.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-elena-de-simone-2024065-desktop_2024-06-20-091934_uhdk.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-elena-de-simone-2024065-desktop_2024-06-20-091934_uhdk.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-elena-de-simone-2024065-desktop_2024-06-20-091934_uhdk.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-elena-de-simone-2024065-desktop_2024-06-20-091934_uhdk.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Dott.ssa Elena de Simone"
@@ -507,14 +507,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>Non vengono fornite informazioni circa l'accessibilità agli spazi dello studio per persone con disabilità. Le immagini dello studio potrebbero essere messe più in evidenza o avere dimensioni maggiori.</p></div></div></div><h4>Recensione desktop</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-elena-de-simone-2024065-desktop_2024-06-20-091934_uhdk.webp"
+data-src="https://www.notzarla.com/images/zarla-elena-de-simone-2024065-desktop_2024-06-20-091934_uhdk.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-elena-de-simone-2024065-desktop_2024-06-20-091934_uhdk.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-elena-de-simone-2024065-desktop_2024-06-20-091934_uhdk.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -528,14 +528,14 @@ height="50"
 /></div><div
 class="entry-text"><p>PageSpeed Insights di Google assegna alle prestazioni del sito un punteggio molto alto, di 98/100. Difatti, l'esperienza reale di navigazione conferma l'analisi: il sito carica tutte le sue parti rapidamente e con fluidità. La versione desktop è semplice da usare ed efficiente, ogni informazione è facilmente reperibile grazie a delle sezioni ben distinte e ben collegate.</p></div></div><h4>Recensione mobile</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-elena-de-simone-2024065-mobile_2024-06-20-092531_awth.webp"
+data-src="https://www.notzarla.com/images/zarla-elena-de-simone-2024065-mobile_2024-06-20-092531_awth.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-elena-de-simone-2024065-mobile_2024-06-20-092531_awth.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-elena-de-simone-2024065-mobile_2024-06-20-092531_awth.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -560,12 +560,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-flavia-febbraro-20240618-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-flavia-febbraro-20240618-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-flavia-febbraro-20240618-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-flavia-febbraro-20240618-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-flavia-febbraro-20240618-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-flavia-febbraro-20240618-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Dott.ssa Flavia Febbraro"
@@ -605,14 +605,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>In alcuni punti, specialmente nel modulo di contatto, la leggibilità potrebbe essere migliorata aumentando il contrasto tra sfondo e testo. La foto che fa da sfondo al modulo di contatto è sgranata.</p></div></div></div><h4>Recensione desktop</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-flavia-febbraro-20240618-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-flavia-febbraro-20240618-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-flavia-febbraro-20240618-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-flavia-febbraro-20240618-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -626,14 +626,14 @@ height="50"
 /></div><div
 class="entry-text"><p>Lo strumento PageSpeed Insights di Google assegna al sito web, nella sua versione per desktop, un voto di 89/100 per quanto riguarda le prestazioni. Un bel risultato che si conferma anche nell'esperienza di navigazione reale. Il sito, in generale, è facile da navigare, presenta un'ottima leggibilità in alcuni punti e una buona leggibilità in altri.</p></div></div><h4>Recensione mobile</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-flavia-febbraro-20240618-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-flavia-febbraro-20240618-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-flavia-febbraro-20240618-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-flavia-febbraro-20240618-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -661,68 +661,68 @@ class="container"><h2 class="section-heading">Articoli Correlati</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-per-psichiatri">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-per-psichiatri">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-psikiyatrist-logolar%C4%B1-3865x3759-20230326.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una psichiatra che scrive su un taccuino." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-psikiyatrist-logolar%C4%B1-3865x3759-20230326.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una psichiatra che scrive su un taccuino." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-per-psichiatri">Loghi per Psichiatri</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-per-psichiatri">Loghi per Psichiatri</a></h3><div
 class="card-text">10 idee per il logo di uno studio psichiatrico.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-laboratori">
+class="card-preview" href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-laboratori">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-esempi-di-siti-di-laboratori-5177x3456-20240624.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Due tecnici che lavorano in laboratorio." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-esempi-di-siti-di-laboratori-5177x3456-20240624.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Due tecnici che lavorano in laboratorio." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-laboratori">Esempi di siti web di laboratori - 5 siti perfetti per attirare clienti</a></h3><div
+href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-laboratori">Esempi di siti web di laboratori - 5 siti perfetti per attirare clienti</a></h3><div
 class="card-text">Consulta questi 5 siti web di laboratori, perfetti come esempi da cui prendere spunto per creare il tuo sito web.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-blog">
+class="card-preview" href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-blog">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una tastiera, un quaderno, un caffè macchiato e degli auricolari sulla scrivania di un blogger." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una tastiera, un quaderno, un caffè macchiato e degli auricolari sulla scrivania di un blogger." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-blog">Esempi di siti web di blog - 5 siti che sanno diffondere parole</a></h3><div
+href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-blog">Esempi di siti web di blog - 5 siti che sanno diffondere parole</a></h3><div
 class="card-text">Scopri come creare un blog di successo leggendo le nostre recensioni di 5 blog e i loro pro e contro.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-farmacie">
+class="card-preview" href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-farmacie">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-esempi-di-siti-web-di-farmacie-5969x3985-2024067.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="L&#039;interno di una farmacia ben illuminata." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-farmacie-5969x3985-2024067.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="L&#039;interno di una farmacia ben illuminata." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-farmacie">Esempi di siti web di farmacie - 5 siti che fanno un&#039;ottima pubblicità</a></h3><div
+href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-farmacie">Esempi di siti web di farmacie - 5 siti che fanno un&#039;ottima pubblicità</a></h3><div
 class="card-text">Questi 5 siti web di farmacie sono stati selezionati come buoni esempi da seguire per il loro design intuitivo e funzionale.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-consulenti">
+class="card-preview" href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-consulenti">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-esempio-sito-consulenti-5000x3333-20240618.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un gruppo di consulenti e clienti in un&#039;azienda di consulenza." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-esempio-sito-consulenti-5000x3333-20240618.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un gruppo di consulenti e clienti in un&#039;azienda di consulenza." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-consulenti">Esempi di siti web di consulenti - 5 recensioni di siti professionali</a></h3><div
-class="card-text">5 esempi di siti web per consulenti, aziende e società di consulenza che coniugano funzionalità e un design appropriato al servizio.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/it/guide/esempi-di-siti-web-di-psicologi","name":"Esempi di siti web di psicologi - 5 siti pensati per i pazienti"},"headline":"Esempi di siti web di psicologi - 5 siti pensati per i pazienti","description":"5 siti web di professionisti psicologi e psicoterapeuti da prendere come esempio per costruire il tuo sito.","image":["https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-06-03T08:59:00-05:00","dateModified":"2024-07-26T08:39:20-05:00","author":{"@type":"Person","name":"Emma Martinelli","url":"https://www.zarla.com/it/contributors/emma-martinelli"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-consulenti">Esempi di siti web di consulenti - 5 recensioni di siti professionali</a></h3><div
+class="card-text">5 esempi di siti web per consulenti, aziende e società di consulenza che coniugano funzionalità e un design appropriato al servizio.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/it/guide/esempi-di-siti-web-di-psicologi","name":"Esempi di siti web di psicologi - 5 siti pensati per i pazienti"},"headline":"Esempi di siti web di psicologi - 5 siti pensati per i pazienti","description":"5 siti web di professionisti psicologi e psicoterapeuti da prendere come esempio per costruire il tuo sito.","image":["https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-esempi-di-siti-web-di-psicologi.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-06-03T08:59:00-05:00","dateModified":"2024-07-26T08:39:20-05:00","author":{"@type":"Person","name":"Emma Martinelli","url":"https://www.notzarla.com/it/contributors/emma-martinelli"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -731,7 +731,7 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/it">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
@@ -742,7 +742,7 @@ class="col-md-6 col-lg-3 "><p
 class="footer-category">Risorse</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/it/guide/idee-per-loghi">
+href="https://www.notzarla.com/it/guide/idee-per-loghi">
 Idee per Loghi
 </a></li><li>
 <a
@@ -750,7 +750,7 @@ href="/it">
 Website Builder AI
 </a></li><li>
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito">
+href="https://www.notzarla.com/it/logo-maker-gratuito">
 Logo Maker Gratuito
 </a></li><li>
 <a
@@ -758,15 +758,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/it/termini-di-utilizzo">
+href="https://www.notzarla.com/it/termini-di-utilizzo">
 Termini di Utilizzo
 </a></li><li>
 <a
-href="https://www.zarla.com/it/norme-sul-copyright">
+href="https://www.notzarla.com/it/norme-sul-copyright">
 Norme sul Copyright
 </a></li><li>
 <a
-href="https://www.zarla.com/it/informativa-sulla-privacy">
+href="https://www.notzarla.com/it/informativa-sulla-privacy">
 Informativa sulla Privacy
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

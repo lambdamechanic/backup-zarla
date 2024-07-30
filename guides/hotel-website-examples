@@ -7,27 +7,27 @@ property="og:title" content="Hotel Website Examples - 5 Sites That Make Booking 
 property="og:description" content="5 boutique hotel websites that attract visitors with beautiful imagery and functional designs." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/guides/hotel-website-examples"><meta
+property="og:url" content="https://www.notzarla.com/guides/hotel-website-examples"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="en"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/guides/hotel-website-examples"><link
-rel="alternate" href="https://www.zarla.com/guides/hotel-website-examples" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/hotel-website-examples" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/otel-web-sitesi-%C3%B6rnekleri" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/contoh-website-hotel" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/guides/hotel-website-examples"><link
+rel="alternate" href="https://www.notzarla.com/guides/hotel-website-examples" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/hotel-website-examples" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/otel-web-sitesi-%C3%B6rnekleri" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/contoh-website-hotel" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="websiteExamples"><header
 class="header"><div
 class="container"><nav
@@ -36,10 +36,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/"
+href="https://www.notzarla.com/"
 class="btn btn-primary cta-nav
 "
 >
@@ -53,11 +53,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides">Guides</a></li><li
+href="https://www.notzarla.com/guides">Guides</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides/website-examples">Website Examples</a></li><li
+href="https://www.notzarla.com/guides/website-examples">Website Examples</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides/website-examples/accommodation-and-food-services">Accommodation and Food Services</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/guides"},{"@type":"ListItem","position":2,"name":"Website Examples","item":"https://www.zarla.com/guides/website-examples"},{"@type":"ListItem","position":3,"name":"Accommodation and Food Services","item":"https://www.zarla.com/guides/website-examples/accommodation-and-food-services"},{"@type":"ListItem","position":4,"name":"Hotel Website Examples - 5 Sites That Make Booking Easy","item":"https://www.zarla.com/guides/hotel-website-examples"}]}</script> <div
+href="https://www.notzarla.com/guides/website-examples/accommodation-and-food-services">Accommodation and Food Services</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.notzarla.com/guides"},{"@type":"ListItem","position":2,"name":"Website Examples","item":"https://www.notzarla.com/guides/website-examples"},{"@type":"ListItem","position":3,"name":"Accommodation and Food Services","item":"https://www.notzarla.com/guides/website-examples/accommodation-and-food-services"},{"@type":"ListItem","position":4,"name":"Hotel Website Examples - 5 Sites That Make Booking Easy","item":"https://www.notzarla.com/guides/hotel-website-examples"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Hotel Website Examples - 5 Sites That Make Booking Easy</h1><div
 class="card-body"><div
@@ -66,14 +66,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-simone-gambrell-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-simone-gambrell-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Simoné Gambrell"
 /></div><div
 class="card-byline-details">
 <span>By <a
-class="card-byline-author" href="https://www.zarla.com/contributors/simoné-gambrell">Simoné Gambrell</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/contributors/simoné-gambrell">Simoné Gambrell</a>,</span>
 <span
 class="card-byline-date">Jul 25, 2024</span><div
 class="card-byline-bio">
@@ -82,21 +82,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Outside view of a hotel with a pool and lounge chairs."
@@ -170,12 +170,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-hotelfusion-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-hotelfusion-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-hotelfusion-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-hotelfusion-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-hotelfusion-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-hotelfusion-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Hotel Fusion"
@@ -215,14 +215,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>Section headings are in a typeface that is difficult to read in the chosen color palette, limiting the legibility of the site. The site lacks any customer reviews or information on awards that may increase customer trust.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-hotelfusion-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-hotelfusion-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-hotelfusion-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-hotelfusion-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -236,14 +236,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site features a sticky top banner with prominent booking CTAs and a hamburger menu to aid navigation. The site is beautifully laid out with large images and smaller text blocks to draw attention to the hotel itself, and the abundant use of booking CTAs encourages customers.</p><p>The choice of light gray text on a white background creates a weak contrast that sometimes makes it difficult to read the text, especially with certain typefaces used. Google's PageSpeed Insights report awards the desktop site a performance score of 99/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-hotelfusion-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-hotelfusion-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-hotelfusion-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-hotelfusion-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -268,12 +268,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-hotel-finlen-3840x16382-20240624.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hotel-finlen-3840x16382-20240624.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-hotel-finlen-3840x16382-20240624.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hotel-finlen-3840x16382-20240624.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hotel-finlen-3840x16382-20240624.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hotel-finlen-3840x16382-20240624.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Hotel Finlen"
@@ -313,14 +313,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is non-compliant with assistive technologies, and WAVE reports a number of missing alternative text and contrast errors, where white text has been used over a yellow-orange background.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-hotel-finlen-3840x16382-20240624.webp"
+data-src="https://www.notzarla.com/images/zarla-hotel-finlen-3840x16382-20240624.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hotel-finlen-3840x16382-20240624.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hotel-finlen-3840x16382-20240624.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -334,14 +334,14 @@ height="50"
 /></div><div
 class="entry-text"><p>On the desktop site, the grid layout allows users to easily find all the information they need, from descriptions of the rooms and venues to information about the location and local events. The touch of yellow-orange shines, drawing attention to important information while adding that retro aesthetic.</p><p>It is simple for customers to book a room or check availability, as these features are highlighted on the site, but it is strange that users must first select the property before seeing the available rooms. While the yellow-orange does highlight important information, WAVE flags it as a contrast error, with the white text on this color background.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-finlen-mobile-824x13382-20240625.webp"
+data-src="https://www.notzarla.com/images/zarla-finlen-mobile-824x13382-20240625.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-finlen-mobile-824x13382-20240625.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-finlen-mobile-824x13382-20240625.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -366,12 +366,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-theplains-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-theplains-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-theplains-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-theplains-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-theplains-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-theplains-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website The Historic Plains Hotel"
@@ -411,14 +411,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is only semi-compliant with assistive technology and WAVE reports a number of missing alternative text, empty link, and contrast errors. The typeface is not consistent across the site.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-theplains-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-theplains-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-theplains-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-theplains-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -432,14 +432,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The clean design of the desktop website creates a contemporary look that contrasts the historic theme of the hotel itself. The grid pattern and the dual menus, both at the top and bottom of the page, make it easy for viewers to find the information they need. The images used are good quality and enticing, but the reservation CTA needs to be more prominent.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-theplains-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-theplains-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-theplains-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-theplains-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -464,12 +464,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-joule-hotel-desktop-3840x13783-20240625.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-joule-hotel-desktop-3840x13783-20240625.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-joule-hotel-desktop-3840x13783-20240625.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-joule-hotel-desktop-3840x13783-20240625.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-joule-hotel-desktop-3840x13783-20240625.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-joule-hotel-desktop-3840x13783-20240625.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website The Joule"
@@ -509,14 +509,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is only semi-compliant with assistive technologies. PageSpeed Insights reports that certain elements, such as images and text compression, can be improved for a simpler experience.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-joule-hotel-desktop-3840x13783-20240625.webp"
+data-src="https://www.notzarla.com/images/zarla-joule-hotel-desktop-3840x13783-20240625.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-joule-hotel-desktop-3840x13783-20240625.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-joule-hotel-desktop-3840x13783-20240625.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -530,14 +530,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop design shines with high-quality images and easy navigation that enhances user engagement. While the top menu offers a lot of pages to explore, the layout is clean and intuitive. Google's PageSpeed Insights report rates the desktop site highly, with scores in the 90s for best practices and accessibility, and a performance score of 88/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-thejoule-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-thejoule-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-thejoule-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-thejoule-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -562,12 +562,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-cyrus-hotel-desktop-3840x15584-20240625.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-cyrus-hotel-desktop-3840x15584-20240625.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-cyrus-hotel-desktop-3840x15584-20240625.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-cyrus-hotel-desktop-3840x15584-20240625.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-cyrus-hotel-desktop-3840x15584-20240625.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-cyrus-hotel-desktop-3840x15584-20240625.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Cyrus Hotel"
@@ -607,14 +607,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is blocked on WAVE and is only semi-compliant with assistive technologies. Some inconsistencies in the background design of the site impact the professional appearance that is otherwise conveyed in this web design.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-cyrus-hotel-desktop-3840x15584-20240625.webp"
+data-src="https://www.notzarla.com/images/zarla-cyrus-hotel-desktop-3840x15584-20240625.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-cyrus-hotel-desktop-3840x15584-20240625.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-cyrus-hotel-desktop-3840x15584-20240625.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -628,14 +628,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site has a simple UX but is quite info-dense with a lot of pages on the menu having their own drop-down menus to navigate. The text is kept short and to the point, with an enticing gallery of photos. However, the room descriptions could use more images of the rooms themselves.</p><p>The site is inconsistent with an argyle-patterned block on the left top corner of only some pages. It also appears that the booking system is currently glitching, with visitors unable to change the prospective booking dates. Trust symbols in the form of an award and customer reviews are a nice touch.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-cyrushotel-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-cyrushotel-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-cyrushotel-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-cyrushotel-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -681,68 +681,68 @@ class="container"><h2 class="section-heading">Related Articles</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/hotel-logos">
+class="card-preview" href="https://www.notzarla.com/guides/hotel-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-hotel-logo-2400x2400-20211117.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A dark building with a glowing hotel sign." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-hotel-logo-2400x2400-20211117.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A dark building with a glowing hotel sign." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/hotel-logos">Hotel Logos</a></h3><div
+href="https://www.notzarla.com/guides/hotel-logos">Hotel Logos</a></h3><div
 class="card-text">10 luxury logo suggestions for your hotel business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/pet-hotel-logos">
+class="card-preview" href="https://www.notzarla.com/guides/pet-hotel-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-pet-hotel-logos-2400x2400-20230824.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Brown dog holding a bottle of water relaxing on a bed in a pet hotel." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-pet-hotel-logos-2400x2400-20230824.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Brown dog holding a bottle of water relaxing on a bed in a pet hotel." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/pet-hotel-logos">Pet Hotel Logos</a></h3><div
+href="https://www.notzarla.com/guides/pet-hotel-logos">Pet Hotel Logos</a></h3><div
 class="card-text">10 friendly logo ideas for your pet hotel.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/guesthouse-logos">
+class="card-preview" href="https://www.notzarla.com/guides/guesthouse-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-guesthouse-logos-7781x5190-20230103-DE.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A guesthouse." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-guesthouse-logos-7781x5190-20230103-DE.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A guesthouse." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/guesthouse-logos">Guesthouse Logos</a></h3><div
+href="https://www.notzarla.com/guides/guesthouse-logos">Guesthouse Logos</a></h3><div
 class="card-text">10 inviting logo ideas for your guesthouse.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/motel-logos">
+class="card-preview" href="https://www.notzarla.com/guides/motel-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-motel-logos-5000x3881-20230522.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Red and white motel sign." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-motel-logos-5000x3881-20230522.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Red and white motel sign." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/motel-logos">Motel Logos</a></h3><div
+href="https://www.notzarla.com/guides/motel-logos">Motel Logos</a></h3><div
 class="card-text">10 enticing logo ideas for your motel.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/hospitality-logos">
+class="card-preview" href="https://www.notzarla.com/guides/hospitality-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logos-para-hospitalidad-4896x3264-2022052.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A tropical hospitality business backlit by a beautiful sunset." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-logos-para-hospitalidad-4896x3264-2022052.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A tropical hospitality business backlit by a beautiful sunset." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/hospitality-logos">Hospitality Logos</a></h3><div
-class="card-text">20 inviting logos for your hospitality business.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/guides/hotel-website-examples","name":"Hotel Website Examples - 5 Sites That Make Booking Easy"},"headline":"Hotel Website Examples - 5 Sites That Make Booking Easy","description":"5 boutique hotel websites that attract visitors with beautiful imagery and functional designs.","image":["https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-04-23T01:39:00-05:00","dateModified":"2024-07-25T11:24:33-05:00","author":{"@type":"Person","name":"Simoné Gambrell","url":"https://www.zarla.com/contributors/simoné-gambrell"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/guides/hospitality-logos">Hospitality Logos</a></h3><div
+class="card-text">20 inviting logos for your hospitality business.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/guides/hotel-website-examples","name":"Hotel Website Examples - 5 Sites That Make Booking Easy"},"headline":"Hotel Website Examples - 5 Sites That Make Booking Easy","description":"5 boutique hotel websites that attract visitors with beautiful imagery and functional designs.","image":["https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-hotel-website-examples-4032x2688-20240513.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-04-23T01:39:00-05:00","dateModified":"2024-07-25T11:24:33-05:00","author":{"@type":"Person","name":"Simoné Gambrell","url":"https://www.notzarla.com/contributors/simoné-gambrell"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -751,32 +751,32 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Language</p><ul
 class="footer-menu list-unstyled"><li
 class="current" style="color: #3041c4;">English</li><li><a
-href="https://www.zarla.com/tr/rehberler/otel-web-sitesi-%C3%B6rnekleri">Türkçe</a></li><li><a
-href="https://www.zarla.com/id/panduan/contoh-website-hotel">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/tr/rehberler/otel-web-sitesi-%C3%B6rnekleri">Türkçe</a></li><li><a
+href="https://www.notzarla.com/id/panduan/contoh-website-hotel">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Resources</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/guides/logo-ideas">
+href="https://www.notzarla.com/guides/logo-ideas">
 Logo Ideas
 </a></li><li>
 <a
-href="https://www.zarla.com/">
+href="https://www.notzarla.com/">
 AI Website Builder
 </a></li><li>
 <a
-href="https://www.zarla.com/free-logo-maker">
+href="https://www.notzarla.com/free-logo-maker">
 Free Logo Maker
 </a></li><li>
 <a
-href="https://www.zarla.com/guides/how-to">
+href="https://www.notzarla.com/guides/how-to">
 How To
 </a></li><li>
 <a
@@ -784,15 +784,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/terms-of-use">
+href="https://www.notzarla.com/terms-of-use">
 Terms of Use
 </a></li><li>
 <a
-href="https://www.zarla.com/copyright-policy">
+href="https://www.notzarla.com/copyright-policy">
 Copyright Policy
 </a></li><li>
 <a
-href="https://www.zarla.com/privacy-policy">
+href="https://www.notzarla.com/privacy-policy">
 Privacy Policy
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

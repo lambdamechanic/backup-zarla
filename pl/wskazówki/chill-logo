@@ -7,34 +7,34 @@ property="og:title" content="Chill logo + Darmowy Kreator Logo" /><meta
 property="og:description" content="20 casualowych projektów chill logo dla twojej firmy." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/pl/wskaz%C3%B3wki/chill-logo"><meta
+property="og:url" content="https://www.notzarla.com/pl/wskaz%C3%B3wki/chill-logo"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="pl-PL"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/pl/wskaz%C3%B3wki/chill-logo"><link
-rel="alternate" href="https://www.zarla.com/guides/chill-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/chill-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-relajados" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-rilassati" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-relaxes" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/entspannte-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-descontra%C3%ADdos" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/chill-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/rahat-logolar" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/chill-logo" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-chill" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/chill-logo"><link
+rel="alternate" href="https://www.notzarla.com/guides/chill-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/chill-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-relajados" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-rilassati" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-relaxes" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/entspannte-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-descontra%C3%ADdos" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/chill-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/rahat-logolar" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/chill-logo" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-chill" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/pl">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo"
+href="https://www.notzarla.com/pl/darmowy-kreator-logo"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki">Wskazówki</a></li><li
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki">Wskazówki</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo">Projekty Logo</a></li><li
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo">Projekty Logo</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/wed%C5%82ug-rodzaju">Według Rodzaju</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Wskazówki","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki"},{"@type":"ListItem","position":2,"name":"Projekty Logo","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo"},{"@type":"ListItem","position":3,"name":"Według Rodzaju","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/wed%C5%82ug-rodzaju"},{"@type":"ListItem","position":4,"name":"Chill logo + Darmowy Kreator Logo","item":"https://www.zarla.com/pl/wskaz%C3%B3wki/chill-logo"}]}</script> <div
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo/wed%C5%82ug-rodzaju">Według Rodzaju</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Wskazówki","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki"},{"@type":"ListItem","position":2,"name":"Projekty Logo","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo"},{"@type":"ListItem","position":3,"name":"Według Rodzaju","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo/wed%C5%82ug-rodzaju"},{"@type":"ListItem","position":4,"name":"Chill logo + Darmowy Kreator Logo","item":"https://www.notzarla.com/pl/wskaz%C3%B3wki/chill-logo"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Chill logo + Darmowy Kreator Logo</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-natalia-smigielska-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-natalia-smigielska-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Natalia Śmigielska"
 /></div><div
 class="card-byline-details">
 <span> <a
-class="card-byline-author" href="https://www.zarla.com/pl/współautorzy/natalia-śmigielska">Natalia Śmigielska</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/pl/współautorzy/natalia-śmigielska">Natalia Śmigielska</a>,</span>
 <span
 class="card-byline-date">21 lut 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Dwóch chłopaków chillujących na dachu czerwonego, retro vana."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Chill logo emanują aurą młodzieżowego luzu i niewymuszonego szyku – to idealny wybór dla przystępnej marki, która kieruje swoją ofertę do młodej grupy docelowej. Zadbaj, by twój projekt nie wyglądał zbyt poważnie – osiągniesz to z pomocą casualowych czcionek i przyjaznych barw. Zobacz nasze propozycje poniżej lub użyj <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">darmowego kreatora chill logo</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">darmowego kreatora chill logo</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,246 +120,246 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Opis</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/4q8ry678rvh9f8mgkxrr/edit?brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/4q8ry678rvh9f8mgkxrr/edit?brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-4q8ry678rvh9f8mgkxrr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-4q8ry678rvh9f8mgkxrr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/4q8ry678rvh9f8mgkxrr/edit?brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/4q8ry678rvh9f8mgkxrr/edit?brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Tropikalny krajobraz sprawia wrażenie, jakby był niesiony przez fale – ta grafika zapowiada błogi relaks nad morzem, dlatego świetnie sprawdzi się w logo firmy z branży turystycznej. Różne odcienie niebieskiego idealnie dopełniają motyw projektu, jednocześnie wskazując na biznes godny zaufania. Kształtna, retro czcionka Righteous emanuje aurą spokoju.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/btwtgtwykr3wdk3kcpgk/edit?industry=Acai%20Bowl&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/btwtgtwykr3wdk3kcpgk/edit?industry=Acai%20Bowl&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-btwtgtwykr3wdk3kcpgk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-btwtgtwykr3wdk3kcpgk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/btwtgtwykr3wdk3kcpgk/edit?industry=Acai%20Bowl&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/btwtgtwykr3wdk3kcpgk/edit?industry=Acai%20Bowl&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Energetyzujący pomarańcz to barwa młodości, optymizmu oraz ducha przygody – idealnie wpisuje się w chill motyw projektu. Dynamiczna ikona owoców wpadających do miski świetnie wypromuje lokal z wegańską kuchnią lub odświeżającymi deserami, jak acai bowl. Inspirowany casualowym pismem odręcznym font Mali przyciągnie uwagę twojej grupy docelowej.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jfbft66y6b4h3pxfymfx/edit?industry=Photography&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/jfbft66y6b4h3pxfymfx/edit?industry=Photography&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-jfbft66y6b4h3pxfymfx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-jfbft66y6b4h3pxfymfx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jfbft66y6b4h3pxfymfx/edit?industry=Photography&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/jfbft66y6b4h3pxfymfx/edit?industry=Photography&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Przystępna czcionka Barlow gwarantuje, że nazwa twojej firmy będzie łatwa do odczytania, nawet w mniejszych formatach. Śliczna ikona aparatu z obiektywem w kształcie serca zakomunikuje odbiorcom, że fotografia to twoja pasja – będzie fajnym pomysłem dla artysty pracującego z parami. Gustowny grafit nadaje kompozycji profesjonalny wygląd.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/ckqtqymf3rb9vcxwdtjb/edit?industry=Bubble%20Tea&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/ckqtqymf3rb9vcxwdtjb/edit?industry=Bubble%20Tea&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-ckqtqymf3rb9vcxwdtjb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-ckqtqymf3rb9vcxwdtjb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/ckqtqymf3rb9vcxwdtjb/edit?industry=Bubble%20Tea&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/ckqtqymf3rb9vcxwdtjb/edit?industry=Bubble%20Tea&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Grafika dłoni trzymającej kubek na wynos, wyeksponowana na tle kontrastującego koła, świetnie wypromuje lokal z odświeżającymi napojami, np. juice bar lub modną kawiarnię. Pękata, młodzieżowa czcionka Luckiest Guy fajnie uwydatni chill atmosferę twojego sklepu, a soczysta, arbuzowa czerwień przyciągnie wzrok potencjalnych klientów.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/89hv3bxx7tqqg9kcxyhv/edit?industry=Florist&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/89hv3bxx7tqqg9kcxyhv/edit?industry=Florist&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-89hv3bxx7tqqg9kcxyhv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-89hv3bxx7tqqg9kcxyhv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/89hv3bxx7tqqg9kcxyhv/edit?industry=Florist&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/89hv3bxx7tqqg9kcxyhv/edit?industry=Florist&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Wiosenna zieleń to kolor flory, zdrowia oraz ekologii – fantastycznie wypromuje najróżniejsze marki działające w zgodzie z naturą lub wykorzystujące jej drogocenne dary. Subtelna ikona polnych kwiatów pięknie zaprezentuje się m.in. na opakowaniach produktów. Imitująca pismo odręczne czcionka Amatica SC świetnie uwydatnia przystępny wygląd logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7cgbpwj8mvdqmc7mwg8x/edit?industry=Hair%20Salon&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/7cgbpwj8mvdqmc7mwg8x/edit?industry=Hair%20Salon&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-7cgbpwj8mvdqmc7mwg8x.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-7cgbpwj8mvdqmc7mwg8x.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7cgbpwj8mvdqmc7mwg8x/edit?industry=Hair%20Salon&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/7cgbpwj8mvdqmc7mwg8x/edit?industry=Hair%20Salon&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Pełna gracji czcionka Cardo w szykownym graficie tworzy fajny kontrast z przebojową grafiką. Kobieta w kapeluszu z szerokim rondem emanuje młodzieżowym urokiem i niewymuszonym stylem – świetnie wypromuje markę dedykowaną pewnym siebie dziewczynom. Soczysty pomarańcz przywodzi na myśl ducha przygody, pozytywną energię oraz letni <em>chill out</em>.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/t9yqh9hjm4c8ym33v3gj/edit?industry=Food%20Truck&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/t9yqh9hjm4c8ym33v3gj/edit?industry=Food%20Truck&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-t9yqh9hjm4c8ym33v3gj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-t9yqh9hjm4c8ym33v3gj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/t9yqh9hjm4c8ym33v3gj/edit?industry=Food%20Truck&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/t9yqh9hjm4c8ym33v3gj/edit?industry=Food%20Truck&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Obrazowa ikona food trucka nie pozostawi wątpliwości co do specjalizacji twojego biznesu – w połączeniu z ponadczasowo modną czernią tła, kojarzoną z ekskluzywnością i wartymi odkrycia sekretami, wskaże na perełkę wśród lokalnych gastrobarów. Casualowa, pogrubiona czcionka Enriqueta zasugeruje chillową atmosferę lokalu oraz przyjazną obsługę.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/8tqjw87b88gy4d48h846/edit?industry=Music&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/8tqjw87b88gy4d48h846/edit?industry=Music&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-8tqjw87b88gy4d48h846.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-8tqjw87b88gy4d48h846.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/8tqjw87b88gy4d48h846/edit?industry=Music&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/8tqjw87b88gy4d48h846/edit?industry=Music&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Głęboki kolor karminowy przywodzi na myśl pasję oraz silne emocje – świetnie wpisuje się w muzyczny motyw projektu. Pogrubiona, wydatna czcionka Anton emanuje aurą profesjonalizmu, co zasugeruje solidną jakość twojego asortymentu. Ikona minimalistycznych, bezprzewodowych słuchawek wskazuje na ofertę modnych, funkcjonalnych akcesoriów.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/kwtf9fq6xr8pxqwf6gw7/edit?industry=Animal&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/kwtf9fq6xr8pxqwf6gw7/edit?industry=Animal&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-kwtf9fq6xr8pxqwf6gw7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-kwtf9fq6xr8pxqwf6gw7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/kwtf9fq6xr8pxqwf6gw7/edit?industry=Animal&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/kwtf9fq6xr8pxqwf6gw7/edit?industry=Animal&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Pękata, niebanalna czcionka Fredoka One wykorzystuje jedynie małe litery, co nada nazwie twojej firmy młodzieżowego, casualowego wyglądu. Błękit – barwa beztroski i relaksu – świetnie odzwierciedla ideę życia, w którym nie brakuje czasu na <em>chill out</em>. Urocza, linearna ikona kota i psa sugeruje markę dedykowaną najlepszym przyjaciołom człowieka.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/g6jt7wxhbcgjdhxmk3mh/edit?industry=Ice%20Cream&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/g6jt7wxhbcgjdhxmk3mh/edit?industry=Ice%20Cream&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-g6jt7wxhbcgjdhxmk3mh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-g6jt7wxhbcgjdhxmk3mh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/g6jt7wxhbcgjdhxmk3mh/edit?industry=Ice%20Cream&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/g6jt7wxhbcgjdhxmk3mh/edit?industry=Ice%20Cream&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Fajna ikona orzeźwiającego deseru nie pozostawi wątpliwości co do specjalizacji twojego biznesu. Minimalistyczny styl grafiki nadaje logo nowoczesnego wyglądu oraz świetnie współgra z ostrym kontrastem bieli i złocistego pomarańczu – symbolu entuzjazmu, pozytywnej energii i żądzy przygód. Przyjazny font Signika idealnie dopełnia ten kuszący design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/hhtyrk93xwchyc9rgmmw/edit?industry=Florist&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/hhtyrk93xwchyc9rgmmw/edit?industry=Florist&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-hhtyrk93xwchyc9rgmmw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-hhtyrk93xwchyc9rgmmw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/hhtyrk93xwchyc9rgmmw/edit?industry=Florist&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/hhtyrk93xwchyc9rgmmw/edit?industry=Florist&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Miłe dla oka duo truskawkowej czerwieni i pastelowego różu przywodzi na myśl przyjemną, relaksującą atmosferę oraz przyjaźń – świetnie sprawdzi się w brandingu marki, która dba o budowanie silnych więzi z klientami. Piękny, egzotyczny kwiat i inspirowana pismem odręcznym czcionka Amatica SC mogą sugerować działalność rzemieślniczą, np. kwiaciarnię.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/w8rq99b33qhqtwtjxjhv/edit?brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/w8rq99b33qhqtwtjxjhv/edit?brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-w8rq99b33qhqtwtjxjhv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-w8rq99b33qhqtwtjxjhv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/w8rq99b33qhqtwtjxjhv/edit?brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/w8rq99b33qhqtwtjxjhv/edit?brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Pękata, przyjazna czcionka Baloo wskazuje na przystępną markę, dedykowaną szerokiej grupie docelowej. Pad do gry przyjmujący formę okularów VR – wyłaniających się spod potarganej czupryny – sugeruje, że specjalizujesz się w branży gamingowej. Granatowe tło symbolizuje wysoką jakość, a soczysty oranż – żądzę przygód i intensywne emocje.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/c99qhyrvypxb3pq39xpw/edit?industry=Donut&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/c99qhyrvypxb3pq39xpw/edit?industry=Donut&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-c99qhyrvypxb3pq39xpw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-c99qhyrvypxb3pq39xpw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/c99qhyrvypxb3pq39xpw/edit?industry=Donut&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/c99qhyrvypxb3pq39xpw/edit?industry=Donut&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Kusząca ikona donuta z polewą i posypką rozbudzi apetyt wszystkich łasuchów, bez względu na wiek. Casualowa czcionka Mali, inspirowana pismem odręcznym dziecka, emanuje beztroską, optymistyczną energią, co świetnie uwydatnia rozweselające właściwości słodyczy. Duo czerwieni i landrynkowego różu przywodzi na myśl owocowe nadzienie i słodki lukier.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wcrdccdtt8hp4pf8x6c9/edit?industry=Swimwear&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/wcrdccdtt8hp4pf8x6c9/edit?industry=Swimwear&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-wcrdccdtt8hp4pf8x6c9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-wcrdccdtt8hp4pf8x6c9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wcrdccdtt8hp4pf8x6c9/edit?industry=Swimwear&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/wcrdccdtt8hp4pf8x6c9/edit?industry=Swimwear&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Szykowny granat to barwa głębokiego oceanu oraz świetnej jakości – pięknie zaprezentuje się w stylowym brandingu. Ikona zrelaksowanej, pewnej siebie kobiety w kostiumie kąpielowym wskazuje na ofertę plażowych <em>must-haves</em>, które trafią w gusta szerokiej grupy klientek. Pełna gracji czcionka Cardo idealnie dopełnia ten modny projekt.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/8mc9fm9kcmkb3dxhtgmf/edit?brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/8mc9fm9kcmkb3dxhtgmf/edit?brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-8mc9fm9kcmkb3dxhtgmf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-8mc9fm9kcmkb3dxhtgmf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/8mc9fm9kcmkb3dxhtgmf/edit?brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/8mc9fm9kcmkb3dxhtgmf/edit?brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Prosta, pogrubiona czcionka Oswald skutecznie wyeksponuje nazwę twojej marki, gwarantując, że będzie łatwa do odczytania nawet w mniejszych formatach i z większych odległości. Kolor szafirowy symbolizuje profesjonalizm i rzetelność, a intensywny oranż oraz promienny motyw słońca przywodzą na myśl wakacyjny <em>chill out</em> oraz pozytywną energię.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/d3cfqrfwkdbv6v4ddt7x/edit?brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/d3cfqrfwkdbv6v4ddt7x/edit?brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-d3cfqrfwkdbv6v4ddt7x.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-d3cfqrfwkdbv6v4ddt7x.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/d3cfqrfwkdbv6v4ddt7x/edit?brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/d3cfqrfwkdbv6v4ddt7x/edit?brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Dłoń ułożona w gest <em>diabelskich rogów</em> to popularny symbol wśród fanów heavy metalu, co może wskazywać na działalność z branży rozrywkowej, np. bar z muzyką na żywo lub fajny podcast. Ciekawy, soczysty odcień fioletu przywodzi na myśl kreatywność, optymizm oraz intensywne emocje – pomoże ci wyróżnić się na tle konkurencji.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/ktx7xpd34ppmfcgh476w/edit?industry=Swimwear&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/ktx7xpd34ppmfcgh476w/edit?industry=Swimwear&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-ktx7xpd34ppmfcgh476w.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-ktx7xpd34ppmfcgh476w.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/ktx7xpd34ppmfcgh476w/edit?industry=Swimwear&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/ktx7xpd34ppmfcgh476w/edit?industry=Swimwear&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Kolor złoty to barwa wyjątkowej jakości oraz prestiżu – wspaniale zaprezentuje się w logo marki z luksusową ofertą. Atrakcyjna ikona egzotycznej rośliny przywodzi na myśl wakacje w tropikach oraz relaksujące właściwości obcowania z przyrodą. Zgrabna, czarna czcionka Caudex łączy klasyczną formę z czarującymi, bardziej casualowymi detalami.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/brcrgyjxchk6rwvjjftr/edit?industry=Acrylic%20Nails&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/brcrgyjxchk6rwvjjftr/edit?industry=Acrylic%20Nails&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-brcrgyjxchk6rwvjjftr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-brcrgyjxchk6rwvjjftr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/brcrgyjxchk6rwvjjftr/edit?industry=Acrylic%20Nails&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/brcrgyjxchk6rwvjjftr/edit?industry=Acrylic%20Nails&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Inspirowana stylem art deco, retro czcionka Federo dodaje temu logo nutę ponadczasowej elegancji, co świetnie kontrastuje z odważną kolorystyką i fajną grafiką. Ikona klasycznego manicure wskazuje na usługi stylistki paznokci, a motyw serca i głęboka czerwień – symbol miłości – sugerują, że efekty twojej pracy wprawią klientki w zachwyt.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/hbmdwt966cmfrm846qg3/edit?industry=DJ&amp;brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/hbmdwt966cmfrm846qg3/edit?industry=DJ&amp;brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-hbmdwt966cmfrm846qg3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-hbmdwt966cmfrm846qg3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/hbmdwt966cmfrm846qg3/edit?industry=DJ&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/hbmdwt966cmfrm846qg3/edit?industry=DJ&amp;brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Ikona płyty winylowej, nad którą ukazuje się obraz fali z korektora dynamicznego, wskazuje na biznes z branży muzycznej lub rozrywkowej, np. klub nocny lub DJ-a. Ciemna paleta barw łącząca tajemniczą czerń i nowoczesny grafit idealnie wpisuje się w motyw wieczornych wypadów na miasto, a futurystyczny font Aldrich sugeruje progresywne brzmienie.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/66ybw9jdrg86v99tgf9m/edit?brand=Czas%20na%20Chill">
+href="https://www.notzarla.com/logo-maker/66ybw9jdrg86v99tgf9m/edit?brand=Czas%20na%20Chill">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-66ybw9jdrg86v99tgf9m.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
+data-src="https://www.notzarla.com/images/zarla-czas-na-chill-1x1-2400x2400-20230730-66ybw9jdrg86v99tgf9m.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Chill logo dla firmy o nazwie Czas na Chill.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/66ybw9jdrg86v99tgf9m/edit?brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/66ybw9jdrg86v99tgf9m/edit?brand=Czas%20na%20Chill" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Modna ikona sneakersa oraz efektowne duo granatu – barwy solidnej jakości – i oranżu, symbolizującego dynamikę oraz młodość, przywodzi na myśl ofertę akcesoriów, które sprawdzą się równie dobrze do uprawiania sportu, jak i jako dodatek do looków w stylu <em>street</em>. Szykowna czcionka Cinzel Decorative fajnie kontrastuje z młodzieżową grafiką.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/hipsterskie-logo">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/hipsterskie-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-hipster-logos-3024x4032-20230212.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Hipsterskie logo" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-hipster-logos-3024x4032-20230212.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Hipsterskie logo" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/hipsterskie-logo">Hipsterskie logo</a></p><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/hipsterskie-logo">Hipsterskie logo</a></p><div
 class="card-text">20 artystycznych projektów hipsterskich logo dla twojej firmy.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=faq class="section-heading">FAQ:</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=jak-stworzyc-wlasne-chill-logo class="question">Jak stworzyć własne chill logo?</h3><div
 class="answer"><ol><li>Zdefiniuj specjalizację i wartości swojej marki.</li><li>Zrób research istniejących chill logo, aby zidentyfikować interesujące elementy, które nadają im casualowego wyglądu.</li><li>Użyj <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">generatora logo</a>, by stworzyć kilka fajnych kompozycji.</li><li>Przetestuj różne zestawienia modnych ikon, przyjaznych barw oraz przystępnych czcionek.</li><li>Porównaj gotowe kompozycje, a następnie pobierz swoją ulubioną.</li></ol></div></div><div
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">generatora logo</a>, by stworzyć kilka fajnych kompozycji.</li><li>Przetestuj różne zestawienia modnych ikon, przyjaznych barw oraz przystępnych czcionek.</li><li>Porównaj gotowe kompozycje, a następnie pobierz swoją ulubioną.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=skad-pobrac-darmowe-chill-logo class="question">Skąd pobrać darmowe chill logo?</h3><div
 class="answer"><p>Możesz stworzyć, edytować i pobrać darmowe chill logo na Zarla. Wystarczy, że klikniesz „Edytuj” pod jednym z <a
 href="#pomysly-na-chill-logo">naszych projektów</a> lub użyjesz naszego kreatora logo.</p></div></div><div
@@ -372,68 +372,68 @@ class="container"><h2 class="section-heading">Podobne Treści</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-w-stylu-boho">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-w-stylu-boho">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-boho-logos-4253x2830-20211022.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Kobieta z wiankiem z kwiatów ubrana w stylu boho." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-boho-logos-4253x2830-20211022.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Kobieta z wiankiem z kwiatów ubrana w stylu boho." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-w-stylu-boho">Logo w stylu boho</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-w-stylu-boho">Logo w stylu boho</a></h3><div
 class="card-text">20 artystycznych projektów logo w stylu boho dla twojej firmy.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/spokojne-logo">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/spokojne-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-calm-logos-5829x3886-2021107.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Zrelaksowana kobieta siedząca na spokojnej plaży." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-calm-logos-5829x3886-2021107.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Zrelaksowana kobieta siedząca na spokojnej plaży." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/spokojne-logo">Spokojne logo</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/spokojne-logo">Spokojne logo</a></h3><div
 class="card-text">20 pięknych projektów spokojnych logo dla firm z przeróżnych branż.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/pla%C5%BCowe-logo">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/pla%C5%BCowe-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-beachy-logos-4619x3071-20230128.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Plaża i morze o zachodzie słońca." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-beachy-logos-4619x3071-20230128.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Plaża i morze o zachodzie słońca." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/pla%C5%BCowe-logo">Plażowe logo</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/pla%C5%BCowe-logo">Plażowe logo</a></h3><div
 class="card-text">20 cool projektów logo z plażowym motywem dla twojego biznesu.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-podcast">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-podcast">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Dwóch mężczyzn nagrywających podcast w profesjonalnym studiu." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Dwóch mężczyzn nagrywających podcast w profesjonalnym studiu." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-podcast">Logo dla podcastu</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-podcast">Logo dla podcastu</a></h3><div
 class="card-text">10 ciekawych projektów logo dla twojego podcastu.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-dla-beach-baru">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-dla-beach-baru">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-beach-bar-logos-3024x4032-20221025.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Beach bar nad morzem." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-beach-bar-logos-3024x4032-20221025.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Beach bar nad morzem." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-dla-beach-baru">Logo dla beach baru</a></h3><div
-class="card-text">10 słonecznych projektów logo dla twojego beach baru.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/pl/wskaz%C3%B3wki/chill-logo","name":"Chill logo + Darmowy Kreator Logo"},"headline":"Chill logo + Darmowy Kreator Logo","description":"20 casualowych projektów chill logo dla twojej firmy.","image":["https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-10-05T04:07:00-05:00","dateModified":"2024-02-21T11:07:36-06:00","author":{"@type":"Person","name":"Natalia Śmigielska","url":"https://www.zarla.com/pl/współautorzy/natalia-śmigielska"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-dla-beach-baru">Logo dla beach baru</a></h3><div
+class="card-text">10 słonecznych projektów logo dla twojego beach baru.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/pl/wskaz%C3%B3wki/chill-logo","name":"Chill logo + Darmowy Kreator Logo"},"headline":"Chill logo + Darmowy Kreator Logo","description":"20 casualowych projektów chill logo dla twojej firmy.","image":["https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-chill-logos-3222x4027-20211005.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-10-05T04:07:00-05:00","dateModified":"2024-02-21T11:07:36-06:00","author":{"@type":"Person","name":"Natalia Śmigielska","url":"https://www.notzarla.com/pl/współautorzy/natalia-śmigielska"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -442,27 +442,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/pl">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Język</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/chill-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-relajados">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-rilassati">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-relaxes">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/entspannte-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-descontra%C3%ADdos">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/chill-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/rahat-logolar">Türkçe</a></li><li
+href="https://www.notzarla.com/guides/chill-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-relajados">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-rilassati">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-relaxes">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/entspannte-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-descontra%C3%ADdos">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/chill-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/rahat-logolar">Türkçe</a></li><li
 class="current" style="color: #3041c4;">Polski</li><li><a
-href="https://www.zarla.com/id/panduan/logo-chill">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/id/panduan/logo-chill">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Zasoby</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/projekty-logo">
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/projekty-logo">
 Projekty Logo
 </a></li><li>
 <a
@@ -470,7 +470,7 @@ href="/pl">
 Kreator stron internetowych AI
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">
 Darmowy kreator logo
 </a></li><li>
 <a
@@ -478,15 +478,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/regulamin">
+href="https://www.notzarla.com/pl/regulamin">
 Regulamin
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/polityka-praw-autorskich">
+href="https://www.notzarla.com/pl/polityka-praw-autorskich">
 Polityka Praw Autorskich
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/polityka-prywatno%C5%9Bci">
+href="https://www.notzarla.com/pl/polityka-prywatno%C5%9Bci">
 Polityka Prywatności
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -494,7 +494,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pl-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/pl/darmowy-kreator-logo?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pl-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Zacznij projektować własne logo

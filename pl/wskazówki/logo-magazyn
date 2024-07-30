@@ -7,34 +7,34 @@ property="og:title" content="Logo: Magazyn + Darmowy Kreator Logo" /><meta
 property="og:description" content="15 modnych projektów logo dla twojego magazynu." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-magazyn"><meta
+property="og:url" content="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-magazyn"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="pl-PL"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-magazyn"><link
-rel="alternate" href="https://www.zarla.com/guides/magazine-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/magazine-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-revistas" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-per-riviste" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-de-magazine" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/magazin-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-para-revistas" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/tijdschrift-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/dergi-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-magazyn" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-majalah" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-magazyn"><link
+rel="alternate" href="https://www.notzarla.com/guides/magazine-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/magazine-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-revistas" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-per-riviste" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-de-magazine" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/magazin-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-para-revistas" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/tijdschrift-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/dergi-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-magazyn" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-majalah" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/pl">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo"
+href="https://www.notzarla.com/pl/darmowy-kreator-logo"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki">Wskazówki</a></li><li
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki">Wskazówki</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo">Projekty Logo</a></li><li
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo">Projekty Logo</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/media-i-komunikacja">Media i Komunikacja</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Wskazówki","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki"},{"@type":"ListItem","position":2,"name":"Projekty Logo","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo"},{"@type":"ListItem","position":3,"name":"Media i Komunikacja","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/media-i-komunikacja"},{"@type":"ListItem","position":4,"name":"Logo: Magazyn + Darmowy Kreator Logo","item":"https://www.zarla.com/pl/wskaz%C3%B3wki/logo-magazyn"}]}</script> <div
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo/media-i-komunikacja">Media i Komunikacja</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Wskazówki","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki"},{"@type":"ListItem","position":2,"name":"Projekty Logo","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo"},{"@type":"ListItem","position":3,"name":"Media i Komunikacja","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo/media-i-komunikacja"},{"@type":"ListItem","position":4,"name":"Logo: Magazyn + Darmowy Kreator Logo","item":"https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-magazyn"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Logo: Magazyn + Darmowy Kreator Logo</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-natalia-smigielska-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-natalia-smigielska-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Natalia Śmigielska"
 /></div><div
 class="card-byline-details">
 <span> <a
-class="card-byline-author" href="https://www.zarla.com/pl/współautorzy/natalia-śmigielska">Natalia Śmigielska</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/pl/współautorzy/natalia-śmigielska">Natalia Śmigielska</a>,</span>
 <span
 class="card-byline-date">5 lip 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Kobieta czytająca magazyn modowy *Vogue*."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Idealne logo dla magazynu powinno być przede wszystkim ponadczasowe i uniwersalne – zadbaj, by świetnie prezentowało się zarówno online, jak i w druku. Ciekawe logotypy i monogramy będą modnym, nowoczesnym wyborem – skierują uwagę odbiorcy na nazwę twojego czasopisma. Zobacz nasze propozycje poniżej lub użyj <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">darmowego kreatora logo dla magazynu</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">darmowego kreatora logo dla magazynu</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,191 +120,191 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Opis</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/dyc99gyqmq74xfpyxhbv/edit?brand=BC">
+href="https://www.notzarla.com/logo-maker/dyc99gyqmq74xfpyxhbv/edit?brand=BC">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bc-1x1-2400x2400-20230120-46h699wkmpq9c9jwq3tp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bc-1x1-2400x2400-20230120-46h699wkmpq9c9jwq3tp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/dyc99gyqmq74xfpyxhbv/edit?brand=BC" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/dyc99gyqmq74xfpyxhbv/edit?brand=BC" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Monogram jest świetnym pomysłem na logo dla magazynów z dłuższą nazwą – pięknie zaprezentuje się zarówno na drukowanej okładce, jak i w mediach społecznościowych. Wyjątkowy font Rye emanuje retro urokiem – to idealny wybór dla czasopism historycznych, ale nie tylko. Stylowe duo bieli i grafitu podkreśla ponadczasowy szyk kompozycji.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3dcw997v7q64x49k6wqr/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/3dcw997v7q64x49k6wqr/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-3dcw997v7q64x49k6wqr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-3dcw997v7q64x49k6wqr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3dcw997v7q64x49k6wqr/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/3dcw997v7q64x49k6wqr/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Ta minimalistyczna ikona może być interpretowana jako ilustracja molekuły lub sieci cybernetycznej, dzięki czemu sprawdzi się dla różnych magazynów związanych z naukami ścisłymi. Nowoczesny font Monda jest czytelny i wyrazisty – zaprezentuje się świetnie w druku oraz online. Soczysty cyjan, symbolizujący wyobraźnię, wyróżni cię na tle konkurencji.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jwfxtcpmdjkh46rhfbb4/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/jwfxtcpmdjkh46rhfbb4/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-jwfxtcpmdjkh46rhfbb4.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-jwfxtcpmdjkh46rhfbb4.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jwfxtcpmdjkh46rhfbb4/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/jwfxtcpmdjkh46rhfbb4/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Czytelna czcionka Rubik prezentuje się bardzo profesjonalnie, dzięki czemu zwiększy rzetelność twojego magazynu w oczach odbiorców. Optymistyczna ikona roślinki i słońca będzie ciekawym wyborem dla czasopisma o zdrowiu, ekologii lub ogrodnictwie. Połączenie trawiastej zieleni i słonecznej żółci pięknie uwydatnia radosną, naturalną aurę logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/ykvg7hkyv9xmvgm77kmm/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/ykvg7hkyv9xmvgm77kmm/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-ykvg7hkyv9xmvgm77kmm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-ykvg7hkyv9xmvgm77kmm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/ykvg7hkyv9xmvgm77kmm/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/ykvg7hkyv9xmvgm77kmm/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>To estetyczne logo zasugeruje odbiorcom, że tworzysz treści w oparciu o ogromną wiedzę i doświadczenie. Szykowny granat oraz wieniec laurowy i gwiazdy wskazują na profesjonalizm oraz rzetelność – to świetny wybór do logo poważnego magazynu politycznego lub prawniczego. Klasyczny font Caudex idealnie uwydatnia ponadczasowy szyk kompozycji.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/hw3mx6vxqr9jx9xjmpcg/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/hw3mx6vxqr9jx9xjmpcg/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-hw3mx6vxqr9jx9xjmpcg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-hw3mx6vxqr9jx9xjmpcg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/hw3mx6vxqr9jx9xjmpcg/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/hw3mx6vxqr9jx9xjmpcg/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Nowoczesna czcionka Krona One sugeruje redakcję, która trzyma rękę na pulsie branżowych nowinek, a ikona panoramy miasta na tle gwiazdy życia komunikuje, że świat medycyny nie ma przed tobą tajemnic. Cyjan to jedna z najpopularniejszych barw w logo biznesów związanych ze zdrowiem – kojarzy się z harmonią, relaksem oraz wewnętrznym spokojem.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/rfw4r84k779p7vmy78cp/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/rfw4r84k779p7vmy78cp/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-rfw4r84k779p7vmy78cp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-rfw4r84k779p7vmy78cp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/rfw4r84k779p7vmy78cp/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/rfw4r84k779p7vmy78cp/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Śliczne duo barwy arbuzowej oraz chłodnego błękitu wygląda przyjaźnie i przystępnie – z pewnością zachęci czytelników, którzy poszukują prostych w odbiorze, odstresowujących treści. Ikonka owieczki i haczyków do szydełkowania wskazuje na magazyn hobbistyczny dla entuzjastów rękodzieła. Czytelny, pogrubiony font Sen świetnie eksponuje nazwę gazety.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jb7j4qtkj7jkvwr3mjdg/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/jb7j4qtkj7jkvwr3mjdg/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-jb7j4qtkj7jkvwr3mjdg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-jb7j4qtkj7jkvwr3mjdg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jb7j4qtkj7jkvwr3mjdg/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/jb7j4qtkj7jkvwr3mjdg/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Ten mocny projekt emanuje profesjonalizmem i męską energią; ikona o tak abstrakcyjnym, geometrycznym kształcie bez problemu wkomponuje się w layout okładki twojego magazynu. Solidna czcionka Bebas Neue świetnie wyeksponuje nazwę twojego czasopisma zarówno online, jak i w druku, a ponadczasowo modna czerń zagwarantuje, że logo posłuży ci na długo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/8bwpprr6m7rtbgg4wt7t/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/8bwpprr6m7rtbgg4wt7t/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230123-6ddjh46txvvd43p33x9m.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230123-6ddjh46txvvd43p33x9m.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/8bwpprr6m7rtbgg4wt7t/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/8bwpprr6m7rtbgg4wt7t/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Klasyczna, inspirowana antycznymi proporcjami czcionka Marcellus prezentuje się wyjątkowo elegancko, dzięki czemu pomoże ci stworzyć wizerunek rzetelnej publikacji. Trawiasta zieleń przywodzi na myśl bliskość natury oraz zachwycającą florę – w połączeniu z estetyczną ikoną kwiatuszka sprawdzi się idealnie dla magazynu ogrodniczego.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/tx4tqw7ymttyh6t8yqyd/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/tx4tqw7ymttyh6t8yqyd/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-tx4tqw7ymttyh6t8yqyd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-tx4tqw7ymttyh6t8yqyd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/tx4tqw7ymttyh6t8yqyd/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/tx4tqw7ymttyh6t8yqyd/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Neonowy róż z pewnością nie umknie uwadze odbiorców – to kolor kojarzony z pięknem, dziewczęcością, beztroską oraz słodkościami – idealnie zaprezentuje się w logo trendy magazynu dla młodszych czytelników, np. nastolatek. Zgrabna czcionka Crushed jest stylowa, a jednocześnie wyrazista, co świetnie sprawdzi się zarówno online, jak i w druku.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/kfcmr4km8vgpbdjk7r4b/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/kfcmr4km8vgpbdjk7r4b/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-kfcmr4km8vgpbdjk7r4b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-kfcmr4km8vgpbdjk7r4b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/kfcmr4km8vgpbdjk7r4b/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/kfcmr4km8vgpbdjk7r4b/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Barwa ciemnośliwkowa symbolizuje ekskluzywność oraz sekrety, co gwarantuje, że twoje logo wzbudzi zainteresowanie odbiorców, jednocześnie prezentując się wyjątkowo elegancko i atrakcyjnie. Minimalistyczna ikona damskiej sylwetki wskazuje na magazyn dla kobiet, np. o tematyce urodowej, a przystępna czcionka Rubik skutecznie wyeksponuje jego nazwę.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/6pyh7c3q4wk3kyk4cjmv/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/6pyh7c3q4wk3kyk4cjmv/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-6pyh7c3q4wk3kyk4cjmv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-6pyh7c3q4wk3kyk4cjmv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/6pyh7c3q4wk3kyk4cjmv/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/6pyh7c3q4wk3kyk4cjmv/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Digitalowy font Audiowide, inspirowany branżą IT,  to idealny wybór dla czasopism funkcjonujących w przestrzeni online, a geometryczna grafika posłuży jako fajna ikonka profilu na social mediach. Kolor niebieski symbolizuje wodę, bezpieczeństwo i inteligencję – ta uniwersalna barwa sprawdzi się świetnie w logo magazynów o najróżniejszej tematyce.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/vhjqmy394kxdfbg87qw4/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/vhjqmy394kxdfbg87qw4/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-vhjqmy394kxdfbg87qw4.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-vhjqmy394kxdfbg87qw4.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/vhjqmy394kxdfbg87qw4/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/vhjqmy394kxdfbg87qw4/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Znaczek lokalizacji z klawiaturą fortepianu sugeruje, że twój magazyn jest pozycją nie do ominięcia dla każdego fana muzyki. Złocisty pomarańcz to bardzo rozpoznawalna barwa – będzie idealnym elementem brandingu, jeśli chcesz stworzyć wizerunek marki pełnej pozytywnej energii i optymizmu. Wyrazisty font Dosis skutecznie eksponuje nazwę czasopisma.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/y3thwgbrkrkqtjxwvkhk/edit?industry=Sleepwear&amp;brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/y3thwgbrkrkqtjxwvkhk/edit?industry=Sleepwear&amp;brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230123-y3thwgbrkrkqtjxwvkhk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230123-y3thwgbrkrkqtjxwvkhk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/y3thwgbrkrkqtjxwvkhk/edit?industry=Sleepwear&amp;brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/y3thwgbrkrkqtjxwvkhk/edit?industry=Sleepwear&amp;brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Głęboki granat, będący barwą inteligencji i profesjonalizmu, zapowiada wartościowe, wysokiej jakości treści, a stylowa czcionka Josefin Sans z oryginalnymi detalami wskaże na fascynujące, nieoczytane tematy, jakie podnosisz. Urocza ikona sowy – atrybutu bogini mądrości, Ateny – będzie fantastycznym wyborem dla edukacyjnego magazynu dla dzieci.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/p7y3hqjfpd8r7ww47vpj/edit?industry=Travel&amp;brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/p7y3hqjfpd8r7ww47vpj/edit?industry=Travel&amp;brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230123-p7y3hqjfpd8r7ww47vpj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230123-p7y3hqjfpd8r7ww47vpj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/p7y3hqjfpd8r7ww47vpj/edit?industry=Travel&amp;brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/p7y3hqjfpd8r7ww47vpj/edit?industry=Travel&amp;brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Mocny font Russo One, zaprojektowany specjalnie na potrzeby użytku w nagłówkach i logo, z pewnością nie umknie uwadze potencjalnych odbiorców. Krwista czerwień, określana mianem <em>CTA</em>, motywuje do interakcji z marką – pomoże ci zyskać lojalną grupę czytelników. Nowoczesna grafika z detalem przypominającym skrzydła zapowiada poszerzanie horyzontów.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/bkw4k4fggb9pcjy4m9jv/edit?brand=Bez%20Cenzury">
+href="https://www.notzarla.com/logo-maker/bkw4k4fggb9pcjy4m9jv/edit?brand=Bez%20Cenzury">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-bkw4k4fggb9pcjy4m9jv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
+data-src="https://www.notzarla.com/images/zarla-bez-cenzury-1x1-2400x2400-20230120-bkw4k4fggb9pcjy4m9jv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Projekt logo - magazyn o nazwie Bez Cenzury.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/bkw4k4fggb9pcjy4m9jv/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/bkw4k4fggb9pcjy4m9jv/edit?brand=Bez%20Cenzury" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Czerń i biel są idealnym wyborem do celów brandingu – te ponadczasowo modne kolory prezentują się efektownie i profesjonalnie, a ostry kontrast barw przyciągnie wzrok potencjalnych czytelników. Geometryczny font Enriqueta świetnie wpisuje się w industrialny design projektu, a dynamiczna ikona zębatki sugeruje magazyn techniczny lub motoryzacyjny.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-na-bloga">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-na-bloga">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-blog-logos-5472x3648-2021023_2021-02-03-132812.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo na bloga" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-blog-logos-5472x3648-2021023_2021-02-03-132812.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo na bloga" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-na-bloga">Logo na bloga</a></p><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-na-bloga">Logo na bloga</a></p><div
 class="card-text">10 genialnych projektów logo na twojego bloga.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=faq class="section-heading">FAQ:</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=jak-stworzyc-logo-dla-magazynu class="question">Jak stworzyć logo dla magazynu?</h3><div
 class="answer"><ol><li>Przemyśl, jakie treści zamierzasz publikować i poszukaj inspiracji wśród konkurencyjnych czasopism.</li><li>Zastanów się, kto jest twoją grupą docelową i jak będziesz wykorzystywać swoje logo; na podstawie tych informacji zdecyduj, czy wystarczy ci logotyp, czy wolisz mieć również charakterystyczną ikonę.</li><li>Użyj <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">generatora logo</a>, aby poeksperymentować z różnymi zestawieniami elementów graficznych.</li><li>Przetestuj swoje ulubione projekty na okładce magazynu oraz w mediach społecznościowych, aby podjąć przemyślaną decyzję.</li><li>Wybrane logo pobierzesz w różnych formatach, co ułatwi ci korzystanie z niego na wiele sposobów.</li></ol></div></div><div
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">generatora logo</a>, aby poeksperymentować z różnymi zestawieniami elementów graficznych.</li><li>Przetestuj swoje ulubione projekty na okładce magazynu oraz w mediach społecznościowych, aby podjąć przemyślaną decyzję.</li><li>Wybrane logo pobierzesz w różnych formatach, co ułatwi ci korzystanie z niego na wiele sposobów.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=gdzie-znalezc-idealne-logo-dla-magazynu class="question">Gdzie znaleźć idealne logo dla magazynu?</h3><div
 class="answer"><p>Poszukaj pomysłów wśród naszej <a
 href="#pomysly-na-logo-dla-magazynu">kolekcji logo dla magazynu</a>. Znajdziesz tam uniwersalne projekty – zarówno logotypy, jak i te z rozpoznawalną, informatywną ikoną – które świetnie sprawdzą się dla czasopism o najróżniejszej tematyce.</p></div></div><div
@@ -321,68 +321,68 @@ class="container"><h2 class="section-heading">Podobne Treści</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-podcast">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-podcast">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Dwóch mężczyzn nagrywających podcast w profesjonalnym studiu." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Dwóch mężczyzn nagrywających podcast w profesjonalnym studiu." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-podcast">Logo dla podcastu</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-podcast">Logo dla podcastu</a></h3><div
 class="card-text">10 ciekawych projektów logo dla twojego podcastu.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/rodzaje-logo">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/rodzaje-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-types-of-logos-4961x3508-2022111.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Różne rodzaje logo popularnych aplikacji na digitalowym tle." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-types-of-logos-4961x3508-2022111.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Różne rodzaje logo popularnych aplikacji na digitalowym tle." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/rodzaje-logo">7 rodzajów logo, które powinieneś znać</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/rodzaje-logo">7 rodzajów logo, które powinieneś znać</a></h3><div
 class="card-text">Prosty przewodnik po siedmiu typach logo, które może wykorzystać twoja firma.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/najlepsze-czcionki-do-logo">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/najlepsze-czcionki-do-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-logo-fonts-5181x3886-20230222.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Różne rodzaje czcionek zaprezentowane na kartce w katalogu." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-logo-fonts-5181x3886-20230222.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Różne rodzaje czcionek zaprezentowane na kartce w katalogu." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/najlepsze-czcionki-do-logo">Jakie są najlepsze czcionki do logo?</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/najlepsze-czcionki-do-logo">Jakie są najlepsze czcionki do logo?</a></h3><div
 class="card-text">Odkryj ładne czcionki do skopiowania i wybierz tę idealną do logo twojej firmy.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/najlepsze-projekty-logo">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/najlepsze-projekty-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-20-Best-Logos.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Kapsel butelki z logo marki Coca-Cola, będącym przykładem najlepszych projektów logo." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-20-Best-Logos.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Kapsel butelki z logo marki Coca-Cola, będącym przykładem najlepszych projektów logo." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/najlepsze-projekty-logo">20 najlepszych projektów logo – klasyczne i nowe</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/najlepsze-projekty-logo">20 najlepszych projektów logo – klasyczne i nowe</a></h3><div
 class="card-text">20 inspirujących przykładów najlepszych projektów logo, używanych przez popularne firmy.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-media-spo%C5%82eczno%C5%9Bciowe">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-media-spo%C5%82eczno%C5%9Bciowe">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-social-media-logos-4967x3311-2021023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Osoba siedząca przed laptopem, przeglądająca media społecznościowe na telefonie." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-social-media-logos-4967x3311-2021023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Osoba siedząca przed laptopem, przeglądająca media społecznościowe na telefonie." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-media-spo%C5%82eczno%C5%9Bciowe">Logo: Media społecznościowe</a></h3><div
-class="card-text">10 intrygujących projektów logo dla twojej firmy zajmującej się mediami społecznościowymi.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/pl/wskaz%C3%B3wki/logo-magazyn","name":"Logo: Magazyn + Darmowy Kreator Logo"},"headline":"Logo: Magazyn + Darmowy Kreator Logo","description":"15 modnych projektów logo dla twojego magazynu.","image":["https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2023-01-04T07:47:00-06:00","dateModified":"2024-07-05T13:45:14-05:00","author":{"@type":"Person","name":"Natalia Śmigielska","url":"https://www.zarla.com/pl/współautorzy/natalia-śmigielska"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-media-spo%C5%82eczno%C5%9Bciowe">Logo: Media społecznościowe</a></h3><div
+class="card-text">10 intrygujących projektów logo dla twojej firmy zajmującej się mediami społecznościowymi.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-magazyn","name":"Logo: Magazyn + Darmowy Kreator Logo"},"headline":"Logo: Magazyn + Darmowy Kreator Logo","description":"15 modnych projektów logo dla twojego magazynu.","image":["https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-magazine-logos-5616x3744-20230120.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2023-01-04T07:47:00-06:00","dateModified":"2024-07-05T13:45:14-05:00","author":{"@type":"Person","name":"Natalia Śmigielska","url":"https://www.notzarla.com/pl/współautorzy/natalia-śmigielska"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -391,27 +391,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/pl">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Język</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/magazine-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-revistas">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-per-riviste">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-de-magazine">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/magazin-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-para-revistas">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/tijdschrift-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/dergi-logolar%C4%B1">Türkçe</a></li><li
+href="https://www.notzarla.com/guides/magazine-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-revistas">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-per-riviste">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-de-magazine">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/magazin-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-para-revistas">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/tijdschrift-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/dergi-logolar%C4%B1">Türkçe</a></li><li
 class="current" style="color: #3041c4;">Polski</li><li><a
-href="https://www.zarla.com/id/panduan/logo-majalah">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/id/panduan/logo-majalah">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Zasoby</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/projekty-logo">
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/projekty-logo">
 Projekty Logo
 </a></li><li>
 <a
@@ -419,7 +419,7 @@ href="/pl">
 Kreator stron internetowych AI
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">
 Darmowy kreator logo
 </a></li><li>
 <a
@@ -427,15 +427,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/regulamin">
+href="https://www.notzarla.com/pl/regulamin">
 Regulamin
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/polityka-praw-autorskich">
+href="https://www.notzarla.com/pl/polityka-praw-autorskich">
 Polityka Praw Autorskich
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/polityka-prywatno%C5%9Bci">
+href="https://www.notzarla.com/pl/polityka-prywatno%C5%9Bci">
 Polityka Prywatności
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -443,7 +443,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pl-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/pl/darmowy-kreator-logo?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pl-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Zacznij projektować własne logo

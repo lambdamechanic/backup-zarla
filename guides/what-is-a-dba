@@ -7,26 +7,26 @@ property="og:title" content="What is a DBA?" /><meta
 property="og:description" content="Learn all you need to know about a &quot;doing business as&quot; name, including how to file for one." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/guides/what-is-a-dba"><meta
+property="og:url" content="https://www.notzarla.com/guides/what-is-a-dba"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="en"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/guides/what-is-a-dba"><link
-rel="alternate" href="https://www.zarla.com/guides/what-is-a-dba" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/what-is-a-dba" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/qu%C3%A9-es-un-dba-o-hacer-negocios-como" hreflang="es" /><link
+rel="canonical" href="https://www.notzarla.com/guides/what-is-a-dba"><link
+rel="alternate" href="https://www.notzarla.com/guides/what-is-a-dba" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/what-is-a-dba" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/qu%C3%A9-es-un-dba-o-hacer-negocios-como" hreflang="es" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -35,7 +35,7 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div></nav></div><div
 class="indicator"><div
 class="indicator-position js-indicator-position"></div></div></header><main
@@ -45,9 +45,9 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides">Guides</a></li><li
+href="https://www.notzarla.com/guides">Guides</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides/how-to">How To</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/guides"},{"@type":"ListItem","position":2,"name":"How To","item":"https://www.zarla.com/guides/how-to"},{"@type":"ListItem","position":3,"name":"What is a DBA?","item":"https://www.zarla.com/guides/what-is-a-dba"}]}</script> <div
+href="https://www.notzarla.com/guides/how-to">How To</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.notzarla.com/guides"},{"@type":"ListItem","position":2,"name":"How To","item":"https://www.notzarla.com/guides/how-to"},{"@type":"ListItem","position":3,"name":"What is a DBA?","item":"https://www.notzarla.com/guides/what-is-a-dba"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 What is a DBA?</h1><div
 class="card-body"><div
@@ -56,14 +56,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-tina-visagie-bio-photo-800x800-2024057-1.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-tina-visagie-bio-photo-800x800-2024057-1.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Tina Visagie"
 /></div><div
 class="card-byline-details">
 <span>By <a
-class="card-byline-author" href="https://www.zarla.com/contributors/tina-visagie">Tina Visagie</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/contributors/tina-visagie">Tina Visagie</a>,</span>
 <span
 class="card-byline-date">Jun 4, 2024</span><div
 class="card-byline-bio">
@@ -72,21 +72,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Women reviewing a DBA application."
@@ -143,7 +143,7 @@ class="how-to-desc"><div
 class="how-to-image">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-how-to-file-a-dba-completed-800x800-20220214.jpeg?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="How to File a DBA:">
+data-src="https://www.notzarla.com/images/zarla-how-to-file-a-dba-completed-800x800-20220214.jpeg?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="How to File a DBA:">
 </picture></div><p>While the filing process for registering a DBA name varies according to your business's structure, county, city, and state, we've outlined three general steps for filing a DBA.</p></div><div
 id="how-to-file-a-dba-section1" class="how-to-section"><div
 class="section-title">
@@ -155,7 +155,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/zarla-complete-and-file-general-paperwork-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Complete and file general paperwork."></div></div><p>You will need to provide personal and basic information, such as the business's legal name, addresses and contact details of owners or partners, and the intended DBA name. This paperwork has to be filed with your local county clerk. Depending on your state, you will be required to pay a registration fee of $10 to $100.</p></div></div><div
+data-src="https://www.notzarla.com/images/zarla-complete-and-file-general-paperwork-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Complete and file general paperwork."></div></div><p>You will need to provide personal and basic information, such as the business's legal name, addresses and contact details of owners or partners, and the intended DBA name. This paperwork has to be filed with your local county clerk. Depending on your state, you will be required to pay a registration fee of $10 to $100.</p></div></div><div
 id="how-to-file-a-dba-section1-step2" class="step"><div
 class="step-desc"><div
 class="step-title">
@@ -163,7 +163,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/zarla-place-a-notice-in-a-local-newspaper-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Place a notice in a local newspaper."></div></div><p>Some states or counties will expect you to place a fictitious name ad or "public notice" in a local newspaper for an allocated amount of time. Once your public notice has been released, you may be required to provide proof of publication. Generally, the newspaper will provide you with proof.</p></div></div><div
+data-src="https://www.notzarla.com/images/zarla-place-a-notice-in-a-local-newspaper-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Place a notice in a local newspaper."></div></div><p>Some states or counties will expect you to place a fictitious name ad or "public notice" in a local newspaper for an allocated amount of time. Once your public notice has been released, you may be required to provide proof of publication. Generally, the newspaper will provide you with proof.</p></div></div><div
 id="how-to-file-a-dba-section1-step3" class="step"><div
 class="step-desc"><div
 class="step-title">
@@ -171,7 +171,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/zarla-register-your-dba-ahead-of-time-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Register your DBA name ahead of time."></div></div><p>We recommend registering your DBA name <strong>30 to 60 days</strong> before you officially start conducting business under your “doing business as” name. DBA name approval can take between one and four weeks, depending on your state and jurisdiction. Once you’ve been approved, you can open your business bank account, start conducting business and bring in new customers.</p></div></div></div></div> <script type="application/ld+json">{"@context":"http://schema.org","@type":"HowTo","name":"How to File a DBA","description":"<p>While the filing process for registering a DBA name varies according to your business's structure, county, city, and state, we've outlined three general steps for filing a DBA.<\/p>\n","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-how-to-file-a-dba-completed-800x800-20220214.jpeg?crop=1:1,smart&width=250&dpr=2","height":"800","width":"800"},"estimatedCost":{"@type":"MonetaryAmount","currency":"USD","value":"10.00"},"totalTime":"P7D","step":[{"@type":"HowToSection","position":"1","name":"<p>Filing a DBA.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Complete and file general paperwork.<\/p>\n","text":"<p>You will need to provide personal and basic information, such as the business's legal name, addresses and contact details of owners or partners, and the intended DBA name. This paperwork has to be filed with your local county clerk. Depending on your state, you will be required to pay a registration fee of $10 to $100.<\/p>\n","url":"https://www.zarla.com/guides/what-is-a-dba#how-to-file-a-dba-section1-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-complete-and-file-general-paperwork-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Place a notice in a local newspaper.<\/p>\n","text":"<p>Some states or counties will expect you to place a fictitious name ad or \"public notice\" in a local newspaper for an allocated amount of time. Once your public notice has been released, you may be required to provide proof of publication. Generally, the newspaper will provide you with proof.<\/p>\n","url":"https://www.zarla.com/guides/what-is-a-dba#how-to-file-a-dba-section1-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-place-a-notice-in-a-local-newspaper-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>Register your DBA name ahead of time.<\/p>\n","text":"<p>We recommend registering your DBA name <strong>30 to 60 days<\/strong> before you officially start conducting business under your \u201cdoing business as\u201d name. DBA name approval can take between one and four weeks, depending on your state and jurisdiction. Once you\u2019ve been approved, you can open your business bank account, start conducting business and bring in new customers.<\/p>\n","url":"https://www.zarla.com/guides/what-is-a-dba#how-to-file-a-dba-section1-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-register-your-dba-ahead-of-time-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}}]}]}</script> <div
+data-src="https://www.notzarla.com/images/zarla-register-your-dba-ahead-of-time-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Register your DBA name ahead of time."></div></div><p>We recommend registering your DBA name <strong>30 to 60 days</strong> before you officially start conducting business under your “doing business as” name. DBA name approval can take between one and four weeks, depending on your state and jurisdiction. Once you’ve been approved, you can open your business bank account, start conducting business and bring in new customers.</p></div></div></div></div> <script type="application/ld+json">{"@context":"http://schema.org","@type":"HowTo","name":"How to File a DBA","description":"<p>While the filing process for registering a DBA name varies according to your business's structure, county, city, and state, we've outlined three general steps for filing a DBA.<\/p>\n","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-how-to-file-a-dba-completed-800x800-20220214.jpeg?crop=1:1,smart&width=250&dpr=2","height":"800","width":"800"},"estimatedCost":{"@type":"MonetaryAmount","currency":"USD","value":"10.00"},"totalTime":"P7D","step":[{"@type":"HowToSection","position":"1","name":"<p>Filing a DBA.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Complete and file general paperwork.<\/p>\n","text":"<p>You will need to provide personal and basic information, such as the business's legal name, addresses and contact details of owners or partners, and the intended DBA name. This paperwork has to be filed with your local county clerk. Depending on your state, you will be required to pay a registration fee of $10 to $100.<\/p>\n","url":"https://www.notzarla.com/guides/what-is-a-dba#how-to-file-a-dba-section1-step1","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-complete-and-file-general-paperwork-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Place a notice in a local newspaper.<\/p>\n","text":"<p>Some states or counties will expect you to place a fictitious name ad or \"public notice\" in a local newspaper for an allocated amount of time. Once your public notice has been released, you may be required to provide proof of publication. Generally, the newspaper will provide you with proof.<\/p>\n","url":"https://www.notzarla.com/guides/what-is-a-dba#how-to-file-a-dba-section1-step2","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-place-a-notice-in-a-local-newspaper-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>Register your DBA name ahead of time.<\/p>\n","text":"<p>We recommend registering your DBA name <strong>30 to 60 days<\/strong> before you officially start conducting business under your \u201cdoing business as\u201d name. DBA name approval can take between one and four weeks, depending on your state and jurisdiction. Once you\u2019ve been approved, you can open your business bank account, start conducting business and bring in new customers.<\/p>\n","url":"https://www.notzarla.com/guides/what-is-a-dba#how-to-file-a-dba-section1-step3","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-register-your-dba-ahead-of-time-288x288-20220214.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}}]}]}</script> <div
 class="block block-rank-table"><h3 id=dba-state-requirements>DBA State Requirements:</h3><div
 class="table-wrapper"><div
 class="table-responsive"><table
@@ -189,7 +189,7 @@ class="col-12 faq-item"><h3 id=what-are-the-benefits-of-a-dba class="question">W
 class="answer"><ul><li>Ensures your business is legally compliant.</li><li>Easier business banking.</li><li>Creates growth opportunity.</li><li>Easier to register a business name.</li></ul></div></div><div
 class="col-12 faq-item"><h3 id=can-a-dba-have-a-tax-id-number class="question">Can a DBA have a tax ID number?</h3><div
 class="answer"><p>Yes. Whether you conduct business under your formal business name or as a DBA, the regulations for obtaining a Federal <a
-href="https://www.zarla.com/guides/how-to-apply-for-an-ein">Employer Identification Number (EIN)</a> are the same. Applying is free and it can be done on the IRS website.</p></div></div><div
+href="https://www.notzarla.com/guides/how-to-apply-for-an-ein">Employer Identification Number (EIN)</a> are the same. Applying is free and it can be done on the IRS website.</p></div></div><div
 class="col-12 faq-item"><h3 id=do-i-need-a-separate-bank-account-for-a-dba class="question">Do I need a separate bank account for a DBA?</h3><div
 class="answer"><p>Yes. You will be required to open a separate bank account for your business if it operates under a DBA name.</p></div></div><div
 class="col-12 faq-item"><h3 id=is-dba-a-legal-name class="question">Is DBA a legal name?</h3><div
@@ -215,68 +215,68 @@ class="container"><h2 class="section-heading">Related Articles</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/how-to-create-a-dba-in-california">
+class="card-preview" href="https://www.notzarla.com/guides/how-to-create-a-dba-in-california">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-create-a-dba-in-california-5865x3910-20200915.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="The Golden Gate Bridge in San Francisco, California." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-create-a-dba-in-california-5865x3910-20200915.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="The Golden Gate Bridge in San Francisco, California." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/how-to-create-a-dba-in-california">How to Create a DBA in California</a></h3><div
+href="https://www.notzarla.com/guides/how-to-create-a-dba-in-california">How to Create a DBA in California</a></h3><div
 class="card-text">Find out what you need to do to create a DBA in California.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/how-to-apply-for-an-ein">
+class="card-preview" href="https://www.notzarla.com/guides/how-to-apply-for-an-ein">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-apply-for-an-ein-6033x4022-20200911.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Applying for an EIN on the IRS website." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-apply-for-an-ein-6033x4022-20200911.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Applying for an EIN on the IRS website." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/how-to-apply-for-an-ein">How to Apply for an EIN Online</a></h3><div
+href="https://www.notzarla.com/guides/how-to-apply-for-an-ein">How to Apply for an EIN Online</a></h3><div
 class="card-text">Learn how to apply for an Employer Identification Number on the IRS website.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/how-to-start-a-business-with-no-money">
+class="card-preview" href="https://www.notzarla.com/guides/how-to-start-a-business-with-no-money">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-start-a-business-with-no-money-4288x2848-20200814.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A person with empty jean pockets and no money." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-start-a-business-with-no-money-4288x2848-20200814.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A person with empty jean pockets and no money." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/how-to-start-a-business-with-no-money">How to Start a Business with No Money</a></h3><div
+href="https://www.notzarla.com/guides/how-to-start-a-business-with-no-money">How to Start a Business with No Money</a></h3><div
 class="card-text">Use these key techniques to start a small business with no money.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/how-to-register-a-domain-name">
+class="card-preview" href="https://www.notzarla.com/guides/how-to-register-a-domain-name">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-register-a-domain-name-3999x2666-20200811.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A clipboard next to a laptop with a page titled &quot;Find Domain Names.&quot;" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-register-a-domain-name-3999x2666-20200811.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A clipboard next to a laptop with a page titled &quot;Find Domain Names.&quot;" />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/how-to-register-a-domain-name">How to Register a Domain Name</a></h3><div
+href="https://www.notzarla.com/guides/how-to-register-a-domain-name">How to Register a Domain Name</a></h3><div
 class="card-text">Learn how to create a domain name for your business. Includes frequently asked questions.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/how-to-open-a-retail-store">
+class="card-preview" href="https://www.notzarla.com/guides/how-to-open-a-retail-store">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-open-a-retail-store-4879x3232-20200819.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Storefront with lights in the window and a bicycle in the street." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-open-a-retail-store-4879x3232-20200819.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Storefront with lights in the window and a bicycle in the street." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/how-to-open-a-retail-store">How to Open a Retail Store</a></h3><div
-class="card-text">A step-by-step guide to opening a retail store.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/guides/what-is-a-dba","name":"What is a DBA?"},"headline":"What is a DBA?","description":"Learn all you need to know about a &quot;doing business as&quot; name, including how to file for one.","image":["https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2023-10-05T03:57:00-05:00","dateModified":"2024-06-04T16:30:14-05:00","author":{"@type":"Person","name":"Tina Visagie","url":"https://www.zarla.com/contributors/tina-visagie"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/guides/how-to-open-a-retail-store">How to Open a Retail Store</a></h3><div
+class="card-text">A step-by-step guide to opening a retail store.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/guides/what-is-a-dba","name":"What is a DBA?"},"headline":"What is a DBA?","description":"Learn all you need to know about a &quot;doing business as&quot; name, including how to file for one.","image":["https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-qu-es-un-dba-o-hacer-negocios-como-4088x2324-2024065.webp?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2023-10-05T03:57:00-05:00","dateModified":"2024-06-04T16:30:14-05:00","author":{"@type":"Person","name":"Tina Visagie","url":"https://www.notzarla.com/contributors/tina-visagie"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -285,31 +285,31 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Language</p><ul
 class="footer-menu list-unstyled"><li
 class="current" style="color: #3041c4;">English</li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/qu%C3%A9-es-un-dba-o-hacer-negocios-como">Español</a></li></ul></div><div
+href="https://www.notzarla.com/es/gu%C3%ADas/qu%C3%A9-es-un-dba-o-hacer-negocios-como">Español</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Resources</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/guides/logo-ideas">
+href="https://www.notzarla.com/guides/logo-ideas">
 Logo Ideas
 </a></li><li>
 <a
-href="https://www.zarla.com/">
+href="https://www.notzarla.com/">
 AI Website Builder
 </a></li><li>
 <a
-href="https://www.zarla.com/free-logo-maker">
+href="https://www.notzarla.com/free-logo-maker">
 Free Logo Maker
 </a></li><li>
 <a
-href="https://www.zarla.com/guides/how-to">
+href="https://www.notzarla.com/guides/how-to">
 How To
 </a></li><li>
 <a
@@ -317,15 +317,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/terms-of-use">
+href="https://www.notzarla.com/terms-of-use">
 Terms of Use
 </a></li><li>
 <a
-href="https://www.zarla.com/copyright-policy">
+href="https://www.notzarla.com/copyright-policy">
 Copyright Policy
 </a></li><li>
 <a
-href="https://www.zarla.com/privacy-policy">
+href="https://www.notzarla.com/privacy-policy">
 Privacy Policy
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

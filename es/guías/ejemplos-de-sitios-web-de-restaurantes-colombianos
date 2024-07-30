@@ -7,25 +7,25 @@ property="og:title" content="Ejemplos de sitios web de restaurantes colombianos 
 property="og:description" content="7 ejemplos de sitios web de restaurantes de comida colombiana más eficaces y visualmente atractivos para inspirarte." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos"><meta
+property="og:url" content="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="es"><meta
-property="og:image" content="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos"><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos" hreflang="es" /><link
+rel="canonical" href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos"><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos" hreflang="es" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="websiteExamples"><header
 class="header"><div
 class="container"><nav
@@ -34,10 +34,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/es">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/es"
+href="https://www.notzarla.com/es"
 class="btn btn-primary cta-nav
 "
 >
@@ -51,11 +51,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/es/gu%C3%ADas">Guías</a></li><li
+href="https://www.notzarla.com/es/gu%C3%ADas">Guías</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web">Ejemplos de sitios web</a></li><li
+href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web">Ejemplos de sitios web</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web/servicios-de-alojamiento-y-alimentaci%C3%B3n">Servicios de alojamiento y alimentación</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guías","item":"https://www.zarla.com/es/gu%C3%ADas"},{"@type":"ListItem","position":2,"name":"Ejemplos de sitios web","item":"https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web"},{"@type":"ListItem","position":3,"name":"Servicios de alojamiento y alimentación","item":"https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web/servicios-de-alojamiento-y-alimentaci%C3%B3n"},{"@type":"ListItem","position":4,"name":"Ejemplos de sitios web de restaurantes colombianos - 7 páginas web que promueven su gastronomía","item":"https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos"}]}</script> <div
+href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web/servicios-de-alojamiento-y-alimentaci%C3%B3n">Servicios de alojamiento y alimentación</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guías","item":"https://www.notzarla.com/es/gu%C3%ADas"},{"@type":"ListItem","position":2,"name":"Ejemplos de sitios web","item":"https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web"},{"@type":"ListItem","position":3,"name":"Servicios de alojamiento y alimentación","item":"https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web/servicios-de-alojamiento-y-alimentaci%C3%B3n"},{"@type":"ListItem","position":4,"name":"Ejemplos de sitios web de restaurantes colombianos - 7 páginas web que promueven su gastronomía","item":"https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Ejemplos de sitios web de restaurantes colombianos - 7 páginas web que promueven su gastronomía</h1><div
 class="card-body"><div
@@ -64,14 +64,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-laura-tella-800x800-2024058.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-laura-tella-800x800-2024058.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Foto de perfil de Laura Tella - Copywriter de Zarla."
 /></div><div
 class="card-byline-details">
 <span>Por <a
-class="card-byline-author" href="https://www.zarla.com/es/colaboradores/laura-tella">Laura Tella</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/es/colaboradores/laura-tella">Laura Tella</a>,</span>
 <span
 class="card-byline-date">5 jul 2024</span><div
 class="card-byline-bio">
@@ -80,21 +80,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Arepas cocinándose sobre una parrilla en un restaurante colombiano."
@@ -182,12 +182,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Origen Bistro"
@@ -227,14 +227,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>Para usuarios fuera de Colombia, la URL puede ser marcada como "no segura".  Por su parte, algunas secciones incluyen bloques de texto muy largos sin descansos visuales, y algunas tipografías pueden no ser muy legibles a primera vista.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -248,14 +248,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En la versión de escritorio, las imágenes de alta resolución muestran perfectamente el ambiente y los platillos del restaurante. El diseño es espacioso, lo que permite a los usuarios explorar el menú y hacer reservas fácilmente.</p><p>Sin embargo, en cuanto al rendimiento, optimizar el tamaño de las imágenes podría mejorar la velocidad de carga y el tiempo en que se despliega todo el contenido en pantalla. Por lo anterior, PageSpeed Insights le otorga una puntuación de 79/100.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-m%C3%B3vil.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-m%C3%B3vil.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-origen-bistro-20240610-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -280,12 +280,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Mora Castilla"
@@ -325,14 +325,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>El sitio WAVE señala algunos errores de contraste entre fondo y texto. A su vez, el primer enlace al menú en inglés en la página principal redirige a la versión en español, y algunas imágenes pueden ralentizar la carga de la página web.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -346,14 +346,14 @@ height="50"
 /></div><div
 class="entry-text"><p>Las  imágenes de calidad muestran los platillos eficazmente, el menú de navegación es fácilmente accesible y los tiempos de carga son razonables. La pestaña flotante que enlaza al WhatsApp y los "pop-ups" con publicaciones de Instagram dan un toque distintivo.</p><p>El sitio tarda en desplegar algunos de sus elementos cuando se abre la página por primera vez, por lo que puede afectar a usuarios con conexiones lentas, razón por la cual PageSpeed Insights le otorga un 59/100 en rendimiento general.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-m%C3%B3vil.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-m%C3%B3vil.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mora-castilla-20240612-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -378,12 +378,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Sabores y Tradiciones de la Abuela"
@@ -423,14 +423,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>El texto contiene algunos errores de dedo, además de que las imágenes tienen una calidad desigual. El sitio podría beneficiarse de hacer uso y de resaltar más claramente el logo del restaurante y de incluir directamente en la web los precios indicados en el archivo PDF del menú.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -444,14 +444,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En los dispositivos de escritorio, el sitio web permite que los elementos de diseño y disposición de contenido más elaborado resalten. Además, el ícono de WhatsApp en la esquina inferior derecha es muy accesible, así como los enlaces a las opiniones de los clientes.</p><p>Sin embargo, el rendimiento se ve afectado por el tiempo que tardan en completarse los elementos de contenido que cambian a medida que se carga la página. Por lo anterior, PageSpeed Insights le da una puntuación de 69/100.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-m%C3%B3vil.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-m%C3%B3vil.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-sabores-y-tradiciones-de-la-abuela-20240618-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -476,12 +476,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Mi Gran Parrilla Boyacense"
@@ -521,14 +521,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>El sitio cuenta con varios enlaces externos que pueden cargarse lentamente como los archivos PDF de los menús. Acorde a WAVE cuenta con algunos errores entre fondo y texto, además de que algunas tipografías no son muy legibles a primera vista. Podría beneficiarse en otorgar más información acerca del restaurante.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -542,14 +542,14 @@ height="50"
 /></div><div
 class="entry-text"><p>El menú del sitio es fácil de navegar y la sección para pedir a domicilio es efectiva y accesible. Los tiempos de carga de la página son satisfactorios. Sin embargo, mejorarían la experiencia del usuario incluyendo la información e imágenes de los archivos externos dentro del sitio.</p><p>De acuerdo al sitio Google's PageSpeed Insights, tiene un rendimiento de 67/100, debido al tiempo que tarda en cargarse por completo el elemento más pesado de la página.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-m%C3%B3vil.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-m%C3%B3vil.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-mi-gran-parrilla-boyancense-20240610-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -574,12 +574,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Celele Restaurante"
@@ -619,14 +619,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>La página a la que redirige el sitio para hacer las reservaciones puede resultar un poco confusa. El botón de "RESERVATIONS" está en inglés en la sección de español, y WAVE señala algunos errores entre el contraste de fondo y texto.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -640,14 +640,14 @@ height="50"
 /></div><div
 class="entry-text"><p>La navegación es sencilla y los elementos del menú del sitio son claramente visibles. Los tiempos de carga son eficientes, contiene información relevante y la experiencia general es agradable para el usuario por la simplicidad del diseño. También podría beneficiarse de hacer uso del logo del restaurante.</p><p>Aunque el archivo multimedia en la página principal es atractivo, resulta en un tiempo de bloqueo para que el usuario pueda interactuar con el contenido, por lo que PageeSpeed Insights le otorga un 71/100 en rendimiento.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-m%C3%B3vil.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-m%C3%B3vil.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-celele-20240612-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -672,12 +672,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Casa M"
@@ -717,14 +717,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>El sitio no menciona la dirección del restaurante ni incluye ningún mapa. El texto de la sección de opiniones de TripAdvisor es legible, pero los párrafos tienen una organización desaliñada. Además, cuenta con algunos errores ortográficos.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -738,14 +738,14 @@ height="50"
 /></div><div
 class="entry-text"><p>La navegación del sitio les permite a los usuarios explorar el menú de platillos, conocer el concepto y hacer reservas a través de WhatsApp. Aunque cuenta con una galería con imágenes del lugar y la comida, agregar algunas fotografías a la sección del menú podría mejorar la experiencia del usuario.</p><p>En cuanto al rendimiento, PageeSpeed Insights le da una puntuación de 82/100, ya que el sitio cuenta con un tiempo de carga rápido y eficiente tomando en cuenta las imágenes grandes y de alta calidad.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-m%C3%B3vul.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-m%C3%B3vul.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-m%C3%B3vul.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-casa-m-20240612-m%C3%B3vul.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -770,12 +770,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Patacón Pisao"
@@ -815,14 +815,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>WAVE señala algunos errores de contraste entre fondo y texto, en especial en el menú de navegación. Los sitios externos para realizar reservas o pedidos son lentos en cargarse y algo confusos. Además, algunos botones no se aprecian correctamente por su tamaño pequeño.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -836,14 +836,14 @@ height="50"
 /></div><div
 class="entry-text"><p>La página web es en general accesible, pero algunos elementos son algo redundantes. Por ejemplo, los tres enlaces al menú de platillos en la página principal (PATACÓN PISAO, PLATALLOS TÍPICOS COLOMBIANOS y JUGOS TROPICALES) te redirigen exactamente a una misma sección, en lugar de a la especialidad.</p><p>Acorde a PageSpeed Insights el tiempo de carga se ve afectado por lo que tardan en cargarse los elementos más pesados de la página, por lo que le da una puntuación de 43/100 en rendimiento.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-m%C3%B3vil.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-m%C3%B3vil.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-patac%C3%B3n-pisao-20240618-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -879,68 +879,68 @@ class="container"><h2 class="section-heading">Artículos relacionados</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web-4288x2848-20240313.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Tres dispositivos con distintos tipos de diseño web." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web-4288x2848-20240313.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Tres dispositivos con distintos tipos de diseño web." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">¿Cuáles son los tipos de diseño web?</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">¿Cuáles son los tipos de diseño web?</a></h3><div
 class="card-text">Descubre los diferentes tipos de diseños web para que puedas utilizar el más adecuado para tu sitio.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-claves-para-identificar-un-buen-diseo-de-pginas-web-0x0-20240430.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="El diseño de una página web en una computadora sobre un escritorio." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-claves-para-identificar-un-buen-diseo-de-pginas-web-0x0-20240430.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="El diseño de una página web en una computadora sobre un escritorio." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">Claves para identificar un buen diseño de páginas web</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">Claves para identificar un buen diseño de páginas web</a></h3><div
 class="card-text">A continuación, te presentamos algunas claves y tips para obtener el mejor diseño web para tu negocio.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-restaurantes">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-restaurantes">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-restaurant-logo-2400x2400-20210203.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Restaurante vacío con manteles sobre las mesas." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-restaurant-logo-2400x2400-20210203.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Restaurante vacío con manteles sobre las mesas." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-restaurantes">Logos para restaurantes</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-restaurantes">Logos para restaurantes</a></h3><div
 class="card-text">10 sugerencias deliciosas de logos para tu restaurante.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-iniciar-un-restaurante">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-iniciar-un-restaurante">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-start-a-restaurant-2400x2400-20200821.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Comensales disfrutando de una comida en un restaurante." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-start-a-restaurant-2400x2400-20200821.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Comensales disfrutando de una comida en un restaurante." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-iniciar-un-restaurante">Cómo iniciar un restaurante</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-iniciar-un-restaurante">Cómo iniciar un restaurante</a></h3><div
 class="card-text">Aprende cómo iniciar tu propio restaurante leyendo nuestra guía detallada.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-colombia">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-colombia">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-como-crear-una-empresa-en-colombia-5996x3374-2021054.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bandera colombiana ondeando afuera de una empresa en Colombia." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-como-crear-una-empresa-en-colombia-5996x3374-2021054.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bandera colombiana ondeando afuera de una empresa en Colombia." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-colombia">Cómo crear una empresa en Colombia</a></h3><div
-class="card-text">Conoce las instrucciones paso a paso que cubren los aspectos generales para crear una empresa en Colombia.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos","name":"Ejemplos de sitios web de restaurantes colombianos - 7 páginas web que promueven su gastronomía"},"headline":"Ejemplos de sitios web de restaurantes colombianos - 7 páginas web que promueven su gastronomía","description":"7 ejemplos de sitios web de restaurantes de comida colombiana más eficaces y visualmente atractivos para inspirarte.","image":["https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-06-10T08:48:00-05:00","dateModified":"2024-07-05T13:35:24-05:00","author":{"@type":"Person","name":"Laura Tella","url":"https://www.zarla.com/es/colaboradores/laura-tella"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-colombia">Cómo crear una empresa en Colombia</a></h3><div
+class="card-text">Conoce las instrucciones paso a paso que cubren los aspectos generales para crear una empresa en Colombia.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-restaurantes-colombianos","name":"Ejemplos de sitios web de restaurantes colombianos - 7 páginas web que promueven su gastronomía"},"headline":"Ejemplos de sitios web de restaurantes colombianos - 7 páginas web que promueven su gastronomía","description":"7 ejemplos de sitios web de restaurantes de comida colombiana más eficaces y visualmente atractivos para inspirarte.","image":["https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-restaurantes-colombianos-0x0-20240610.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-06-10T08:48:00-05:00","dateModified":"2024-07-05T13:35:24-05:00","author":{"@type":"Person","name":"Laura Tella","url":"https://www.notzarla.com/es/colaboradores/laura-tella"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -949,7 +949,7 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/es">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
@@ -960,7 +960,7 @@ class="col-md-6 col-lg-3 "><p
 class="footer-category">Recursos</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/ideas-de-logo">
+href="https://www.notzarla.com/es/gu%C3%ADas/ideas-de-logo">
 Ideas de Logo
 </a></li><li>
 <a
@@ -968,11 +968,11 @@ href="/es">
 Creador de sitios web por IA
 </a></li><li>
 <a
-href="https://www.zarla.com/es/creador-de-logos-gratis">
+href="https://www.notzarla.com/es/creador-de-logos-gratis">
 Creador de logos gratis
 </a></li><li>
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso">
+href="https://www.notzarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso">
 Guías paso por paso
 </a></li><li>
 <a
@@ -980,15 +980,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/es/t%C3%A9rminos-de-uso">
+href="https://www.notzarla.com/es/t%C3%A9rminos-de-uso">
 Términos de Uso
 </a></li><li>
 <a
-href="https://www.zarla.com/es/pol%C3%ADtica-de-derechos-de-autor">
+href="https://www.notzarla.com/es/pol%C3%ADtica-de-derechos-de-autor">
 Política de Derechos de Autor
 </a></li><li>
 <a
-href="https://www.zarla.com/es/pol%C3%ADtica-de-privacidad">
+href="https://www.notzarla.com/es/pol%C3%ADtica-de-privacidad">
 Política de Privacidad
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

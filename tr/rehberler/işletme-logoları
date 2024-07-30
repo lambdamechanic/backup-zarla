@@ -7,33 +7,33 @@ property="og:title" content="İşletme Logoları + Ücretsiz Logo Oluşturucu" /
 property="og:description" content="Tüm işletme türleri için özelleştirip kullanabileceğiniz 40 logo önerisi." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/tr/rehberler/i%C5%9Fletme-logolar%C4%B1"><meta
+property="og:url" content="https://www.notzarla.com/tr/rehberler/i%C5%9Fletme-logolar%C4%B1"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="tr-TR"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/tr/rehberler/i%C5%9Fletme-logolar%C4%B1"><link
-rel="alternate" href="https://www.zarla.com/guides/business-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/business-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-per-aziende" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-d-entreprise" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/firmenlogos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-para-empresas" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/zakelijke-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/i%C5%9Fletme-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-firmy" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-bisnis" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/tr/rehberler/i%C5%9Fletme-logolar%C4%B1"><link
+rel="alternate" href="https://www.notzarla.com/guides/business-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/business-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-per-aziende" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-d-entreprise" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/firmenlogos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-para-empresas" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/zakelijke-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/i%C5%9Fletme-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-firmy" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-bisnis" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -42,10 +42,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/tr">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu"
+href="https://www.notzarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu"
 class="btn btn-primary cta-nav
 "
 >
@@ -59,11 +59,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/tr/rehberler">Rehberler</a></li><li
+href="https://www.notzarla.com/tr/rehberler">Rehberler</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/tr/rehberler/logolar">Logolar</a></li><li
+href="https://www.notzarla.com/tr/rehberler/logolar">Logolar</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/tr/rehberler/logolar/ture-gore">Türe Göre</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Rehberler","item":"https://www.zarla.com/tr/rehberler"},{"@type":"ListItem","position":2,"name":"Logolar","item":"https://www.zarla.com/tr/rehberler/logolar"},{"@type":"ListItem","position":3,"name":"Türe Göre","item":"https://www.zarla.com/tr/rehberler/logolar/ture-gore"},{"@type":"ListItem","position":4,"name":"İşletme Logoları + Ücretsiz Logo Oluşturucu","item":"https://www.zarla.com/tr/rehberler/i%C5%9Fletme-logolar%C4%B1"}]}</script> <div
+href="https://www.notzarla.com/tr/rehberler/logolar/ture-gore">Türe Göre</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Rehberler","item":"https://www.notzarla.com/tr/rehberler"},{"@type":"ListItem","position":2,"name":"Logolar","item":"https://www.notzarla.com/tr/rehberler/logolar"},{"@type":"ListItem","position":3,"name":"Türe Göre","item":"https://www.notzarla.com/tr/rehberler/logolar/ture-gore"},{"@type":"ListItem","position":4,"name":"İşletme Logoları + Ücretsiz Logo Oluşturucu","item":"https://www.notzarla.com/tr/rehberler/i%C5%9Fletme-logolar%C4%B1"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 İşletme Logoları + Ücretsiz Logo Oluşturucu</h1><div
 class="card-body"><div
@@ -72,14 +72,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-esra-c%CC%A7evik-800x800-2024059-1.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-esra-c%CC%A7evik-800x800-2024059-1.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Esra Çevik"
 /></div><div
 class="card-byline-details">
 <span>Yazan: <a
-class="card-byline-author" href="https://www.zarla.com/tr/katkı-sağlayanlar/esra-çevik">Esra Çevik</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/tr/katkı-sağlayanlar/esra-çevik">Esra Çevik</a>,</span>
 <span
 class="card-byline-date">18 Haz 2024</span><div
 class="card-byline-bio">
@@ -88,28 +88,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Bir iş merkezindeki yüksek binaların düşük açılı bir görüntüsü."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Bir işletme logosu, bir şirketin temel değerlerini ve özünü temsil eder. İster bir danışmanlık firması ister restoran kuruyor olun, işinizin doğasını vurgulayan kendinden emin renkler ve ikonografi içeren unutulmaz bir logo seçmelisiniz. Fikir edinmek için aşağıdaki listemizi inceleyin veya <a
-href="https://www.zarla.com/tr/ücretsiz-logo-oluşturucu">ücretsiz işletme logosu oluşturucumuzu</a> kullanın.</p></div></div></div></div><div
+href="https://www.notzarla.com/tr/ücretsiz-logo-oluşturucu">ücretsiz işletme logosu oluşturucumuzu</a> kullanın.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -119,466 +119,466 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Tanım</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fx784mgqhyxkdpbtrtbr/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/fx784mgqhyxkdpbtrtbr/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-fx784mgqhyxkdpbtrtbr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-fx784mgqhyxkdpbtrtbr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fx784mgqhyxkdpbtrtbr/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/fx784mgqhyxkdpbtrtbr/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Ampul, ileri görüşlü bir şirkete uygun nitelikler olan zeka ve yenilik için iyi bilinen bir sembol. Sarımsı turuncu ve mavi renk paleti, genellikle iyimserlik duygularıyla ilişkilendiriliyor ve güven hissi uyandırıyor. Judson yazı tipinin cilalı karakterleri, logonun cazibesine katkıda bulunuyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3cft6w6txfyq3mkwgtj6/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/3cft6w6txfyq3mkwgtj6/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-3cft6w6txfyq3mkwgtj6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-3cft6w6txfyq3mkwgtj6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3cft6w6txfyq3mkwgtj6/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/3cft6w6txfyq3mkwgtj6/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Logo, seyahat ve hayal gücü temalarını iletmek için bir kağıt uçak görüntüsünü kullanıyor. Mobil uygulama geliştiricileri için mükemmel olan logonun turuncu ve koyu renk paleti, yaratıcılığı ve profesyonelliği bir araya getirirken Asap yazı tipinin pürüzsüz karakterleri, modern estetiği tamamlıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/kcjkhrb86h6fvthp8bf7/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/kcjkhrb86h6fvthp8bf7/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220813-8yf79pqtc8v3q6m37bjp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220813-8yf79pqtc8v3q6m37bjp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/kcjkhrb86h6fvthp8bf7/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/kcjkhrb86h6fvthp8bf7/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Marka mesajıyla ekip çalışması temalarını iletmek istiyorsanız bu yenilikçi logo, ideal bir seçim. Simgedeki kırmızı ve beyaz figürler, siyah arka plan tarafından da vurgulanan bir nitelik olan güveni simgelemektedir. Sade beyaz renkteki Cinzel yazı tipi, zarif ve sofistike görünüyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/4xf96qm8rvd3gj8cjmgy/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/4xf96qm8rvd3gj8cjmgy/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-4xf96qm8rvd3gj8cjmgy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-4xf96qm8rvd3gj8cjmgy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/4xf96qm8rvd3gj8cjmgy/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/4xf96qm8rvd3gj8cjmgy/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>İlginç simge, çocuksu bir merakı ve hikaye anlatımının büyüsünü anımsatıyor. Siyaha kaçan ve açık iki mavi tonu, rengin güven ve bütünlük sembolizmini korurken tasarıma biraz çok yönlülük katıyor. Cuprum yazı tipinin düzgün ve mantıklı harfleri, maksimum okunaklılık sağlıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/db8d3djrw7rhyy4664k3/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/db8d3djrw7rhyy4664k3/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-db8d3djrw7rhyy4664k3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-db8d3djrw7rhyy4664k3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/db8d3djrw7rhyy4664k3/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/db8d3djrw7rhyy4664k3/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Koyu arka plan, istikrarı ve profesyonelliği simgelerken güneşli tarlaların ve ağaçların muhteşem manzarasını vurguluyor. Sıcak turuncu tonlarının eklenmesi, logoya enerji verirken Josefin Sans yazı tipinin canlı ve beyaz karakterleri, peyzaj işletmesine uygun modern bir hava yaratıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/pcp6btxc4ppp77d473hx/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/pcp6btxc4ppp77d473hx/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-pcp6btxc4ppp77d473hx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-pcp6btxc4ppp77d473hx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/pcp6btxc4ppp77d473hx/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/pcp6btxc4ppp77d473hx/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>İlgi çekmek için parlak kırmızı bir daire ile çevrelenen ikon, adeta bir umut ve zafer hikayesi anlatıyor. Kutlama yapıyor gibi görünen figürler, logoya sofistike bir hava verirken Arvo yazı tipinin geometrik harf biçimleri, bir danışmanlık firmasına uygun çağdaş bir çekicilik yaratıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jhhbf96djrjyq7g8cdhq/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/jhhbf96djrjyq7g8cdhq/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-jhhbf96djrjyq7g8cdhq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-jhhbf96djrjyq7g8cdhq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jhhbf96djrjyq7g8cdhq/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/jhhbf96djrjyq7g8cdhq/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Evi çevreleyen uzun çizgiler, potansiyelini ortaya koyuyor ve bu tasarımı yenileme odaklı bir mimari firma için mükemmel bir logo haline getiriyor. Yeşil, doğa ve refah temalarını akla getiren güvenilir bir renk. SeoulHangang yazı tipinin benzersiz güzelliği, logoya kişilik katıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jvqmw3hwrd44mf7vgqy6/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/jvqmw3hwrd44mf7vgqy6/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-jvqmw3hwrd44mf7vgqy6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-jvqmw3hwrd44mf7vgqy6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jvqmw3hwrd44mf7vgqy6/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/jvqmw3hwrd44mf7vgqy6/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Merkezinde güzel bir bitki bulunan gözyaşı damlası şeklindeki simge, doğal yağlar işine çok yakışacak bir tasarım oluşturuyor. Frank Ruhl Libre yazı tipinin klasik harf biçimleri, parlak turuncu renkte modern görünürken koyu renkli arka plan, tasarımın canlılığını vurguluyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/6wg7x7hchxkvpvybx66b/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/6wg7x7hchxkvpvybx66b/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-6wg7x7hchxkvpvybx66b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-6wg7x7hchxkvpvybx66b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/6wg7x7hchxkvpvybx66b/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/6wg7x7hchxkvpvybx66b/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Zengin kırmızı ve turuncu renk paleti, bir tema parkında bulunabilecek iki nitelik olan macera ve heyecanı yansıtıyor. Yükselen kale, dikkat çekiyor ve çocuksu bir merak duygusu uyandırıyor. Cormorant Unicase, gençlik simgesiyle tezat oluşturan ve unutulmaz bir görüntü yaratan şık bir yazı tipi.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/c4hqbgjdxcqd4f838r9j/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/c4hqbgjdxcqd4f838r9j/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-c4hqbgjdxcqd4f838r9j.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-c4hqbgjdxcqd4f838r9j.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/c4hqbgjdxcqd4f838r9j/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/c4hqbgjdxcqd4f838r9j/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Teslimat işletmeniz verimli hizmetler sunuyorsa bu kahramanca logo, markanızın mesajını yakalayacak. Süper kahraman simgesi, güvenilir mavi ve yeşil renk paleti ile güçlendiriliyor. Düzgün ve okunaklı PT Sans Caption yazı tipi, markalama materyallerinde harika görünecek.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/xd3tvyqb6ytydf9439fd/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/xd3tvyqb6ytydf9439fd/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-xd3tvyqb6ytydf9439fd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-xd3tvyqb6ytydf9439fd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/xd3tvyqb6ytydf9439fd/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/xd3tvyqb6ytydf9439fd/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Kırmızı ve turuncu, harekete geçiren ve canlandıran sıcak tonlar. Mikrofon, markanızın uzmanlığını vurgulamaya yardımcı olan dairesel zemin sayesinde sahnenin ortasına yerleştiriliyor. Siyah renkteki Atma yazı tipi, genç ve davetkar görünüyor. Bu logo bir podcast veya radyo istasyonu için ideal.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/6wx3gjk77rtxh8xxvrj9/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/6wx3gjk77rtxh8xxvrj9/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-6wx3gjk77rtxh8xxvrj9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-6wx3gjk77rtxh8xxvrj9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/6wx3gjk77rtxh8xxvrj9/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/6wx3gjk77rtxh8xxvrj9/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Eğitim ve hikaye anlatımının büyülü gücü, bu çekici logoda mükemmel bir şekilde özetleniyor. Siyaha çalan koyu mavi ve yeşil, tam da doğru miktardaki gizemi ve tuhaflığı bir araya getiriyor. Pacifico yazı tipinin bitişik el yazısı stili, kişiselleştirilmiş bir dokunuş eklemeye yardımcı oluyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/8hpmh87dxm3kmmhgm7wp/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/8hpmh87dxm3kmmhgm7wp/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-8hpmh87dxm3kmmhgm7wp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-8hpmh87dxm3kmmhgm7wp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/8hpmh87dxm3kmmhgm7wp/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/8hpmh87dxm3kmmhgm7wp/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Turuncu ve kahve renk paleti, ağızda eriyen çikolatalı lezzetlerin zengin aromasını ve tadını çağrıştırıyor. Minik kalpler, keklerinizin sevgiyle yapıldığını ima ederken Averia Serif Libre yazı tipinin samimi görünümü, tasarımın genç çekiciliğini vurgulamaya yardımcı oluyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9gqfg6jq7qqktgkfffgq/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/9gqfg6jq7qqktgkfffgq/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-9gqfg6jq7qqktgkfffgq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-9gqfg6jq7qqktgkfffgq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9gqfg6jq7qqktgkfffgq/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/9gqfg6jq7qqktgkfffgq/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Çağdaş bir havaya sahip dinamik bir logo. Turuncu ve bordonun sıcak ve davetkar birleşimi, yeni müşteriler çekmeye yardımcı olacak. Saira Condensed yazı tipinin karakterleri, samimi ve son derece okunaklı iken kavisli bir çizgiye sahip bir cep telefonu kapağının görüntüsü, benzersiz ve göz alıcı.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/4bwdtybgthq47fwdrcqf/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/4bwdtybgthq47fwdrcqf/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-4bwdtybgthq47fwdrcqf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-4bwdtybgthq47fwdrcqf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/4bwdtybgthq47fwdrcqf/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/4bwdtybgthq47fwdrcqf/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Ranchers yazı tipinin coşkulu karakterleri, logoya neşeli bir çekicilik katıyor ve bu da onu çocuklara özel ders hizmeti için mükemmel bir tasarım yapıyor. Mezuniyet şapkası ve kurşun kalem simgesi, şirketinizin uzmanlığına atıfta bulunurken turuncu ve mavi, macera ve zarafet simgeliyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gyhtbv9txvvcfwjdg8rr/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/gyhtbv9txvvcfwjdg8rr/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-gyhtbv9txvvcfwjdg8rr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-gyhtbv9txvvcfwjdg8rr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gyhtbv9txvvcfwjdg8rr/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/gyhtbv9txvvcfwjdg8rr/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Cesur renk paleti, bu göz alıcı logoda dikkatleri üzerine çekiyor. Öne çıkan gemi görseli, şirketinizi lojistik sektörüyle eşlerken kırmızı ve siyah, harekete geçiren cesur renkler. Saira Condensed yazı tipinin büyük karakterleri, marka adına dikkat çekmeye yardımcı oluyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/tjh7xy3h6m6hr4rg9v63/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/tjh7xy3h6m6hr4rg9v63/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-tjh7xy3h6m6hr4rg9v63.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-tjh7xy3h6m6hr4rg9v63.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/tjh7xy3h6m6hr4rg9v63/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/tjh7xy3h6m6hr4rg9v63/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Yer imi, çatal ve şeritlerin yarattığı hareket, hızlı servis ve eve teslimat anlamı taşıyor. Zengin ve ilham verici altın ve kahve renk şeması; sıcak, taze ve lezzetli yemeklerin tadını çağrıştırıyor. Cardo yazı tipi, eğlenceli tasarımın olgunlaşmasına yardımcı olan ince bir güzelliğe sahip.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/4mv6r8qp3mgbhfbcwy6p/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/4mv6r8qp3mgbhfbcwy6p/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-4mv6r8qp3mgbhfbcwy6p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-4mv6r8qp3mgbhfbcwy6p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/4mv6r8qp3mgbhfbcwy6p/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/4mv6r8qp3mgbhfbcwy6p/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Açık kahverengi, simgedeki büyük taşların parıldamasını sağlıyor. Onu çevreleyen minik yıldızlar, tasarımı güçlendiriyor. Siyah renkli Rubik yazı tipinin sade karakterleri, düzgün ve okunaklı görünüyor. Bu logo, süslü mücevherlerde uzmanlaşmış lüks bir kuyumcu için mükemmel.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/pqybr4g783vvpryt6fhp/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/pqybr4g783vvpryt6fhp/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-pqybr4g783vvpryt6fhp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-pqybr4g783vvpryt6fhp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/pqybr4g783vvpryt6fhp/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/pqybr4g783vvpryt6fhp/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Kalp şeklinde bir lense ve büyük bir kameraya sahip bu sevimli ikon, çiftler arasındaki romantik anları yakalama konusunda uzmanlaşmış bir fotoğrafçılık işine uygun. Deniz mavisi monokromatik renk şeması, çok yönlü ve yatıştırıcı iken minimal Alata yazı tipi, logoyu bağlamaya yardımcı oluyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/ktpx9g4pgdpwwfbyhj97/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/ktpx9g4pgdpwwfbyhj97/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-ktpx9g4pgdpwwfbyhj97.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-ktpx9g4pgdpwwfbyhj97.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/ktpx9g4pgdpwwfbyhj97/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/ktpx9g4pgdpwwfbyhj97/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Çiçek kokularını ve doğal malzemeleri kucaklayan bir güzellik markası kuruyorsanız bu sevimli simge, markanızın özünü yakalayacak. Pastel pembe, simgenin ayrıntılarını vurgulamaya yardımcı olan bordo rengiyle güzel bir uyum içinde. Sacramento yazı tipinin akıcılığı, logoya karakter katıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/994v3xvmk9dvk48f8c6g/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/994v3xvmk9dvk48f8c6g/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-994v3xvmk9dvk48f8c6g.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-994v3xvmk9dvk48f8c6g.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/994v3xvmk9dvk48f8c6g/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/994v3xvmk9dvk48f8c6g/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bungee yazı tipinin kalın karakterleri, tasarıma ağırlık katıyor ve bu da marka adına dikkat çekmeye yardımcı oluyor. Kaşık ve çatal, hızlı yemek dağıtım kamyonunu betimleyen simgeye hareket katmanın akıllıca bir yolu. Kırmızı ve lacivert, pazarlama materyallerinde öne çıkacak.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9jgcgcg7jyd3vdfh97g7/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/9jgcgcg7jyd3vdfh97g7/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-9jgcgcg7jyd3vdfh97g7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-9jgcgcg7jyd3vdfh97g7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9jgcgcg7jyd3vdfh97g7/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/9jgcgcg7jyd3vdfh97g7/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>İster cilt bakım ister banyo ve vücut markası kuruyor olun, bu güzel logo işinizin ruhunu yakalayacak. Çiçekli simgenin kırmızı rengi, sıcaklık ve enerji yayarken ikon, promosyon ürünlerinde harika görünecek. Pacifico yazı tipinin akıcı karakterleri, davetkar ve klasik bir zarafet yaratıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/89rfyc94pkvdvwdmf3xt/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/89rfyc94pkvdvwdmf3xt/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-89rfyc94pkvdvwdmf3xt.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-89rfyc94pkvdvwdmf3xt.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/89rfyc94pkvdvwdmf3xt/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/89rfyc94pkvdvwdmf3xt/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Pikselli roket görseli; akıllı, eğlenceli ve dijitalleştirilmiş bir imaj yaratıyor. Mavi ve siyah renk paleti, havalı bir öz güven yayıyor ve genç estetiğe katkıda bulunuyor. Cinzel yazı tipinin süslü stili, eski ve yeninin harika bir kombinasyonunu oluşturmak için modern ikonla tezat oluşturuyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/g6jd3dmwf4kc6x8pmjkx/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/g6jd3dmwf4kc6x8pmjkx/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-g6jd3dmwf4kc6x8pmjkx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-g6jd3dmwf4kc6x8pmjkx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/g6jd3dmwf4kc6x8pmjkx/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/g6jd3dmwf4kc6x8pmjkx/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bu logonun siyah fonu, güveni ve profesyonelliği ifade ederken simgedeki turuncu rengi vurgulamaya yardımcı oluyor. Merkezinde piyano tuşları bulunan bulut şeklindeki simge, hedef pazarınızı hemen tanımlarken Ceviche One yazı tipinin eğimli stili, simgedeki kıvrımlı çizgiyi tamamlar.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/6j7ywq84xdtxrqmcqbxq/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/6j7ywq84xdtxrqmcqbxq/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-6j7ywq84xdtxrqmcqbxq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-6j7ywq84xdtxrqmcqbxq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/6j7ywq84xdtxrqmcqbxq/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/6j7ywq84xdtxrqmcqbxq/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Kırmızı renk, bir kadın moda markasına uyan tuhaf bir silüete sahip ikonun ayrıntılarını vurgulamaya yardımcı oluyor. Sorts Mill Goudy, siyah renkte havalı ve zarif görünen rafine bir yazı tipi. Zarif karakterler, koyu simgeyi dengeleyerek merkezde yer almasına olanak tanıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/t93j9wpkqxp73rvm9pfk/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/t93j9wpkqxp73rvm9pfk/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-t93j9wpkqxp73rvm9pfk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-t93j9wpkqxp73rvm9pfk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/t93j9wpkqxp73rvm9pfk/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/t93j9wpkqxp73rvm9pfk/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Yeşil, tipik olarak ahenkle bağlantılı ve yatıştırıcı bir renk iken simgedeki rock 'n' roll sembolüne uyan bir temaya sahip. Nosifer yazı tipinin kendine özgü stili, dikkat çekerek markanın öne çıkmasını sağlıyor. Bu havalı logo, üniformalarda ve diğer promosyon ürünlerinde harika görünecek.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/d83jfrr33fgghkp4xc46/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/d83jfrr33fgghkp4xc46/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-d83jfrr33fgghkp4xc46.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-d83jfrr33fgghkp4xc46.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/d83jfrr33fgghkp4xc46/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/d83jfrr33fgghkp4xc46/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bu minimalist logo, kapsayıcılığı kutluyor ve güven hissi uyandırıyor. Mavimsi siyah renk seçimi, zarafeti yansıtırken kadın silüeti, markanızı hedef pazarda öne çıkaracak. Zarif simgeyle birlikte Bubblegum Sans yazı tipinin kalın karakterleri, unutulmaz bir kontrast oluşturuyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/74x8yg6t8t8dx8cx4t3b/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/74x8yg6t8t8dx8cx4t3b/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-74x8yg6t8t8dx8cx4t3b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-74x8yg6t8t8dx8cx4t3b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/74x8yg6t8t8dx8cx4t3b/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/74x8yg6t8t8dx8cx4t3b/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>​​Oyun kumandası ve kulaklık ikonu, oyun tutkunlarının anında dikkatini çekecek tanınabilir bir logo oluşturuyor. İster oyun ekipmanı ister video oyunları satıyor olun, açık ve koyu mavinin modern estetiği ve eğlenceli Ranchers yazı tipi, markalaşma olanaklarını keşfetmenize olanak tanıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7pjdcch8cfqt4mytgkmc/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/7pjdcch8cfqt4mytgkmc/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-7pjdcch8cfqt4mytgkmc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-7pjdcch8cfqt4mytgkmc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7pjdcch8cfqt4mytgkmc/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/7pjdcch8cfqt4mytgkmc/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Koyu kırmızı renk seçimi, izleyicilerinizi kesinlikle büyüleyecek benzersiz bir seçim. Küçük yıldızlarla eşleştirilmiş bir makas, kaliteli hizmetin ipucunu verirken temiz beyefendi görünümü, hassasiyet vadediyor. Şık Cardo yazı tipi, logonun zarif estetiğine katkıda bulunuyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/xqhx84c4c6fhdct3wjjm/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/xqhx84c4c6fhdct3wjjm/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-xqhx84c4c6fhdct3wjjm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-xqhx84c4c6fhdct3wjjm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/xqhx84c4c6fhdct3wjjm/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/xqhx84c4c6fhdct3wjjm/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Dolgun dudaklar, parlak bir yüzeye sahiptir ve bu da logoyu dudak parlatıcısı veya makyaj işletmeleri için ideal kılıyor. Kurale yazı tipi, siyah arka plan üzerinde mantıklı karakterleriyle logonun olgunlaşmasına yardımcı olurken geleneksel olarak feminen bir renk olan pembe, enerji veriyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/tbjbcvkhfvmqrdc86t6b/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/tbjbcvkhfvmqrdc86t6b/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-tbjbcvkhfvmqrdc86t6b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-tbjbcvkhfvmqrdc86t6b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/tbjbcvkhfvmqrdc86t6b/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/tbjbcvkhfvmqrdc86t6b/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Fırlatılan roket, grafik tasarım işinizin yaratıcılığını vurgulamanın akıllıca bir yolu. Koyu kırmızı renk seçimi, güven yayıyor ve kararlılıkla ilişkilendiriliyor. Havalı Grenze yazı tipiyle birleştiğinde renk şeması ve ikon, eğlenceli ve dinamik bir logo ortaya çıkarıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/rvkxxjkx6qmwh8rj3vhw/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/rvkxxjkx6qmwh8rj3vhw/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-rvkxxjkx6qmwh8rj3vhw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-rvkxxjkx6qmwh8rj3vhw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/rvkxxjkx6qmwh8rj3vhw/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/rvkxxjkx6qmwh8rj3vhw/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Macera ve hız vadeden baskın bir logo tasarımı. Mavi ve hardal sarısı renk paleti, ferahlatıcı ve çok yönlüyken benzersiz Sancreek yazı tipi de bu nitelikleri yansıtıyor. Arabanın arkasındaki çizgiler, izleyiciyi hemen sürücü koltuğuna oturtarak hareket hissi uyandırıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gmddg6w9ypfdvyptfdy7/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/gmddg6w9ypfdvyptfdy7/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-gmddg6w9ypfdvyptfdy7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-gmddg6w9ypfdvyptfdy7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gmddg6w9ypfdvyptfdy7/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/gmddg6w9ypfdvyptfdy7/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Spor salonunda verimli bir seansı tamamladığınızda aldığınız tatmin duygusunu kişileştiren cesur ve kendinden emin bir logo. Kontrastlı mavi tonlar, tasarıma dinamizm katıyor ve ikondaki kaslı figürü vurguluyor. Nico Moji yazı tipi, logonun çağdaş estetiğini tamamlıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/rgjh4j4gvr8jbwj64f9y/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/rgjh4j4gvr8jbwj64f9y/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-rgjh4j4gvr8jbwj64f9y.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-rgjh4j4gvr8jbwj64f9y.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/rgjh4j4gvr8jbwj64f9y/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/rgjh4j4gvr8jbwj64f9y/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bu büyüleyici logonun yaydığı sıcaklık ve rahatlık, onu veterinerler için ideal kılıyor. Kalp şeklindeki simge, köpek ve kedinin ana hatlarını vurgularken turuncu ve kırmızı renk paleti, neşe ve şefkat hissi uyandırıyor. Delius yazı tipinin hassas harfleri, kalın simge ile ideal bir eşleşme.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/v83mqw3txfwr63qtr48v/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/v83mqw3txfwr63qtr48v/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-v83mqw3txfwr63qtr48v.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-v83mqw3txfwr63qtr48v.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/v83mqw3txfwr63qtr48v/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/v83mqw3txfwr63qtr48v/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Hastalar, lacivert kalbi nazikçe kucaklayan bir çift el sayesinde sağlıklarının korunduğundan emin olabilirler. Yeşil ve mavi, genellikle sağlık ve zindelik ile bağlantılı çok yönlü renkler ve bu da onları bir klinik için mükemmel bir seçim haline getiriyor. Poppins yazı tipi, temiz ve okunaklı.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/89mjt7d4yhfq4r9v43wd/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/89mjt7d4yhfq4r9v43wd/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-89mjt7d4yhfq4r9v43wd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-89mjt7d4yhfq4r9v43wd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/89mjt7d4yhfq4r9v43wd/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/89mjt7d4yhfq4r9v43wd/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Karanlık arka plan, hem havalı hem de sofistike bir gizem hissi uyandırıyor. Neşeli sarı tonla vurgulanan okçu simgesi, asil ve güçlü görünüyor. Bu yüzden bu logo, üst sınıf bir marka için ideal. Sade beyaz renkteki Noto Serif yazı tipinin temiz karakterleri, logoya harika bir son dokunuş yapıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/pc6wryg8dyqfr8j8bbvw/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/pc6wryg8dyqfr8j8bbvw/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-pc6wryg8dyqfr8j8bbvw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-pc6wryg8dyqfr8j8bbvw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/pc6wryg8dyqfr8j8bbvw/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/pc6wryg8dyqfr8j8bbvw/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Dairesel simge, yoga yapan bir kadının görüntüsünü tamamlayarak çift tonlu renk paleti ile geliştirilmiş dengeli bir tasarım yaratıyor. Mavinin tonları logoyu modernize ederken güvenle ışıldıyor. Cardo yazı tipi, tasarıma biraz incelik katarak onu üst sınıf bir marka için ideal hale getiriyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3f3vm68dkpwxg8664f7r/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/3f3vm68dkpwxg8664f7r/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-3f3vm68dkpwxg8664f7r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-3f3vm68dkpwxg8664f7r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3f3vm68dkpwxg8664f7r/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/3f3vm68dkpwxg8664f7r/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bu sade logo, ister bir seyahat acentesi ister bir emlak firması kuruyor olun, işinizin doğasını yakalamakta harika bir iş çıkaracak. Ağaçları ve küçük kuşları olan bir evin canlandırıcı sarımsı turuncu renkteki simgesi, ailelere hitap ediyor. Teko, taze fikirler vadeden çağdaş bir yazı tipi.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/pvyhtkbjbcqqvhjpxy7f/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/pvyhtkbjbcqqvhjpxy7f/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-pvyhtkbjbcqqvhjpxy7f.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-pvyhtkbjbcqqvhjpxy7f.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/pvyhtkbjbcqqvhjpxy7f/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/pvyhtkbjbcqqvhjpxy7f/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Hastaları kesinlikle rahatlatacak bir diş hekimliği logosu. Simgenin uzay temalı cazibesi, hem ebeveynlere hem de çocuklarına hitap edecek. Logonun koyu mavi renk seçimi, tasarımı olgunlaştırıp incelik katarken Alice yazı tipinin karmaşık kıvrımları, simgedeki halkayı tamamlıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jqqkgch9jrq66xtfbvc7/edit?brand=World%20Wahoo">
+href="https://www.notzarla.com/logo-maker/jqqkgch9jrq66xtfbvc7/edit?brand=World%20Wahoo">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-jqqkgch9jrq66xtfbvc7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
+data-src="https://www.notzarla.com/images/zarla-world-wahoo-1x1-2400x2400-20220808-jqqkgch9jrq66xtfbvc7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="World Wahoo adındaki bir işletme için işletme logosu.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jqqkgch9jrq66xtfbvc7/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/jqqkgch9jrq66xtfbvc7/edit?brand=World%20Wahoo" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bacadan çıkan sevimli kalbiyle ev simgesi, kırmızı renk seçimiyle de yansıtılan temalar olan aşk ve aile hakkında güçlü bir mesaj gönderiyor. Simgedeki siyah vurgu, karakterli ve sofistike bir dokunuş yaparken Podkova yazı tipinin köşeli terminalleri, logoya zemin oluşturuyor.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/en-iyi-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/en-iyi-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-20-best-logos-6199x4133-20210828.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="En İyi 20 Logo (Klasik ve Yeni)" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-20-best-logos-6199x4133-20210828.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="En İyi 20 Logo (Klasik ve Yeni)" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/en-iyi-logolar">En İyi 20 Logo (Klasik ve Yeni)</a></p><div
+href="https://www.notzarla.com/tr/rehberler/en-iyi-logolar">En İyi 20 Logo (Klasik ve Yeni)</a></p><div
 class="card-text">Ünlü işletmeler tarafından kullanılan en iyi 20 efsanevi logo fikri.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=sss class="section-heading">SSS:</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=Sirket-logomu-nasil-olusturabilirim class="question">Şirket logomu nasıl oluşturabilirim?</h3><div
 class="answer"><ol><li>Hedef pazarınızı ve marka mesajınızı düşünün.</li><li>Rakiplerinizin logolarını inceleyin.</li><li>Bir <a
-href="https://www.zarla.com/tr/ücretsiz-logo-oluşturucu">logo oluşturucu</a> kullanarak fikir alın.</li><li>Orijinal logo fikirleri bulmak için çeşitli renkler, simgeler ve yazı tipleri ile denemeler yapın.</li><li>Güvenilir meslektaşlarınızdan geri bildirim alın.</li><li>En beğenilen logoyu seçin ve indirin.</li></ol></div></div><div
+href="https://www.notzarla.com/tr/ücretsiz-logo-oluşturucu">logo oluşturucu</a> kullanarak fikir alın.</li><li>Orijinal logo fikirleri bulmak için çeşitli renkler, simgeler ve yazı tipleri ile denemeler yapın.</li><li>Güvenilir meslektaşlarınızdan geri bildirim alın.</li><li>En beğenilen logoyu seçin ve indirin.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=Ucretsiz-isletme-logolarini-nereden-indirebilirim class="question">Ücretsiz işletme logolarını nereden indirebilirim?</h3><div
 class="answer"><p><a
 href="#Isletme-logosu-fikirleri">Örneklerimizin</a> altında yer alan "Düzenle" butonuna tıklayarak ya da logo oluşturucumuzu kullanarak Zarla'da ücretsiz olarak işletme logoları oluşturabilir, düzenleyebilir ve indirebilirsiniz.</p></div></div><div
@@ -593,68 +593,68 @@ class="container"><h2 class="section-heading">Benzer Yazılar</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/bilge-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/bilge-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-wise-logos-2400x2400-20211014.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Kalıpların dışında düşünmekle ilgili bilgece bir tabela." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-wise-logos-2400x2400-20211014.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Kalıpların dışında düşünmekle ilgili bilgece bir tabela." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/bilge-logolar">Bilge Logolar</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/bilge-logolar">Bilge Logolar</a></h3><div
 class="card-text">Her tür işletme için uygun 20 akıllı logo önerisi.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/dinamik-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/dinamik-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-dynamic-logos-5596x3828-20211022.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Gece vaktinde dinamik bir görüntü oluşturan karanlık bir cadde." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-dynamic-logos-5596x3828-20211022.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Gece vaktinde dinamik bir görüntü oluşturan karanlık bir cadde." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/dinamik-logolar">Dinamik Logolar</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/dinamik-logolar">Dinamik Logolar</a></h3><div
 class="card-text">Her işletmeye uygun 20 dinamik logo fikri.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/yard%C4%B1msever-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/yard%C4%B1msever-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-helpful-logos-6307x4205-20211015.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Başka bir kişiye el uzatan yardımsever bir insan." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-helpful-logos-6307x4205-20211015.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Başka bir kişiye el uzatan yardımsever bir insan." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/yard%C4%B1msever-logolar">Yardımsever Logolar</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/yard%C4%B1msever-logolar">Yardımsever Logolar</a></h3><div
 class="card-text">İşletmeniz için özelleştirebileceğiniz 20 yardımsever logo fikri.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/ik-logolar%C4%B1">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/ik-logolar%C4%B1">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-hr-logos-3700x2467-2022015.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="İK şirketlerinde kendilerini yeni bir müşteriye tanıtan insan kaynakları ekibi." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-hr-logos-3700x2467-2022015.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="İK şirketlerinde kendilerini yeni bir müşteriye tanıtan insan kaynakları ekibi." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/ik-logolar%C4%B1">İK Logoları</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/ik-logolar%C4%B1">İK Logoları</a></h3><div
 class="card-text">Aralarından seçim yapabileceğiniz 10 güven verici İK logosu fikri.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/profesyonel-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/profesyonel-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-professional-logos-5066x3377-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bir lobide duran takım elbiseli bir profesyonel." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-professional-logos-5066x3377-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bir lobide duran takım elbiseli bir profesyonel." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/profesyonel-logolar">Profesyonel Logolar</a></h3><div
-class="card-text">Profesyonel işletmeniz için iyi düşünülmüş 20 logo önerisi.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/tr/rehberler/i%C5%9Fletme-logolar%C4%B1","name":"İşletme Logoları + Ücretsiz Logo Oluşturucu"},"headline":"İşletme Logoları + Ücretsiz Logo Oluşturucu","description":"Tüm işletme türleri için özelleştirip kullanabileceğiniz 40 logo önerisi.","image":["https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-11-10T08:56:00-06:00","dateModified":"2024-06-18T12:57:18-05:00","author":{"@type":"Person","name":"Esra Çevik","url":"https://www.zarla.com/tr/katkı-sağlayanlar/esra-çevik"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/tr/rehberler/profesyonel-logolar">Profesyonel Logolar</a></h3><div
+class="card-text">Profesyonel işletmeniz için iyi düşünülmüş 20 logo önerisi.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/tr/rehberler/i%C5%9Fletme-logolar%C4%B1","name":"İşletme Logoları + Ücretsiz Logo Oluşturucu"},"headline":"İşletme Logoları + Ücretsiz Logo Oluşturucu","description":"Tüm işletme türleri için özelleştirip kullanabileceğiniz 40 logo önerisi.","image":["https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-business-logos-6000x4000-20211110_2021-11-10-152141_chiv.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-11-10T08:56:00-06:00","dateModified":"2024-06-18T12:57:18-05:00","author":{"@type":"Person","name":"Esra Çevik","url":"https://www.notzarla.com/tr/katkı-sağlayanlar/esra-çevik"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -663,26 +663,26 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/tr">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Dil</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/business-logos">English</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-per-aziende">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-d-entreprise">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/firmenlogos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-para-empresas">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/zakelijke-logos">Nederlands</a></li><li
+href="https://www.notzarla.com/guides/business-logos">English</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-per-aziende">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-d-entreprise">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/firmenlogos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-para-empresas">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/zakelijke-logos">Nederlands</a></li><li
 class="current" style="color: #3041c4;">Türkçe</li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-firmy">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-bisnis">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-firmy">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-bisnis">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Kaynaklar</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/tr/rehberler/logo-fikirleri">
+href="https://www.notzarla.com/tr/rehberler/logo-fikirleri">
 Logo Fikirleri
 </a></li><li>
 <a
@@ -690,7 +690,7 @@ href="/tr">
 AI Web Sitesi Oluşturma Aracı
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
+href="https://www.notzarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
 Ücretsiz Logo Oluşturucu
 </a></li><li>
 <a
@@ -698,15 +698,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
+href="https://www.notzarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
 Kullanım Koşulları
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
+href="https://www.notzarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
 Telif Hakkı Politikası
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/gizlilik-politikas%C4%B1">
+href="https://www.notzarla.com/tr/gizlilik-politikas%C4%B1">
 Gizlilik Politikası
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -714,7 +714,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=tr-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=tr-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Özel bir logo tasarlamaya başlayın

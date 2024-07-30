@@ -7,34 +7,34 @@ property="og:title" content="Kullanım Koşulları" /><meta
 property="og:description" content="Zarla kullanım koşullarını okuyun ve inceleyin." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1"><meta
+property="og:url" content="https://www.notzarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="tr-TR"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1"><link
-rel="alternate" href="https://www.zarla.com/terms-of-use" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/terms-of-use" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/t%C3%A9rminos-de-uso" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/termini-di-utilizzo" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/conditions-dutilisation" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/nutzungsbedingungen" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/termos-de-uso" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/gebruiksvoorwaarden" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/regulamin" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/syarat-penggunaan" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1"><link
+rel="alternate" href="https://www.notzarla.com/terms-of-use" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/terms-of-use" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/t%C3%A9rminos-de-uso" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/termini-di-utilizzo" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/conditions-dutilisation" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/nutzungsbedingungen" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/termos-de-uso" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/gebruiksvoorwaarden" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/regulamin" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/syarat-penggunaan" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="policies"><header
 class="header"><div
 class="container"><nav
@@ -43,7 +43,7 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/tr">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div></nav></div><div
 class="indicator"><div
 class="indicator-position js-indicator-position"></div></div></header><main
@@ -51,7 +51,7 @@ class="entry section-policies"><div
 class="section-banner"><div
 class="narrow-container"><div
 class="section-breadcrumb"><ol
-class="breadcrumb"></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Kullanım Koşulları","item":"https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1"}]}</script> <div
+class="breadcrumb"></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Kullanım Koşulları","item":"https://www.notzarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Kullanım Koşulları</h1><div
 class="card-body"><div
@@ -60,28 +60,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="&quot;Hizmet Şartları&quot; yazılı daktilo."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Bu metin, resmi <a
-href="https://www.zarla.com/terms-of-use">Zarla kullanım koşullarının</a> makine çevirisidir ve yalnızca size kolaylık sağlamak amacıyla sunulmuştur. Orijinal İngilizce belge, tercüme edilmiş bu politikadaki tüm terimlerin yerine geçer.</p></div></div></div></div><div
+href="https://www.notzarla.com/terms-of-use">Zarla kullanım koşullarının</a> makine çevirisidir ve yalnızca size kolaylık sağlamak amacıyla sunulmuştur. Orijinal İngilizce belge, tercüme edilmiş bu politikadaki tüm terimlerin yerine geçer.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -95,7 +95,7 @@ HİZMETLER TIBBİ VEYA HUKUKİ TAVSİYE VERMEZ. HERHANGİ BİR TIBBİ DURUMU ÖN
 Zarla, ÜRÜN VEYA HİZMETLERİN İHTİYAÇLARINIZI KARŞILAYACAĞI VEYA İSTİHDAM FIRSATLARI DAHİL HERHANGİ BİR BELİRLİ SONUÇ ELDE EDECEĞİNE İLİŞKİN HİÇBİR BEYAN, GARANTİ, GARANTİ VEYA SÖZ VERMEZ.
 Zarla, HİZMETLERDEKİ HİÇBİR ÜÇÜNCÜ ŞAHIS İÇERİĞİNDEN, ÜÇÜNCÜ ŞAHIS WEB SİTELERİNE VEYA HERHANGİ BİR ÜÇÜNCÜ ŞAHIS WEB SİTESİNE YÖNELİK HİÇBİR BAĞLANTIDAN SORUMLU TUTULAMAYACAKTIR. Zarla, HİZMETLER ARACILIĞIYLA BELİRLİ KONULARDA UZMAN OLARAK TANIMLANAN KULLANICILARI DENETLEMEZ VEYA DOĞRULAMAZ VE BEKLEDİĞİNİZ SONUCA ULAŞMAZSANIZ, Zarla'yı BU TÜR UZMANLARA GÜVENMEDEN SORUMLU TUTMAYINIZ.
 AMBALAJ, ETİKETLER VE TALİMATLAR, SATIN ALDIĞINIZ ÜRÜNLER İÇİN GEÇERLİ OLAN ÜRETİCİ SORUMLULUK REDDİ VE SORUMLULUK SINIRLAMALARI İÇERİR. Zarla, BU PARAGRAFDAKİ TÜM SORUMLULUK REDDİLERİNİ KENDİSİ VE LİSANS VERENLERİ VE TEDARİKÇİLERİ ADINA YAPAR.</p><h2 id=6-sorumluluGun-sinirlandirilmasi>6. SORUMLULUĞUN SINIRLANDIRILMASI</h2><p>Zarla, İLGİLİ YETKİLİLERİ, YÖNETMENLERİ, ÇALIŞANLARI, ÜYELERİ, HİSSEDARLARI VEYA TEMSİLCİLERİ (VE YUKARIDAKİLERDEN HERHANGİ BİRİNİN TÜM HALEFLERİ VE DEVİRLERİ) HİÇBİR DURUMDA BU AMAÇLA TOPLU OLARAK “Zarla” ALINACAKTIR. , HİZMETLER VEYA ÜRÜNLERİN PERFORMANSINDAN, KULLANILMASINDAN YA DA KULLANILMAMASINDAN KAYNAKLANAN ÖZEL, DOLAYLI VEYA CEZAİ HASARLAR, Zarla'ya BU TÜR ZARARLARIN OLASILIĞI HAKKINDA BİLDİRİLMİŞ OLSA DAHİ, AC INCONGTION, KESİN SORUMLULUK, HUKUKİ İHLAL YA DA BAŞKA BİR ŞEKİLDE. Zarla, DEĞİŞİM ÜRÜNLERİNİN MALİYETİ, GELİR KAYBI VEYA İYİ NİYET KAYBINDAN SORUMLU TUTULAMAZ. HİÇBİR DURUMDA, TOPLAM YÜKÜMLÜLÜĞÜMÜZ, İDDİA İLE İLGİLİ OLAN ÜRÜN VEYA HİZMET İÇİN ÖDENEN TUTARDAN VEYA İDDİA BİR ÜRÜN VEYA HİZMETLE İLİŞKİLİ DEĞİLSE 100 ABD Dolarını AŞMAYACAKTIR.</p><p>Zarla, HİZMETLER VEYA HERHANGİ BİR WEB SİTE ÜZERİNDEN ÜÇÜNCÜ ŞAHISLAR TARAFINDAN REKLAMI YAPILAN VEYA SUNULDUĞU HİÇBİR ÜRÜN VEYA HİZMET İÇİN GARANTİ VERMEZ, ONAYLAMAZ, GARANTİ VERMEZ VEYA SORUMLULUK KABUL ETMEMEKTEDİR VEYA HİZMET ARACILIĞIYLA HİÇBİR HİZMET ÜZERİNDE OLMAYAN VEYA HİZMET ÜZERİNDEN OLMAYAN HİZMETLER VEYA HİZMETLER ÜZERİNDEN OLAN VEYA BAĞLANTILI OLAN HERHANGİ BİR WEB SİTESİ ARACILIĞIYLA Zarla SİZ VE ÜÇÜNCÜ ŞAHIS ÜRÜN VEYA HİZMET SAĞLAYICILARI ARASINDAKİ HERHANGİ BİR İŞLEMİN İZLENMESİNDEN SORUMLUDUR. Zarla, HERHANGİ BİR ÜÇÜNCÜ ŞAHISIN SALDIRGAN VEYA YASAL DAVRANIŞLARINDAN SORUMLU OLMAYACAKTIR. YUKARIDAKİLERDEN KAYNAKLANAN ZARAR VEYA HASAR RİSKİNİ GÖNÜLLÜ OLARAK KABUL EDERSİNİZ. YUKARIDAKİ SINIRLAMALAR, BİR ÇÖZÜM YOLU TEMEL AMACI BAŞARISIZ OLSA BİLE VE YASALARIN İZİN VERDİĞİ EN GENİŞ ÖLÇÜDE GEÇERLİ OLACAKTIR.</p><p>Kaliforniya'da ikamet ediyorsanız, işbu belgeyle California Medeni Kanunu §1542'den feragat etmiş olursunuz: “Genel ibra, alacaklının ibranın yapıldığı sırada kendi lehine varlığından haberdar olmadığı veya şüphelendiği iddiaları kapsamaz. eğer kendisi tarafından biliniyorsa, borçlu ile olan anlaşmasını maddi olarak etkilemiş olmalıdır.” Bu sürüm, başkalarının suç eylemlerini içerir.</p><h2 id=7-tazmInat>7. TAZMİNAT</h2><p>Zarla'yı VE İLGİLİ YETKİLİLERİNİ, YÖNETMENLERİNİ, ÇALIŞANLARINI, ÜYELERİNİ, HİSSEDARLARINI VEYA TEMSİLCİLERİNİ (VE YUKARIDAKİLERİN HERHANGİ BİRİNİN TÜM HALEFLERİNİ VE TEMSİLCİLERİNİ), HERHANGİ BİR ZARARSIZLIKLA ZARAR GÖRMEDEN, TAZMİNAT ETMEYİ, SAVUNMAYI VE ELDE ETMEYİ KABUL EDERSİNİZ. HİZMETLERİ KULLANIMINIZLA BAĞLANTILI OLARAK VEYA HİZMETLERİ KULLANMANIZDAN KAYNAKLANAN MAKUL AVUKAT ÜCRETLERİ VE ÖDEMELER, HİZMETLERLE BAĞLANTINIZ, ŞARTLARI İHLALİNİZ VEYA Zarla GİZLİLİK POLİTİKAMIZIN UYGULANABİLİRLİĞİ, KULLANICI İÇERİĞİNİN HİZMETLERE SUNULMASI, YAYINLANMASI VEYA İLETİMİ VE/VEYA BAŞKALARININ HERHANGİ BİR HAKKI İHLALİNİZ. TÜR ANLAŞMAZLIKLARIN MÜNHASIR SAVUNMASINI VE KONTROLÜNÜ KENDİ MASRAFLARIMIZA GÖRE HAKKI SAKLIYIZ VE HER DURUMDA MEVCUT SAVUNMALARDA BİZİMLE İŞBİRLİĞİ YAPACAKSINIZ.</p><h2 id=8-reklamcilar>8. REKLAMCILAR</h2><p>İlgili mal veya hizmetlerin ödemesi ve teslimatı dahil olmak üzere Hizmetlerde veya Hizmetler aracılığıyla bulunan reklamcılarla yazışmalarınız veya iş ilişkileriniz veya promosyonlarına katılımınız ve bu tür işlemlerle ilgili diğer tüm şartlar, koşullar, garantiler veya beyanlar yalnızca sizin aranızdadır. ve böyle bir reklamveren. Zarla'nın, bu tür anlaşmaların sonucu olarak veya Hizmetlerde veya Hizmetler aracılığıyla bu tür reklamverenlerin mevcudiyetinin sonucu olarak ortaya çıkan hiçbir tür kayıp veya hasardan sorumlu veya yükümlü olmayacağını kabul edersiniz.</p><h2 id=9-UCUncU-Sahis-baGlantilari-ve-hIzmetlerI>9. ÜÇÜNCÜ ŞAHIS BAĞLANTILARI VE HİZMETLERİ</h2><p>Hizmetler (1) üçüncü taraflarca sağlanan bilgi ve içeriği; (2) mal ve hizmet satıcıları gibi üçüncü taraf web sitelerine veya kaynaklarına bağlantılar; ve (3) doğrudan size satılan üçüncü şahıs ürünleri ve hizmetleri. Lütfen bu bağlantılardan bazılarının üçüncü taraf ortaklar tarafından kodlanmış bağlı kuruluş pazarlama bağlantıları olabileceğini unutmayın. Bu, bağlı kuruluş bağlantılarına tıkladığınızda veya bu bağlantılar aracılığıyla alışveriş yaptığınızda bir komisyon kazanabileceğimiz ve bağlı ortakların Hizmetleri kullanımınızı anlamak için çerezleri kullanabileceği anlamına gelir. Bağlı kuruluş pazarlama uygulamalarımız hakkında daha fazla bilgi için lütfen Zarla Reklam Açıklamasına bakın. Zarla, bu tür harici sitelerin veya kaynakların mevcudiyetinden sorumlu değildir ve (i) bu tür siteler veya kaynaklarda bulunan veya bunlardan temin edilebilen herhangi bir içerik, reklam, ürün veya diğer materyalleri, (ii) bunları onaylamaz ve bunlardan sorumlu veya yükümlü değildir. bu web siteleri veya kaynaklardaki herhangi bir hata veya eksiklik veya (iii) bu tür sitelerin veya kaynakların operatörlerinin herhangi bir bilgi işleme uygulamaları veya diğer ticari uygulamaları. Ayrıca, Zarla'nın bağlantılı sitelerin veya kaynakların kullanımından veya bunlara güvenilmesinden kaynaklanan veya neden olduğu iddia edilen herhangi bir zarar veya kayıptan doğrudan veya dolaylı olarak sorumlu veya yükümlü olmayacağını kabul ve beyan edersiniz. Bu tür üçüncü taraflarla olan etkileşimleriniz, üçüncü tarafların kendi hizmet koşulları ve gizlilik politikaları ve diğer benzer koşullar tarafından yönetilecektir.</p><h2 id=10-deGISIklIk-ve-fesIh>10. DEĞİŞİKLİK VE FESİH</h2><p>10.1 Hizmetlerin Değiştirilmesi. Zarla, Hizmetleri (veya herhangi bir bölümünü) bildirimde bulunarak veya bulunmaksızın herhangi bir zamanda geçici veya kalıcı olarak değiştirme veya durdurma hakkını saklı tutar. Zarla'nın Hizmetlerin herhangi bir şekilde değiştirilmesi, askıya alınması veya durdurulmasından dolayı size veya herhangi bir üçüncü tarafa karşı sorumlu olmayacağını kabul edersiniz.</p><p>10.2 Sonlandırma. Bu Koşullar, siz veya bizim tarafımızdan feshedilmedikçe ve feshedilene kadar geçerlidir. Tamamen kendi takdirimize bağlı olarak, herhangi bir zamanda veya herhangi bir nedenle, size bildirimde bulunarak veya bulunmadan Hizmetlerin tümüne veya bir kısmına erişiminizi engelleyebiliriz. Bu tür bir fesih gerekçesi, (a) bu Koşulların veya diğer anlaşmaların ihlallerini veya ihlallerini, (b) kolluk kuvvetleri veya devlet kurumlarının taleplerini, (c) Hizmetlerin (veya herhangi bir bir kısmı), (d) beklenmeyen teknik veya güvenlik sorunları veya sorunları, (e) uzun süreli hareketsizlik (f) Zarla'nın, acentelerinin ve bağlı kuruluşlarının, kullanıcılarının ve kamuoyunun haklarını, mülkiyetini veya güvenliğini korumaya ilişkin faaliyetler; veya (g) kayıt bilgileri de dahil olmak üzere yanlış, yanlış, güncelliğini yitirmiş veya eksik herhangi bir bilgi verirseniz. Hizmetlere erişim hakkınızı sebepsiz yere feshedersek, fesih anında bekleyen herhangi bir siparişle ilgili olarak size karşı olan yükümlülüklerimizi yerine getireceğiz. Hesabınızı feshederseniz, fesihten önce yapılan herhangi bir satın alma işlemi için bu Koşullar kapsamında sorumlu olmaya devam edeceksiniz. Hizmetlere erişim hakkınızı feshedersek, bu Koşullar sona erecek ve Hizmetlere erişim hakkınız derhal sona erecektir; ancak, bu Koşulların belirli hükümleri, Zorunlu Tahkim ve Toplu Dava Feragati hükümleri dahil ancak bunlarla sınırlı olmamak üzere, fesih sonrası geçerli olmaya devam edecektir. Hesabınızın feshedilmesi, Zarla'nın takdirine bağlı olarak, hesabınızın ve/veya Kullanıcı İçeriğinin silinmesini de içerebilir.</p><h2 id=11-zorunlu-tahkIm-ve-toplu-dava-feragati>11. ZORUNLU TAHKİM VE TOPLU DAVA FERAGATI</h2><p>LÜTFEN BU BÖLÜMÜ DİKKATLİCE OKUYUN. MAHKEMEDE DAVA AÇMA HAKKINIZ DAHİL YASAL HAKLARINIZI ETKİLER.</p><p>11.1 Uygulama. Siz ve Zarla, bu Koşulların eyaletler arası ticareti etkilediğini ve bu tahkim hükümlerinin yorumlanması ve uygulanmasının Federal Tahkim Yasası'na tabi olduğunu kabul edersiniz. Bu Bölümün geniş bir şekilde yorumlanması amaçlanmıştır ve sözleşmeye, haksız fiile, tüzüğe, dolandırıcılığa, yanlış beyana veya herhangi bir temele dayalı olsun, aramızdaki ilişkinin herhangi bir yönünden kaynaklanan veya bununla ilgili iddialar dahil ancak bunlarla sınırlı olmamak üzere aramızdaki tüm anlaşmazlıkları yönetir. diğer hukuk teorisi; bu Koşullardan veya önceki herhangi bir sözleşmeden önce ortaya çıkan iddialar (reklamla ilgili iddialar dahil ancak bunlarla sınırlı olmamak üzere); ve bu Koşulların sona ermesinden sonra ortaya çıkabilecek iddialar. Bu geniş yasağın dışında kalan tek anlaşmazlıklar, aşağıda belirtildiği gibi belirli fikri mülkiyet hakları ve küçük mahkeme davalarına ilişkin davalardır.</p><p>11.2 İlk Anlaşmazlık Çözümü. Çoğu anlaşmazlık, tahkime başvurmadan çözülebilir. Bizimle herhangi bir anlaşmazlığınız varsa, herhangi bir resmi işlem yapmadan önce, hello@zarla.com adresinden bizimle iletişime geçeceğinizi ve anlaşmazlığın kısa, yazılı bir açıklamasını ve iletişim bilgilerinizi (anlaşmazlığınız varsa kullanıcı adınız dahil) sağlamayı kabul edersiniz. bir hesapla ilgilidir). Fikri mülkiyet ve küçük alacaklar mahkemesi talepleri dışında, taraflar herhangi bir anlaşmazlığı, iddiayı, soruyu veya anlaşmazlığı doğrudan Zarla ile istişare ederek çözmek için ellerinden gelenin en iyisini yapmayı kabul ederler ve iyi niyetli müzakereler, taraflardan herhangi birinin dava açması veya dava açması için bir koşul olacaktır. Tahkim.</p><p>11.3 Bağlayıcı Tahkim. Taraflar, yukarıdaki İlk Uyuşmazlık Çözümü hükmü uyarınca gayri resmi uyuşmazlık çözümünün başlatıldığı tarihten itibaren altmış (60) gün içinde üzerinde anlaşmaya varılan bir çözüme ulaşamazlarsa, taraflardan herhangi biri, iddiaları çözmenin tek yolu olarak bağlayıcı tahkimi başlatabilir. , (aşağıdaki bölüm 11.7'de sağlananlar hariç) aşağıda belirtilen şartlara tabidir. Spesifik olarak, bu Koşullardan (Şartların oluşumu, performansı ve ihlali dahil), tarafların birbirleriyle olan ilişkisinden ve/veya Zarla'yı kullanımınızdan kaynaklanan veya bunlarla ilgili tüm iddialar, JAMS tarafından yönetilen bağlayıcı tahkim yoluyla nihai olarak karara bağlanacaktır. 250.000 ABD Dolarını aşmayan iddialar için JAMS Kolaylaştırılmış Tahkim Prosedürü Kuralları ve tahkim başlatıldığında yürürlükte olan 250.000 ABD Dolarını aşan iddialar için JAMS Kapsamlı Tahkim Kuralları ve Prosedürleri uyarınca, toplu davaları yöneten veya bunlara izin veren kurallar veya prosedürler hariçtir.</p><p>11.4 Hakemin Yetkileri. Hakem, herhangi bir federal, eyalet veya yerel mahkeme veya kurum değil, bu Koşulların yorumlanması, uygulanabilirliği, uygulanabilirliği veya oluşturulmasından kaynaklanan veya bunlarla ilgili tüm anlaşmazlıkları çözme konusunda münhasır yetkiye sahip olacaktır. Bu Şartların tamamı veya herhangi bir kısmı, bir iddianın tahkime tabi olup olmadığına veya dava yoluyla feragat konusuna tabi olup olmadığına bakılmaksızın geçersiz veya geçersizdir. Hakem, kanun veya hakkaniyet çerçevesinde bir mahkemede mevcut olabilecek her türlü yardımı verme yetkisine sahip olacaktır. Hakem kararı yazılı olacak ve taraflar üzerinde bağlayıcı olacaktır ve herhangi bir yetkili mahkemede karar olarak kabul edilebilir.</p><p>11.5 Talepte Bulunma. Tahkim başlatmak için aşağıdakileri yapmanız gerekir: (a) Talebin tanımını ve telafi etmeye çalıştığınız zarar miktarını içeren bir Tahkim Talebi Yazın (Tahkim Talebi'nin bir kopyasını www.jamsadr adresinde bulabilirsiniz). .com); (b) Tahkim Talebi'nin üç kopyasını artı uygun dosyalama ücretini JAMS, Two Embarcadero Center, Suite 1500, San Francisco California 94111'e gönderin; ve (c) Tahkim Talebi'nin bir kopyasını Zarla, Attn: Legal Department, 340 S Lemon Ave #3577 Walnut CA 91789 adresinden bize gönderin.</p><p>Tahkim için başvuru ücretinin dava açma maliyetini aşması durumunda, Zarla ek ücreti ödeyecektir. Hakem, tahkimin önemsiz olduğunu tespit ederse, Zarla dosyalama ücretleri ve hakem ve duruşma masrafları dahil olmak üzere JAMS tarafından fatura edilen ücretleri ödeyecektir. Tahkim kuralları ve/veya yürürlükteki yasalar aksini öngörmediği sürece, kendi avukat ücretlerinden siz sorumlusunuz.</p><p>Taraflar, bu zorunlu tahkim hükmünün yokluğunda mahkemede dava açma ve jüri yargılaması yapma haklarına sahip olacaklarını anlarlar. Ayrıca, bazı durumlarda tahkim masraflarının dava masraflarını aşabileceğini ve keşif hakkının tahkimde mahkemeden daha sınırlı olabileceğini anlıyorlar. Tahkim, siz ve ikimiz başka bir yer veya telefonla tahkim konusunda anlaşmadıkça, başvuru sırasında ikamet ettiğiniz ilçede yapılabilir.</p><p>11.6 Toplu Dava Feragatı. Taraflar ayrıca, tahkimin bir grup davası veya başka bir temsili dava olarak değil, yalnızca tarafların ilgili bireysel kapasitelerinde yürütüleceğini kabul eder ve taraflar toplu dava açma veya toplu olarak çözüm arama hakkından açıkça feragat eder. SİZ VE Zarla, HER BİRİNİZİN SADECE SİZİN VEYA BİREYSEL KAPASİTELERİNDE DİĞERLERİNE KARŞI İDDİA EDEBİLECEKLERİNİ VE HERHANGİ BİR SINIF VEYA TEMSİLCİ İŞLEMDE DAVACI VEYA SINIF ÜYESİ OLARAK DEĞİL, KABUL EDİYORSUNUZ. Herhangi bir mahkeme veya hakem, bu paragrafta belirtilen toplu davadan feragatin herhangi bir nedenle geçersiz veya uygulanamaz olduğuna veya bir tahkimin toplu olarak devam edebileceğine karar verirse, yukarıda belirtilen tahkim hükümleri bütünüyle geçersiz ve hükümsüz sayılacaktır. ve taraflar anlaşmazlıkları tahkim konusunda anlaşmamış sayılırlar.</p><p>11.7 İstisna: Fikri Mülkiyet Davaları ve Küçük Alacaklar Mahkemesi Davaları. Tarafların tüm ihtilafları tahkim yoluyla çözme kararına bakılmaksızın, taraflardan herhangi biri, eyalet veya federal mahkemede veya ABD Patent ve Ticari Marka Ofisinde hırsızlık, korsanlık veya fikri mülkiyetin yetkisiz kullanımından kaynaklanan veya bunlarla ilgili icra davaları, geçerlilik tespitleri veya iddialar getirebilir. fikri mülkiyet haklarını korumak (“fikri mülkiyet hakları”, patentler, telif hakları, manevi haklar, ticari markalar ve ticari sırlar anlamına gelir, ancak gizlilik veya tanıtım hakları değildir). Her iki taraf da, o mahkemenin yargı yetkisi kapsamındaki anlaşmazlıklar veya talepler için bir asliye mahkemesinde çözüm arayabilir.</p><p>11.8 30 Günlük Vazgeçme Hakkı: Merhaba@zarla.com adresine yazılı bir bildirim göndererek, yukarıda belirtilen tahkim ve toplu dava feragat hükümlerine bağlı kalmama ve vazgeçme hakkına sahipsiniz. konu satırı, "TAHKİM VE TOPLU DAVA FERAGATİNDEN ÇIKIŞ." Bildirim, Hizmetleri ilk kullanımınızdan itibaren otuz gün içinde gönderilmelidir. Aksi takdirde, bu paragrafların şartlarına uygun olarak anlaşmazlıkları tahkim etmekle yükümlü olacaksınız. Bu tahkim hükümlerinden vazgeçerseniz, Zarla da bunlara bağlı olmayacaktır.</p><p>11.9 Bu Bölümde Yapılan Değişiklikler: Zarla, bu bölümde yapılan herhangi bir değişikliği, Hizmetler'de ilan ederek otuz (30) gün önceden bildirecektir. Değişiklikler, Hizmetlerde yayınlandıktan veya size e-posta ile gönderildikten otuz (30) gün sonra yürürlüğe girecektir. Aksi takdirde, bu bölümdeki değişiklikler, yalnızca otuzuncu (30.) günden sonra ortaya çıkan talepler için ileriye dönük olarak uygulanacaktır. Bir mahkeme veya hakem, “Bu Bölümdeki Değişiklikler” ile ilgili bu alt bölümün uygulanabilir veya geçerli olmadığına karar verirse, bu alt bölüm, Zorunlu Tahkim ve Toplu Dava Feragati başlıklı bölümden ayrılır ve mahkeme veya hakem, ilk Zorunlu Tahkim'i uygular. ve Grup Davasından Feragat bölümü, Hizmetleri kullanmaya başladıktan sonra mevcut olacaktır.</p><h2 id=12-denetim-yasasi-ve-bolunebilirlik>12. Denetim Yasası ve Bölünebilirlik</h2><p>Bu Şartlar, kanunlar ihtilafı hükümlerine bakılmaksızın, Kaliforniya Eyaleti kanunlarına göre yorumlanacaktır. Bu Koşulların herhangi bir bölümünün geçersiz olduğu kabul edilirse, diğer tüm hükümler tam olarak yürürlükte kalırken, mümkün olduğu kadar etkili bir şekilde uygulanacaktır.</p><h2 id=13-genel-Sartlar>13. GENEL ŞARTLAR</h2><p>13.1 Mücbir Sebep. Hiçbir koşulda Zarla veya lisans vereni veya tedarikçisi, makul kontrolü dışındaki bir olaydan doğrudan veya dolaylı olarak kaynaklanan herhangi bir gecikme veya performans hatasından sorumlu tutulamaz.</p><p>13.2 Feragat Olmaması; Bölünebilirlik. Bu Şartların herhangi bir şartından feragat edilmesi, yazılı olmadıkça bağlayıcı olmayacaktır, bu Şartların herhangi bir şartından feragat edilmesi, söz konusu şarttan veya başka bir şarttan daha fazla veya sürekli olarak feragat edildiği ve Zarla'nın herhangi bir hakkı kullanmaması veya uygulamaması olarak kabul edilmeyecektir. veya bu Koşullardaki çözüm yolu, bu haktan veya çözümden feragat etmez. Bir hakem veya yetkili bir mahkeme, bu Şartların herhangi bir hükmünü geçersiz bulması halinde, taraflar, mahkemenin, kanunun izin verdiği azami ölçüde, hükümde yansıtıldığı gibi tarafların niyetlerini yürürlüğe koymaya çalışması gerektiğini kabul eder, ve bu Koşulların diğer hükümleri tam olarak yürürlükte ve yürürlükte kalacaktır.</p><p>13.3 Üçüncü Taraf Yararlanıcılar. Bu Koşullarda aksi açıkça belirtilmedikçe, bu Koşulların üçüncü taraf lehtarlarının olmayacağını kabul edersiniz.</p><p>13.4 Çeşitli. Bu Koşullar (ve burada yer alan tüm hüküm ve koşullar), sizinle Zarla arasındaki sözleşmenin tamamını oluşturur ve Zarla tarafından sağlanan Hizmetleri, Hizmetleri ve ürünleri kullanımınızı düzenler ve konuyla ilgili olarak sizinle Zarla arasında daha önce yapılmış tüm sözleşmelerin yerine geçer. Bu Koşullar ve burada verilen haklar veya lisanslar sizin tarafınızdan devredilemez veya devredilemez. Bu Koşullar ve burada verilen haklar veya lisanslar, kısıtlama olmaksızın Zarla tarafından devredilebilir veya devredilebilir. Bu Koşullar, her bir tarafın ve tarafın haleflerinin ve izin verilen atamaların yararına bağlayıcıdır ve hüküm ifade eder. Bu Koşullar, Zarla'nın bir temsilcisinin sözlü beyanı ile değiştirilemez. Bu Koşullar ile hiçbir acente, ortaklık, ortak girişim veya çalışan-işveren ilişkisi amaçlanmamıştır veya oluşturulmamıştır. Sizinle bizim aramızda elektronik ortamda yapılan tüm anlaşmaların, fiziksel yazılı olarak yapılmış gibi yasal olarak bağlayıcı olduğunu kabul etmektesiniz. Bu Şartlar, taslağı hazırlayana karşı yorumlanmayacaktır. "Dahil(ler)" veya "dahil", aksi açıkça belirtilmedikçe, sırasıyla "sınırlama olmaksızın dahil(ler)" veya "sınırlama olmaksızın dahil" anlamına gelir. Hizmetleri ABD hükümeti için veya onun adına kullanıyorsanız, lisans haklarınız devlet dışı tüketicilere verilenleri aşamaz. Bu Koşullardaki bölüm başlıkları yalnızca kolaylık sağlamak içindir ve hiçbir yasal veya sözleşmeye dayalı etkisi yoktur.</p><p>13.5 Bildirimler. Bildirimi size e-posta yoluyla, Hizmetlere bir bildirim göndererek veya seçtiğimiz başka bir yöntemle iletebiliriz ve bu bildirim gönderim anında geçerli olacaktır. Bize bildirimde bulunursanız, bu bildirim alındığında geçerli olacaktır ve aşağıdaki fiziksel adresi veya e-posta adresini kullanmanız gerekir: (1) Zarla, 2093 Philadelphia Pike #2555 Claymont DE 19703 Amerika Birleşik Devletleri; veya (2) merhaba@zarla.com.</p><h2 id=14-sorular>14. SORULAR</h2><p>Bu Koşullar hakkında herhangi bir sorunuz varsa, lütfen bizimle hello@zarla.com adresinden e-posta yoluyla iletişime geçin.
-Son Güncelleme: 22, 2021 Pazartesi.</p></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1","name":"Kullanım Koşulları"},"headline":"Kullanım Koşulları","description":"Zarla kullanım koşullarını okuyun ve inceleyin.","image":["https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-02-21T16:52:00-06:00","dateModified":"2022-10-06T16:40:14-05:00","publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+Son Güncelleme: 22, 2021 Pazartesi.</p></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1","name":"Kullanım Koşulları"},"headline":"Kullanım Koşulları","description":"Zarla kullanım koşullarını okuyun ve inceleyin.","image":["https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-terms-of-use-3999x2666-20210222.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-02-21T16:52:00-06:00","dateModified":"2022-10-06T16:40:14-05:00","publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -104,27 +104,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/tr">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Dil</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/terms-of-use">English</a></li><li><a
-href="https://www.zarla.com/es/t%C3%A9rminos-de-uso">Español</a></li><li><a
-href="https://www.zarla.com/it/termini-di-utilizzo">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/conditions-dutilisation">Français</a></li><li><a
-href="https://www.zarla.com/de/nutzungsbedingungen">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/termos-de-uso">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/gebruiksvoorwaarden">Nederlands</a></li><li
+href="https://www.notzarla.com/terms-of-use">English</a></li><li><a
+href="https://www.notzarla.com/es/t%C3%A9rminos-de-uso">Español</a></li><li><a
+href="https://www.notzarla.com/it/termini-di-utilizzo">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/conditions-dutilisation">Français</a></li><li><a
+href="https://www.notzarla.com/de/nutzungsbedingungen">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/termos-de-uso">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/gebruiksvoorwaarden">Nederlands</a></li><li
 class="current" style="color: #3041c4;">Türkçe</li><li><a
-href="https://www.zarla.com/pl/regulamin">Polski</a></li><li><a
-href="https://www.zarla.com/id/syarat-penggunaan">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/pl/regulamin">Polski</a></li><li><a
+href="https://www.notzarla.com/id/syarat-penggunaan">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Kaynaklar</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/tr/rehberler/logo-fikirleri">
+href="https://www.notzarla.com/tr/rehberler/logo-fikirleri">
 Logo Fikirleri
 </a></li><li>
 <a
@@ -132,7 +132,7 @@ href="/tr">
 AI Web Sitesi Oluşturma Aracı
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
+href="https://www.notzarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
 Ücretsiz Logo Oluşturucu
 </a></li><li>
 <a
@@ -140,15 +140,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
+href="https://www.notzarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
 Kullanım Koşulları
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
+href="https://www.notzarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
 Telif Hakkı Politikası
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/gizlilik-politikas%C4%B1">
+href="https://www.notzarla.com/tr/gizlilik-politikas%C4%B1">
 Gizlilik Politikası
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

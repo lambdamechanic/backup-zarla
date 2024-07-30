@@ -7,25 +7,25 @@ property="og:title" content="Ejemplos de sitios web de talleres - 5 reseñas de 
 property="og:description" content="A continuación te presentamos 5 ejemplos de sitios web de talleres con distintas temáticas que animan a los internautas a ampliar sus habilidades." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres"><meta
+property="og:url" content="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="es"><meta
-property="og:image" content="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres"><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres" hreflang="es" /><link
+rel="canonical" href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres"><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres" hreflang="es" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="websiteExamples"><header
 class="header"><div
 class="container"><nav
@@ -34,10 +34,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/es">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/es"
+href="https://www.notzarla.com/es"
 class="btn btn-primary cta-nav
 "
 >
@@ -51,9 +51,9 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/es/gu%C3%ADas">Guías</a></li><li
+href="https://www.notzarla.com/es/gu%C3%ADas">Guías</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web">Ejemplos de sitios web</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guías","item":"https://www.zarla.com/es/gu%C3%ADas"},{"@type":"ListItem","position":2,"name":"Ejemplos de sitios web","item":"https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web"},{"@type":"ListItem","position":3,"name":"Ejemplos de sitios web de talleres - 5 reseñas de páginas web que invitan a participar","item":"https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres"}]}</script> <div
+href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web">Ejemplos de sitios web</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guías","item":"https://www.notzarla.com/es/gu%C3%ADas"},{"@type":"ListItem","position":2,"name":"Ejemplos de sitios web","item":"https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web"},{"@type":"ListItem","position":3,"name":"Ejemplos de sitios web de talleres - 5 reseñas de páginas web que invitan a participar","item":"https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Ejemplos de sitios web de talleres - 5 reseñas de páginas web que invitan a participar</h1><div
 class="card-body"><div
@@ -62,14 +62,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-laura-tella-800x800-2024058.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-laura-tella-800x800-2024058.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Foto de perfil de Laura Tella - Copywriter de Zarla."
 /></div><div
 class="card-byline-details">
 <span>Por <a
-class="card-byline-author" href="https://www.zarla.com/es/colaboradores/laura-tella">Laura Tella</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/es/colaboradores/laura-tella">Laura Tella</a>,</span>
 <span
 class="card-byline-date">26 jul 2024</span><div
 class="card-byline-bio">
@@ -78,21 +78,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Una instructora con dos alumnos sentados en una mesa de un taller de arte."
@@ -166,12 +166,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Filmadores"
@@ -211,14 +211,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>El sitio WAVE señala muchos errores de contraste entre fondo y texto que afectan la legibilidad del contenido, así como imágenes que no contienen un texto alternativo. A su vez, la gran mayoría de las fotografías del catálogo de cursos no están adaptadas correctamente, lo que da una impresión poco profesional debido al nicho de la web.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -232,14 +232,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En la versión para escritorio el sitio incluye información detallada sobre cada taller y curso, y sobre quienes los imparten. EL proceso de inscripción es muy sencillo una vez que se haya abierto una cuenta, ya que se puede hacer directamente desde la página de inicio.</p><p>Además, el contenido multimedia a lo largo de la página es creado por Filmadores en distintas plataformas, lo que genera confianza en su trabajo. En general, el sitio se carga razonablemente rápido con excepción del banner principal que puede tardar en completarse. Por lo anterior, PageSpeed Insights de Google le dio una puntuación de 72/100 en rendimiento.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-m%C3%B3vil.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-m%C3%B3vil.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-filmadores-20240717-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -264,12 +264,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Planeta Mustakis"
@@ -309,14 +309,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>A lo largo de la página web el contenido escrito puede apreciarse un tanto pequeño y, por ende, un poco difícil de leer. Se podría mejorar la experiencia con un chat de atención al cliente para aclarar dudas más específicas. Además, el sitio WAVE señala demasiados errores de contraste entre fondo y texto que también afectan la legibilidad.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -330,14 +330,14 @@ height="50"
 /></div><div
 class="entry-text"><p>La versión de escritorio aprovecha el uso de los espacios en blanco en el texto y facilita la lectura de la información. Al entrar a alguna de las secciones aparece un menú que despliega opciones que son interesantes como "Inspiración" o "Centramientos", sin embargo, éstas pueden pasar desapercibidas ya que no se muestran en la página principal.</p><p>El proceso de inscripción a los cursos puede ser un poco largo la primera vez que se realiza, ya que es previo registro de una cuenta, sin embargo es muy sencillo. Por otro lado, PageSpeed Insights le otorgó a la web una puntuación de 87/100 en rendimiento, ya que los elementos más grandes del diseño pueden lentificar la carga del sitio.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-m%C3%B3vil.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-m%C3%B3vil.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-planeta-mustakis-20240717-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -362,12 +362,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Punto Madera"
@@ -407,14 +407,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>WAVE indica errores de contraste entre el fondo y el texto, que además, cuenta con algunas faltas de ortografía. Hasta el momento de realizar este reseña, el botón "MAS INFO" no redirige a ninguna sección, lo que puede ser confuso, y el bloque "¿Y CUANTO VALE ESTO TAN BUENO?" tiene un error en la versión móvil que no permite leerlo claramente.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -428,14 +428,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En esta versión, el proceso de inscripción no se puede hacer en línea directamente, es necesario contactar al taller por teléfono o correo, o enviarles un mensaje desde el formulario del sitio y esperar por su respuesta. A su vez, la inclusión del mapa y la dirección exacta de las instalaciones resulta muy útil.</p><p>La velocidad de carga del sitio es muy eficiente y permite interactuar con rapidez, razón por la cual PageSpeed Insights le dio una puntuación de 93/100 en rendimiento general.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-m%C3%B3vil.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-m%C3%B3vil.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-punto-madera-20240718-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -460,12 +460,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240718-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240718-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Taller Trescientosuno"
@@ -505,14 +505,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>En algunas secciones el texto parece un poco desorganizado, lo que puede resultar abrumador al buscar información precisa rápidamente. Por otra parte, el banner en la parte inferior de la página que anuncia actividades recientes puede obstruir parte del contenido, por lo que se beneficiaría con un botón para cerrarlo.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240718-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240718-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -526,14 +526,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En esta versión, aunque el proceso de inscripción a los talleres es fácil, se mejoraría la experiencia añadiendo una sección específica con las temáticas y precios de las clases. También se beneficiaría resaltando la sección de "Preguntas frecuentes" y describiendo qué incluye el portal de estudiantes a quienes no tienen acceso.</p><p>Las páginas con muchas imágenes tardan un poco más en cargarse, lo que puede afectar al rendimiento. En consecuencia, PageSpeed Insights le dio una puntuación de 84/100.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240719-m%C3%B3vil.webp.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240719-m%C3%B3vil.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240719-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-talleres-taller-trescientosuno-20240719-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -558,12 +558,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-escritorio.webp.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Fundación Planea"
@@ -603,14 +603,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>En los bloques de texto, la tipografía es algo pequeña para poder leer el contenido fluidamente. A su vez, se mejoraría la experiencia si se resaltaran en todo el contenido los puntos importantes como los horarios, para quienes buscan información rápidamente. El sitio WAVE señala algunos errores de bajo contraste entre fondo y texto.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-escritorio.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-escritorio.webp.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-escritorio.webp.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -624,14 +624,14 @@ height="50"
 /></div><div
 class="entry-text"><p>Para dispositivos de escritorio, el sitio podría beneficiarse en incluir un chat de atención al cliente, ya que aunque la información es vasta, puede ser abrumadora. Además, el proceso de inscripción puede llevar tiempo ya que en ciertas actividades es necesario enviar un correo y en otras solicitar un formulario para enviarlo, por lo que mejoraría le experiencia el llevarlo a cabo directamente desde el sitio.</p><p>En cuanto al rendimiento, PageSpeed Insights le dio un puntuación de 83/100 debido a que los primeros elementos que se cargan en la página hacen el proceso un poco lento.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-m%C3%B3vil.webp.webp"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-m%C3%B3vil.webp.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-fundaci%C3%B3n-planea-20240718-m%C3%B3vil.webp.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -665,68 +665,68 @@ class="container"><h2 class="section-heading">Artículos relacionados</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-talleres">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-talleres">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-ato%CC%88lye-logolar%C4%B1-5797x3865-2023059.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Vista del taller de un artista." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-ato%CC%88lye-logolar%C4%B1-5797x3865-2023059.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Vista del taller de un artista." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-talleres">Logos para talleres</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-talleres">Logos para talleres</a></h3><div
 class="card-text">10 ingeniosas sugerencias de logos para tu taller.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-educaci%C3%B3n">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-educaci%C3%B3n">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/pexels-max-fischer-5212354.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Educador enseñando a sus jóvenes alumnos en un aula en un negocio educativo." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/pexels-max-fischer-5212354.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Educador enseñando a sus jóvenes alumnos en un aula en un negocio educativo." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-educaci%C3%B3n">Logos para educación</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-educaci%C3%B3n">Logos para educación</a></h3><div
 class="card-text">10 excelentes ideas de logos para tu negocio educativo.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-atelier">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-atelier">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-atelier-logos-5797x3865-20231219.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="El atelier de un artista." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-atelier-logos-5797x3865-20231219.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="El atelier de un artista." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-atelier">Logos para atelier</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-atelier">Logos para atelier</a></h3><div
 class="card-text">10 ideas de logos artesanales para tu atelier.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web-4288x2848-20240313.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Tres dispositivos con distintos tipos de diseño web." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web-4288x2848-20240313.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Tres dispositivos con distintos tipos de diseño web." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">¿Cuáles son los tipos de diseño web?</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">¿Cuáles son los tipos de diseño web?</a></h3><div
 class="card-text">Descubre los diferentes tipos de diseños web para que puedas utilizar el más adecuado para tu sitio.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-claves-para-identificar-un-buen-diseo-de-pginas-web-0x0-20240430.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="El diseño de una página web en una computadora sobre un escritorio." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-claves-para-identificar-un-buen-diseo-de-pginas-web-0x0-20240430.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="El diseño de una página web en una computadora sobre un escritorio." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">Claves para identificar un buen diseño de páginas web</a></h3><div
-class="card-text">A continuación, te presentamos algunas claves y tips para obtener el mejor diseño web para tu negocio.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres","name":"Ejemplos de sitios web de talleres - 5 reseñas de páginas web que invitan a participar"},"headline":"Ejemplos de sitios web de talleres - 5 reseñas de páginas web que invitan a participar","description":"A continuación te presentamos 5 ejemplos de sitios web de talleres con distintas temáticas que animan a los internautas a ampliar sus habilidades.","image":["https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-07-17T09:31:00-05:00","dateModified":"2024-07-26T04:18:11-05:00","author":{"@type":"Person","name":"Laura Tella","url":"https://www.zarla.com/es/colaboradores/laura-tella"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">Claves para identificar un buen diseño de páginas web</a></h3><div
+class="card-text">A continuación, te presentamos algunas claves y tips para obtener el mejor diseño web para tu negocio.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-de-talleres","name":"Ejemplos de sitios web de talleres - 5 reseñas de páginas web que invitan a participar"},"headline":"Ejemplos de sitios web de talleres - 5 reseñas de páginas web que invitan a participar","description":"A continuación te presentamos 5 ejemplos de sitios web de talleres con distintas temáticas que animan a los internautas a ampliar sus habilidades.","image":["https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/Zarla-ejemplos-de-sitios-web-de-talleres-5545x3697-20240717.webp?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-07-17T09:31:00-05:00","dateModified":"2024-07-26T04:18:11-05:00","author":{"@type":"Person","name":"Laura Tella","url":"https://www.notzarla.com/es/colaboradores/laura-tella"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -735,7 +735,7 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/es">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
@@ -746,7 +746,7 @@ class="col-md-6 col-lg-3 "><p
 class="footer-category">Recursos</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/ideas-de-logo">
+href="https://www.notzarla.com/es/gu%C3%ADas/ideas-de-logo">
 Ideas de Logo
 </a></li><li>
 <a
@@ -754,11 +754,11 @@ href="/es">
 Creador de sitios web por IA
 </a></li><li>
 <a
-href="https://www.zarla.com/es/creador-de-logos-gratis">
+href="https://www.notzarla.com/es/creador-de-logos-gratis">
 Creador de logos gratis
 </a></li><li>
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso">
+href="https://www.notzarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso">
 Guías paso por paso
 </a></li><li>
 <a
@@ -766,15 +766,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/es/t%C3%A9rminos-de-uso">
+href="https://www.notzarla.com/es/t%C3%A9rminos-de-uso">
 Términos de Uso
 </a></li><li>
 <a
-href="https://www.zarla.com/es/pol%C3%ADtica-de-derechos-de-autor">
+href="https://www.notzarla.com/es/pol%C3%ADtica-de-derechos-de-autor">
 Política de Derechos de Autor
 </a></li><li>
 <a
-href="https://www.zarla.com/es/pol%C3%ADtica-de-privacidad">
+href="https://www.notzarla.com/es/pol%C3%ADtica-de-privacidad">
 Política de Privacidad
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

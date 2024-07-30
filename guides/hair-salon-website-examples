@@ -7,26 +7,26 @@ property="og:title" content="Hair Salon Website Examples - 5 In-Depth Reviews of
 property="og:description" content="These 10 hair salon websites showcase diverse hair care services with appealing and easy-to-navigate sites on all devices." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/guides/hair-salon-website-examples"><meta
+property="og:url" content="https://www.notzarla.com/guides/hair-salon-website-examples"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="en"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/guides/hair-salon-website-examples"><link
-rel="alternate" href="https://www.zarla.com/guides/hair-salon-website-examples" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/hair-salon-website-examples" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/beispiele-f%C3%BCr-friseur-websites" hreflang="de" /><link
+rel="canonical" href="https://www.notzarla.com/guides/hair-salon-website-examples"><link
+rel="alternate" href="https://www.notzarla.com/guides/hair-salon-website-examples" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/hair-salon-website-examples" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/beispiele-f%C3%BCr-friseur-websites" hreflang="de" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="websiteExamples"><header
 class="header"><div
 class="container"><nav
@@ -35,10 +35,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/"
+href="https://www.notzarla.com/"
 class="btn btn-primary cta-nav
 "
 >
@@ -52,11 +52,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides">Guides</a></li><li
+href="https://www.notzarla.com/guides">Guides</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides/website-examples">Website Examples</a></li><li
+href="https://www.notzarla.com/guides/website-examples">Website Examples</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides/website-examples/professional-scientific-and-technical-services">Professional, Scientific, and Technical Services</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/guides"},{"@type":"ListItem","position":2,"name":"Website Examples","item":"https://www.zarla.com/guides/website-examples"},{"@type":"ListItem","position":3,"name":"Professional, Scientific, and Technical Services","item":"https://www.zarla.com/guides/website-examples/professional-scientific-and-technical-services"},{"@type":"ListItem","position":4,"name":"Hair Salon Website Examples - 5 In-Depth Reviews of Elegant Sites That Attract Customers","item":"https://www.zarla.com/guides/hair-salon-website-examples"}]}</script> <div
+href="https://www.notzarla.com/guides/website-examples/professional-scientific-and-technical-services">Professional, Scientific, and Technical Services</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.notzarla.com/guides"},{"@type":"ListItem","position":2,"name":"Website Examples","item":"https://www.notzarla.com/guides/website-examples"},{"@type":"ListItem","position":3,"name":"Professional, Scientific, and Technical Services","item":"https://www.notzarla.com/guides/website-examples/professional-scientific-and-technical-services"},{"@type":"ListItem","position":4,"name":"Hair Salon Website Examples - 5 In-Depth Reviews of Elegant Sites That Attract Customers","item":"https://www.notzarla.com/guides/hair-salon-website-examples"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Hair Salon Website Examples - 5 In-Depth Reviews of Elegant Sites That Attract Customers</h1><div
 class="card-body"><div
@@ -65,14 +65,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/cl-20240522_2024-06-03-112510_nwiw.jpg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/cl-20240522_2024-06-03-112510_nwiw.jpg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Carla Lottering"
 /></div><div
 class="card-byline-details">
 <span>By <a
-class="card-byline-author" href="https://www.zarla.com/contributors/carla-lottering">Carla Lottering</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/contributors/carla-lottering">Carla Lottering</a>,</span>
 <span
 class="card-byline-date">Jul 23, 2024</span><div
 class="card-byline-bio">
@@ -81,21 +81,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="A hairstylist working with a client in a hair salon."
@@ -204,12 +204,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-hair-nerd-desktop-3840x11298-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hair-nerd-desktop-3840x11298-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-hair-nerd-desktop-3840x11298-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hair-nerd-desktop-3840x11298-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hair-nerd-desktop-3840x11298-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hair-nerd-desktop-3840x11298-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Hair Nerd"
@@ -249,14 +249,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>While the site's pastel color scheme is fun, it does not offer sufficient contrast between the background and content sections. As such, WAVE picked up a large number of errors throughout the site.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-hair-nerd-desktop-3840x11298-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-hair-nerd-desktop-3840x11298-20240612.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hair-nerd-desktop-3840x11298-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hair-nerd-desktop-3840x11298-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -270,14 +270,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site does a good job of conveying the salon's ethos and wide range of services, placing an emphasis on individuality and creativity with its fun style gallery of hair transformations. The online booking form is user-friendly and site navigation is relatively simple. However, many of the website's headings and CTA buttons get lost in the pastel color scheme.</p><p>According to Google's PageSpeed Insights test, the website's pages load quite fast, contributing to its high performance score of 88/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-hair-nerd-mobile-824x12422-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-hair-nerd-mobile-824x12422-20240612.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hair-nerd-mobile-824x12422-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hair-nerd-mobile-824x12422-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -302,12 +302,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-mirror-mirror-20240612-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-mirror-mirror-20240612-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-mirror-mirror-20240612-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-mirror-mirror-20240612-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-mirror-mirror-20240612-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-mirror-mirror-20240612-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Mirror Mirror"
@@ -347,14 +347,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>While the website has its telephone number at the top of the home page, its "Contact Us" button could be more prominent. WAVE picked up several instances of insufficient contrast ratios throughout the website, which could be improved for a more user-friendly experience.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-mirror-mirror-20240612-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-mirror-mirror-20240612-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-mirror-mirror-20240612-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-mirror-mirror-20240612-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -368,14 +368,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop website maintains the salon's elegance with polished images, while its content sections ensure visitors are well-informed of the salon's ethos and approach to hair services. A comprehensive FAQs section sheds light on the salon's booking process and pricing structure, which promotes transparency and trustworthiness. While site navigation presents no obstacles, the desktop site has slow loading times.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/mirrormirroraustin.com_Mobile-412x8191dpr2.png"
+data-src="https://www.notzarla.com/images/mirrormirroraustin.com_Mobile-412x8191dpr2.png"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/mirrormirroraustin.com_Mobile-412x8191dpr2.png?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/mirrormirroraustin.com_Mobile-412x8191dpr2.png?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -400,12 +400,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-hair-parlour-3840x8479-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hair-parlour-3840x8479-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-hair-parlour-3840x8479-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hair-parlour-3840x8479-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hair-parlour-3840x8479-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hair-parlour-3840x8479-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website The Parlour"
@@ -445,14 +445,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site's top menu bar is quite small and could be enlarged for easier readability. The "Book Now" page takes a long time to load, which may deter clients from using the online form.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-hair-parlour-3840x8479-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-hair-parlour-3840x8479-20240612.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hair-parlour-3840x8479-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hair-parlour-3840x8479-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -466,14 +466,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop version uses sophisticated design elements to convey its ethos of high-quality services, which is a slight juxtaposition of its hero image's tagline "Your Friendly Neighborhood Hair Salon." The online booking process is seamless, but the website could benefit from additional images featuring the salon and their stylists in action to give users a better overview of the space.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/arla-hair-parlour-mobile-824x10272-20240612.webp"
+data-src="https://www.notzarla.com/images/arla-hair-parlour-mobile-824x10272-20240612.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/arla-hair-parlour-mobile-824x10272-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/arla-hair-parlour-mobile-824x10272-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -498,12 +498,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-hair-loft-studio-3840x16198-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hair-loft-studio-3840x16198-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-hair-loft-studio-3840x16198-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hair-loft-studio-3840x16198-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hair-loft-studio-3840x16198-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hair-loft-studio-3840x16198-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Hair Loft Studio"
@@ -543,14 +543,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The CTA buttons in the top-right corner of the website could be more prominent to ensure optimal user engagement. The site could also benefit from a comprehensive selection of images depicting the salon space.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-hair-loft-studio-3840x16198-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-hair-loft-studio-3840x16198-20240612.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hair-loft-studio-3840x16198-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hair-loft-studio-3840x16198-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -564,14 +564,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop website's charming design elements and informative content represent the salon's classic style in a visually appealing manner. The spacious layout is slightly overwhelming but allows the large headings and images to shine, albeit excessive scrolling is needed to find specific information. The site's page loading times should also be optimized for a more seamless user experience.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-hair-loft-studio-824x16368-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-hair-loft-studio-824x16368-20240612.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hair-loft-studio-824x16368-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hair-loft-studio-824x16368-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -596,12 +596,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-hair-du-jour-salon-3840x11696-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hair-du-jour-salon-3840x11696-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-hair-du-jour-salon-3840x11696-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hair-du-jour-salon-3840x11696-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hair-du-jour-salon-3840x11696-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hair-du-jour-salon-3840x11696-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Hair du Jour Salon"
@@ -641,14 +641,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The website's home and services pages are overstuffed with SEO keywords, which could lead to a negative user experience. WAVE picked up several contrast errors and more prominent CTA buttons would serve the site well.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-hair-du-jour-salon-3840x11696-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-hair-du-jour-salon-3840x11696-20240612.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hair-du-jour-salon-3840x11696-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hair-du-jour-salon-3840x11696-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -662,14 +662,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop website exudes elegance with clean design elements that ensure all content is easily readable. Clients can also easily shop the salon's hair treatment product range with an intuitive payment and checkout process. However, there are several tools missing from the site, including an online booking form and a dedicated customer reviews section.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-hair-du-jour-salon-824x15846-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-hair-du-jour-salon-824x15846-20240612.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hair-du-jour-salon-824x15846-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hair-du-jour-salon-824x15846-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -694,12 +694,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-oscar-oscar-salons-3840x16115-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-oscar-oscar-salons-3840x16115-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-oscar-oscar-salons-3840x16115-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-oscar-oscar-salons-3840x16115-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-oscar-oscar-salons-3840x16115-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-oscar-oscar-salons-3840x16115-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Oscar Oscar Salons"
@@ -739,14 +739,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The "About" section does not give a comprehensive overview of the salon's stylists, and the addition of images depicting the salon space would give visitors a more in-depth overview of the environment. CTA buttons could also stand to be more prominent in a brighter color or larger typeface.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-oscar-oscar-salons-3840x16115-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-oscar-oscar-salons-3840x16115-20240612.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-oscar-oscar-salons-3840x16115-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-oscar-oscar-salons-3840x16115-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -760,14 +760,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site's performance score of 90/100 on Google's PageSpeed Insights test is well-deserved, thanks to its clean design elements, informative content, and polished images. The FAQs section is a helpful addition for clients interested in the salon's specializations and booking processes. However, some website pages load quite slowly due to the large image files.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-oscar-oscar-salons-824x16170-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-oscar-oscar-salons-824x16170-20240612.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-oscar-oscar-salons-824x16170-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-oscar-oscar-salons-824x16170-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -792,12 +792,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-amanihairstudio-20240716-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-amanihairstudio-20240716-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-amanihairstudio-20240716-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-amanihairstudio-20240716-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-amanihairstudio-20240716-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-amanihairstudio-20240716-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Amani Hair Studio"
@@ -837,14 +837,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The social media icons in the top-left corner of the site are quite small and could be enlarged for added prominence. The "News" page is empty with a line of script occupying the page, hindering the overall user experience. WAVE also picked up a large number of contrast errors on the site.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-amanihairstudio-20240716-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-amanihairstudio-20240716-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-amanihairstudio-20240716-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-amanihairstudio-20240716-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -858,14 +858,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site has a strong yet sophisticated look, with intuitive design elements allowing visitors to easily find important information. Clients can also easily purchase their favorite products from the salon's online store, which includes an intuitive checkout process.</p><p>However, some pages take quite a long time to load and contribute to clunky site navigation. According to Google's PageSpeed Insights test, the site's SEO practices could also be improved upon.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-amanihairstudio-mobile-824x11812-20240717.webp"
+data-src="https://www.notzarla.com/images/zarla-amanihairstudio-mobile-824x11812-20240717.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-amanihairstudio-mobile-824x11812-20240717.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-amanihairstudio-mobile-824x11812-20240717.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -890,12 +890,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-the-boulevard-hair-co-3840x14216-20240612-1.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-the-boulevard-hair-co-3840x14216-20240612-1.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-the-boulevard-hair-co-3840x14216-20240612-1.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-the-boulevard-hair-co-3840x14216-20240612-1.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-the-boulevard-hair-co-3840x14216-20240612-1.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-the-boulevard-hair-co-3840x14216-20240612-1.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website The Boulevard Hair Co."
@@ -935,14 +935,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>WAVE picked up a few contrast errors throughout the site. While the site's geometric motifs and colorful page sections are visually appealing, they distract slightly from the content and the use of more minimalistic design elements could enhance the overall user experience.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-the-boulevard-hair-co-3840x14216-20240612-1.webp"
+data-src="https://www.notzarla.com/images/zarla-the-boulevard-hair-co-3840x14216-20240612-1.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-the-boulevard-hair-co-3840x14216-20240612-1.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-the-boulevard-hair-co-3840x14216-20240612-1.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -956,14 +956,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop website impresses with seamless navigation options and well-organized content that gives visitors an in-depth overview of the salon's services, stylists, and customer reviews. However, the "Gallery" page does not load its images correctly and distracts from the site's professional appeal. The site has a high performance score of 96/100 on Google's PageSpeed Insights test.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-the-boulevard-hair-co-824x15131-20240612-1.webp"
+data-src="https://www.notzarla.com/images/zarla-the-boulevard-hair-co-824x15131-20240612-1.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-the-boulevard-hair-co-824x15131-20240612-1.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-the-boulevard-hair-co-824x15131-20240612-1.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -988,12 +988,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-evolve-hair-studio-3840x13834-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-evolve-hair-studio-3840x13834-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-evolve-hair-studio-3840x13834-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-evolve-hair-studio-3840x13834-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-evolve-hair-studio-3840x13834-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-evolve-hair-studio-3840x13834-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Evolve Hair Studio"
@@ -1033,14 +1033,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>According to WAVE, the website has several contrast errors, particularly between the white text and the black background. The site does not have a footer menu, which may lead to a less user-friendly experience as clients need to scroll all the way to the top to find specific page links.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-evolve-hair-studio-3840x13834-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-evolve-hair-studio-3840x13834-20240612.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-evolve-hair-studio-3840x13834-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-evolve-hair-studio-3840x13834-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -1054,14 +1054,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site effectively captures the salon's aesthetic and ensures visitors are aware of its eco-friendly ethos. The professional-looking images and content align with the salon's brand and allow users to easily peruse essential information, including customer reviews and contact options. However, the website could benefit from a more personable "About" section and more prominent social media links.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-evolve-hair-studio-20240612-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-evolve-hair-studio-20240612-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-evolve-hair-studio-20240612-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-evolve-hair-studio-20240612-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -1086,12 +1086,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-m-company-hair-and-color-lounge-3840x12083-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-m-company-hair-and-color-lounge-3840x12083-20240612.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-m-company-hair-and-color-lounge-3840x12083-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-m-company-hair-and-color-lounge-3840x12083-20240612.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-m-company-hair-and-color-lounge-3840x12083-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-m-company-hair-and-color-lounge-3840x12083-20240612.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website M &amp; Company Hair and Color Lounge"
@@ -1131,14 +1131,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>On the "Meet The Stylists" page, the stylists' images are accompanied by small text blocks, which can be a little hard to read. While the search tool is a helpful addition, its icon is quite small and could be enlarged for more prominence.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-m-company-hair-and-color-lounge-3840x12083-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-m-company-hair-and-color-lounge-3840x12083-20240612.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-m-company-hair-and-color-lounge-3840x12083-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-m-company-hair-and-color-lounge-3840x12083-20240612.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -1152,14 +1152,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site is both modern and minimalistic with clean design elements that speak to the salon's professional, no-fuss approach to haircare and styling. The online booking process is intuitive and thanks to the site's ample page links, users have access to pricing and stylist details to ensure they can make an informed decision before booking.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-m-company-hair-and-color-lounge-824x7832-20240612.webp"
+data-src="https://www.notzarla.com/images/zarla-m-company-hair-and-color-lounge-824x7832-20240612.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-m-company-hair-and-color-lounge-824x7832-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-m-company-hair-and-color-lounge-824x7832-20240612.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -1193,68 +1193,68 @@ class="container"><h2 class="section-heading">Related Articles</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/how-to-start-a-hair-salon">
+class="card-preview" href="https://www.notzarla.com/guides/how-to-start-a-hair-salon">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-start-a-hair-salon-2400x2400-20200818.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="modern interior of a hair salon" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-start-a-hair-salon-2400x2400-20200818.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="modern interior of a hair salon" />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/how-to-start-a-hair-salon">How to Start a Hair Salon</a></h3><div
+href="https://www.notzarla.com/guides/how-to-start-a-hair-salon">How to Start a Hair Salon</a></h3><div
 class="card-text">Learn how to start a hair salon with our step-by-step guide. Get all the details, as well as a free business plan template.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/black-and-white-logos">
+class="card-preview" href="https://www.notzarla.com/guides/black-and-white-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-black-and-white-logos-6000x4000-2021094.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A black and white striped wooden board." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-black-and-white-logos-6000x4000-2021094.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A black and white striped wooden board." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/black-and-white-logos">20 Black and White Logos for You to Use and Customize</a></h3><div
+href="https://www.notzarla.com/guides/black-and-white-logos">20 Black and White Logos for You to Use and Customize</a></h3><div
 class="card-text">An elegant collection of black and white logos to suit any business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/womens-hairstylist-logos">
+class="card-preview" href="https://www.notzarla.com/guides/womens-hairstylist-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-womens-hairstylist-logos-5184x3456-2021023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A woman showing off her hair that was cut by a women&#039;s hairstylist." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-womens-hairstylist-logos-5184x3456-2021023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A woman showing off her hair that was cut by a women&#039;s hairstylist." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/womens-hairstylist-logos">Women&#039;s Hairstylist Logos</a></h3><div
+href="https://www.notzarla.com/guides/womens-hairstylist-logos">Women&#039;s Hairstylist Logos</a></h3><div
 class="card-text">10 chic logo suggestions for your women&#039;s hairstylist business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/hair-product-logos">
+class="card-preview" href="https://www.notzarla.com/guides/hair-product-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-hair-product-logos-6240x4160-2022076.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A variety of hair products displayed on a white sheet." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-hair-product-logos-6240x4160-2022076.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A variety of hair products displayed on a white sheet." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/hair-product-logos">Hair Product Logos</a></h3><div
+href="https://www.notzarla.com/guides/hair-product-logos">Hair Product Logos</a></h3><div
 class="card-text">10 compelling logo suggestions for your hair product business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/hair-extension-logos">
+class="card-preview" href="https://www.notzarla.com/guides/hair-extension-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-hair-extension-logos-2400x2400-20210201.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A beautiful woman flipping her hair extensions." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-hair-extension-logos-2400x2400-20210201.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A beautiful woman flipping her hair extensions." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/hair-extension-logos">Hair Extension Logos</a></h3><div
-class="card-text">10 beautiful logo ideas for your hair extension business.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/guides/hair-salon-website-examples","name":"Hair Salon Website Examples - 5 In-Depth Reviews of Elegant Sites That Attract Customers"},"headline":"Hair Salon Website Examples - 5 In-Depth Reviews of Elegant Sites That Attract Customers","description":"These 10 hair salon websites showcase diverse hair care services with appealing and easy-to-navigate sites on all devices.","image":["https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-04-05T04:01:00-05:00","dateModified":"2024-07-23T09:56:46-05:00","author":{"@type":"Person","name":"Carla Lottering","url":"https://www.zarla.com/contributors/carla-lottering"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/guides/hair-extension-logos">Hair Extension Logos</a></h3><div
+class="card-text">10 beautiful logo ideas for your hair extension business.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/guides/hair-salon-website-examples","name":"Hair Salon Website Examples - 5 In-Depth Reviews of Elegant Sites That Attract Customers"},"headline":"Hair Salon Website Examples - 5 In-Depth Reviews of Elegant Sites That Attract Customers","description":"These 10 hair salon websites showcase diverse hair care services with appealing and easy-to-navigate sites on all devices.","image":["https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-hair-salon-website-examples-5992x4000-20240605.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-04-05T04:01:00-05:00","dateModified":"2024-07-23T09:56:46-05:00","author":{"@type":"Person","name":"Carla Lottering","url":"https://www.notzarla.com/contributors/carla-lottering"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -1263,31 +1263,31 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Language</p><ul
 class="footer-menu list-unstyled"><li
 class="current" style="color: #3041c4;">English</li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/beispiele-f%C3%BCr-friseur-websites">Deutsch</a></li></ul></div><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/beispiele-f%C3%BCr-friseur-websites">Deutsch</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Resources</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/guides/logo-ideas">
+href="https://www.notzarla.com/guides/logo-ideas">
 Logo Ideas
 </a></li><li>
 <a
-href="https://www.zarla.com/">
+href="https://www.notzarla.com/">
 AI Website Builder
 </a></li><li>
 <a
-href="https://www.zarla.com/free-logo-maker">
+href="https://www.notzarla.com/free-logo-maker">
 Free Logo Maker
 </a></li><li>
 <a
-href="https://www.zarla.com/guides/how-to">
+href="https://www.notzarla.com/guides/how-to">
 How To
 </a></li><li>
 <a
@@ -1295,15 +1295,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/terms-of-use">
+href="https://www.notzarla.com/terms-of-use">
 Terms of Use
 </a></li><li>
 <a
-href="https://www.zarla.com/copyright-policy">
+href="https://www.notzarla.com/copyright-policy">
 Copyright Policy
 </a></li><li>
 <a
-href="https://www.zarla.com/privacy-policy">
+href="https://www.notzarla.com/privacy-policy">
 Privacy Policy
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

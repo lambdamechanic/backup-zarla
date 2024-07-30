@@ -7,34 +7,34 @@ property="og:title" content="Font per Loghi — Una guida completa per il downlo
 property="og:description" content="Scopri e scarica fantastici font per il tuo logo." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/it/guide/font-per-loghi"><meta
+property="og:url" content="https://www.notzarla.com/it/guide/font-per-loghi"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="it"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/it/guide/font-per-loghi"><link
-rel="alternate" href="https://www.zarla.com/guides/logo-fonts" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/logo-fonts" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/fuentes-para-logotipos" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/font-per-loghi" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/polices-pour-logos" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/logoschriften" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/fontes-para-logotipos" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/logo-lettertypen" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/logo-fontlar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/najlepsze-czcionki-do-logo" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/berbagai-jenis-font-logo" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/it/guide/font-per-loghi"><link
+rel="alternate" href="https://www.notzarla.com/guides/logo-fonts" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/logo-fonts" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/fuentes-para-logotipos" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/font-per-loghi" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/polices-pour-logos" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/logoschriften" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/fontes-para-logotipos" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/logo-lettertypen" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/logo-fontlar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/najlepsze-czcionki-do-logo" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/berbagai-jenis-font-logo" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/it">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito"
+href="https://www.notzarla.com/it/logo-maker-gratuito"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,9 +60,9 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide">Guide</a></li><li
+href="https://www.notzarla.com/it/guide">Guide</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide/loghi">Loghi</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guide","item":"https://www.zarla.com/it/guide"},{"@type":"ListItem","position":2,"name":"Loghi","item":"https://www.zarla.com/it/guide/loghi"},{"@type":"ListItem","position":3,"name":"Font per Loghi — Una guida completa per il download","item":"https://www.zarla.com/it/guide/font-per-loghi"}]}</script> <div
+href="https://www.notzarla.com/it/guide/loghi">Loghi</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guide","item":"https://www.notzarla.com/it/guide"},{"@type":"ListItem","position":2,"name":"Loghi","item":"https://www.notzarla.com/it/guide/loghi"},{"@type":"ListItem","position":3,"name":"Font per Loghi — Una guida completa per il download","item":"https://www.notzarla.com/it/guide/font-per-loghi"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Font per Loghi — Una guida completa per il download</h1><div
 class="card-body"><div
@@ -71,14 +71,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-michela-cambria-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-michela-cambria-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Michela Cambria"
 /></div><div
 class="card-byline-details">
 <span>Di <a
-class="card-byline-author" href="https://www.zarla.com/it/contributors/michela-cambria">Michela Cambria</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/it/contributors/michela-cambria">Michela Cambria</a>,</span>
 <span
 class="card-byline-date">19 giu 2024</span><div
 class="card-byline-bio">
@@ -87,21 +87,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Diversi tipi di font stampati su una pagina."
@@ -117,16 +117,16 @@ class="block block-image-gallery"><div
 class="image-gallery"><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-domino-s-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Domino&#039;s."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-domino-s-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Domino&#039;s."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-fedex-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di FedEx."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-fedex-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di FedEx."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-gofund-me-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di GoFundMe."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-gofund-me-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di GoFundMe."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-louis-vuitton-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Louis Vuitton."></div></div></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-louis-vuitton-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Louis Vuitton."></div></div></div><div
 class="block block-callout primary"><h2 id=alternative-gratuite-a-futura>Alternative gratuite a Futura:</h2><ul><li><a
 href="https://fonts.google.com/specimen/Poppins">Poppins</a>.</li><li><a
 href="https://fonts.google.com/specimen/Open+Sans">Open Sans</a>.</li><li><a
@@ -137,16 +137,16 @@ class="block block-image-gallery"><div
 class="image-gallery"><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-elizabeth-arden-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Elizabeth Arden."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-elizabeth-arden-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Elizabeth Arden."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-burberry-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il vecchio logo di Burberry."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-burberry-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il vecchio logo di Burberry."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-calvin-klein-old-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il vecchio logo di Calvin Klein."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-calvin-klein-old-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il vecchio logo di Calvin Klein."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-guy-laroche-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Guy Laroche."></div></div></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-guy-laroche-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Guy Laroche."></div></div></div><div
 class="block block-callout primary"><h2 id=alternative-gratuite-a-bodoni>Alternative gratuite a Bodoni:</h2><ul><li><a
 href="https://fonts.google.com/specimen/Bodoni+Moda">Bodoni Moda</a>.</li><li><a
 href="https://fonts.google.com/specimen/Arapey">Arapey</a>.</li><li><a
@@ -157,16 +157,16 @@ class="block block-image-gallery"><div
 class="image-gallery"><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-jeep-logo-294x294-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Jeep."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-jeep-logo-294x294-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Jeep."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-american-apparel-logo-288x288-20210928.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di American Apparel."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-american-apparel-logo-288x288-20210928.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di American Apparel."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-panasonic-logo-294x294-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Panasonic."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-panasonic-logo-294x294-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Panasonic."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-jc-penney-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di JCPenney."></div></div></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-jc-penney-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di JCPenney."></div></div></div><div
 class="block block-callout primary"><h3 id=alternative-gratuite-a-helvetica-now>Alternative gratuite a Helvetica Now:</h3><ul><li><a
 href="https://fonts.google.com/specimen/Arimo">Arimo</a>.</li><li><a
 href="https://fonts.google.com/specimen/Work+Sans">Work Sans</a>.</li><li><a
@@ -178,16 +178,16 @@ class="block block-image-gallery"><div
 class="image-gallery"><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-mashable-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Mashable."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-mashable-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Mashable."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-outrider-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Outrider."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-outrider-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Outrider."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-freepik-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Freepik."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-freepik-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Freepik."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-wiser-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Wiser."></div></div></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-wiser-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Wiser."></div></div></div><div
 class="block block-callout primary"><h3 id=alternative-gratuite-a-proxima-nova>Alternative gratuite a Proxima Nova:</h3><ul><li><a
 href="https://fonts.google.com/specimen/Raleway">Raleway</a>.</li><li><a
 href="https://fonts.google.com/specimen/Nunito+Sans">Nunito Sans</a>.</li><li><a
@@ -198,16 +198,16 @@ class="block block-image-gallery"><div
 class="image-gallery"><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-zara-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Zara."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-zara-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Zara."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/Giorgio-Armani-Zarla-2400x2400-20210816.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Giorgio Armani."></div><div
+data-src="https://www.notzarla.com/images/Giorgio-Armani-Zarla-2400x2400-20210816.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Giorgio Armani."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-elle-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Elle."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-elle-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Elle."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-vogue-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Vogue."></div></div></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-vogue-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Vogue."></div></div></div><div
 class="block block-callout primary"><h3 id=alternative-gratuite-a-didot>Alternative gratuite a Didot:</h3><ul><li><a
 href="https://fonts.google.com/specimen/Playfair+Display">Playfair Display</a>.</li><li><a
 href="https://fonts.google.com/specimen/Antic+Didone">Antic Didone</a>.</li><li><a
@@ -218,16 +218,16 @@ class="block block-image-gallery"><div
 class="image-gallery"><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-abercrombie-fitch-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Abercrombie &amp; Fitch."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-abercrombie-fitch-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Abercrombie &amp; Fitch."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-rolex-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Rolex."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-rolex-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Rolex."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-american-eagle-outfitters-logo-144x144-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di American Eagle Outfitters."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-american-eagle-outfitters-logo-144x144-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di American Eagle Outfitters."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-l-occitane-logo-288x288-2021128.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di L&#039;Occitane en Provence."></div></div></div><div
+data-src="https://www.notzarla.com/images/zarla-l-occitane-logo-288x288-2021128.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di L&#039;Occitane en Provence."></div></div></div><div
 class="block block-callout primary"><h3 id=alternative-gratuite-a-garamond>Alternative gratuite a Garamond:</h3><ul><li><a
 href="https://fonts.google.com/specimen/EB+Garamond">EB Garamond</a>.</li><li><a
 href="https://fonts.google.com/specimen/Lusitana">Lusitana</a>.</li><li><a
@@ -238,16 +238,16 @@ class="block block-image-gallery"><div
 class="image-gallery"><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-walmart-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Walmart."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-walmart-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Walmart."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-linkedin-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di LinkedIn."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-linkedin-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di LinkedIn."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-shopify-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Shopify."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-shopify-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Shopify."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-visa-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Visa."></div></div></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-visa-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Visa."></div></div></div><div
 class="block block-callout primary"><h3 id=alternative-gratuite-a-myriad>Alternative gratuite a Myriad:</h3><ul><li><a
 href="https://fonts.google.com/specimen/Maven+Pro">Maven Pro</a>.</li><li><a
 href="https://fonts.google.com/specimen/Fira+Sans">Fira Sans</a>.</li></ul></div><div
@@ -256,16 +256,16 @@ class="block block-image-gallery"><div
 class="image-gallery"><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-novartis-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Novartis."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-novartis-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Novartis."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-victoria-s-secret-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Victoria&#039;s Secret."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-victoria-s-secret-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Victoria&#039;s Secret."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-columbia-university-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Columbia University."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-columbia-university-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Columbia University."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-hollyfrontier-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di HollyFrontier."></div></div></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-hollyfrontier-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di HollyFrontier."></div></div></div><div
 class="block block-callout primary"><h3 id=alternative-gratuite-a-trajan>Alternative gratuite a Trajan:</h3><ul><li><a
 href="https://fonts.google.com/specimen/Cinzel">Cinzel</a>.</li><li><a
 href="https://fonts.google.com/specimen/Forum">Forum</a>.</li></ul></div><div
@@ -274,16 +274,16 @@ class="block block-image-gallery"><div
 class="image-gallery"><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-ebay-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di eBay."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-ebay-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di eBay."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-unicef-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Unicef."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-unicef-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Unicef."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-swiss-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Swiss."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-swiss-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Swiss."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-b-q-logo-288x288-20210928.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di B&amp;Q."></div></div></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-b-q-logo-288x288-20210928.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di B&amp;Q."></div></div></div><div
 class="block block-callout primary"><h3 id=alternative-gratuite-a-univers>Alternative gratuite a Univers:</h3><ul><li><a
 href="https://fonts.google.com/specimen/Roboto">Roboto</a>.</li><li><a
 href="https://fonts.google.com/specimen/Open+Sans">Open Sans</a>.</li><li><a
@@ -293,16 +293,16 @@ class="block block-image-gallery"><div
 class="image-gallery"><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-instragram-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Instagram."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-instragram-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Instagram."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-sharpie-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Sharpie."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-sharpie-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Sharpie."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-barbie-logo-288x288-20210922.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Barbie."></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-barbie-logo-288x288-20210922.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Barbie."></div><div
 class="image">
 <img
-data-src="https://www.zarla.com/images/zarla-logo-fonts-creative-market-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Creative Market."></div></div></div><div
+data-src="https://www.notzarla.com/images/zarla-logo-fonts-creative-market-logo-288x288-20210921.jpeg?crop=1:1,smart&width=150&dpr=2" class="lazyload" alt="Il logo di Creative Market."></div></div></div><div
 class="block"><p><em>Questi brand hanno usato altri font script che hanno uno stile calligrafico molto simile a quello del carattere tipografico Billabong.</em></p></div><div
 class="block block-callout primary"><h3 id=alternative-gratuite-a-billabong>Alternative gratuite a Billabong:</h3><ul><li><a
 href="https://fonts.google.com/specimen/Pacifico">Pacifico</a>.</li><li><a
@@ -313,23 +313,23 @@ class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/colori-per-loghi">
+class="card-preview" href="https://www.notzarla.com/it/guide/colori-per-loghi">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-los-mejores-colores-para-logos-4327x2885-20210818.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Colori per Loghi: Trova il Colore Perfetto per il tuo Logo" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-los-mejores-colores-para-logos-4327x2885-20210818.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Colori per Loghi: Trova il Colore Perfetto per il tuo Logo" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/colori-per-loghi">Colori per Loghi: Trova il Colore Perfetto per il tuo Logo</a></p><div
+href="https://www.notzarla.com/it/guide/colori-per-loghi">Colori per Loghi: Trova il Colore Perfetto per il tuo Logo</a></p><div
 class="card-text">Una guida per scegliere il colore ideale per il tuo logo.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=fAQs class="section-heading">FAQs:</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=come-trovare-il-font-per-il-mio-logo class="question">Come trovare il font per il mio logo?</h3><div
 class="answer"><p>Ci sono molti font gratuiti che possono essere usati anche per uso commerciale. Li potrai trovare disponibili su molti siti o strumenti online per <a
-href="https://www.zarla.com/it/logo-maker-gratuito">creare loghi</a>, come i logo maker, ma li puoi scaricare anche da siti web come <a
+href="https://www.notzarla.com/it/logo-maker-gratuito">creare loghi</a>, come i logo maker, ma li puoi scaricare anche da siti web come <a
 href="https://fonts.google.com/">Google Fonts</a>.</p><p>Se vuoi utilizzare un font che ha bisogno di una licenza, dovrai acquistarlo prima di inserirlo nel logo della tua azienda. In alternativa, puoi utilizzare dei font simili ma gratuiti.</p></div></div><div
 class="col-12 faq-item"><h3 id=quali-sono-i-font-utilizzati-dalle-aziende-per-i-loro-loghi class="question">Quali sono i font utilizzati dalle aziende per i loro loghi?</h3><div
 class="answer"><ul><li><a
@@ -352,68 +352,68 @@ class="container"><h2 class="section-heading">Articoli Correlati</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/come-creare-un-logo-su-microsoft-word">
+class="card-preview" href="https://www.notzarla.com/it/guide/come-creare-un-logo-su-microsoft-word">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-create-a-logo-in-ms-word-2400x2400-20210907_2021-09-07-065541_yktz.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una donna al computer che sta creando un logo usando Microsoft Word." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-create-a-logo-in-ms-word-2400x2400-20210907_2021-09-07-065541_yktz.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una donna al computer che sta creando un logo usando Microsoft Word." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/come-creare-un-logo-su-microsoft-word">Come creare un logo su Microsoft Word</a></h3><div
+href="https://www.notzarla.com/it/guide/come-creare-un-logo-su-microsoft-word">Come creare un logo su Microsoft Word</a></h3><div
 class="card-text">Impara come creare un logo per aziende, brand o negozi su Microsoft Word seguendo la nostra guida passo per passo.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/come-rendere-un-logo-trasparente">
+class="card-preview" href="https://www.notzarla.com/it/guide/come-rendere-un-logo-trasparente">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un logo reso trasparente per metà." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-make-a-logo-transparent-2500x2500-20210817.png?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un logo reso trasparente per metà." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/come-rendere-un-logo-trasparente">Come Rendere un Logo Trasparente</a></h3><div
+href="https://www.notzarla.com/it/guide/come-rendere-un-logo-trasparente">Come Rendere un Logo Trasparente</a></h3><div
 class="card-text">Impara come rimuovere lo sfondo da un logo e quali strumenti usare per farlo.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/come-creare-un-logo-per-youtube">
+class="card-preview" href="https://www.notzarla.com/it/guide/come-creare-un-logo-per-youtube">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-for-youtube-4240x2832-20210817.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un ragazzo di spalle che scorre la sua home di YouTube." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-how-to-make-a-logo-for-youtube-4240x2832-20210817.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un ragazzo di spalle che scorre la sua home di YouTube." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/come-creare-un-logo-per-youtube">Come Creare un Logo per YouTube</a></h3><div
+href="https://www.notzarla.com/it/guide/come-creare-un-logo-per-youtube">Come Creare un Logo per YouTube</a></h3><div
 class="card-text">Crea un logo per il tuo canale YouTube con la nostra guida passo passo.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-semplici">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-semplici">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-20-logos-simples-que-puedes-personalizar-4010x2702-20210830.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Il logo della Nike, noto per la sua semplicità, su uno sfondo metallico." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-20-logos-simples-que-puedes-personalizar-4010x2702-20210830.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Il logo della Nike, noto per la sua semplicità, su uno sfondo metallico." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-semplici">Loghi Semplici</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-semplici">Loghi Semplici</a></h3><div
 class="card-text">20 loghi semplici per la tua azienda, negozio o brand.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/come-creare-uno-slogan">
+class="card-preview" href="https://www.notzarla.com/it/guide/come-creare-uno-slogan">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-write-a-slogan-3269x2400-2024065.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una donna, seduta alla sua scrivania, che scrive uno slogan." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-write-a-slogan-3269x2400-2024065.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una donna, seduta alla sua scrivania, che scrive uno slogan." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/come-creare-uno-slogan">Come creare uno slogan</a></h3><div
-class="card-text">Una guida passo-passo per scrivere uno slogan, con consigli e risposte alle domande più comuni.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/it/guide/font-per-loghi","name":"Font per Loghi — Una guida completa per il download"},"headline":"Font per Loghi — Una guida completa per il download","description":"Scopri e scarica fantastici font per il tuo logo.","image":["https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-08-30T06:34:00-05:00","dateModified":"2024-06-19T11:07:35-05:00","author":{"@type":"Person","name":"Michela Cambria","url":"https://www.zarla.com/it/contributors/michela-cambria"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/it/guide/come-creare-uno-slogan">Come creare uno slogan</a></h3><div
+class="card-text">Una guida passo-passo per scrivere uno slogan, con consigli e risposte alle domande più comuni.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/it/guide/font-per-loghi","name":"Font per Loghi — Una guida completa per il download"},"headline":"Font per Loghi — Una guida completa per il download","description":"Scopri e scarica fantastici font per il tuo logo.","image":["https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-logo-fonts-5181x3886-20210917.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-08-30T06:34:00-05:00","dateModified":"2024-06-19T11:07:35-05:00","author":{"@type":"Person","name":"Michela Cambria","url":"https://www.notzarla.com/it/contributors/michela-cambria"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -422,27 +422,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/it">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Lingua</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/logo-fonts">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/fuentes-para-logotipos">Español</a></li><li
+href="https://www.notzarla.com/guides/logo-fonts">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/fuentes-para-logotipos">Español</a></li><li
 class="current" style="color: #3041c4;">Italiano</li><li><a
-href="https://www.zarla.com/fr/guides/polices-pour-logos">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/logoschriften">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/fontes-para-logotipos">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/logo-lettertypen">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/logo-fontlar%C4%B1">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/najlepsze-czcionki-do-logo">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/berbagai-jenis-font-logo">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/fr/guides/polices-pour-logos">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/logoschriften">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/fontes-para-logotipos">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/logo-lettertypen">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/logo-fontlar%C4%B1">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/najlepsze-czcionki-do-logo">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/berbagai-jenis-font-logo">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Risorse</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/it/guide/idee-per-loghi">
+href="https://www.notzarla.com/it/guide/idee-per-loghi">
 Idee per Loghi
 </a></li><li>
 <a
@@ -450,7 +450,7 @@ href="/it">
 Website Builder AI
 </a></li><li>
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito">
+href="https://www.notzarla.com/it/logo-maker-gratuito">
 Logo Maker Gratuito
 </a></li><li>
 <a
@@ -458,15 +458,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/it/termini-di-utilizzo">
+href="https://www.notzarla.com/it/termini-di-utilizzo">
 Termini di Utilizzo
 </a></li><li>
 <a
-href="https://www.zarla.com/it/norme-sul-copyright">
+href="https://www.notzarla.com/it/norme-sul-copyright">
 Norme sul Copyright
 </a></li><li>
 <a
-href="https://www.zarla.com/it/informativa-sulla-privacy">
+href="https://www.notzarla.com/it/informativa-sulla-privacy">
 Informativa sulla Privacy
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -474,7 +474,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=it-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/it/logo-maker-gratuito?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=it-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Comincia a creare un logo personalizzato

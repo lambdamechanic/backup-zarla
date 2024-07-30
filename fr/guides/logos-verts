@@ -7,34 +7,34 @@ property="og:title" content="Logos verts + Créateur de Logos Gratuit" /><meta
 property="og:description" content="20 modèles de logo vert à personnaliser et à utiliser pour votre entreprise." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/fr/guides/logos-verts"><meta
+property="og:url" content="https://www.notzarla.com/fr/guides/logos-verts"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="fr"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/fr/guides/logos-verts"><link
-rel="alternate" href="https://www.zarla.com/guides/green-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/green-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-verdes" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/20-loghi-verdi-da-usare-e-personalizzare" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-verts" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/gr%C3%BCne-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-verdes" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/groene-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/ye%C5%9Fil-logolar" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/zielone-logo" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-hijau" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/fr/guides/logos-verts"><link
+rel="alternate" href="https://www.notzarla.com/guides/green-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/green-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-verdes" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/20-loghi-verdi-da-usare-e-personalizzare" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-verts" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/gr%C3%BCne-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-verdes" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/groene-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/ye%C5%9Fil-logolar" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/zielone-logo" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-hijau" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/fr">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit"
+href="https://www.notzarla.com/fr/cr%C3%A9ateur-de-logos-gratuit"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides">Guides</a></li><li
+href="https://www.notzarla.com/fr/guides">Guides</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides/logos">Logos</a></li><li
+href="https://www.notzarla.com/fr/guides/logos">Logos</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides/logos/par-type">Par type</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/fr/guides"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.zarla.com/fr/guides/logos"},{"@type":"ListItem","position":3,"name":"Par type","item":"https://www.zarla.com/fr/guides/logos/par-type"},{"@type":"ListItem","position":4,"name":"Logos verts + Créateur de Logos Gratuit","item":"https://www.zarla.com/fr/guides/logos-verts"}]}</script> <div
+href="https://www.notzarla.com/fr/guides/logos/par-type">Par type</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.notzarla.com/fr/guides"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.notzarla.com/fr/guides/logos"},{"@type":"ListItem","position":3,"name":"Par type","item":"https://www.notzarla.com/fr/guides/logos/par-type"},{"@type":"ListItem","position":4,"name":"Logos verts + Créateur de Logos Gratuit","item":"https://www.notzarla.com/fr/guides/logos-verts"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Logos verts + Créateur de Logos Gratuit</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-owen-fagundes-800x800-2024058_2024-05-08-214321_hkra.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-owen-fagundes-800x800-2024058_2024-05-08-214321_hkra.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Owen Fagundes"
 /></div><div
 class="card-byline-details">
 <span>Par <a
-class="card-byline-author" href="https://www.zarla.com/fr/contributeurs/owen-fagundes">Owen Fagundes</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/fr/contributeurs/owen-fagundes">Owen Fagundes</a>,</span>
 <span
 class="card-byline-date">9 mai 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="La silhouette d&#039;un arbre devant un ciel nocturne vert."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Le vert est une couleur froide associée à la nature et la vitalité. Alors que les tons clairs symbolisent la fraîcheur, les tons foncés dénotent la richesse et l'ambition. Optez pour un logo vert pour transmettre un message d'harmonie, de sécurité et de croissance. Trouvez des idées ci-dessous, ou utilisez notre <a
-href="https://www.zarla.com/fr/créateur-de-logos-gratuit">créateur gratuit de logos verts</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/fr/créateur-de-logos-gratuit">créateur gratuit de logos verts</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,246 +120,246 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Description</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/hjkkbdqgh8pvqx9gv9tr/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/hjkkbdqgh8pvqx9gv9tr/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-hjkkbdqgh8pvqx9gv9tr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-hjkkbdqgh8pvqx9gv9tr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/hjkkbdqgh8pvqx9gv9tr/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/hjkkbdqgh8pvqx9gv9tr/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Ce logo évoque aussitôt des images de hipsters branchés photographiant leur savoureux jus. Le vert clair dénote la fraîcheur et suggère que votre entreprise privilégie les ingrédients naturels et biologiques. Les lignes épurées de la fonte brune Mitr Regular se marient bien avec l'icône au pochoir.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/vfmhpkpv44y978pckypy/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/vfmhpkpv44y978pckypy/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-vfmhpkpv44y978pckypy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-vfmhpkpv44y978pckypy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/vfmhpkpv44y978pckypy/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/vfmhpkpv44y978pckypy/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>La douceur du fond vert pastel transmet un message de paix et d'équilibre. Il est idéal pour une entreprise souhaitant promouvoir un sentiment de sécurité et de stabilité. Le dessin de château et de feuille donne un aspect traditionnel au design, et la fonte classique Pridi SemiBold lie le tout.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wcq9m9gyhtjfhxwjw66p/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/wcq9m9gyhtjfhxwjw66p/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-wcq9m9gyhtjfhxwjw66p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-wcq9m9gyhtjfhxwjw66p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wcq9m9gyhtjfhxwjw66p/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/wcq9m9gyhtjfhxwjw66p/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>La gamme de couleur rouge cramoisi de ce logo est un choix créatif, accrocheur et dynamique, tout en apportant une pointe de douceur. La fraîcheur de la nuance verte équilibre la luminosité de l'icône d'arbre et de la fonte Cinzel Bold, créant ainsi une expérience visuelle unique.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/m3xtygygq73v8b7873h9/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/m3xtygygq73v8b7873h9/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-m3xtygygq73v8b7873h9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-m3xtygygq73v8b7873h9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/m3xtygygq73v8b7873h9/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/m3xtygygq73v8b7873h9/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>L'intensité et la gaieté du vert sont reflétées par la police ludique et joyeuse de style cartoon Gochi Hand. L'icône représentant un chien assis et son maître donne au logo un aspect amical et indique que votre entreprise aide les animaux domestiques à devenir obéissants.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/f7hbhhwt9tky8rdvvd6b/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/f7hbhhwt9tky8rdvvd6b/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-f7hbhhwt9tky8rdvvd6b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-f7hbhhwt9tky8rdvvd6b.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/f7hbhhwt9tky8rdvvd6b/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/f7hbhhwt9tky8rdvvd6b/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Ce logo minimaliste au ton vert impérial dénote la richesse, la croissance et le succès. Le mortier et le pilon avec une feuille rappellent les herbes et les épices, ce qui convient à une herboristerie ou marque de CBD. Le style informel de la police Ranchers renforce le look détendu du logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/v9q4mcd639rgjkbvx8vd/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/v9q4mcd639rgjkbvx8vd/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-v9q4mcd639rgjkbvx8vd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-v9q4mcd639rgjkbvx8vd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/v9q4mcd639rgjkbvx8vd/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/v9q4mcd639rgjkbvx8vd/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Le vert est souvent associé à la fertilité, et ce logo doux incarne parfaitement le bonheur que procure la promesse d'une nouvelle vie. L'icône d'une femme enceinte entourée de papillons crée une image d'harmonie, renforcée par la fonte claire Baloo Bhai 2 SemiBold.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/ygf74xtv89mxbjq7qfxd/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/ygf74xtv89mxbjq7qfxd/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-ygf74xtv89mxbjq7qfxd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-ygf74xtv89mxbjq7qfxd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/ygf74xtv89mxbjq7qfxd/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/ygf74xtv89mxbjq7qfxd/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Le mariage rose-citron vert de ce logo créatif montre que votre entreprise est riche en couleurs tout en étant chic. L'éclaboussure de peinture dessinant une main peut signifier une entreprise d'art ou une papeterie. Le tracé fin de la fonte Cinzel Regular équilibre les lignes épaisses de l'icône.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7m7fkgwbc7r4r7k8wrdt/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/7m7fkgwbc7r4r7k8wrdt/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-7m7fkgwbc7r4r7k8wrdt.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-7m7fkgwbc7r4r7k8wrdt.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7m7fkgwbc7r4r7k8wrdt/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/7m7fkgwbc7r4r7k8wrdt/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Ce logo adorable présente une petite chouette perchée sur la police cartoonesque Gochi Hand, qui s'inspire de l'écriture des ados. La couleur vert pomme évoque la fraîcheur et suggère que votre entreprise est axée sur la vie et la simplicité, ce qui accentue le charme juvénile du logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fktcxwymvw899w78dky8/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/fktcxwymvw899w78dky8/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-fktcxwymvw899w78dky8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-fktcxwymvw899w78dky8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fktcxwymvw899w78dky8/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/fktcxwymvw899w78dky8/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Le design géométrique du logo associé à aux tons vert perroquet et pomme crée un visuel attrayant et apaisant pour l'œil. L'équilibre obtenu par l'icône symétrique et la lourde fonte Sen Bold évoque la stabilité et la sécurité, ce qui est idéal pour une entreprise financière ou d'assurance.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/44gq8pq6b6xqfxxgdyfr/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/44gq8pq6b6xqfxxgdyfr/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-44gq8pq6b6xqfxxgdyfr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-44gq8pq6b6xqfxxgdyfr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/44gq8pq6b6xqfxxgdyfr/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/44gq8pq6b6xqfxxgdyfr/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Le fond noir permet aux deux nuances de vert de ressortir pour capter le regard des amoureux et amoureuses de la nature. L'icône d'un paysage verdoyant semblable à une photo encadrée, ajoute une touche d'élégance au logo. La fonte Pridi SemiBold, élégante et soignée, lie le design ensemble.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/96v9dgx96jt3kdtytmcx/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/96v9dgx96jt3kdtytmcx/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-96v9dgx96jt3kdtytmcx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-96v9dgx96jt3kdtytmcx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/96v9dgx96jt3kdtytmcx/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/96v9dgx96jt3kdtytmcx/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>L'icône d'écusson ailé suggère que vous privilégiez la tradition et les valeurs familiales. Les ailes créent une sensation de mouvement, accentuée par la pointe de vert qui dénote la vitalité. La fonte Saira ExtraBold, large et structurée, prend le contrôle de l'espace et fait ressortir le logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wy6cvj9crj3kvgqmqmch/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/wy6cvj9crj3kvgqmqmch/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-wy6cvj9crj3kvgqmqmch.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-wy6cvj9crj3kvgqmqmch.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wy6cvj9crj3kvgqmqmch/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/wy6cvj9crj3kvgqmqmch/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Ce logo charmant évoque des images d'une maison heureuse par une belle journée d'été avec un air frais. Cette image joyeuse et énergique est étayée par la vivacité du vert. La fonte sombre Quantico-Bold est professionnelle et s'accorde parfaitement avec les différents tons de vert.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/q4qxjttx66ft8rdgcb6x/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/q4qxjttx66ft8rdgcb6x/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-q4qxjttx66ft8rdgcb6x.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-q4qxjttx66ft8rdgcb6x.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/q4qxjttx66ft8rdgcb6x/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/q4qxjttx66ft8rdgcb6x/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>L'oiseau en vol donne du mouvement et de la force au logo reflétant la capacité de votre entreprise à aider sa clientèle. Le jeu de couleurs vert et rose est ludique et osé, incitant les gens à regarder votre logo une seconde fois. La fonte Cinzel Bold ajoute un peu de classe au design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/pqgjc3x34yy6f7rtyhgv/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/pqgjc3x34yy6f7rtyhgv/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-pqgjc3x34yy6f7rtyhgv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-pqgjc3x34yy6f7rtyhgv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/pqgjc3x34yy6f7rtyhgv/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/pqgjc3x34yy6f7rtyhgv/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>La couleur émeraude apaise les yeux tout en évoquant la dignité et la prospérité. La jolie combinaison d'une goutte et d'une feuille représentera à merveille une marque d'inspiration naturelle. La police manuscrite Pattaya est sophistiquée et transmet un message de raffinement.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/683hhqvx6pghk8g4t9y9/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/683hhqvx6pghk8g4t9y9/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-683hhqvx6pghk8g4t9y9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-683hhqvx6pghk8g4t9y9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/683hhqvx6pghk8g4t9y9/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/683hhqvx6pghk8g4t9y9/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Un logo saisissant combinant des fusils croisés avec un cercle pour créer une image rappelant un blason, synonyme de tradition et de puissance. C'est un bon choix pour une armurerie prônant la force et la sécurité. Les notes vertes symbolisent l'ambition, ce qui est repris par la fonte Sen Bold.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gckyvb79bvth3pd3c3wv/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/gckyvb79bvth3pd3c3wv/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-gckyvb79bvth3pd3c3wv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-gckyvb79bvth3pd3c3wv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gckyvb79bvth3pd3c3wv/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/gckyvb79bvth3pd3c3wv/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Un logo sophistiqué et impressionnant qui respire la richesse et le style. La teinte vert citron ajoute une touche ludique au logo, tandis que le fond violet fait ressortir l'icône du diamant. L'imposante police Cardo est royale et indique que votre entreprise s'adresse à un public raffiné.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/b3b4k6q4kqgp4rk94jkx/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/b3b4k6q4kqgp4rk94jkx/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-b3b4k6q4kqgp4rk94jkx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-b3b4k6q4kqgp4rk94jkx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/b3b4k6q4kqgp4rk94jkx/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/b3b4k6q4kqgp4rk94jkx/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Ce logo doux et subtil est une merveilleuse illustration de l'harmonie et de la tranquillité que procure le vert. L'icône d'une personne détendue couronnée de feuilles fait allusion à votre affinité pour la paix et l'équilibre, tandis que la charmante police Ribeye ajoute un peu de fantaisie.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7pgwdw4y9m9fhrkdrtc4/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/7pgwdw4y9m9fhrkdrtc4/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-aperion-1x1-2400x2400-20210819-frqgjk388hr37bbxkgjq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-aperion-1x1-2400x2400-20210819-frqgjk388hr37bbxkgjq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7pgwdw4y9m9fhrkdrtc4/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/7pgwdw4y9m9fhrkdrtc4/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Les nuances olive et épinard symbolisent la croissance et la richesse, ce qui est idéal pour un restaurant aux plats sains et biologiques. Le design est sophistiqué, ce qui met l'accent sur l'attachement de votre entreprise à la qualité des ingrédients. La fonte Sen Bold donne du relief au logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/4mc6xbjppxxw99h68dhv/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/4mc6xbjppxxw99h68dhv/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-4mc6xbjppxxw99h68dhv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-4mc6xbjppxxw99h68dhv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/4mc6xbjppxxw99h68dhv/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/4mc6xbjppxxw99h68dhv/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Le jeu de couleur vert saphir de ce design convivial exprime la vitalité, suggérant que vous aidez votre clientèle à atteindre ses objectifs de santé. La silhouette d'une femme dans une pose de yoga crée un mouvement le long de la ligne circulaire, soutenue par le bleu de la police Bookletter 1911.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/bgxgqy9kp9jqbmfpqwxy/edit?brand=Viridios">
+href="https://www.notzarla.com/logo-maker/bgxgqy9kp9jqbmfpqwxy/edit?brand=Viridios">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-viridios-1x1-2400x2400-20211007-bgxgqy9kp9jqbmfpqwxy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
+data-src="https://www.notzarla.com/images/zarla-viridios-1x1-2400x2400-20211007-bgxgqy9kp9jqbmfpqwxy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo vert pour une entreprise appelée Viridios.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/bgxgqy9kp9jqbmfpqwxy/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/bgxgqy9kp9jqbmfpqwxy/edit?brand=Viridios" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Ce logo cool se caractérise par un jeu de couleur vert pomme symbolisant la prospérité, l'ambition et la réussite financière. Le livre et le graphique ascendant indiquent que votre société se concentre sur la croissance et la prospérité. La fonte structurée Sen Bold se marie bien avec l'icône.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-inspir%C3%A9s-de-la-nature">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-inspir%C3%A9s-de-la-nature">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-earthy-logos-3872x2592-20210827.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logos inspirés de la nature" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-earthy-logos-3872x2592-20210827.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logos inspirés de la nature" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-inspir%C3%A9s-de-la-nature">Logos inspirés de la nature</a></p><div
+href="https://www.notzarla.com/fr/guides/logos-inspir%C3%A9s-de-la-nature">Logos inspirés de la nature</a></p><div
 class="card-text">20 idées de logos inspirés de la nature pour votre entreprise.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=fAQs class="section-heading">FAQs :</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=comment-creer-un-logo-vert-pour-mon-entreprise class="question">Comment créer un logo vert pour mon entreprise ?</h3><div
 class="answer"><ol><li>Décidez du sentiment ou de l'émotion que vous souhaitez que votre logo vert transmette.</li><li>Recherchez des logos verts existants pour vous en inspirer.</li><li>Utilisez un <a
-href="https://www.zarla.com/fr/créateur-de-logos-gratuit">générateur de logo</a> et combinez différentes nuances de vert avec les polices et les icônes que vous aimez.</li><li>Dressez une liste de vos créations préférées et montrez-les à vos ami·e·s ou à votre famille pour obtenir leur avis.</li><li>Choisissez le design qui semble le plus unique à votre marque.</li></ol></div></div><div
+href="https://www.notzarla.com/fr/créateur-de-logos-gratuit">générateur de logo</a> et combinez différentes nuances de vert avec les polices et les icônes que vous aimez.</li><li>Dressez une liste de vos créations préférées et montrez-les à vos ami·e·s ou à votre famille pour obtenir leur avis.</li><li>Choisissez le design qui semble le plus unique à votre marque.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=ou-puis-je-telecharger-un-logo-vert-gratuit class="question">Où puis-je télécharger un logo vert gratuit ?</h3><div
 class="answer"><p>Vous pouvez créer, personnaliser et télécharger gratuitement un logo vert avec Zarla en cliquant sur "Modifier" sous l'un de <a
 href="#idees-de-logos-verts">nos exemples</a>, ou en utilisant notre créateur de logo.</p></div></div><div
@@ -374,68 +374,68 @@ class="container"><h2 class="section-heading">Articles Liés</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-d-herboristerie">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-d-herboristerie">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-herbal-shop-logos-3978x5967-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un assortiment d&#039;herbes et de remèdes naturels dans une herboristerie." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-herbal-shop-logos-3978x5967-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un assortiment d&#039;herbes et de remèdes naturels dans une herboristerie." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-d-herboristerie">Logos d&#039;herboristerie</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-d-herboristerie">Logos d&#039;herboristerie</a></h3><div
 class="card-text">10 idées fabuleuses de logos pour votre herboristerie.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-sant%C3%A9">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-sant%C3%A9">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logos-para-empresas-de-salud-2448x2448-20210419.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une femme prenant soin de sa santé en mangeant une salade de fruits nutritive." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-logos-para-empresas-de-salud-2448x2448-20210419.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une femme prenant soin de sa santé en mangeant une salade de fruits nutritive." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-sant%C3%A9">Logos de santé</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-de-sant%C3%A9">Logos de santé</a></h3><div
 class="card-text">10 suggestions de logos appropriés pour votre entreprise dans le secteur de la santé.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-cannabis">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-cannabis">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-cannabis-business-logos-5456x3637-20210127.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Feuilles de cannabis affichées derrière une petite bouteille d&#039;huile de cannabis." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-cannabis-business-logos-5456x3637-20210127.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Feuilles de cannabis affichées derrière une petite bouteille d&#039;huile de cannabis." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-cannabis">Logos de cannabis</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-cannabis">Logos de cannabis</a></h3><div
 class="card-text">10 super idées de logos pour votre entreprise de cannabis.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-bleu-et-vert">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-bleu-et-vert">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-green-and-blue-logos-5472x3648-20210921.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Des points lumineux verts et bleus affichés sur un fond sombre." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-green-and-blue-logos-5472x3648-20210921.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Des points lumineux verts et bleus affichés sur un fond sombre." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-bleu-et-vert">Logos bleu et vert</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-bleu-et-vert">Logos bleu et vert</a></h3><div
 class="card-text">Une collection de logos frais et modernes en vert et bleu pour votre entreprise.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-rouge-et-vert">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-rouge-et-vert">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-red-and-green-logos-4000x3000-20210920.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Des poivrons verts et des piments rouges sur un étalage dans une épicerie." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-red-and-green-logos-4000x3000-20210920.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Des poivrons verts et des piments rouges sur un étalage dans une épicerie." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-rouge-et-vert">Logos rouge et vert</a></h3><div
-class="card-text">20 idées de logos rouge et vert à personnaliser pour votre entreprise.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/fr/guides/logos-verts","name":"Logos verts + Créateur de Logos Gratuit"},"headline":"Logos verts + Créateur de Logos Gratuit","description":"20 modèles de logo vert à personnaliser et à utiliser pour votre entreprise.","image":["https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-08-18T02:26:00-05:00","dateModified":"2024-05-09T13:08:59-05:00","author":{"@type":"Person","name":"Owen Fagundes","url":"https://www.zarla.com/fr/contributeurs/owen-fagundes"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/fr/guides/logos-rouge-et-vert">Logos rouge et vert</a></h3><div
+class="card-text">20 idées de logos rouge et vert à personnaliser pour votre entreprise.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/fr/guides/logos-verts","name":"Logos verts + Créateur de Logos Gratuit"},"headline":"Logos verts + Créateur de Logos Gratuit","description":"20 modèles de logo vert à personnaliser et à utiliser pour votre entreprise.","image":["https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-green-logos-6000x3376-20210818.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-08-18T02:26:00-05:00","dateModified":"2024-05-09T13:08:59-05:00","author":{"@type":"Person","name":"Owen Fagundes","url":"https://www.notzarla.com/fr/contributeurs/owen-fagundes"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -444,27 +444,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/fr">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Langue</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/green-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-verdes">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/20-loghi-verdi-da-usare-e-personalizzare">Italiano</a></li><li
+href="https://www.notzarla.com/guides/green-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-verdes">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/20-loghi-verdi-da-usare-e-personalizzare">Italiano</a></li><li
 class="current" style="color: #3041c4;">Français</li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/gr%C3%BCne-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-verdes">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/groene-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/ye%C5%9Fil-logolar">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/zielone-logo">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-hijau">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/gr%C3%BCne-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-verdes">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/groene-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/ye%C5%9Fil-logolar">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/zielone-logo">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-hijau">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Ressources</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/fr/guides/id%C3%A9es-de-logo">
+href="https://www.notzarla.com/fr/guides/id%C3%A9es-de-logo">
 Idées de logo
 </a></li><li>
 <a
@@ -472,7 +472,7 @@ href="/fr">
 Créateur de sites web par IA
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit">
+href="https://www.notzarla.com/fr/cr%C3%A9ateur-de-logos-gratuit">
 Créateur de logos gratuit
 </a></li><li>
 <a
@@ -480,15 +480,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/conditions-dutilisation">
+href="https://www.notzarla.com/fr/conditions-dutilisation">
 Conditions d&#039;utilisation
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/politique-droits-dauteur">
+href="https://www.notzarla.com/fr/politique-droits-dauteur">
 Politique de droits d&#039;auteur
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/politique-confidentialit%C3%A9">
+href="https://www.notzarla.com/fr/politique-confidentialit%C3%A9">
 Politique de confidentialité
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -496,7 +496,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=fr-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/fr/cr%C3%A9ateur-de-logos-gratuit?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=fr-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Commencez à concevoir un logo personnalisé

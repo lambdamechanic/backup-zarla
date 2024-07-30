@@ -7,34 +7,34 @@ property="og:title" content="Logos für Podcasts + Gratis-Logo-Generator" /><met
 property="og:description" content="10 innovative Logo-Ideen für Ihren Podcast." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts"><meta
+property="og:url" content="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="de"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts"><link
-rel="alternate" href="https://www.zarla.com/guides/podcast-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/podcast-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-podcast" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-per-podcast" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-de-podcast" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-de-podcast" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/podcast-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/podcast-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-podcast" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-podcast" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts"><link
+rel="alternate" href="https://www.notzarla.com/guides/podcast-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/podcast-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-podcast" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-per-podcast" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-de-podcast" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-de-podcast" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/podcast-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/podcast-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-podcast" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-podcast" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/de">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/de/gratis-logo-generator"
+href="https://www.notzarla.com/de/gratis-logo-generator"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/de/leitf%C3%A4den">Leitfäden</a></li><li
+href="https://www.notzarla.com/de/leitf%C3%A4den">Leitfäden</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos">Logos</a></li><li
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos">Logos</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos/medien-it-und-kommunikation">Medien, IT und Kommunikation</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Leitfäden","item":"https://www.zarla.com/de/leitf%C3%A4den"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.zarla.com/de/leitf%C3%A4den/logos"},{"@type":"ListItem","position":3,"name":"Medien, IT und Kommunikation","item":"https://www.zarla.com/de/leitf%C3%A4den/logos/medien-it-und-kommunikation"},{"@type":"ListItem","position":4,"name":"Logos für Podcasts + Gratis-Logo-Generator","item":"https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts"}]}</script> <div
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos/medien-it-und-kommunikation">Medien, IT und Kommunikation</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Leitfäden","item":"https://www.notzarla.com/de/leitf%C3%A4den"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.notzarla.com/de/leitf%C3%A4den/logos"},{"@type":"ListItem","position":3,"name":"Medien, IT und Kommunikation","item":"https://www.notzarla.com/de/leitf%C3%A4den/logos/medien-it-und-kommunikation"},{"@type":"ListItem","position":4,"name":"Logos für Podcasts + Gratis-Logo-Generator","item":"https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Logos für Podcasts + Gratis-Logo-Generator</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/stefanie-sattler-800x800-20240523.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/stefanie-sattler-800x800-20240523.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Stefanie Sattler"
 /></div><div
 class="card-byline-details">
 <span>Von <a
-class="card-byline-author" href="https://www.zarla.com/de/autoren/stefanie-sattler">Stefanie Sattler</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/de/autoren/stefanie-sattler">Stefanie Sattler</a>,</span>
 <span
 class="card-byline-date">04.07.2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Zwei Männer mit Kopfhörern sitzen für einen Podcast vor Mikrofonen an einem Konferenztisch."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Podcasts erfreuen sich großer Beliebtheit – um sich jedoch gegen die zunehmende Konkurrenz durchzusetzen, müssen Sie mit einem professionellen und kreativen Auftritt punkten. Das schließt Ihr Logo ein, mit dem Sie Hörer neugierig machen. Falls Sie sich mit dem Logodesign schwertun, helfen unsere folgenden Logo-Ideen und unser <a
-href="https://www.zarla.com/de/gratis-logo-generator">kostenloser Logo-Generator für Podcasts</a> weiter.</p></div></div></div></div><div
+href="https://www.notzarla.com/de/gratis-logo-generator">kostenloser Logo-Generator für Podcasts</a> weiter.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,129 +120,129 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Beschreibung</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/yky6wmkymhxw8vh78fdq/edit?brand=Absolut%20Audio">
+href="https://www.notzarla.com/logo-maker/yky6wmkymhxw8vh78fdq/edit?brand=Absolut%20Audio">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-yky6wmkymhxw8vh78fdq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
+data-src="https://www.notzarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-yky6wmkymhxw8vh78fdq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/yky6wmkymhxw8vh78fdq/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/yky6wmkymhxw8vh78fdq/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Das weiße Mikrofon-Icon vor dem kräftigen, orangen Hintergrund weckt Neugierde und zeigt im Zusammenspiel mit der modernen Vega-Schrift auf einen Blick, dass Sie kreativen Audio-Content für Ihre Hörer erstellen. Der runde Rahmen betont dabei auf effektive Weise Ihren Enthusiasmus und Ihre Dynamik.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/xwbdhxvgjqvbcppk4dmc/edit?brand=Absolut%20Audio">
+href="https://www.notzarla.com/logo-maker/xwbdhxvgjqvbcppk4dmc/edit?brand=Absolut%20Audio">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-xwbdhxvgjqvbcppk4dmc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
+data-src="https://www.notzarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-xwbdhxvgjqvbcppk4dmc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/xwbdhxvgjqvbcppk4dmc/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/xwbdhxvgjqvbcppk4dmc/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Das Icon mit der Hand, die einen Rock'n'Roll-Gruß formt, verleiht diesem Design einen progressiven Charakter, der zeigt, dass Sie in Ihrem Podcast originelle Inhalte rund um Musik, Spaß und Unterhaltung senden. Dieser Ansatz wird durch den unbeschwerten, aquamarinen Hintergrund verstärkt.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gvmvbbcttrxmtm8w47dg/edit?brand=Absolut%20Audio">
+href="https://www.notzarla.com/logo-maker/gvmvbbcttrxmtm8w47dg/edit?brand=Absolut%20Audio">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-gvmvbbcttrxmtm8w47dg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
+data-src="https://www.notzarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-gvmvbbcttrxmtm8w47dg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gvmvbbcttrxmtm8w47dg/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/gvmvbbcttrxmtm8w47dg/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Diese coole Grafik, die von einem Icon mit einem Kopf und einem detailgetreuen Mikrofon dominiert wird, lässt vermuten, dass sich Ihr Podcast auf eher ernstere Themen spezialisiert, die zum Nachdenken anregen. Unterstrichen wird dieser Design-Ansatz von dem zeitlosen, schwarz-weißen Farbauftritt.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3q9vwp9ggkwyd9vykx6d/edit?brand=Absolut%20Audio">
+href="https://www.notzarla.com/logo-maker/3q9vwp9ggkwyd9vykx6d/edit?brand=Absolut%20Audio">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-3q9vwp9ggkwyd9vykx6d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
+data-src="https://www.notzarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-3q9vwp9ggkwyd9vykx6d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3q9vwp9ggkwyd9vykx6d/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/3q9vwp9ggkwyd9vykx6d/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Die lebendige Farbpalette samt gelben Hintergrund im Zusammenspiel mit der Grafik, die eine Lautstärkeanzeige und eine Person mit Kopfhörern zeigt, wirkt einladend und stellt einen cleveren Podcast-Bezug her. Mit diesem ansprechenden Logo sollte es ein Leichtes sein, neue Hörer zu gewinnen.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/yyy9wdp9p6f4c3km77wb/edit?brand=Absolut%20Audio">
+href="https://www.notzarla.com/logo-maker/yyy9wdp9p6f4c3km77wb/edit?brand=Absolut%20Audio">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-yyy9wdp9p6f4c3km77wb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
+data-src="https://www.notzarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-yyy9wdp9p6f4c3km77wb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/yyy9wdp9p6f4c3km77wb/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/yyy9wdp9p6f4c3km77wb/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Das eckige Sprechblasen-Icon zusammen mit dem Mikrofon lässt vermuten, dass Sie in Ihrem Podcast auf Informationsaustausch und Gesprächsrunden setzen. Die Form des Mikrofonständers erinnert an ein Lächeln und verleiht dem Design mit dem hellblauen Hintergrund eine freundliche, positive Note.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/f3grj973gbf3mw9j8gqv/edit?brand=Absolut%20Audio">
+href="https://www.notzarla.com/logo-maker/f3grj973gbf3mw9j8gqv/edit?brand=Absolut%20Audio">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-f3grj973gbf3mw9j8gqv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
+data-src="https://www.notzarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-f3grj973gbf3mw9j8gqv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/f3grj973gbf3mw9j8gqv/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/f3grj973gbf3mw9j8gqv/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Die dunkelblaue Farbwahl für Grafik und Schriftzug verleiht diesem Logo eine formelle, ernsthafte Note, die einen Rückschluss auf die qualitativ hochwertigen Inhalte Ihres Podcasts gibt. Die Kopfhörer über dem Mikrofon sind eine elegante Aufforderung, dass es sich durchaus lohnt, Ihnen zuzuhören.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wtymrrhg86hc4b9vrbwf/edit?brand=Absolut%20Audio">
+href="https://www.notzarla.com/logo-maker/wtymrrhg86hc4b9vrbwf/edit?brand=Absolut%20Audio">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-wtymrrhg86hc4b9vrbwf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
+data-src="https://www.notzarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-wtymrrhg86hc4b9vrbwf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wtymrrhg86hc4b9vrbwf/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/wtymrrhg86hc4b9vrbwf/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Eins ist sicher: Mit dem lila Hintergrund generieren Sie Aufmerksamkeit – und durch das Mikrofon-Icon, mit der auf den Backdrop abgestimmten, rosa Farbpalette geben Sie zu verstehen, dass Sie angesagte, trendige Inhalte liefern. Ein Ansatz, der von der modernen Quantico-Schrift unterstrichen wird.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/by3mg6gkcqhffbtf3fj8/edit?brand=Absolut%20Audio">
+href="https://www.notzarla.com/logo-maker/by3mg6gkcqhffbtf3fj8/edit?brand=Absolut%20Audio">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-by3mg6gkcqhffbtf3fj8-1.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
+data-src="https://www.notzarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-by3mg6gkcqhffbtf3fj8-1.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/by3mg6gkcqhffbtf3fj8/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/by3mg6gkcqhffbtf3fj8/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Dieses Logo erhält durch die Icons eines Kopfhörers und der Lautstärkeregler eine technische Komponente und suggeriert, dass Sie Ihre Hörer mit feinen Musik-Tunes begeistern. Der gelbe Hintergrund wirkt nicht nur einladend, sondern harmoniert auch bestens mit der orange-roten Farbwahl der Grafik.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/h6tfr77thttfp4v9gqwx/edit?brand=Absolut%20Audio">
+href="https://www.notzarla.com/logo-maker/h6tfr77thttfp4v9gqwx/edit?brand=Absolut%20Audio">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-h6tfr77thttfp4v9gqwx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
+data-src="https://www.notzarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210812-h6tfr77thttfp4v9gqwx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/h6tfr77thttfp4v9gqwx/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/h6tfr77thttfp4v9gqwx/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Das schicke Logo ist dank der dezenten, aquamarin-grauen Farbkombination und dem eleganten Mikrofon-Icon in einem zweifarbigen Quadrat perfekt, um ein anspruchsvolles, kritisches Podcast-Publikum anzusprechen, da Sie mit diesem Design Struktur, Klasse und Professionalität unter Beweis stellen.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/847g6q63j3m7q68b87jf/edit?brand=Absolut%20Audio">
+href="https://www.notzarla.com/logo-maker/847g6q63j3m7q68b87jf/edit?brand=Absolut%20Audio">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210813-847g6q63j3m7q68b87jf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
+data-src="https://www.notzarla.com/images/zarla-absolut-audio-1x1-2400x2400-20210813-847g6q63j3m7q68b87jf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Logo für einen Podcast namens Absolut Audio">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/847g6q63j3m7q68b87jf/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/847g6q63j3m7q68b87jf/edit?brand=Absolut%20Audio" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Die weißen Balken in dem dunkelblauen Mikrofon erinnern sowohl an eine Skyline als auch an eine Lautsprecheranzeige. Dadurch ist die Grafik perfekt, um einen städtischen Podcast zu vermarkten. Die Farbwahl verleiht dem Logo eine professionelle Note, die selbst Werbepartner zu schätzen wissen.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/audio-logos">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/audio-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-audio-logos-5756x3837-20221018.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Audio-Logos" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-audio-logos-5756x3837-20221018.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Audio-Logos" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/audio-logos">Audio-Logos</a></p><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/audio-logos">Audio-Logos</a></p><div
 class="card-text">20 coole Ideen für Logos zu dem Thema Sound.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=fAQs class="section-heading">FAQs:</h2><div
@@ -252,7 +252,7 @@ class="answer"><p>Lassen Sie sich von unseren innovativen <a
 href="#logo-ideen-fuer-podcasts">Logo-Ideen für Podcasts</a> inspirieren, um Ihr Wunsch-Logo zu erstellen. Wählen Sie eine Vorlage aus, die Ihnen besonders gefällt, passen Sie diese an Ihre Anforderungen an und laden Sie den Entwurf kostenlos herunter.</p></div></div><div
 class="col-12 faq-item"><h3 id=wie-gehe-ich-vor-um-ein-logo-fuer-einen-podcast-zu-designen class="question">Wie gehe ich vor, um ein Logo für einen Podcast zu designen?</h3><div
 class="answer"><ol><li>Schauen Sie sich von den Logos anderer Podcast-Anbieter inspirieren.</li><li>Erstellen Sie ein paar Logo-Entwürfe mithilfe eines <a
-href="https://www.zarla.com/de/gratis-logo-generator">Logo-Generators für Podcasts</a> und experimentieren Sie mit Schriften, Farben und Icons.</li><li>Wählen Sie Ihre Lieblingsentwürfe und bitten Sie Familie und Freunde um Feedback</li><li>Führen Sie eine Social-Media-Umfrage und fragen Sie künftige Zuhörer, welche Logo-Entwürfe sie ansprechen.</li><li>Der Entwurf, der am besten ankommt, sollte Ihr neues Podcast-Logo werden.</li></ol></div></div><div
+href="https://www.notzarla.com/de/gratis-logo-generator">Logo-Generators für Podcasts</a> und experimentieren Sie mit Schriften, Farben und Icons.</li><li>Wählen Sie Ihre Lieblingsentwürfe und bitten Sie Familie und Freunde um Feedback</li><li>Führen Sie eine Social-Media-Umfrage und fragen Sie künftige Zuhörer, welche Logo-Entwürfe sie ansprechen.</li><li>Der Entwurf, der am besten ankommt, sollte Ihr neues Podcast-Logo werden.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=was-sollte-ich-beachten-wenn-ich-ein-logo-fuer-meinen-podcast-benoetige class="question">Was sollte ich beachten, wenn ich ein Logo für meinen Podcast benötige?</h3><div
 class="answer"><p>Überlegen Sie sich, auf welche Themen Sie sich konzentrieren wollen und warum es sich lohnt, in Ihren Podcast reinzuhören. Denken Sie darüber nach, wie Sie sich positionieren wollen – z. B. kreativ, investigativ, witzig, politisch, musikalisch – und wie Sie Ihre Botschaft am besten visualisieren.</p></div></div><div
 class="col-12 faq-item"><h3 id=wie-lange-dauert-es-ein-gutes-podcast-logo-zu-erstellen class="question">Wie lange dauert es, ein gutes Podcast-Logo zu erstellen?</h3><div
@@ -266,68 +266,68 @@ class="container"><h2 class="section-heading">Verwandte Artikel</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-blogger">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-blogger">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-blog-logos-5472x3648-2021023_2021-02-03-132812.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein Blogger sitzt vor dem Laptop und aktualisiert die Blog-Inhalte." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-blog-logos-5472x3648-2021023_2021-02-03-132812.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein Blogger sitzt vor dem Laptop und aktualisiert die Blog-Inhalte." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-blogger">Logos für Blogger</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-blogger">Logos für Blogger</a></h3><div
 class="card-text">10 kreative Logo-Ideen für Ihren Blog.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/magazin-logos">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/magazin-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zaela-magazine-logos-5616x3744-20230228.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eine Frau hält sich das geöffnete Modemagazin Vogue vors Gesicht." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zaela-magazine-logos-5616x3744-20230228.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eine Frau hält sich das geöffnete Modemagazin Vogue vors Gesicht." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/magazin-logos">Magazin-Logos</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/magazin-logos">Magazin-Logos</a></h3><div
 class="card-text">15 trendige Logo-Ideen für Magazine und Zeitschriften.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-twitch-streamer">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-twitch-streamer">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-twitch-logos-6000x3376-2021029.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Zwei Twitch-Streamer sitzen in einem Studio und nehmen einen Live-Stream auf." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-twitch-logos-6000x3376-2021029.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Zwei Twitch-Streamer sitzen in einem Studio und nehmen einen Live-Stream auf." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-twitch-streamer">Logos für Twitch-Streamer</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-twitch-streamer">Logos für Twitch-Streamer</a></h3><div
 class="card-text">10 tolle Logo-Ideen für Ihren Twitch-Kanal.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/dj-logos">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/dj-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-dj-logos-5760x3840-20210129.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein DJ heizt hinter seinem Mischpult in einem Club einem feiernden Publikum ein." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-dj-logos-5760x3840-20210129.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein DJ heizt hinter seinem Mischpult in einem Club einem feiernden Publikum ein." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/dj-logos">DJ-Logos</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/dj-logos">DJ-Logos</a></h3><div
 class="card-text">10 unterhaltsame Ideen für DJ-Logos</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/urban-style-logos">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/urban-style-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-urban-logos-2400x3000-2021106.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eine Person in einem Urban-Style-Hoodie sitzt auf der Kante eines Hochhaus und betrachtet den Sonnenuntergang über der Skyline einer Stadt." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-urban-logos-2400x3000-2021106.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eine Person in einem Urban-Style-Hoodie sitzt auf der Kante eines Hochhaus und betrachtet den Sonnenuntergang über der Skyline einer Stadt." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/urban-style-logos">Urban-Style-Logos</a></h3><div
-class="card-text">20 coole Logo-Ideen, die den urbanen Lebensstil perfekt in Szene setzen.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts","name":"Logos für Podcasts + Gratis-Logo-Generator"},"headline":"Logos für Podcasts + Gratis-Logo-Generator","description":"10 innovative Logo-Ideen für Ihren Podcast.","image":["https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-06-30T18:07:00-05:00","dateModified":"2024-07-04T12:46:24-05:00","author":{"@type":"Person","name":"Stefanie Sattler","url":"https://www.zarla.com/de/autoren/stefanie-sattler"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/de/leitf%C3%A4den/urban-style-logos">Urban-Style-Logos</a></h3><div
+class="card-text">20 coole Logo-Ideen, die den urbanen Lebensstil perfekt in Szene setzen.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts","name":"Logos für Podcasts + Gratis-Logo-Generator"},"headline":"Logos für Podcasts + Gratis-Logo-Generator","description":"10 innovative Logo-Ideen für Ihren Podcast.","image":["https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-podcast-logos-5228x3449-2021071.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-06-30T18:07:00-05:00","dateModified":"2024-07-04T12:46:24-05:00","author":{"@type":"Person","name":"Stefanie Sattler","url":"https://www.notzarla.com/de/autoren/stefanie-sattler"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -336,27 +336,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/de">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Sprache</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/podcast-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-podcast">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-per-podcast">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-de-podcast">Français</a></li><li
+href="https://www.notzarla.com/guides/podcast-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-podcast">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-per-podcast">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-de-podcast">Français</a></li><li
 class="current" style="color: #3041c4;">Deutsch</li><li><a
-href="https://www.zarla.com/br/guias/logotipos-de-podcast">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/podcast-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/podcast-logolar%C4%B1">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-podcast">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-podcast">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/br/guias/logotipos-de-podcast">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/podcast-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/podcast-logolar%C4%B1">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-podcast">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-podcast">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Verweise</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/logo-ideen">
+href="https://www.notzarla.com/de/leitf%C3%A4den/logo-ideen">
 Logo-Ideen
 </a></li><li>
 <a
@@ -364,7 +364,7 @@ href="/de">
 KI-Website-Builder
 </a></li><li>
 <a
-href="https://www.zarla.com/de/gratis-logo-generator">
+href="https://www.notzarla.com/de/gratis-logo-generator">
 Gratis-Logo-Generator
 </a></li><li>
 <a
@@ -372,15 +372,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/de/nutzungsbedingungen">
+href="https://www.notzarla.com/de/nutzungsbedingungen">
 Nutzungsbedingungen
 </a></li><li>
 <a
-href="https://www.zarla.com/de/urheberrichtlinie">
+href="https://www.notzarla.com/de/urheberrichtlinie">
 Urheberrichtlinie
 </a></li><li>
 <a
-href="https://www.zarla.com/de/datenschutzrichtlinie">
+href="https://www.notzarla.com/de/datenschutzrichtlinie">
 Datenschutzrichtlinie
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -388,7 +388,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/de/gratis-logo-generator?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=de-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/de/gratis-logo-generator?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=de-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Gestalten Sie ein eigenes Logo

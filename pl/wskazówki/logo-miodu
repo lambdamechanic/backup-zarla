@@ -7,34 +7,34 @@ property="og:title" content="Logo miodu + Darmowy Kreator Logo" /><meta
 property="og:description" content="10 słodziutkich projektów logo inspirowanych miodem dla twojej firmy." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-miodu"><meta
+property="og:url" content="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-miodu"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="pl-PL"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-miodu"><link
-rel="alternate" href="https://www.zarla.com/guides/honey-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/honey-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-de-miel" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-per-aziende-di-miele" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-de-miel" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/honig-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-de-mel" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/honinglogos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/bal-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-miodu" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-madu" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-miodu"><link
+rel="alternate" href="https://www.notzarla.com/guides/honey-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/honey-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-de-miel" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-per-aziende-di-miele" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-de-miel" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/honig-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-de-mel" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/honinglogos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/bal-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-miodu" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-madu" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/pl">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo"
+href="https://www.notzarla.com/pl/darmowy-kreator-logo"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki">Wskazówki</a></li><li
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki">Wskazówki</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo">Projekty Logo</a></li><li
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo">Projekty Logo</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/handel">Handel</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Wskazówki","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki"},{"@type":"ListItem","position":2,"name":"Projekty Logo","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo"},{"@type":"ListItem","position":3,"name":"Handel","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/handel"},{"@type":"ListItem","position":4,"name":"Logo miodu + Darmowy Kreator Logo","item":"https://www.zarla.com/pl/wskaz%C3%B3wki/logo-miodu"}]}</script> <div
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo/handel">Handel</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Wskazówki","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki"},{"@type":"ListItem","position":2,"name":"Projekty Logo","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo"},{"@type":"ListItem","position":3,"name":"Handel","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo/handel"},{"@type":"ListItem","position":4,"name":"Logo miodu + Darmowy Kreator Logo","item":"https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-miodu"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Logo miodu + Darmowy Kreator Logo</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-natalia-smigielska-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-natalia-smigielska-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Natalia Śmigielska"
 /></div><div
 class="card-byline-details">
 <span> <a
-class="card-byline-author" href="https://www.zarla.com/pl/współautorzy/natalia-śmigielska">Natalia Śmigielska</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/pl/współautorzy/natalia-śmigielska">Natalia Śmigielska</a>,</span>
 <span
 class="card-byline-date">26 kwi 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Plaster miodu i drewniany czerpak leżące na białym talerzu."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Logo miodu powinno oddawać zarówno niesamowitą słodycz oferowanych przez twoją firmę produktów, jak i ich naturalne pochodzenie. Pamiętaj, by użyć ciepłych kolorów, które budzą skojarzenia z tym złotym przysmakiem, miłej dla oka czcionki oraz uroczej ikony, np. z pszczółką. Zobacz nasze propozycje poniżej lub użyj <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">darmowego kreatora logo miodu</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">darmowego kreatora logo miodu</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,136 +120,136 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Opis</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/kdfgmvh4h8r6p67ffmy8/edit?brand=Ale%20Miodek!">
+href="https://www.notzarla.com/logo-maker/kdfgmvh4h8r6p67ffmy8/edit?brand=Ale%20Miodek!">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-kdfgmvh4h8r6p67ffmy8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
+data-src="https://www.notzarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-kdfgmvh4h8r6p67ffmy8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/kdfgmvh4h8r6p67ffmy8/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/kdfgmvh4h8r6p67ffmy8/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Grafika ujętego w smakowitym plastrze miodu czerpaka kreatywnie wykorzystuje efekt negatywnej przestrzeni – przepięknie prezentować się będzie np. na etykietach słoików z tym słodziutkim przysmakiem. Apetyczny złocisty oranż idealnie wpisuje się w kuszący motyw logo, a niemal czarny font Gabriela ładnie eksponuje nazwę firmy.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7mhpfqqfkqhtgdytqv89/edit?brand=Ale%20Miodek!">
+href="https://www.notzarla.com/logo-maker/7mhpfqqfkqhtgdytqv89/edit?brand=Ale%20Miodek!">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-7mhpfqqfkqhtgdytqv89.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
+data-src="https://www.notzarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-7mhpfqqfkqhtgdytqv89.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7mhpfqqfkqhtgdytqv89/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/7mhpfqqfkqhtgdytqv89/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Informatywna ikona pszczółki na tle plastrów świetnie odda twoją specjalizację. Ciepły brąz oraz słonecznikowa żółć budzą skojarzenia z rustykalną pasieką prowadzoną w zgodzie z przyrodą – takie duo kolorów z powodzeniem wskaże na producenta zdrowych, naturalnych miodów. Prosty font Poppins dopełnia przystępny wygląd logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gbvhmx74rw3pfphh9ryr/edit?brand=Ale%20Miodek!">
+href="https://www.notzarla.com/logo-maker/gbvhmx74rw3pfphh9ryr/edit?brand=Ale%20Miodek!">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-gbvhmx74rw3pfphh9ryr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
+data-src="https://www.notzarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-gbvhmx74rw3pfphh9ryr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gbvhmx74rw3pfphh9ryr/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/gbvhmx74rw3pfphh9ryr/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Niby-odręczny font Sniglet fajnie kontrastuje z geometryczną ikoną i stanowi przyjazną podstawę tego modnego projektu. Nowoczesna ikona plastrów miodu wpisanych w heksagon idealnie współgra z oranżem – barwą kreatywności – oraz profesjonalnym granatem. To logo z pewnością wyróżni się na tle bardziej zachowawczych kompozycji.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fxj38wpx3hqxxtjcdrvc/edit?brand=Ale%20Miodek!">
+href="https://www.notzarla.com/logo-maker/fxj38wpx3hqxxtjcdrvc/edit?brand=Ale%20Miodek!">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-fxj38wpx3hqxxtjcdrvc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
+data-src="https://www.notzarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-fxj38wpx3hqxxtjcdrvc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fxj38wpx3hqxxtjcdrvc/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/fxj38wpx3hqxxtjcdrvc/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Odcienie koralowej i głębokiej czerwieni pięknie się dopełniają; są także nietypowym wyborem do logo miodu, dlatego możesz mieć pewność, że przykują uwagę do twojej identyfikacji wizualnej. Niezwykle estetyczny font Forum oraz stylowa, minimalistyczna ikona pszczółki ujętej w heksagonie wskażą na ofertę o jakości premium.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/ry94c3hg773dv363cck9/edit?brand=Ale%20Miodek!">
+href="https://www.notzarla.com/logo-maker/ry94c3hg773dv363cck9/edit?brand=Ale%20Miodek!">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-ry94c3hg773dv363cck9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Miody - logo dla firmy o nazwie Ale Miodek!">
+data-src="https://www.notzarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-ry94c3hg773dv363cck9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Miody - logo dla firmy o nazwie Ale Miodek!">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/ry94c3hg773dv363cck9/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/ry94c3hg773dv363cck9/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Na widok słoja wypełnionego apetycznym miodem niejednemu potencjalnemu klientowi pocieknie ślinka, z kolei jego ciemnobrązowy kolor wskaże na głęboki smak twoich produktów. Nazwa zapisana stylizowaną na odręczny napis czcionką Sniglet zaprezentuje twoją markę jako przystępną i może wskazać na lokalny charakter działalności.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/htywyrc44bqbcfjyqxx7/edit?brand=Ale%20Miodek!">
+href="https://www.notzarla.com/logo-maker/htywyrc44bqbcfjyqxx7/edit?brand=Ale%20Miodek!">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-htywyrc44bqbcfjyqxx7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
+data-src="https://www.notzarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-htywyrc44bqbcfjyqxx7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/htywyrc44bqbcfjyqxx7/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/htywyrc44bqbcfjyqxx7/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Przypominająca odręczny napis czcionka Amatica SC w bieli stanowi przeuroczą podstawę tego fajnego projektu – nie tylko odda przyjazny charakter twojej firmy, ale też pięknie wyeksponuje jej nazwę na intensywnym tle. Złocista żółć natychmiast kojarzy się ze słodziutkim miodem, podobnie jak obrazowa ikona pszczelich plastrów.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/c4krbmgtkvbvyfqvj7kw/edit?brand=Ale%20Miodek!">
+href="https://www.notzarla.com/logo-maker/c4krbmgtkvbvyfqvj7kw/edit?brand=Ale%20Miodek!">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-c4krbmgtkvbvyfqvj7kw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - miód, dla firmy o nazwie Ale Miodek!">
+data-src="https://www.notzarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-c4krbmgtkvbvyfqvj7kw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - miód, dla firmy o nazwie Ale Miodek!">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/c4krbmgtkvbvyfqvj7kw/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/c4krbmgtkvbvyfqvj7kw/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Nic tak nie skłoni potencjalnych klientów do zakupu twojego miodu jak ta złocistopomarańczowa ikona pszczółki wpisanej w ociekający miodem okrąg – dzięki ciepłej barwie wyobrażą sobie ten słodziutki smak, a urocza grafika wzbudzi w nich pozytywne uczucia. Wyrafinowany font Cinzel dodaje kompozycji nuty elegancji.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/w6vbf8mvx63pq7qqjd6p/edit?brand=Ale%20Miodek!">
+href="https://www.notzarla.com/logo-maker/w6vbf8mvx63pq7qqjd6p/edit?brand=Ale%20Miodek!">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-w6vbf8mvx63pq7qqjd6p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - miód, dla firmy o nazwie Ale Miodek!">
+data-src="https://www.notzarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-w6vbf8mvx63pq7qqjd6p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo - miód, dla firmy o nazwie Ale Miodek!">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/w6vbf8mvx63pq7qqjd6p/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/w6vbf8mvx63pq7qqjd6p/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Ciepły brąz – barwa komfortu i rzetelności – będzie doskonałym wyborem do logo firmy, której miody mają głęboki, nieskazitelny smak. Ikona pszczoły ujętej w kielichu kwiatka ciekawie wykorzystuje negatywną przestrzeń – idealnie sprawdzi się w kreatywnym brandingu, a bezpretensjonalny font Rubik zasugeruje przystępność biznesu.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/frf6dgy9x964v3d79cxv/edit?brand=Ale%20Miodek!">
+href="https://www.notzarla.com/logo-maker/frf6dgy9x964v3d79cxv/edit?brand=Ale%20Miodek!">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-frf6dgy9x964v3d79cxv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
+data-src="https://www.notzarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-frf6dgy9x964v3d79cxv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/frf6dgy9x964v3d79cxv/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/frf6dgy9x964v3d79cxv/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Przepiękna, niby-odręczna czcionka Pattaya zachwyci odbiorców swoim unikatowym krojem oraz wskaże na firmę prowadzoną z sercem. Wyrazista czerń świetnie kontrastuje z żywym pomarańczem, dzięki czemu ikona skrzyżowanych czerpaków ociekających miodem z pewnością przykuje uwagę wielu smakoszy tego słodkiego przysmaku.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/t6hrtdwhgk7wtwryfq4p/edit?brand=Ale%20Miodek!">
+href="https://www.notzarla.com/logo-maker/t6hrtdwhgk7wtwryfq4p/edit?brand=Ale%20Miodek!">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-t6hrtdwhgk7wtwryfq4p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
+data-src="https://www.notzarla.com/images/zarla-ale-miodek-1x1-2400x2400-20231009-t6hrtdwhgk7wtwryfq4p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Plaster miodu - logo firmy o nazwie Ale Miodek!">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/t6hrtdwhgk7wtwryfq4p/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/t6hrtdwhgk7wtwryfq4p/edit?brand=Ale%20Miodek!" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Słodka pszczółka w optymistycznej, złocistopomarańczowej barwie lśni na tle heksagonów przypominających plastry miodu – będzie budzącą sympatię bohaterką twojej marki; jej pełen detali design wskaże, że przykładasz ogromną wagę do jakości i brandingu swoich miodów. Fantazyjny font Cinzel Decorative ślicznie dopełnia kompozycję.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-z-pszczo%C5%82%C4%85">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-z-pszczo%C5%82%C4%85">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-bee-logos-3840x2563-20220916.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo z pszczołą" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-bee-logos-3840x2563-20220916.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo z pszczołą" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-z-pszczo%C5%82%C4%85">Logo z pszczołą</a></p><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-z-pszczo%C5%82%C4%85">Logo z pszczołą</a></p><div
 class="card-text">10 słodkich projektów logo z pszczołą dla twojej firmy.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=faq class="section-heading">FAQ:</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=jak-stworzyc-kreatywne-logo-miodu class="question">Jak stworzyć kreatywne logo miodu?</h3><div
 class="answer"><ol><li>Zrób research logo konkurencji i zastanów się, jaki projekt wyróżni twój biznes od innych producentów miodu.</li><li>Zapoznaj się z psychologią kolorów, by dobrać te, które skutecznie oddadzą słodycz twoich produktów.</li><li>Użyj <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">generatora logo</a>, aby stworzyć projekty zgodne z charakterem twojej marki.</li><li>Spersonalizuj najciekawsze kompozycje, np. podmieniając ikonę lub dostosowując font i barwy według gustu.</li><li>Wybierz kilka projektów i poproś rodzinę oraz przyjaciół o opinię.</li><li>Pobierz logo, które spodoba się im najbardziej.</li></ol></div></div><div
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">generatora logo</a>, aby stworzyć projekty zgodne z charakterem twojej marki.</li><li>Spersonalizuj najciekawsze kompozycje, np. podmieniając ikonę lub dostosowując font i barwy według gustu.</li><li>Wybierz kilka projektów i poproś rodzinę oraz przyjaciół o opinię.</li><li>Pobierz logo, które spodoba się im najbardziej.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=skad-pobrac-darmowe-logo-z-plastrem-miodu class="question">Skąd pobrać darmowe logo z plastrem miodu?</h3><div
 class="answer"><p>Możesz stworzyć, edytować i pobrać darmowe logo z plastrem miodu na Zarla. Wystarczy, że klikniesz „Edytuj” pod jednym z <a
 href="#pomysly-na-logo-miodu">naszych projektów</a> lub użyjesz naszego kreatora logo.</p></div></div><div
@@ -262,68 +262,68 @@ class="container"><h2 class="section-heading">Podobne Treści</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-cukiernicze">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-cukiernicze">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logos-para-confiter%C3%ADa-6040x4027-20220419.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Kolorowe słodkości ułożone estetycznie na wystawie w sklepie cukierniczym." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-logos-para-confiter%C3%ADa-6040x4027-20220419.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Kolorowe słodkości ułożone estetycznie na wystawie w sklepie cukierniczym." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-cukiernicze">Logo cukiernicze</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-cukiernicze">Logo cukiernicze</a></h3><div
 class="card-text">10 uroczych projektów logo cukierniczych dla twojego biznesu.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-desery">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-desery">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-Dessert-Logos.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ciasto z kremem i dżemem malinowym upieczone przez cukiernię sprzedającą desery." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-Dessert-Logos.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ciasto z kremem i dżemem malinowym upieczone przez cukiernię sprzedającą desery." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-desery">Logo: Desery</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-desery">Logo: Desery</a></h3><div
 class="card-text">10 urzekających projektów logo dla twojego biznesu sprzedającego desery.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-zio%C5%82a-i-przyprawy">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-zio%C5%82a-i-przyprawy">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-Herbs-and-Spices-Logos.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Zestaw ziół i przypraw." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-Herbs-and-Spices-Logos.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Zestaw ziół i przypraw." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-zio%C5%82a-i-przyprawy">Logo: Zioła i przyprawy</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-zio%C5%82a-i-przyprawy">Logo: Zioła i przyprawy</a></h3><div
 class="card-text">10 genialnych projektów logo dla twojego sklepu z ziołami i przyprawami.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-s%C5%82odycze">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-s%C5%82odycze">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-candy-logos-2400x2400-20230528.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Lizaki zawieszone do góry nogami w sklepie ze słodyczami." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-candy-logos-2400x2400-20230528.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Lizaki zawieszone do góry nogami w sklepie ze słodyczami." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-s%C5%82odycze">Logo: Słodycze</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-s%C5%82odycze">Logo: Słodycze</a></h3><div
 class="card-text">10 fenomenalnych projektów logo dla twojego sklepu ze słodyczami.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/%C5%BC%C3%B3%C5%82te-logo">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/%C5%BC%C3%B3%C5%82te-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-yellow-logos-6000x4000-2023028.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Przekrojona na pół cytryna na żółtym tle." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-yellow-logos-6000x4000-2023028.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Przekrojona na pół cytryna na żółtym tle." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/%C5%BC%C3%B3%C5%82te-logo">Żółte logo</a></h3><div
-class="card-text">20 zjawiskowych projektów żółtych logo dla twojej firmy.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/pl/wskaz%C3%B3wki/logo-miodu","name":"Logo miodu + Darmowy Kreator Logo"},"headline":"Logo miodu + Darmowy Kreator Logo","description":"10 słodziutkich projektów logo inspirowanych miodem dla twojej firmy.","image":["https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-12-03T05:31:00-06:00","dateModified":"2024-04-26T02:31:07-05:00","author":{"@type":"Person","name":"Natalia Śmigielska","url":"https://www.zarla.com/pl/współautorzy/natalia-śmigielska"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/%C5%BC%C3%B3%C5%82te-logo">Żółte logo</a></h3><div
+class="card-text">20 zjawiskowych projektów żółtych logo dla twojej firmy.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-miodu","name":"Logo miodu + Darmowy Kreator Logo"},"headline":"Logo miodu + Darmowy Kreator Logo","description":"10 słodziutkich projektów logo inspirowanych miodem dla twojej firmy.","image":["https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-12-03T05:31:00-06:00","dateModified":"2024-04-26T02:31:07-05:00","author":{"@type":"Person","name":"Natalia Śmigielska","url":"https://www.notzarla.com/pl/współautorzy/natalia-śmigielska"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -332,27 +332,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/pl">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Język</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/honey-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-de-miel">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-per-aziende-di-miele">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-de-miel">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/honig-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-de-mel">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/honinglogos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/bal-logolar%C4%B1">Türkçe</a></li><li
+href="https://www.notzarla.com/guides/honey-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-de-miel">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-per-aziende-di-miele">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-de-miel">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/honig-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-de-mel">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/honinglogos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/bal-logolar%C4%B1">Türkçe</a></li><li
 class="current" style="color: #3041c4;">Polski</li><li><a
-href="https://www.zarla.com/id/panduan/logo-madu">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/id/panduan/logo-madu">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Zasoby</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/projekty-logo">
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/projekty-logo">
 Projekty Logo
 </a></li><li>
 <a
@@ -360,7 +360,7 @@ href="/pl">
 Kreator stron internetowych AI
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">
 Darmowy kreator logo
 </a></li><li>
 <a
@@ -368,15 +368,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/regulamin">
+href="https://www.notzarla.com/pl/regulamin">
 Regulamin
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/polityka-praw-autorskich">
+href="https://www.notzarla.com/pl/polityka-praw-autorskich">
 Polityka Praw Autorskich
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/polityka-prywatno%C5%9Bci">
+href="https://www.notzarla.com/pl/polityka-prywatno%C5%9Bci">
 Polityka Prywatności
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -384,7 +384,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pl-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/pl/darmowy-kreator-logo?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pl-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Zacznij projektować własne logo

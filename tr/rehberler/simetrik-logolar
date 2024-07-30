@@ -7,34 +7,34 @@ property="og:title" content="Simetrik Logolar + Ücretsiz Logo Oluşturucu" /><m
 property="og:description" content="İşletmeniz için 20 simetrik logo fikri." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/tr/rehberler/simetrik-logolar"><meta
+property="og:url" content="https://www.notzarla.com/tr/rehberler/simetrik-logolar"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="tr-TR"><meta
-property="og:image" content="https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/tr/rehberler/simetrik-logolar"><link
-rel="alternate" href="https://www.zarla.com/guides/symmetrical-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/symmetrical-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-sim%C3%A9tricos" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-simmetrici" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-sym%C3%A9triques" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/symmetrische-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-sim%C3%A9tricos" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/symmetrische-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/simetrik-logolar" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/symetryczne-logo" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-simetris" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/tr/rehberler/simetrik-logolar"><link
+rel="alternate" href="https://www.notzarla.com/guides/symmetrical-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/symmetrical-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-sim%C3%A9tricos" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-simmetrici" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-sym%C3%A9triques" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/symmetrische-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-sim%C3%A9tricos" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/symmetrische-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/simetrik-logolar" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/symetryczne-logo" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-simetris" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/tr">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu"
+href="https://www.notzarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/tr/rehberler">Rehberler</a></li><li
+href="https://www.notzarla.com/tr/rehberler">Rehberler</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/tr/rehberler/logolar">Logolar</a></li><li
+href="https://www.notzarla.com/tr/rehberler/logolar">Logolar</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/tr/rehberler/logolar/ture-gore">Türe Göre</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Rehberler","item":"https://www.zarla.com/tr/rehberler"},{"@type":"ListItem","position":2,"name":"Logolar","item":"https://www.zarla.com/tr/rehberler/logolar"},{"@type":"ListItem","position":3,"name":"Türe Göre","item":"https://www.zarla.com/tr/rehberler/logolar/ture-gore"},{"@type":"ListItem","position":4,"name":"Simetrik Logolar + Ücretsiz Logo Oluşturucu","item":"https://www.zarla.com/tr/rehberler/simetrik-logolar"}]}</script> <div
+href="https://www.notzarla.com/tr/rehberler/logolar/ture-gore">Türe Göre</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Rehberler","item":"https://www.notzarla.com/tr/rehberler"},{"@type":"ListItem","position":2,"name":"Logolar","item":"https://www.notzarla.com/tr/rehberler/logolar"},{"@type":"ListItem","position":3,"name":"Türe Göre","item":"https://www.notzarla.com/tr/rehberler/logolar/ture-gore"},{"@type":"ListItem","position":4,"name":"Simetrik Logolar + Ücretsiz Logo Oluşturucu","item":"https://www.notzarla.com/tr/rehberler/simetrik-logolar"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Simetrik Logolar + Ücretsiz Logo Oluşturucu</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-esra-c%CC%A7evik-800x800-2024059-1.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-esra-c%CC%A7evik-800x800-2024059-1.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Esra Çevik"
 /></div><div
 class="card-byline-details">
 <span>Yazan: <a
-class="card-byline-author" href="https://www.zarla.com/tr/katkı-sağlayanlar/esra-çevik">Esra Çevik</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/tr/katkı-sağlayanlar/esra-çevik">Esra Çevik</a>,</span>
 <span
 class="card-byline-date">21 Şub 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Simetrik bir bina görünümü."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Simetrik logolar çok yönlü, kolay tanınır ve görsel açıdan çekiciler. Denge, hassasiyet ve uyum hissi yansıtan bu logolar, akılda kalıcı bir marka kimliği oluşturmak için çeşitli işletmeler tarafından tercih edilebiliyor. Siz de yaratıcı fikirler için koleksiyonumuzu inceleyin veya <a
-href="https://www.zarla.com/tr/ücretsiz-logo-oluşturucu">ücretsiz simetrik logo oluşturucumuz</a> ile kendi logonuzu yapın.</p></div></div></div></div><div
+href="https://www.notzarla.com/tr/ücretsiz-logo-oluşturucu">ücretsiz simetrik logo oluşturucumuz</a> ile kendi logonuzu yapın.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,239 +120,239 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Tanım</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jm3fbkx477vchhg8yk88/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/jm3fbkx477vchhg8yk88/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-jm3fbkx477vchhg8yk88.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-jm3fbkx477vchhg8yk88.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jm3fbkx477vchhg8yk88/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/jm3fbkx477vchhg8yk88/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bitki ve çiçek gibi doğal olarak simetrik görünen elementler, çoğunlukla güzellik ve sevgiyle ilişkilendiriliyor. Lüks görünümlü altın rengindeki bu simetrik dairesel tasarım, şık ve göz alıcı. Siyah Antonio yazı tipi ise temiz ve sağlam görüntüsüyle tasarımı ayakta tutuyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/xdpkq89j6jcvwmqkx9dg/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/xdpkq89j6jcvwmqkx9dg/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-xdpkq89j6jcvwmqkx9dg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-xdpkq89j6jcvwmqkx9dg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/xdpkq89j6jcvwmqkx9dg/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/xdpkq89j6jcvwmqkx9dg/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bu gibi her açıdan simetrik dairesel tasarımlar, çok yönlü ve kolay tanınabilir oluyor. Parlak kırmızı noktaların eş merkezli olması, markanızın öne çıkmasına ve eşsiz bir sembol taşımasına yardımcı oluyor. Titillium Web yazı tipinin muntazam ve zevkli görünümü, enerjik görünümlü ikonu dengeliyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/vg7vkhv38qdmpd3vvccq/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/vg7vkhv38qdmpd3vvccq/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-vg7vkhv38qdmpd3vvccq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-vg7vkhv38qdmpd3vvccq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/vg7vkhv38qdmpd3vvccq/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/vg7vkhv38qdmpd3vvccq/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Logoların simetrisi, yalnızca sağ ve sol yansıtma ile sınırlı değil. Bu örnekte ikonun şekli çapraz bir simetri oluşturuyor ve çekici ama dengeli bir logo ortaya çıkıyor. Yeşil renk paletiyle ferah görünen logo, Oswald yazı tipinin sağlam karakterleri üzerinde yükseliyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/bqm3qdtd8fg7y6vmktkk/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/bqm3qdtd8fg7y6vmktkk/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-bqm3qdtd8fg7y6vmktkk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-bqm3qdtd8fg7y6vmktkk.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/bqm3qdtd8fg7y6vmktkk/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/bqm3qdtd8fg7y6vmktkk/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bu ikondaki desen sembolün dört köşesine de aksediyor ve güzellik ile dengeyi çağrıştıran simetrik bir tasarım ortaya çıkıyor. Renk seçimindeki kırmızı ve sarı, bu kibar tasarıma heyecan ve cesaret katıyor. Inter yazı tipinin ince çizgileri, ikondaki detaylarla uyum içerisinde görünüyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/p6xxbmypmt77pfgr3fxq/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/p6xxbmypmt77pfgr3fxq/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-p6xxbmypmt77pfgr3fxq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-p6xxbmypmt77pfgr3fxq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/p6xxbmypmt77pfgr3fxq/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/p6xxbmypmt77pfgr3fxq/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Renk seçiminde asimetrik görünen, şekil olarak ise simetrik olan bu tasarımda dualite ön plana çıkıyor. Renk spektrumunun iki ucunu temsil eden kırmızı ve mavi renkleri de, bu hissi artırıyor. Oswald yazı tipinin düzgün görünümü, bu dramatik ve dikkat çekici ikonu dengeliyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/qj3vwykxmykjwkvg9vj9/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/qj3vwykxmykjwkvg9vj9/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-qj3vwykxmykjwkvg9vj9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-qj3vwykxmykjwkvg9vj9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/qj3vwykxmykjwkvg9vj9/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/qj3vwykxmykjwkvg9vj9/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Gökdeleni andıran bu simetrik ikon; güzellik, hassaslık ve orantılılığı çağrıştırması sebebiyle inşaat şirketleri için ideal. Mavi renk şeması, şeffaf arka plan üzerinde temiz ve profesyonel görünüyor. Abril Fatface yazı tipinin ince kıvrımları ise tasarıma çekicilik katıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9t77p49fhh7tjjbkdpmq/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/9t77p49fhh7tjjbkdpmq/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-9t77p49fhh7tjjbkdpmq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-9t77p49fhh7tjjbkdpmq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9t77p49fhh7tjjbkdpmq/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/9t77p49fhh7tjjbkdpmq/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Daire biçimindeki kanatlı ikon, dikkatleri logodaki simetrik yıldızlara ve makasa çekiyor. Bu logo, kalite kavramını yansıtıyor ve işletmenizin kültürünü vurguluyor. Pembe renk, tasarıma rahatlatıcı bir sıcaklık veriyor ve Grenze Medium yazı tipinin gri ve keskin karakterleri ile uyum yakalıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/97h4rkhtmb6mq78fhfww/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/97h4rkhtmb6mq78fhfww/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-97h4rkhtmb6mq78fhfww.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-97h4rkhtmb6mq78fhfww.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/97h4rkhtmb6mq78fhfww/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/97h4rkhtmb6mq78fhfww/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Siyah arka plan tasarıma gizem katarken ışık hüzmelerinin ön plana çıkmasına ve elmas şeklinin gizli silüetinin vurgulanmasına yardımcı oluyor. Güzellik ve hassaslığı çağrıştıran bu tasarım, mücevher firmaları için ideal. Frank Ruhl Libre yazı tipinin şıklığı, logonun sofistike görünümünü artırıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/4dgw8f67my6wdwf3kvmw/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/4dgw8f67my6wdwf3kvmw/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-4dgw8f67my6wdwf3kvmw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-4dgw8f67my6wdwf3kvmw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/4dgw8f67my6wdwf3kvmw/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/4dgw8f67my6wdwf3kvmw/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Tasarımdaki gözler, delici bakışlara sahip ve hemen dikkat çekiyor. İnsan yüzünün simetrisinden yararlanan bu logo, bir güzellik markası için ideal. Beyaz üzerine gri tasarım, çok yönlü ve modern. Ramaraja yazı tipinin hassas bitişleri de bu modern görünümü destekliyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/69y9y74b3dwqmgqdxchj/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/69y9y74b3dwqmgqdxchj/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-69y9y74b3dwqmgqdxchj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-69y9y74b3dwqmgqdxchj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/69y9y74b3dwqmgqdxchj/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/69y9y74b3dwqmgqdxchj/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Denge, orantı ve hassaslık, binalar için kilit özellikler. Simetrik bir logo inşaat, tamirat ya da sigorta işletmenizi temsil etmek için uygun. Kırmızı arka plan, tasarıma tutku ekliyor ve beyaz ikonun öne çıkmasını sağlıyor. Alfa Slab One yazı tipinin bodur karakterleri ise tasarımı ayakta tutuyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7gyttx98pgvtxyywx7dc/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/7gyttx98pgvtxyywx7dc/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-7gyttx98pgvtxyywx7dc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-7gyttx98pgvtxyywx7dc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7gyttx98pgvtxyywx7dc/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/7gyttx98pgvtxyywx7dc/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bu logodaki simetrik insan figürü, denge ve ahenk hissi uyandırıyor. Yoga ve meditasyon hizmetleri sunan işletmeler için ideal olan bu monokrom tasarım, profesyonel ve şık görünüyor. Bebas Neue yazı tipinin temiz çizgileri ise ikonun çizim tarzını mükemmel bir şekilde tamamlıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fykmx3x7bhvjrh4hhhh3/edit?brand=AYAZ%20%26%20KAYA">
+href="https://www.notzarla.com/logo-maker/fykmx3x7bhvjrh4hhhh3/edit?brand=AYAZ%20%26%20KAYA">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-fykmx3x7bhvjrh4hhhh3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-fykmx3x7bhvjrh4hhhh3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fykmx3x7bhvjrh4hhhh3/edit?brand=AYAZ%20%26%20KAYA" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/fykmx3x7bhvjrh4hhhh3/edit?brand=AYAZ%20%26%20KAYA" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Simetrik görünüm insan vücudunda oldukça çekici olsa da, fazla kullanımı rahatsız edici olabiliyor. Bu simetrik tasarımdaki küçük burun, ikonu canlandıran müthiş bir asimetrik dokunuş olarak karşımıza çıkıyor. Koyu renkli Lato ExtraBold yazı tipi logoyu taşırken, soğuk renk paleti dinginlik sunuyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/j3m4ckj67yjt8k8gk97g/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/j3m4ckj67yjt8k8gk97g/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-j3m4ckj67yjt8k8gk97g.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-j3m4ckj67yjt8k8gk97g.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/j3m4ckj67yjt8k8gk97g/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/j3m4ckj67yjt8k8gk97g/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Donut ikonunu ön plana alan dal çizimleri, işletmenizin doğası ile ilgili ipucu veriyor. Tasarımdaki zengin kahverengi tonlar, kalite ve lüksü çağrıştırıyor. Logodaki simetri, tutarlılık ve dengeyi vurguluyor. Averia Serif Libre yazı tipi ise tasarıma farklı bir doku ekliyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3fhr8wqtjvmfvcp6g89d/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/3fhr8wqtjvmfvcp6g89d/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-3fhr8wqtjvmfvcp6g89d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-3fhr8wqtjvmfvcp6g89d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3fhr8wqtjvmfvcp6g89d/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/3fhr8wqtjvmfvcp6g89d/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Çiçeklenen yapraklar, sevinçli figür ve hareketli kemer, ikona mükemmel bir simetri içerisinde denge ahenk unsuru sağlıyor. Sıcak mercan renk seçimi, bu neşelendirici görünümü destekliyor. Siyah El Messiri yazı tipi ise tasarımı dengeliyor ve logoya zevkli bir zarafet katıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/48wp4mcpqrdtkhqtjbx3/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/48wp4mcpqrdtkhqtjbx3/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-48wp4mcpqrdtkhqtjbx3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-48wp4mcpqrdtkhqtjbx3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/48wp4mcpqrdtkhqtjbx3/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/48wp4mcpqrdtkhqtjbx3/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Eğer bir sanat ya da zanaat işletmeniz varsa bu simetrik tasarım, detaycı ve estetik bakış açınızı yansıtacak. Beyaz tasarım elementleri, enerjik hardal rengi vazoyu ön plana çıkarıyor. Siyah arka plan ise tasarımı daha da parlatıyor. Sacramento yazı tipi ise tasarıma cazibe ve detay katıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jpwwmyhj3fk6x7jfgq7k/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/jpwwmyhj3fk6x7jfgq7k/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-jpwwmyhj3fk6x7jfgq7k.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-jpwwmyhj3fk6x7jfgq7k.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jpwwmyhj3fk6x7jfgq7k/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/jpwwmyhj3fk6x7jfgq7k/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bu tasarım; zeka, iletişim ve yaratıcılık kavramlarını yansıtıyor. İkonun ikiye ayrılmış bir insan beynini andıran simetrik görünümü,  dengeyi ve dualiteyi çağrıştırıyor. Gri ve mavi renk paleti sofistike bir görünüme sahip. Bebas Neue yazı tipi ise ikonun çizim tarzını tamamlıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/kvhrq6dvhp6qttq64cpc/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/kvhrq6dvhp6qttq64cpc/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-kvhrq6dvhp6qttq64cpc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-kvhrq6dvhp6qttq64cpc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/kvhrq6dvhp6qttq64cpc/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/kvhrq6dvhp6qttq64cpc/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Dalgalı yıldız, hareket hissi uyandırıyor ve beş açıdan da simetrik olması ile dinamik fakat dengeli görünüyor. Pastel turuncu renk paleti, rahatlatıcı sıcaklık ile sofistike soğukluğu dengeliyor. Cinzel yazı tipinin detaylı stili, tasarıma rafine ve şık bir görünüm kazandırıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gbg78bm3ymcqj9ch8k7m/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/gbg78bm3ymcqj9ch8k7m/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-gbg78bm3ymcqj9ch8k7m.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-gbg78bm3ymcqj9ch8k7m.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gbg78bm3ymcqj9ch8k7m/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/gbg78bm3ymcqj9ch8k7m/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bu tasarımdaki dalgalı renk şeması, zıt tonları ile dikkatleri çekecek ve işletmenize eşsiz bir görsel kimlik kazandıracak hipnotize edici bir etki yaratıyor. Dosis Bold yazı tipinin mütevazı görüntüsü, eksantrik görünümlü ikona zemin sağlıyor ve logoya sofistike bir görünüm ekliyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7p3rdjvjmdq9fqtj6xrc/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/7p3rdjvjmdq9fqtj6xrc/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-7p3rdjvjmdq9fqtj6xrc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-7p3rdjvjmdq9fqtj6xrc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7p3rdjvjmdq9fqtj6xrc/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/7p3rdjvjmdq9fqtj6xrc/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Sancak benzeri bu simetrik ikon; aslan, zırh, kanat ve yıldız elementleri ile mükemmellik ve keskinlik kavramlarını çağrıştırıyor. Bu özellikler, hukuk ve sağlık firmaları için ideal. Lacivert renk seçiminin sofistike görünümü ve Cinzel Regular yazı tipinin şık detayları da bu çağrışımları besliyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/yhb7974cxmgjj7bbmp7r/edit?brand=Ayaz%20%26%20Kaya">
+href="https://www.notzarla.com/logo-maker/yhb7974cxmgjj7bbmp7r/edit?brand=Ayaz%20%26%20Kaya">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-yhb7974cxmgjj7bbmp7r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
+data-src="https://www.notzarla.com/images/zarla-ayaz-kaya-1x1-2400x2400-20211022-yhb7974cxmgjj7bbmp7r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ayaz &amp; Kaya adındaki bir işletme için simetrik logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/yhb7974cxmgjj7bbmp7r/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/yhb7974cxmgjj7bbmp7r/edit?brand=Ayaz%20%26%20Kaya" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Kayısı rengindeki arka plan, logoya yumuşaklık veriyor ve şık beyaz tasarımın öne çıkmasına yardımcı oluyor. Üç süslü tırnak; hassaslığı, tutarlılığı ve detaycılığı vurgulayarak işletmenizin doğasını gözler önüne seriyor. Abhaya Libre yazı tipi ise tasarıma temizlik, şıklık ve denge katıyor.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/asimetrik-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/asimetrik-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/pexels-marina-monroe-3909438.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Asimetrik Logolar" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/pexels-marina-monroe-3909438.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Asimetrik Logolar" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/asimetrik-logolar">Asimetrik Logolar</a></p><div
+href="https://www.notzarla.com/tr/rehberler/asimetrik-logolar">Asimetrik Logolar</a></p><div
 class="card-text">Her işletmeye uygun 20 asimetrik logo fikri.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=sss class="section-heading">SSS:</h2><div
@@ -362,7 +362,7 @@ class="answer"><p><a
 href="#simetrik-logo-fikirleri">Simetrik logo</a>, genellikle dik bir açının etrafında sağlı ve sollu olarak yansıma yapan bir görselden oluşan tasarımdır. Simetri, daire ve yıldız gibi farklı şekiller üzerinde de yakalanabilir. Renk ve biçim gibi detaylar, simetrik logo tasarımlarını ön plana çıkarmak için sıkça kullanılır.</p></div></div><div
 class="col-12 faq-item"><h3 id=bir-logoyu-nasil-simetrik-hale-getirebilirim class="question">Bir logoyu nasıl simetrik hale getirebilirim?</h3><div
 class="answer"><p>Bir logoyu simetrik bir hale getirmek için bir tasarım fikri bulmanız, onu ikiye bölmeniz ve bir parçasını çevirerek iki parçanın da tamamen aynı göründüğü bir yansıma oluşturmanız gerekir. <a
-href="https://www.zarla.com/tr/ücretsiz-logo-oluşturucu">Logo oluşturucumuz</a> ile kolayca simetrik bir logo oluşturabilirsiniz.</p></div></div><div
+href="https://www.notzarla.com/tr/ücretsiz-logo-oluşturucu">Logo oluşturucumuz</a> ile kolayca simetrik bir logo oluşturabilirsiniz.</p></div></div><div
 class="col-12 faq-item"><h3 id=her-logonun-simetrik-olmasi-gerekir-mi class="question">Her logonun simetrik olması gerekir mi?</h3><div
 class="answer"><p>Her logonun simetrik olması gerekmez. Sektöre bağlı olarak, asimetrik logolar da eşsiz ve ilgi çekici bir marka kimliği oluşturmak için kullanılabilir. Mühendislik, güzellik ve tasarım gibi sektörler için ise, simetrik logolar oldukça çekici görünürler. Bu logolar; hassaslık, denge, ahenk ve orantı kavramlarını yansıtırlar.</p></div></div><div
 class="col-12 faq-item"><h3 id=simetrik-logo-orneklerini-nerede-bulabilirim class="question">Simetrik logo örneklerini nerede bulabilirim?</h3><div
@@ -374,68 +374,68 @@ class="container"><h2 class="section-heading">Benzer Yazılar</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/kristal-logolar%C4%B1">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/kristal-logolar%C4%B1">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-crystal-logos-3494x2512-20210128.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Mor ve mavi bir geoit kristali." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-crystal-logos-3494x2512-20210128.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Mor ve mavi bir geoit kristali." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/kristal-logolar%C4%B1">Kristal Logoları</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/kristal-logolar%C4%B1">Kristal Logoları</a></h3><div
 class="card-text">Kristal işletmeniz için 10 şık logo fikri.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/ahenkli-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/ahenkli-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-harmonious-logos-3275x2620-20211008.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Sakin suya yansıyan ahenkli bir ağaç." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-harmonious-logos-3275x2620-20211008.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Sakin suya yansıyan ahenkli bir ağaç." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/ahenkli-logolar">Ahenkli Logolar</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/ahenkli-logolar">Ahenkli Logolar</a></h3><div
 class="card-text">İşletmeniz için 20 dengeli logo önerisi.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/ucgen-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/ucgen-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-triangle-logos-3750x4688-20210908.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Karanlık bir odada sergilenen büyük ve parlak bir üçgen." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-triangle-logos-3750x4688-20210908.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Karanlık bir odada sergilenen büyük ve parlak bir üçgen." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/ucgen-logolar">Üçgen Logolar</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/ucgen-logolar">Üçgen Logolar</a></h3><div
 class="card-text">İşletmeniz için 20 üçgen logo fikri.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/sar%C4%B1-kareli-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/sar%C4%B1-kareli-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-yellow-square-logos-2403x2400-20210922.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Duvarda sarı bir kareye boyanmış sokak sanatı." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-yellow-square-logos-2403x2400-20210922.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Duvarda sarı bir kareye boyanmış sokak sanatı." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/sar%C4%B1-kareli-logolar">Sarı Kareli Logolar</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/sar%C4%B1-kareli-logolar">Sarı Kareli Logolar</a></h3><div
 class="card-text">Her tür işletme için uygun 20 sarı kareli logo fikri.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/e%C4%9Fimli-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/e%C4%9Fimli-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-eg%CC%86imli-logolar-4752x3168-20221230.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Mavi gökyüzünün önünde eğimli Pisa Kulesi’nin bir fotoğrafı." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-eg%CC%86imli-logolar-4752x3168-20221230.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Mavi gökyüzünün önünde eğimli Pisa Kulesi’nin bir fotoğrafı." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/e%C4%9Fimli-logolar">Eğimli Logolar</a></h3><div
-class="card-text">Çeşitli işletmeler için 20 eğimli logo fikri.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/tr/rehberler/simetrik-logolar","name":"Simetrik Logolar + Ücretsiz Logo Oluşturucu"},"headline":"Simetrik Logolar + Ücretsiz Logo Oluşturucu","description":"İşletmeniz için 20 simetrik logo fikri.","image":["https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-09-08T00:58:00-05:00","dateModified":"2024-02-21T10:39:03-06:00","author":{"@type":"Person","name":"Esra Çevik","url":"https://www.zarla.com/tr/katkı-sağlayanlar/esra-çevik"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/tr/rehberler/e%C4%9Fimli-logolar">Eğimli Logolar</a></h3><div
+class="card-text">Çeşitli işletmeler için 20 eğimli logo fikri.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/tr/rehberler/simetrik-logolar","name":"Simetrik Logolar + Ücretsiz Logo Oluşturucu"},"headline":"Simetrik Logolar + Ücretsiz Logo Oluşturucu","description":"İşletmeniz için 20 simetrik logo fikri.","image":["https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/Zarla-symmetrical-logos-4000x5000-2021098.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-09-08T00:58:00-05:00","dateModified":"2024-02-21T10:39:03-06:00","author":{"@type":"Person","name":"Esra Çevik","url":"https://www.notzarla.com/tr/katkı-sağlayanlar/esra-çevik"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -444,27 +444,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/tr">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Dil</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/symmetrical-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-sim%C3%A9tricos">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-simmetrici">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-sym%C3%A9triques">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/symmetrische-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-sim%C3%A9tricos">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/symmetrische-logos">Nederlands</a></li><li
+href="https://www.notzarla.com/guides/symmetrical-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-sim%C3%A9tricos">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-simmetrici">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-sym%C3%A9triques">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/symmetrische-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-sim%C3%A9tricos">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/symmetrische-logos">Nederlands</a></li><li
 class="current" style="color: #3041c4;">Türkçe</li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/symetryczne-logo">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-simetris">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/symetryczne-logo">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-simetris">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Kaynaklar</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/tr/rehberler/logo-fikirleri">
+href="https://www.notzarla.com/tr/rehberler/logo-fikirleri">
 Logo Fikirleri
 </a></li><li>
 <a
@@ -472,7 +472,7 @@ href="/tr">
 AI Web Sitesi Oluşturma Aracı
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
+href="https://www.notzarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
 Ücretsiz Logo Oluşturucu
 </a></li><li>
 <a
@@ -480,15 +480,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
+href="https://www.notzarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
 Kullanım Koşulları
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
+href="https://www.notzarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
 Telif Hakkı Politikası
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/gizlilik-politikas%C4%B1">
+href="https://www.notzarla.com/tr/gizlilik-politikas%C4%B1">
 Gizlilik Politikası
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -496,7 +496,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=tr-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=tr-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Özel bir logo tasarlamaya başlayın

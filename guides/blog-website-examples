@@ -7,26 +7,26 @@ property="og:title" content="Blog Website Examples - 5 Sites That Spread the Wri
 property="og:description" content="Discover how to build a successful blog website by reading our reviews of 5 existing blog websites and their pros and cons." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/guides/blog-website-examples"><meta
+property="og:url" content="https://www.notzarla.com/guides/blog-website-examples"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="en"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/guides/blog-website-examples"><link
-rel="alternate" href="https://www.zarla.com/guides/blog-website-examples" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/blog-website-examples" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-blog" hreflang="it" /><link
+rel="canonical" href="https://www.notzarla.com/guides/blog-website-examples"><link
+rel="alternate" href="https://www.notzarla.com/guides/blog-website-examples" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/blog-website-examples" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-blog" hreflang="it" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="websiteExamples"><header
 class="header"><div
 class="container"><nav
@@ -35,10 +35,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/"
+href="https://www.notzarla.com/"
 class="btn btn-primary cta-nav
 "
 >
@@ -52,11 +52,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides">Guides</a></li><li
+href="https://www.notzarla.com/guides">Guides</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides/website-examples">Website Examples</a></li><li
+href="https://www.notzarla.com/guides/website-examples">Website Examples</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides/website-examples/arts-entertainment-and-recreation">Arts, Entertainment, and Recreation</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/guides"},{"@type":"ListItem","position":2,"name":"Website Examples","item":"https://www.zarla.com/guides/website-examples"},{"@type":"ListItem","position":3,"name":"Arts, Entertainment, and Recreation","item":"https://www.zarla.com/guides/website-examples/arts-entertainment-and-recreation"},{"@type":"ListItem","position":4,"name":"Blog Website Examples - 5 Sites That Spread the Written Word","item":"https://www.zarla.com/guides/blog-website-examples"}]}</script> <div
+href="https://www.notzarla.com/guides/website-examples/arts-entertainment-and-recreation">Arts, Entertainment, and Recreation</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.notzarla.com/guides"},{"@type":"ListItem","position":2,"name":"Website Examples","item":"https://www.notzarla.com/guides/website-examples"},{"@type":"ListItem","position":3,"name":"Arts, Entertainment, and Recreation","item":"https://www.notzarla.com/guides/website-examples/arts-entertainment-and-recreation"},{"@type":"ListItem","position":4,"name":"Blog Website Examples - 5 Sites That Spread the Written Word","item":"https://www.notzarla.com/guides/blog-website-examples"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Blog Website Examples - 5 Sites That Spread the Written Word</h1><div
 class="card-body"><div
@@ -65,14 +65,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-simone-gambrell-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-simone-gambrell-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Simoné Gambrell"
 /></div><div
 class="card-byline-details">
 <span>By <a
-class="card-byline-author" href="https://www.zarla.com/contributors/simoné-gambrell">Simoné Gambrell</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/contributors/simoné-gambrell">Simoné Gambrell</a>,</span>
 <span
 class="card-byline-date">Jul 26, 2024</span><div
 class="card-byline-bio">
@@ -81,21 +81,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="A keyboard, notebook, and earbuds lying on a table near a cup of coffee, ready to be used to write a blog."
@@ -169,12 +169,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-adventurous-kate-20240625-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-adventurous-kate-20240625-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-adventurous-kate-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-adventurous-kate-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-adventurous-kate-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-adventurous-kate-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Adventurous Kate"
@@ -214,14 +214,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is only semi-compliant with assistive technologies and WAVE reports a small yet significant number of empty links, missing alternative text, and contrast errors. The advertising banner at the bottom of the page may feel intrusive for some readers, and the site lacks a "start here" CTA or page.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-adventurous-kate-20240625-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-adventurous-kate-20240625-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-adventurous-kate-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-adventurous-kate-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -235,14 +235,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The home page of the desktop site is beautifully organized, making great use of white space. However, the other pages can be overwhelming, with lists of blog posts interspersed with ads, and the author's bio and other lists along the right-hand side of the page. However, the social media links are prominent, and the site has a performance score of 89/100 on Google's PageSpeed Insights.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-adventurous-kate-20240625-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-adventurous-kate-20240625-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-adventurous-kate-20240625-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-adventurous-kate-20240625-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -267,12 +267,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-what-vee-wore-20240625-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-what-vee-wore-20240625-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-what-vee-wore-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-what-vee-wore-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-what-vee-wore-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-what-vee-wore-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Whatveewore"
@@ -312,14 +312,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is not compliant with assistive technologies and WAVE notes a number of contrast errors, empty links, and missing alternative text. The contact details could be more prominent and the lack of a newsletter is noticeable.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-what-vee-wore-20240625-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-what-vee-wore-20240625-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-what-vee-wore-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-what-vee-wore-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -333,14 +333,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site has a great grid layout that makes it easier for visitors to scroll through older posts. With the social media links available both in the floating top menu and on the left-hand side, the site ensures that visitors will see them and continue their fashion journey. The contact link is only available in the bottom menu, where the text could be larger.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-what-vee-wore-20240625-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-what-vee-wore-20240625-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-what-vee-wore-20240625-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-what-vee-wore-20240625-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -365,12 +365,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-jasons-movie-blog-20240625-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-jasons-movie-blog-20240625-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-jasons-movie-blog-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-jasons-movie-blog-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-jasons-movie-blog-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-jasons-movie-blog-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Jason&#039;s Movie Blog"
@@ -410,14 +410,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is only semi-compliant with assistive technologies and WAVE reports a number of missing alternative text and contrast errors. As this is a relatively new blog, the writer has not solidified his "voice," leading to some rambling reviews and grammar errors. The lack of social media links is noticeable.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-jasons-movie-blog-20240625-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-jasons-movie-blog-20240625-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-jasons-movie-blog-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-jasons-movie-blog-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -431,14 +431,14 @@ height="50"
 /></div><div
 class="entry-text"><p>A rotating hero banner featuring the latest posts and an invitation to follow the blog via email welcome visitors to the desktop site. The right-hand panel features links to recent posts, recent comments, categories, and the community, but is repeated twice on the page, rather than just floating with the visitor. On Google's PageSpeed Insights, the desktop site scores uniformly in the low 80s for SEO, best practices, and accessibility, with an overall performance score of 73/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-jasons-movie-blog-20240625-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-jasons-movie-blog-20240625-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-jasons-movie-blog-20240625-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-jasons-movie-blog-20240625-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -463,12 +463,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-simply-stacie-20240625-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-simply-stacie-20240625-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-simply-stacie-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-simply-stacie-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-simply-stacie-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-simply-stacie-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Simply Stacie"
@@ -508,14 +508,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>According to accessScan, the site is only semi-compliant with assistive technologies. The home page is packed with recipe links and would benefit from more white space to create a less frantic design and not overwhelm the reader.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-simply-stacie-20240625-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-simply-stacie-20240625-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-simply-stacie-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-simply-stacie-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -529,14 +529,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site welcomes visitors with a busy home page, slightly covered by a bottom ad banner and a pop-up video ad. The subscription CTA in the top corner catches the eye, as do the social media links, and the images shine against the white background with enticing food pictures. Confirming real-world tests, PageSpeed Insights awards the desktop site an excellent performance score of 98/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-simply-stacie-20240625-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-simply-stacie-20240625-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-simply-stacie-20240625-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-simply-stacie-20240625-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -561,12 +561,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-hannah-and-fitness-20240625-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hannah-and-fitness-20240625-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-hannah-and-fitness-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-hannah-and-fitness-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hannah-and-fitness-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hannah-and-fitness-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Hannah &amp; Fitness"
@@ -606,14 +606,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is not compliant with assistive technologies and lacks additional resources to show readers how the blog is written. The site also does not display information relating to the author's qualifications. The author's intro repeated on every page may become too repetitive.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-hannah-and-fitness-20240625-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-hannah-and-fitness-20240625-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hannah-and-fitness-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hannah-and-fitness-20240625-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -627,14 +627,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site is simple and modern, with a large logo that takes up a lot of space on the page. The contrast could be improved by using a darker color for the text, which would enhance legibility. Google's PageSpeed Insights test scores the desktop site 83/100 for accessibility and an impressive 92/100 for performance, which confirms smooth real-world experiences.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-hannah-and-fitness-20240625-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-hannah-and-fitness-20240625-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-hannah-and-fitness-20240625-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-hannah-and-fitness-20240625-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -682,68 +682,68 @@ class="container"><h2 class="section-heading">Related Articles</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/blog-logos">
+class="card-preview" href="https://www.notzarla.com/guides/blog-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-blog-logos-5472x3648-2021023_2021-02-03-132812.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A person typing a blog post on a laptop." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-blog-logos-5472x3648-2021023_2021-02-03-132812.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A person typing a blog post on a laptop." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/blog-logos">Blog Logos</a></h3><div
+href="https://www.notzarla.com/guides/blog-logos">Blog Logos</a></h3><div
 class="card-text">10 creative logos for your blog.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/writer-logos">
+class="card-preview" href="https://www.notzarla.com/guides/writer-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-writer-logos-2399x3595-20220111.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A woman writing in her notebook in a coffee shop." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-writer-logos-2399x3595-20220111.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A woman writing in her notebook in a coffee shop." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/writer-logos">Writer Logos</a></h3><div
+href="https://www.notzarla.com/guides/writer-logos">Writer Logos</a></h3><div
 class="card-text">10 captivating logo suggestions for your writing business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/personal-website-examples">
+class="card-preview" href="https://www.notzarla.com/guides/personal-website-examples">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-personal-website-examples-4000x2667-20240627.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A blogger scrolling through their personal website." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-personal-website-examples-4000x2667-20240627.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A blogger scrolling through their personal website." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/personal-website-examples">Personal Website Examples - 5 Detailed Reviews of Sites That Define Personal Brands</a></h3><div
+href="https://www.notzarla.com/guides/personal-website-examples">Personal Website Examples - 5 Detailed Reviews of Sites That Define Personal Brands</a></h3><div
 class="card-text">Our in-depth reviews of 5 personal websites that combine online visibility with compelling brand storytelling.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/portfolio-website-examples">
+class="card-preview" href="https://www.notzarla.com/guides/portfolio-website-examples">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-portfolio-website-examples-6000x4000-2024075.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A photographer updating their images for their online portfolio." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-portfolio-website-examples-6000x4000-2024075.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A photographer updating their images for their online portfolio." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/portfolio-website-examples">Portfolio Website Examples - 5 Portfolio Sites That Showcase Creative Talent</a></h3><div
+href="https://www.notzarla.com/guides/portfolio-website-examples">Portfolio Website Examples - 5 Portfolio Sites That Showcase Creative Talent</a></h3><div
 class="card-text">Our in-depth reviews of 5 portfolio websites that capture attention and elevate personal branding.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/affiliate-website-examples">
+class="card-preview" href="https://www.notzarla.com/guides/affiliate-website-examples">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-affiliate-website-examples-3600x2400-20240702_2024-07-02-104316_nhhf.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="An affiliate marketer working on their laptop in a coffee shop." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-affiliate-website-examples-3600x2400-20240702_2024-07-02-104316_nhhf.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="An affiliate marketer working on their laptop in a coffee shop." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/affiliate-website-examples">Affiliate Website Examples - 5 Great Sites That Promote Affiliate Marketing</a></h3><div
-class="card-text">Engage customers with these 5 vibrant affiliate website examples that combine engaging content with a wide range of affiliate links.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/guides/blog-website-examples","name":"Blog Website Examples - 5 Sites That Spread the Written Word"},"headline":"Blog Website Examples - 5 Sites That Spread the Written Word","description":"Discover how to build a successful blog website by reading our reviews of 5 existing blog websites and their pros and cons.","image":["https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-06-25T04:58:00-05:00","dateModified":"2024-07-26T08:45:12-05:00","author":{"@type":"Person","name":"Simoné Gambrell","url":"https://www.zarla.com/contributors/simoné-gambrell"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/guides/affiliate-website-examples">Affiliate Website Examples - 5 Great Sites That Promote Affiliate Marketing</a></h3><div
+class="card-text">Engage customers with these 5 vibrant affiliate website examples that combine engaging content with a wide range of affiliate links.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/guides/blog-website-examples","name":"Blog Website Examples - 5 Sites That Spread the Written Word"},"headline":"Blog Website Examples - 5 Sites That Spread the Written Word","description":"Discover how to build a successful blog website by reading our reviews of 5 existing blog websites and their pros and cons.","image":["https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-blog-website-examples-6144x4069-20240625.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-06-25T04:58:00-05:00","dateModified":"2024-07-26T08:45:12-05:00","author":{"@type":"Person","name":"Simoné Gambrell","url":"https://www.notzarla.com/contributors/simoné-gambrell"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -752,31 +752,31 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Language</p><ul
 class="footer-menu list-unstyled"><li
 class="current" style="color: #3041c4;">English</li><li><a
-href="https://www.zarla.com/it/guide/esempi-di-siti-web-di-blog">Italiano</a></li></ul></div><div
+href="https://www.notzarla.com/it/guide/esempi-di-siti-web-di-blog">Italiano</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Resources</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/guides/logo-ideas">
+href="https://www.notzarla.com/guides/logo-ideas">
 Logo Ideas
 </a></li><li>
 <a
-href="https://www.zarla.com/">
+href="https://www.notzarla.com/">
 AI Website Builder
 </a></li><li>
 <a
-href="https://www.zarla.com/free-logo-maker">
+href="https://www.notzarla.com/free-logo-maker">
 Free Logo Maker
 </a></li><li>
 <a
-href="https://www.zarla.com/guides/how-to">
+href="https://www.notzarla.com/guides/how-to">
 How To
 </a></li><li>
 <a
@@ -784,15 +784,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/terms-of-use">
+href="https://www.notzarla.com/terms-of-use">
 Terms of Use
 </a></li><li>
 <a
-href="https://www.zarla.com/copyright-policy">
+href="https://www.notzarla.com/copyright-policy">
 Copyright Policy
 </a></li><li>
 <a
-href="https://www.zarla.com/privacy-policy">
+href="https://www.notzarla.com/privacy-policy">
 Privacy Policy
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

@@ -7,34 +7,34 @@ property="og:title" content="Koch-Logos + Gratis-Logo-Generator" /><meta
 property="og:description" content="20 originelle Logos für Köche, die nicht nur Feinschmecker begeistern." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/de/leitf%C3%A4den/koch-logos"><meta
+property="og:url" content="https://www.notzarla.com/de/leitf%C3%A4den/koch-logos"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="de"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/de/leitf%C3%A4den/koch-logos"><link
-rel="alternate" href="https://www.zarla.com/guides/cooking-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/cooking-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-de-cocina" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-culinari" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-de-cuisine" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/koch-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-de-culin%C3%A1ria" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/kook-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/yemek-pi%C5%9Firme-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-gotowanie" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-masak" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/de/leitf%C3%A4den/koch-logos"><link
+rel="alternate" href="https://www.notzarla.com/guides/cooking-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/cooking-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-de-cocina" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-culinari" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-de-cuisine" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/koch-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-de-culin%C3%A1ria" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/kook-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/yemek-pi%C5%9Firme-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-gotowanie" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-masak" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/de">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/de/gratis-logo-generator"
+href="https://www.notzarla.com/de/gratis-logo-generator"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/de/leitf%C3%A4den">Leitfäden</a></li><li
+href="https://www.notzarla.com/de/leitf%C3%A4den">Leitfäden</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos">Logos</a></li><li
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos">Logos</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos/nach-typ">Nach Typ</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Leitfäden","item":"https://www.zarla.com/de/leitf%C3%A4den"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.zarla.com/de/leitf%C3%A4den/logos"},{"@type":"ListItem","position":3,"name":"Nach Typ","item":"https://www.zarla.com/de/leitf%C3%A4den/logos/nach-typ"},{"@type":"ListItem","position":4,"name":"Koch-Logos + Gratis-Logo-Generator","item":"https://www.zarla.com/de/leitf%C3%A4den/koch-logos"}]}</script> <div
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos/nach-typ">Nach Typ</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Leitfäden","item":"https://www.notzarla.com/de/leitf%C3%A4den"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.notzarla.com/de/leitf%C3%A4den/logos"},{"@type":"ListItem","position":3,"name":"Nach Typ","item":"https://www.notzarla.com/de/leitf%C3%A4den/logos/nach-typ"},{"@type":"ListItem","position":4,"name":"Koch-Logos + Gratis-Logo-Generator","item":"https://www.notzarla.com/de/leitf%C3%A4den/koch-logos"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Koch-Logos + Gratis-Logo-Generator</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/stefanie-sattler-800x800-20240523.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/stefanie-sattler-800x800-20240523.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Stefanie Sattler"
 /></div><div
 class="card-byline-details">
 <span>Von <a
-class="card-byline-author" href="https://www.zarla.com/de/autoren/stefanie-sattler">Stefanie Sattler</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/de/autoren/stefanie-sattler">Stefanie Sattler</a>,</span>
 <span
 class="card-byline-date">31.05.2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Ein Koch würzt ein Gericht, das er in einer Pfanne zubereitet."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Egal, ob Restaurantbesitzer, Küchenchef oder Kochschulbetreiber – um Ihr kulinarisches Angebot gut in Szene zu setzen, brauchen Sie ein geschmackvolles Logo, das mit perfekt aufeinander abgestimmten Icons, Schriften und Farben die Spreu vom Weizen trennt. Unsere Ideen und unser <a
-href="https://www.zarla.com/de/gratis-logo-generator">kostenloser Koch-Logo-Generator</a> helfen bei der Erstellung.</p></div></div></div></div><div
+href="https://www.notzarla.com/de/gratis-logo-generator">kostenloser Koch-Logo-Generator</a> helfen bei der Erstellung.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,246 +120,246 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Beschreibung</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jttqbvrhqhy6fgvtpw6j/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/jttqbvrhqhy6fgvtpw6j/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-jttqbvrhqhy6fgvtpw6j.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-jttqbvrhqhy6fgvtpw6j.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jttqbvrhqhy6fgvtpw6j/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/jttqbvrhqhy6fgvtpw6j/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Der kranzförmige Rahmen um die angeschnittene Pizza, die durch diesen cleveren Designtrick die Blicke auf sich zieht, erinnert an einen Preis und löst im Zusammenspiel mit dem goldgelben Farbton Assoziationen von Prestige und Qualität aus. Die Quicksand-Schrift sorgt für einen professionellen Touch.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/qct9rvqb8cg7dxrmwf9h/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/qct9rvqb8cg7dxrmwf9h/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-qct9rvqb8cg7dxrmwf9h.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-qct9rvqb8cg7dxrmwf9h.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/qct9rvqb8cg7dxrmwf9h/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/qct9rvqb8cg7dxrmwf9h/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Mit dem Icon eines monochromen Kochtopfs auf Rädern, aus dem Dampf aufsteigt, wecken Sie Neugierde. Schließlich stellen sich Betrachter die Frage, was da wohl gerade zubereitet wird. Ein Curry, eine Suppe oder ein Braten? Die gut lesbare Days-One-Schrift harmoniert bestens mit dem schlichten Icon.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/84pdjcftd3bvrd7xxdx3/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/84pdjcftd3bvrd7xxdx3/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-84pdjcftd3bvrd7xxdx3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-84pdjcftd3bvrd7xxdx3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/84pdjcftd3bvrd7xxdx3/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/84pdjcftd3bvrd7xxdx3/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Blauwird oft eingesetzt, um Vertrauen und Zuverlässigkeit zu vermitteln, aber ist in der Gastronomie eine eher ungewohnte Farbe, die daher hervorsticht. Das Icon mit dem Pfannenwender und der Flamme sowie die Pridi-Schrift betonen den Premiumansatz, der von der blau-lila Farbwahl angedeutet wird.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/myygx6qdrj94pf3djfvt/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/myygx6qdrj94pf3djfvt/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-myygx6qdrj94pf3djfvt-1.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-myygx6qdrj94pf3djfvt-1.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/myygx6qdrj94pf3djfvt/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/myygx6qdrj94pf3djfvt/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Dieses sympathische Logo mit dem Icon einer Person im Comicstil, die freudestrahlend ein Nudelholz rollt und eine Kochmütze trägt, ist perfekt, um Ihren Spaß am Kochen oder Backen zu visualisieren. Die schwarz-weiße Farbwahl und die Montserrat-Schrift geben dem Logo einen anspruchsvollen Touch.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gvdy3w4h6pv7k4wxxc3f/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/gvdy3w4h6pv7k4wxxc3f/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-gvdy3w4h6pv7k4wxxc3f.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-gvdy3w4h6pv7k4wxxc3f.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gvdy3w4h6pv7k4wxxc3f/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/gvdy3w4h6pv7k4wxxc3f/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Die dynamische Kombination aus einer schlichten, roten Flamme und einem orangen Pizzastück lässt auf leckere Holzofenpizzas schließen. Besonders clever ist die Visualisierung des schmelzenden Käses, um das Geschmackselement hervorzuheben, während die klare Poppins-Schrift das Design ausbalanciert.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/vygy6trrgqbgjm48v8h3/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/vygy6trrgqbgjm48v8h3/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-vygy6trrgqbgjm48v8h3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-vygy6trrgqbgjm48v8h3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/vygy6trrgqbgjm48v8h3/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/vygy6trrgqbgjm48v8h3/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>In den meisten Koch-Logos unterscheidet sich die Farbe des Feuers, in dem Essen zubereitet wird, von der des Gerichts. Dieses progressive Logo verfolgt einen anderen Ansatz und verwendet ein einheitliches Rot für Flamme und Fleischkeule, während die schwarze Concert-One-Schrift für Kontraste sorgt.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/638mjyby4d6ddxbybkgp/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/638mjyby4d6ddxbybkgp/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-638mjyby4d6ddxbybkgp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-638mjyby4d6ddxbybkgp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/638mjyby4d6ddxbybkgp/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/638mjyby4d6ddxbybkgp/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Falls Sie einen Lieferdienst anbieten, der frisches Essen schnell und zuverlässig von Tür zu Tür transportiert, dann ist dieses dynamische, pinke Logo, das ein Auto mit Essensglocke, Löffel und Gabel zeigt, ideal. Die Linienführung des Icons und die Candal-Schrift betonen den Geschwindigkeitsaspekt.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9yf9yhmj3dbcyhqtfcq8/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/9yf9yhmj3dbcyhqtfcq8/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-9yf9yhmj3dbcyhqtfcq8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-9yf9yhmj3dbcyhqtfcq8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9yf9yhmj3dbcyhqtfcq8/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/9yf9yhmj3dbcyhqtfcq8/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Sie sind der Meinung, dass Ihre Pizzas die Krönung sind? Dann ist dieses Design für Sie gemacht. Das stempelförmige Icon beweist durch die schwarz-weiße Farbwahl und die klare, rote Koho-Schrift Autorität und Selbstbewusstsein, während der Comicstil für eine sympathische, unbeschwerte Note sorgt.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9kddvd9qt8kjrrktqhjg/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/9kddvd9qt8kjrrktqhjg/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-9kddvd9qt8kjrrktqhjg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-9kddvd9qt8kjrrktqhjg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9kddvd9qt8kjrrktqhjg/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/9kddvd9qt8kjrrktqhjg/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Dieses anspruchsvolle Logo vereint durch die schlichte Skizze eines Kellners der alten Schule und die schicke, gut lesbare Barlow-Medium-Schrift Tradition und Moderne auf hervorragende Weise. Dabei wird der zeitlose, elegante Premium-Charakter des Designs durch die schwarze-weiße Farbwahl betont.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3fmrq943mxgbghx3j7jc/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/3fmrq943mxgbghx3j7jc/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-3fmrq943mxgbghx3j7jc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-3fmrq943mxgbghx3j7jc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3fmrq943mxgbghx3j7jc/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/3fmrq943mxgbghx3j7jc/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Das Icon mit Löffel und Gabel, die durch ihre Anordnung und den drei dezenten Blättern an Pflanzen erinnern, ist perfekt, um Assoziationen von Biokost und Nachhaltigkeit auszulösen. Die monochrome Farbwahl im Zusammenspiel mit der minimalistischen Cardo-Schrift hebt Ihre Professionalität hervor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/dm6tgppxd47j7br84xbt/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/dm6tgppxd47j7br84xbt/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-dm6tgppxd47j7br84xbt.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-dm6tgppxd47j7br84xbt.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/dm6tgppxd47j7br84xbt/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/dm6tgppxd47j7br84xbt/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Einem Sprichwort zufolge geht Liebe durch den Magen. Was liegt also näher, als diese Redewendung in einem herzförmigen Koch-Logo zu visualisieren, in dem sich Löffel und Gabel aneinander schmiegen und harmonisch von der türkis-pinken Farbwahl und der feinen Barlow-Schrift in Szene gesetzt werden.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/hkf4ryvt7v9ktgqmrykm/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/hkf4ryvt7v9ktgqmrykm/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-hkf4ryvt7v9ktgqmrykm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-hkf4ryvt7v9ktgqmrykm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/hkf4ryvt7v9ktgqmrykm/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/hkf4ryvt7v9ktgqmrykm/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Pink und Grün lassen sich hervorragend miteinander kombinieren, um Kreativität, Natürlichkeit und Fröhlichkeit zu zeigen. Im Zusammenspiel mit dem Sushi-Icon und den Essstäbchen, die gut zur linearen Dosis-Schrift passen, suggerieren Sie den unbeschwerten Genuss authentischer, japanischer Gerichte.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/t3kxvgh4vcmkbv9drvpv/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/t3kxvgh4vcmkbv9drvpv/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-t3kxvgh4vcmkbv9drvpv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-t3kxvgh4vcmkbv9drvpv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/t3kxvgh4vcmkbv9drvpv/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/t3kxvgh4vcmkbv9drvpv/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Schwarz und Gold werden in der Werbung verwendet, um Opulenz und Stil zu kommunizieren und deuten in diesem Logo die Hochwertigkeit Ihres kulinarischen Bioangebots an, das effektvoll von den Gemüse-Icons visualisiert wird. Die Alfa-Slab-One-Serifenschrift harmoniert bestens mit der Grafik.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fj3wp3dhtdqh7ykydrg8/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/fj3wp3dhtdqh7ykydrg8/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-fj3wp3dhtdqh7ykydrg8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-fj3wp3dhtdqh7ykydrg8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fj3wp3dhtdqh7ykydrg8/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/fj3wp3dhtdqh7ykydrg8/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Dieses stylische Logo ist ein echter Hingucker – nicht zuletzt wegen der ungewohnten braunen Farbwahl für die Flamme, die ideal von dem mintgrünen Grill in Szene gesetzt wird und dabei sowohl Bodenständigkeit als auch Stil vermittelt. Die geschwungene Emilys-Candy-Schrift rundet das Logo elegant ab.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/pm93pp3cgvygwdvg6xgc/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/pm93pp3cgvygwdvg6xgc/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-pm93pp3cgvygwdvg6xgc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-pm93pp3cgvygwdvg6xgc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/pm93pp3cgvygwdvg6xgc/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/pm93pp3cgvygwdvg6xgc/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Die antike Säule und die darauf abstimmte Arya-Schrift lösen Assoziationen von Autorität und Exklusivität aus und suggerieren im Zusammenspiel mit der dampfenden Schüssel eine kulinarische Erfahrung der Extraklasse, während die rot-orange Farbwahl Leidenschaft und Geschmacksintensität symbolisiert.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/dpx88qhq3k39jxb6gcv6/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/dpx88qhq3k39jxb6gcv6/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-dpx88qhq3k39jxb6gcv6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-dpx88qhq3k39jxb6gcv6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/dpx88qhq3k39jxb6gcv6/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/dpx88qhq3k39jxb6gcv6/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Das charmante Icon erinnert an die amerikanischen Diners und Milchshakebars aus den 1950ern und erhält dadurch eine nostalgische Note, die Aufmerksamkeit generiert. Unterstrichen wird der Ansatz von der verspielten Farbpalette mit den Pinktönen und der blauen, handschriftlichen Pacifico-Schrift.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/thhrrfh68kj6m8x8mjcr/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/thhrrfh68kj6m8x8mjcr/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-thhrrfh68kj6m8x8mjcr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-thhrrfh68kj6m8x8mjcr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/thhrrfh68kj6m8x8mjcr/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/thhrrfh68kj6m8x8mjcr/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Die Küchenutensilien auf einem roten Schneidebrett lassen vermuten, dass Sie sich auf die Zubereitung herzhafter Gerichte spezialisieren und Wert auf Details legen. Zufälle gibt es in Ihrer Küche nicht! Unterstrichen wird der Ansatz von dem blauen Hintergrund und der klaren Overpass-Schrift.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/qffm899pt8qt8hpc69tj/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/qffm899pt8qt8hpc69tj/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-qffm899pt8qt8hpc69tj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-qffm899pt8qt8hpc69tj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/qffm899pt8qt8hpc69tj/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/qffm899pt8qt8hpc69tj/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Maritime Themen werden in der Regel durch blaue Farbtöne in Szene gesetzt. Daher sticht dieses Logo durch die rote Farbe für das Fisch-Icon und die Acme-Schrift besonders hervor und ist ideal, um Leidenschaft und Selbstbewusstsein zu vermitteln, während die Gabel den Bezug zur Gastronomie herstellt.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/d4p8g8p8m3tyr7qgck7k/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/d4p8g8p8m3tyr7qgck7k/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-d4p8g8p8m3tyr7qgck7k.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-d4p8g8p8m3tyr7qgck7k.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/d4p8g8p8m3tyr7qgck7k/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/d4p8g8p8m3tyr7qgck7k/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Die vier Kacheln mit den Meeresfrüchten und Bestecken erinnern an die beliebte Pop-Art-Kunst und verleihen dem Logo einen besonders stylischen Charakter, der von der lebhaften Farbkombination aus Pink und Limettengrün noch verstärkt wird. Die Skranji-Schrift unterstreicht das ästhetische Design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gwgm7gqdfk6ffkqwkr3q/edit?brand=Voller%20Genuss">
+href="https://www.notzarla.com/logo-maker/gwgm7gqdfk6ffkqwkr3q/edit?brand=Voller%20Genuss">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-gwgm7gqdfk6ffkqwkr3q.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
+data-src="https://www.notzarla.com/images/zarla-voller-genuss-1x1-2400x2400-20211129-gwgm7gqdfk6ffkqwkr3q.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Ein Koch-Logo für ein Unternehmen namens Voller Genuss.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gwgm7gqdfk6ffkqwkr3q/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
+href="https://www.notzarla.com/logo-maker/gwgm7gqdfk6ffkqwkr3q/edit?brand=Voller%20Genuss" class="btn btn-primary">Bearbeiten</a></td><td
 data-label="Beschreibung"><p>Der Winkel, der für dieses Logo gewählt wurde, erinnert an perfekt arrangierte Teller für Food-Fotografie-Sessions und lässt liebevoll zubereitete, hochwertige Speisen vermuten. Die pink-grüne-Farbwahl mit den braunen und schwarzen Akzenten und die schicke Arya-Schrift sorgen für das gewisse Extra.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-restaurants">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-restaurants">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-restaurant-logo-2400x2400-20210203.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logos für Restaurants" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-restaurant-logo-2400x2400-20210203.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logos für Restaurants" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-restaurants">Logos für Restaurants</a></p><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-restaurants">Logos für Restaurants</a></p><div
 class="card-text">10 Logo-Ideen für Ihr Restaurant, die Appetit machen.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=fAQs class="section-heading">FAQs:</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=wie-gehe-ich-vor-um-ein-geschmackvolles-koch-logo-zu-erstellen class="question">Wie gehe ich vor, um ein geschmackvolles Koch-Logo zu erstellen?</h3><div
 class="answer"><ol><li>Überlegen Sie sich, mit welchen Farben, Schriften und Icons Sie Ihr kulinarisches Angebot in Szene setzen können.</li><li>Schauen Sie sich die Koch-Logos von anderen Firmen aus der Gastronomiebranche an, um sich inspirieren zu lassen.</li><li>Erstellen Sie mithilfe eines <a
-href="https://www.zarla.com/de/gratis-logo-generator">Logo-Generators</a> verschiedene Entwürfe.</li><li>Bitten Sie Familie und Freunde um Feedback.</li></ol></div></div><div
+href="https://www.notzarla.com/de/gratis-logo-generator">Logo-Generators</a> verschiedene Entwürfe.</li><li>Bitten Sie Familie und Freunde um Feedback.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=wo-finde-ich-gute-ideen-fuer-ein-koch-logo class="question">Wo finde ich gute Ideen für ein Koch-Logo?</h3><div
 class="answer"><p>Lassen Sie sich von unseren <a
 href="#ideen-fuer-koch-logos">Ideen für Koch-Logos</a> inspirieren und passen Sie die Vorlage, die Sie am meisten anspricht, durch einen Klick auf „Bearbeiten“ kostenlos an Ihre Vorstellungen an.</p></div></div><div
@@ -370,68 +370,68 @@ class="container"><h2 class="section-heading">Verwandte Artikel</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-italienische-restaurants">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-italienische-restaurants">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-italian-restaurant-logos-2585x2683-20210211.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein Teller mit einer frisch zubereiteten, grünen Tagliatelle und Hühnchenbrust in einem italienischen Restaurant." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-italian-restaurant-logos-2585x2683-20210211.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein Teller mit einer frisch zubereiteten, grünen Tagliatelle und Hühnchenbrust in einem italienischen Restaurant." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-italienische-restaurants">Logos für italienische Restaurants</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-italienische-restaurants">Logos für italienische Restaurants</a></h3><div
 class="card-text">10 köstliche Logo-Ideen für Ihr italienisches Restaurant.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/k%C3%BCchen-logo-ideen">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/k%C3%BCchen-logo-ideen">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eine moderne, weiße Küche mit großer Arbeitsfläche, einem Topf auf dem Gasherd und einer Schale Zitronen." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-kitchen-logos-2400x2400-5930x3554-2021022.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Eine moderne, weiße Küche mit großer Arbeitsfläche, einem Topf auf dem Gasherd und einer Schale Zitronen." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/k%C3%BCchen-logo-ideen">Küchen-Logos</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/k%C3%BCchen-logo-ideen">Küchen-Logos</a></h3><div
 class="card-text">10 tolle Ideen für Küchen-Logos, die Appetit auf mehr machen.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-catering-unternehmen">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-catering-unternehmen">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-catering-logos-4000x2600-20210128.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein Catering-Unternehmen serviert verschiedene Gerichte in geöffneten Rechauds auf einer langen Theke." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-catering-logos-4000x2600-20210128.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Ein Catering-Unternehmen serviert verschiedene Gerichte in geöffneten Rechauds auf einer langen Theke." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-catering-unternehmen">Logos für Catering-Unternehmen</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-catering-unternehmen">Logos für Catering-Unternehmen</a></h3><div
 class="card-text">10 erstklassige Logo-Ideen für Ihre Catering-Firma.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/h%C3%A4hnchen-logos">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/h%C3%A4hnchen-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-chicken-shop-logos-2400x2400-20210128.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Panierte Hähnchenstücke werden in einem Imbiss in einem weißen Styroporbehälter serviert." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-chicken-shop-logos-2400x2400-20210128.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Panierte Hähnchenstücke werden in einem Imbiss in einem weißen Styroporbehälter serviert." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/h%C3%A4hnchen-logos">Hähnchen-Logos</a></h3><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/h%C3%A4hnchen-logos">Hähnchen-Logos</a></h3><div
 class="card-text">10 originelle Logo-Ideen für Ihr Geflügelgeschäft.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-b%C3%A4ckereien">
+class="card-preview" href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-b%C3%A4ckereien">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-bakery-logos-4568x3401-20210126.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Verschiedene Brote und Backwaren liegen in den Regalen und auf den Tischen einer Bäckerei." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-bakery-logos-4568x3401-20210126.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Verschiedene Brote und Backwaren liegen in den Regalen und auf den Tischen einer Bäckerei." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-b%C3%A4ckereien">Logos für Bäckereien</a></h3><div
-class="card-text">10 geschmackvolle Logo-Ideen für Ihre Bäckerei.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/de/leitf%C3%A4den/koch-logos","name":"Koch-Logos + Gratis-Logo-Generator"},"headline":"Koch-Logos + Gratis-Logo-Generator","description":"20 originelle Logos für Köche, die nicht nur Feinschmecker begeistern.","image":["https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-09-17T03:37:00-05:00","dateModified":"2024-05-31T13:53:34-05:00","author":{"@type":"Person","name":"Stefanie Sattler","url":"https://www.zarla.com/de/autoren/stefanie-sattler"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-b%C3%A4ckereien">Logos für Bäckereien</a></h3><div
+class="card-text">10 geschmackvolle Logo-Ideen für Ihre Bäckerei.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/de/leitf%C3%A4den/koch-logos","name":"Koch-Logos + Gratis-Logo-Generator"},"headline":"Koch-Logos + Gratis-Logo-Generator","description":"20 originelle Logos für Köche, die nicht nur Feinschmecker begeistern.","image":["https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-cooking-logos-4000x2662-20210917.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-09-17T03:37:00-05:00","dateModified":"2024-05-31T13:53:34-05:00","author":{"@type":"Person","name":"Stefanie Sattler","url":"https://www.notzarla.com/de/autoren/stefanie-sattler"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -440,27 +440,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/de">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Sprache</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/cooking-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-de-cocina">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-culinari">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-de-cuisine">Français</a></li><li
+href="https://www.notzarla.com/guides/cooking-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-de-cocina">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-culinari">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-de-cuisine">Français</a></li><li
 class="current" style="color: #3041c4;">Deutsch</li><li><a
-href="https://www.zarla.com/br/guias/logotipos-de-culin%C3%A1ria">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/kook-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/yemek-pi%C5%9Firme-logolar%C4%B1">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-gotowanie">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-masak">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/br/guias/logotipos-de-culin%C3%A1ria">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/kook-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/yemek-pi%C5%9Firme-logolar%C4%B1">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-gotowanie">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-masak">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Verweise</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/de/leitf%C3%A4den/logo-ideen">
+href="https://www.notzarla.com/de/leitf%C3%A4den/logo-ideen">
 Logo-Ideen
 </a></li><li>
 <a
@@ -468,7 +468,7 @@ href="/de">
 KI-Website-Builder
 </a></li><li>
 <a
-href="https://www.zarla.com/de/gratis-logo-generator">
+href="https://www.notzarla.com/de/gratis-logo-generator">
 Gratis-Logo-Generator
 </a></li><li>
 <a
@@ -476,15 +476,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/de/nutzungsbedingungen">
+href="https://www.notzarla.com/de/nutzungsbedingungen">
 Nutzungsbedingungen
 </a></li><li>
 <a
-href="https://www.zarla.com/de/urheberrichtlinie">
+href="https://www.notzarla.com/de/urheberrichtlinie">
 Urheberrichtlinie
 </a></li><li>
 <a
-href="https://www.zarla.com/de/datenschutzrichtlinie">
+href="https://www.notzarla.com/de/datenschutzrichtlinie">
 Datenschutzrichtlinie
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -492,7 +492,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/de/gratis-logo-generator?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=de-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/de/gratis-logo-generator?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=de-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Gestalten Sie ein eigenes Logo

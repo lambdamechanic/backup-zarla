@@ -7,34 +7,34 @@ property="og:title" content="Logo dla podcastu + Darmowy Kreator Logo" /><meta
 property="og:description" content="10 ciekawych projektów logo dla twojego podcastu." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-podcast"><meta
+property="og:url" content="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-podcast"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="pl-PL"><meta
-property="og:image" content="https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-podcast"><link
-rel="alternate" href="https://www.zarla.com/guides/podcast-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/podcast-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-podcast" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-per-podcast" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-de-podcast" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-de-podcast" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/podcast-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/podcast-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-podcast" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-podcast" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-podcast"><link
+rel="alternate" href="https://www.notzarla.com/guides/podcast-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/podcast-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-podcast" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-per-podcast" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-de-podcast" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-de-podcast" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/podcast-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/podcast-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-podcast" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-podcast" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/pl">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo"
+href="https://www.notzarla.com/pl/darmowy-kreator-logo"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki">Wskazówki</a></li><li
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki">Wskazówki</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo">Projekty Logo</a></li><li
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo">Projekty Logo</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/media-i-komunikacja">Media i Komunikacja</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Wskazówki","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki"},{"@type":"ListItem","position":2,"name":"Projekty Logo","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo"},{"@type":"ListItem","position":3,"name":"Media i Komunikacja","item":"https://www.zarla.com/pl/wzkaz%C3%B3wki/galeria-logo/media-i-komunikacja"},{"@type":"ListItem","position":4,"name":"Logo dla podcastu + Darmowy Kreator Logo","item":"https://www.zarla.com/pl/wskaz%C3%B3wki/logo-podcast"}]}</script> <div
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo/media-i-komunikacja">Media i Komunikacja</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Wskazówki","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki"},{"@type":"ListItem","position":2,"name":"Projekty Logo","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo"},{"@type":"ListItem","position":3,"name":"Media i Komunikacja","item":"https://www.notzarla.com/pl/wzkaz%C3%B3wki/galeria-logo/media-i-komunikacja"},{"@type":"ListItem","position":4,"name":"Logo dla podcastu + Darmowy Kreator Logo","item":"https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-podcast"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Logo dla podcastu + Darmowy Kreator Logo</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-natalia-smigielska-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-natalia-smigielska-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Natalia Śmigielska"
 /></div><div
 class="card-byline-details">
 <span> <a
-class="card-byline-author" href="https://www.zarla.com/pl/współautorzy/natalia-śmigielska">Natalia Śmigielska</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/pl/współautorzy/natalia-śmigielska">Natalia Śmigielska</a>,</span>
 <span
 class="card-byline-date">4 lip 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Dwóch mężczyzn nagrywających podcast w profesjonalnym studiu."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Idealne logo dla twojego podcastu powinno emanować profesjonalizmem i trafnie oddawać charakter tematyki, którą planujesz poruszać. Aby zwrócić uwagę potencjalnych słuchaczy, pamiętaj, by logo przyciągało wzrok i zachęcało do wysłuchania twoich odcinków. Zobacz nasze propozycje poniżej lub użyj <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">darmowego kreatora logo dla podcastu</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">darmowego kreatora logo dla podcastu</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,137 +120,137 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Opis</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/w9kybrht43rbfvrjcpw7/edit?brand=To%20Nie%20My">
+href="https://www.notzarla.com/logo-maker/w9kybrht43rbfvrjcpw7/edit?brand=To%20Nie%20My">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-w9kybrht43rbfvrjcpw7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
+data-src="https://www.notzarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-w9kybrht43rbfvrjcpw7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/w9kybrht43rbfvrjcpw7/edit?brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/w9kybrht43rbfvrjcpw7/edit?brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Projekt, który przyciąga spojrzenia. Dynamiczny kontrast łagodnej bieli z odważną, żywą pomarańczą, symbolizującą kreatywność, radość i dobrą zabawę, wskazuje na przyjemny, polepszający humor podcast. Minimalistyczna ikona mikrofonu, rodem ze studia nagrań, wskazuje na profesjonalizm produkcji. Gładki font Viga dodaje logo modnego wydźwięku.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/bpc4gk93tkvy7vjmy339/edit?brand=To%20Nie%20My">
+href="https://www.notzarla.com/logo-maker/bpc4gk93tkvy7vjmy339/edit?brand=To%20Nie%20My">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-bpc4gk93tkvy7vjmy339.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
+data-src="https://www.notzarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-bpc4gk93tkvy7vjmy339.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/bpc4gk93tkvy7vjmy339/edit?brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/bpc4gk93tkvy7vjmy339/edit?brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Błyskotliwy pomysł na ukrycie kształtu miasta w mikrofonie informuje potencjalnych słuchaczy, że twój podcast kręci się wokół doniesień z popkulturalnych wydarzeń na świecie i świeżych newsów z życia w wielkim mieście. Głęboki granat ikony emanuje profesjonalizmem i rzetelnością, a czytelny font Quicksand świetnie prezentuje się w treściach online.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/grmjv3vhyf9xjkf8pqx9/edit?industry=Podcast&amp;brand=To%20Nie%20My">
+href="https://www.notzarla.com/logo-maker/grmjv3vhyf9xjkf8pqx9/edit?industry=Podcast&amp;brand=To%20Nie%20My">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-grmjv3vhyf9xjkf8pqx9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
+data-src="https://www.notzarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-grmjv3vhyf9xjkf8pqx9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/grmjv3vhyf9xjkf8pqx9/edit?industry=Podcast&amp;brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/grmjv3vhyf9xjkf8pqx9/edit?industry=Podcast&amp;brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Uskrzydlona tarcza, przypominająca te z projektów logo znanych klubów rugby, tworzy skojarzenie z podcastem o tematyce sportowej. Złocisty pomarańcz skrzydeł ożywia elegancką, granatową ikonę studyjnego mikrofonu i kojarzy się z radością, optymizmem i złotym pucharem. Pogrubiony font Bebas Neue nadaje logo dynamiczny wydźwięk.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3y4qd9r8dgc8b9hvq3jw/edit?brand=To%20Nie%20My">
+href="https://www.notzarla.com/logo-maker/3y4qd9r8dgc8b9hvq3jw/edit?brand=To%20Nie%20My">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-3y4qd9r8dgc8b9hvq3jw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
+data-src="https://www.notzarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-3y4qd9r8dgc8b9hvq3jw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3y4qd9r8dgc8b9hvq3jw/edit?brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/3y4qd9r8dgc8b9hvq3jw/edit?brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Intensywny fiolet jest kolorem mądrości, odwagi i duchowości – wyróżnia projekt na tle innych, zapewnia mu rozpoznawalność oraz komunikuje charakter twojego podcastu. Ikona mikrofonu, w którym mieści się zarys artykułu z gazety, świadczy o bieżącym śledzeniu informacji nadciągających ze świata. Kanciasty font Quantico podkreśla minimalizm logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/mvgcy8qp397gry9bjjv3/edit?brand=To%20Nie%20My">
+href="https://www.notzarla.com/logo-maker/mvgcy8qp397gry9bjjv3/edit?brand=To%20Nie%20My">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-mvgcy8qp397gry9bjjv3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
+data-src="https://www.notzarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-mvgcy8qp397gry9bjjv3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/mvgcy8qp397gry9bjjv3/edit?brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/mvgcy8qp397gry9bjjv3/edit?brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Eleganckie, niemal czarne tło projektu podkreśla kształt ikony – mikrofon skryty w głowie postaci wskazuje, że odcinki twojego podcastu są wciągające i zmuszają do myślenia. Biel symbolizuje szczerość i bezstronność, komunikując twoją obiektywność przy tworzeniu kontentu. Mocny font Hind Madurai pięknie kontrastuje ze szczegółowym wzorem mikrofonu.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/dgpjxhq99c3gdkcmd383/edit?brand=To%20Nie%20My">
+href="https://www.notzarla.com/logo-maker/dgpjxhq99c3gdkcmd383/edit?brand=To%20Nie%20My">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-dgpjxhq99c3gdkcmd383.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
+data-src="https://www.notzarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-dgpjxhq99c3gdkcmd383.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/dgpjxhq99c3gdkcmd383/edit?brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/dgpjxhq99c3gdkcmd383/edit?brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Ikona przedstawiająca dłoń w rockowym geście obiecuje twoim słuchaczom dobrą zabawę. Piorun i gwiazdki elektryzują logo, nadają mu dynamiki i reprezentują twoją energię. Morski kolor ikony symbolizuje klarowną komunikację i jasność umysłu, co może wskazywać na wciągające konwersacje z gośćmi. Zwarty font Anton oddaje żwawe tempo twoich odcinków.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/dvjkpx3wjmwfgjgg4k6r/edit?industry=Podcast&amp;brand=To%20Nie%20My">
+href="https://www.notzarla.com/logo-maker/dvjkpx3wjmwfgjgg4k6r/edit?industry=Podcast&amp;brand=To%20Nie%20My">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-dvjkpx3wjmwfgjgg4k6r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
+data-src="https://www.notzarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-dvjkpx3wjmwfgjgg4k6r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/dvjkpx3wjmwfgjgg4k6r/edit?industry=Podcast&amp;brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/dvjkpx3wjmwfgjgg4k6r/edit?industry=Podcast&amp;brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>To logo zawdzięcza swoją ponadczasowość minimalistycznej formie graficznej i harmonijnej czcionce Sen. Piękną, przystępną ikonę podkreśla krucza czerń, symbolizująca tajemniczość, siłę i wyrafinowanie. Serce przywodzi na myśl romans, miłość i pasję, wskazując, że tematyka twojego podcastu obracać się będzie wokół związków i relacji międzyludzkich.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/c9mjvhqx4qw8pd3vddxv/edit?industry=Podcast&amp;brand=To%20Nie%20My">
+href="https://www.notzarla.com/logo-maker/c9mjvhqx4qw8pd3vddxv/edit?industry=Podcast&amp;brand=To%20Nie%20My">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220330-c9mjvhqx4qw8pd3vddxv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
+data-src="https://www.notzarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220330-c9mjvhqx4qw8pd3vddxv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/c9mjvhqx4qw8pd3vddxv/edit?industry=Podcast&amp;brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/c9mjvhqx4qw8pd3vddxv/edit?industry=Podcast&amp;brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Idealny, symetryczny okrąg otaczający ikonę studyjnego mikrofonu daje wydźwięk ogłady i porządku, co wskazuje na twój profesjonalizm. Głęboki granat wskazuje na autorytet, inteligencję i wnikliwość. Inspirowany wielkomiejskim życiem font
 Montserrat czyni to logo idealnym wyborem dla podcastu poświęconego tematom politycznym lub informacyjnym.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jb73fqkyff7pb9mt7ttb/edit?industry=Podcast&amp;brand=To%20Nie%20My">
+href="https://www.notzarla.com/logo-maker/jb73fqkyff7pb9mt7ttb/edit?industry=Podcast&amp;brand=To%20Nie%20My">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-jb73fqkyff7pb9mt7ttb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
+data-src="https://www.notzarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-jb73fqkyff7pb9mt7ttb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jb73fqkyff7pb9mt7ttb/edit?industry=Podcast&amp;brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/jb73fqkyff7pb9mt7ttb/edit?industry=Podcast&amp;brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Ta błyskotliwa ikona przedstawia unikatową wariację na temat logo podcastu – dynamiczne fale dźwiękowe łagodnie przechodzą w kształt miasta, tworząc skojarzenia z muzyką, imprezami i nowinkami ze świata popkultury. Niemalże czarny kolor projektu oddaje niezwykłość wielkomiejskiego stylu życia. Ostry font Alata podkreśla współczesność projektu.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/t8rb3yvg4jgc3hhxqjk6/edit?industry=Podcast&amp;brand=To%20Nie%20My">
+href="https://www.notzarla.com/logo-maker/t8rb3yvg4jgc3hhxqjk6/edit?industry=Podcast&amp;brand=To%20Nie%20My">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-t8rb3yvg4jgc3hhxqjk6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
+data-src="https://www.notzarla.com/images/zarla-to-nie-my-1x1-2400x2400-20220321-t8rb3yvg4jgc3hhxqjk6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Logo dla podcastu o nazwie To Nie My.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/t8rb3yvg4jgc3hhxqjk6/edit?industry=Podcast&amp;brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
+href="https://www.notzarla.com/logo-maker/t8rb3yvg4jgc3hhxqjk6/edit?industry=Podcast&amp;brand=To%20Nie%20My" class="btn btn-primary">Edytuj</a></td><td
 data-label="Opis"><p>Bezpretensjonalny font Oswald sprawia, że projekt wydaje się przystępny i skierowany do szerokiej publiczności. Żywiołowa pomarańcz kojarzona jest z entuzjazmem, kreatywnością i determinacją. Dymek konwersacji skierowany jest w lewą stronę, co implikuje przychodzącą wiadomość – świetne logo dla podcastu poświęconego rozmowom i wywiadom.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-na-bloga">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-na-bloga">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-blog-logos-5472x3648-2021023_2021-02-03-132812.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo na bloga" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-blog-logos-5472x3648-2021023_2021-02-03-132812.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logo na bloga" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-na-bloga">Logo na bloga</a></p><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-na-bloga">Logo na bloga</a></p><div
 class="card-text">10 genialnych projektów logo na twojego bloga.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=faq class="section-heading">FAQ:</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=jak-stworzyc-logo-dla-podcastu class="question">Jak stworzyć logo dla podcastu?</h3><div
 class="answer"><ol><li>Zrób research logo popularnych podcastów.</li><li>Przeanalizuj stosowane rozwiązania i pomyśl, jak wykorzystać je w celu trafnego oddania stylu twoich odcinków.</li><li>Użyj <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">generatora logo</a>, aby znaleźć inspirację.</li><li>Poeksperymentuj z szeroką gamą ikon, czcionek i kolorów, aby znaleźć kombinację, która najlepiej odzwierciedla twój podcast.</li><li>Zaprezentuj kilka projektów rodzinie i przyjaciołom i poproś ich o feedback.</li><li>Wprowadź poprawki i wybierz logo, które zachęca do włączenia odcinka twojego programu.</li></ol></div></div><div
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">generatora logo</a>, aby znaleźć inspirację.</li><li>Poeksperymentuj z szeroką gamą ikon, czcionek i kolorów, aby znaleźć kombinację, która najlepiej odzwierciedla twój podcast.</li><li>Zaprezentuj kilka projektów rodzinie i przyjaciołom i poproś ich o feedback.</li><li>Wprowadź poprawki i wybierz logo, które zachęca do włączenia odcinka twojego programu.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=skad-pobrac-darmowe-logo-dla-podcastu class="question">Skąd pobrać darmowe logo dla podcastu?</h3><div
 class="answer"><p>Możesz stworzyć, edytować i pobrać darmowe logo dla podcastu na Zarla. Wystarczy, że klikniesz „Edytuj” pod jednym z <a
 href="#pomysly-na-logo-dla-podcastu">naszych projektów</a> lub użyjesz naszego generatora logo.</p></div></div><div
@@ -263,68 +263,68 @@ class="container"><h2 class="section-heading">Podobne Treści</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/przyk%C5%82ady-stron-internetowych-dla-podcastu">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/przyk%C5%82ady-stron-internetowych-dla-podcastu">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-podcast-website-examples-4000x2676-20240515.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Dziewczyny nagrywające podcast." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-podcast-website-examples-4000x2676-20240515.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Dziewczyny nagrywające podcast." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/przyk%C5%82ady-stron-internetowych-dla-podcastu">Przykłady stron internetowych dla podcastu - 5 projektów rozbudzających ciekawość</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/przyk%C5%82ady-stron-internetowych-dla-podcastu">Przykłady stron internetowych dla podcastu - 5 projektów rozbudzających ciekawość</a></h3><div
 class="card-text">Odkryj zestawienie 5 efektownych stron WWW podcastów, które zachęcają do zgłębienia ich tajemnic.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-audio">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-audio">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-audio-logos-5760x3840-2022023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bezprzewodowe słuchawki nauszne do odtwarzania audio na żółtym tle." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-audio-logos-5760x3840-2022023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Bezprzewodowe słuchawki nauszne do odtwarzania audio na żółtym tle." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-audio">Logo: Audio</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-audio">Logo: Audio</a></h3><div
 class="card-text">20 obłędnych projektów logo z motywem audio dla twojej firmy.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-coaching">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-coaching">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-coaching-logos-3840x2561-20210415.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Trener pomagająca kobiecie wykonać pozycję jogi w ramach coachingu." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-coaching-logos-3840x2561-20210415.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Trener pomagająca kobiecie wykonać pozycję jogi w ramach coachingu." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-coaching">Logo: Coaching</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-coaching">Logo: Coaching</a></h3><div
 class="card-text">15 nowatorskich projektów logo dla twojej firmy zajmującej się coachingiem.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-muzyczne">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-muzyczne">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-music-business-logo-2400x2400-20210202.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Elektryczne gitary wyeksponowane na wystawie w sklepie z instrumentami muzycznymi." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-music-business-logo-2400x2400-20210202.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Elektryczne gitary wyeksponowane na wystawie w sklepie z instrumentami muzycznymi." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-muzyczne">Logo muzyczne</a></h3><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-muzyczne">Logo muzyczne</a></h3><div
 class="card-text">10 obłędnych pomysłów na logo muzyczne.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-s%C5%82uchawek">
+class="card-preview" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-s%C5%82uchawek">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-earphones-logos-4605x3454-20221125.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Para słuchawek leżąca na nutach." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-earphones-logos-4605x3454-20221125.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Para słuchawek leżąca na nutach." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-s%C5%82uchawek">Logo słuchawek</a></h3><div
-class="card-text">10 energetyzujących projektów logo dla firmy sprzedającej słuchawki.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/pl/wskaz%C3%B3wki/logo-podcast","name":"Logo dla podcastu + Darmowy Kreator Logo"},"headline":"Logo dla podcastu + Darmowy Kreator Logo","description":"10 ciekawych projektów logo dla twojego podcastu.","image":["https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-06-30T18:07:00-05:00","dateModified":"2024-07-04T12:46:24-05:00","author":{"@type":"Person","name":"Natalia Śmigielska","url":"https://www.zarla.com/pl/współautorzy/natalia-śmigielska"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-s%C5%82uchawek">Logo słuchawek</a></h3><div
+class="card-text">10 energetyzujących projektów logo dla firmy sprzedającej słuchawki.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-podcast","name":"Logo dla podcastu + Darmowy Kreator Logo"},"headline":"Logo dla podcastu + Darmowy Kreator Logo","description":"10 ciekawych projektów logo dla twojego podcastu.","image":["https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/Zarla-podcast-logos-5228x3449-20230523.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-06-30T18:07:00-05:00","dateModified":"2024-07-04T12:46:24-05:00","author":{"@type":"Person","name":"Natalia Śmigielska","url":"https://www.notzarla.com/pl/współautorzy/natalia-śmigielska"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -333,27 +333,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/pl">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Język</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/podcast-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-podcast">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-per-podcast">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-de-podcast">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-de-podcast">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/podcast-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/podcast-logolar%C4%B1">Türkçe</a></li><li
+href="https://www.notzarla.com/guides/podcast-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-podcast">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-per-podcast">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-de-podcast">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/logos-f%C3%BCr-podcasts">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-de-podcast">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/podcast-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/podcast-logolar%C4%B1">Türkçe</a></li><li
 class="current" style="color: #3041c4;">Polski</li><li><a
-href="https://www.zarla.com/id/panduan/logo-podcast">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/id/panduan/logo-podcast">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Zasoby</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/projekty-logo">
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/projekty-logo">
 Projekty Logo
 </a></li><li>
 <a
@@ -361,7 +361,7 @@ href="/pl">
 Kreator stron internetowych AI
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo">
+href="https://www.notzarla.com/pl/darmowy-kreator-logo">
 Darmowy kreator logo
 </a></li><li>
 <a
@@ -369,15 +369,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/regulamin">
+href="https://www.notzarla.com/pl/regulamin">
 Regulamin
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/polityka-praw-autorskich">
+href="https://www.notzarla.com/pl/polityka-praw-autorskich">
 Polityka Praw Autorskich
 </a></li><li>
 <a
-href="https://www.zarla.com/pl/polityka-prywatno%C5%9Bci">
+href="https://www.notzarla.com/pl/polityka-prywatno%C5%9Bci">
 Polityka Prywatności
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -385,7 +385,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/pl/darmowy-kreator-logo?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pl-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/pl/darmowy-kreator-logo?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pl-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Zacznij projektować własne logo

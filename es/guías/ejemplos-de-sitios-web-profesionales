@@ -7,25 +7,25 @@ property="og:title" content="Ejemplos de sitios web profesionales - 5 páginas q
 property="og:description" content="Descubre 5 increíbles diseños de sitios web profesionales, con reseñas sobre la experiencia del usuario para computadoras de escritorio y móviles." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales"><meta
+property="og:url" content="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="es"><meta
-property="og:image" content="https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales"><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales" hreflang="es" /><link
+rel="canonical" href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales"><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales" hreflang="es" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="websiteExamples"><header
 class="header"><div
 class="container"><nav
@@ -34,10 +34,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/es">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/es"
+href="https://www.notzarla.com/es"
 class="btn btn-primary cta-nav
 "
 >
@@ -51,11 +51,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/es/gu%C3%ADas">Guías</a></li><li
+href="https://www.notzarla.com/es/gu%C3%ADas">Guías</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web">Ejemplos de sitios web</a></li><li
+href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web">Ejemplos de sitios web</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web/por-tipo">Por tipo</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guías","item":"https://www.zarla.com/es/gu%C3%ADas"},{"@type":"ListItem","position":2,"name":"Ejemplos de sitios web","item":"https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web"},{"@type":"ListItem","position":3,"name":"Por tipo","item":"https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web/por-tipo"},{"@type":"ListItem","position":4,"name":"Ejemplos de sitios web profesionales - 5 páginas que transpiran prestigio","item":"https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales"}]}</script> <div
+href="https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web/por-tipo">Por tipo</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guías","item":"https://www.notzarla.com/es/gu%C3%ADas"},{"@type":"ListItem","position":2,"name":"Ejemplos de sitios web","item":"https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web"},{"@type":"ListItem","position":3,"name":"Por tipo","item":"https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web/por-tipo"},{"@type":"ListItem","position":4,"name":"Ejemplos de sitios web profesionales - 5 páginas que transpiran prestigio","item":"https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Ejemplos de sitios web profesionales - 5 páginas que transpiran prestigio</h1><div
 class="card-body"><div
@@ -64,14 +64,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-jorge-diaz-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-jorge-diaz-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Jorge Diaz"
 /></div><div
 class="card-byline-details">
 <span>Por <a
-class="card-byline-author" href="https://www.zarla.com/es/colaboradores/jorge-diaz">Jorge Diaz</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/es/colaboradores/jorge-diaz">Jorge Diaz</a>,</span>
 <span
 class="card-byline-date">26 jul 2024</span><div
 class="card-byline-bio">
@@ -80,21 +80,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Imagen de una laptop mostrando un sitio web profesional."
@@ -102,7 +102,7 @@ alt="Imagen de una laptop mostrando un sitio web profesional."
 </picture></div></div><div
 class="block-intro-text"><p>Crear un sitio web profesional requiere una combinación de elementos estratégicos y estéticos que no sólo atraigan a los visitantes, sino que también generen confianza y fomenten la interacción. Un diseño intuitivo y responsivo es fundamental, garantizando que la navegación sea fluida tanto en dispositivos móviles, como en computadoras de escritorio.</p><p>Además, un sitio web profesional debe utilizar logos, colores, texturas y tipografías para hacerlo atractivo a los usuarios que lo visitan. Utiliza nuestro <a
 href="/es">creador de sitios web profesionales con IA</a> para crear el tuyo en menos de un minuto. También puedes encontrar un logo para tu negocio en nuestra colección de <a
-href="https://www.zarla.com/es/guías/logos-profesionales">logos profesionales</a>.</p></div><div
+href="https://www.notzarla.com/es/guías/logos-profesionales">logos profesionales</a>.</p></div><div
 class="mt-0 mt-md-2 entry-container entry-container-content"><div
 class="entry-content-wrapper"><div
 class="entry-content"><div
@@ -190,12 +190,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website BBVA México"
@@ -235,14 +235,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>El tiempo de carga puede ser lento debido a la cantidad de gráficos y scripts. No cuenta con chatbots interactivos y los botones para descargar aplicaciones móviles no están visibles.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -256,14 +256,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En su versión de escritorio, el sitio web está bien organizado y la información se presenta de forma clara. Los gráficos y elementos interactivos ofrecen una experiencia de usuario funcional. No obstante, la abundante información puede ser abrumadora. El rendimiento en esta versión, de acuerdo a Google’s PageSpeed Insights es sobresaliente, con una calificación de 97/100.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-bbva-2024063-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -288,12 +288,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Naranja X"
@@ -333,14 +333,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>Algunas funciones dependen de la descarga de la app, lo que puede resultar frustrante para algunos usuarios. Debido a la densidad de información, el sitio web podría presentar problemas de carga en dispositivos con conexiones lentas.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -354,14 +354,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En su versión de escritorio, el sitio web de Naranja X ofrece una experiencia de usuario sólida con navegación intuitiva y carga rápida. Los menús desplegables permiten un acceso fácil a la información y la estructura del contenido es clara. Según WAVE, no contiene errores de contraste, mientras que el análisis de Google’s PageSpeed Insights indica que su rendimiento es de 61/100.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-naranjax-2024064-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -386,12 +386,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-cemex-3840x13656-20240617-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-cemex-3840x13656-20240617-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-cemex-3840x13656-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-cemex-3840x13656-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-cemex-3840x13656-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-cemex-3840x13656-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Cemex"
@@ -431,14 +431,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>El sitio puede llegar a ser complejo para quienes buscan información detallada, ya que tiene mucho contenido en la página principal. Además, no cuenta con asistencia virtual en tiempo real. De acuerdo al sitio WAVE, contiene algunos errores de contraste, lo que dificulta la navegación para personas con discapacidad visual.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-cemex-3840x13656-20240617-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-cemex-3840x13656-20240617-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-cemex-3840x13656-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-cemex-3840x13656-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -452,14 +452,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En una computadora de escritorio, la navegación es intuitiva, con menús claros y bien categorizados. Las imágenes y gráficos de alta calidad resaltan, haciendo la experiencia visualmente atractiva. Sin embargo, algunas páginas pueden cargar lentamente debido al uso intensivo de recursos multimedia. Presenta un rendimiento de 77/100, de acuerdo al sitio Google’s PageSpeed Insights.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-cemex-824x16384-20240617-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-cemex-824x16384-20240617-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-cemex-824x16384-20240617-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-cemex-824x16384-20240617-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -484,12 +484,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Trello"
@@ -529,14 +529,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>La información en su página principal puede ser excesiva. No obstante a la descarga de su aplicación móvil, le resta importancia dejando un aviso de texto hasta abajo de su página principal.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -550,14 +550,14 @@ height="50"
 /></div><div
 class="entry-text"><p>El diseño de Trello en una computadora de escritorio ofrece opciones para personalizar fondos, etiquetas y flujos de trabajo según las necesidades del equipo. Cuenta con una disposición intuitiva de toda la información que muestra en su página principal. Se carga rápidamente y es responsivo. El rendimiento de esta versión, es de 64/100, según Google’s PageSpeed Insights.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-trello-2024064-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -582,12 +582,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-escritorio-2024063-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-escritorio-2024063-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-escritorio-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-escritorio-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-escritorio-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-escritorio-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website AstraZeneca México"
@@ -627,14 +627,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>Las páginas con muchos recursos multimedia pueden tardar en cargar, y no cuenta con herramientas de búsqueda avanzadas. Además, no ofrece asistencia mediante el uso de chatbots. La falta de elementos interactivos puede hacer que la experiencia sea menos dinámica.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-escritorio-2024063-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-escritorio-2024063-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-escritorio-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-escritorio-2024063-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -648,14 +648,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En su versión de escritorio, la navegación es fluida gracias a la estructura clara y la presencia de menús en la parte superior. Las imágenes, gráficos y videos son de alta calidad, lo que visualmente es muy atractivo, sin embargo, el uso de estos recursos puede llegar a hacer lenta la velocidad de carga. De acuerdo a Google’s PageSpeed Insights, su rendimiento es de 74/100.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-movil-2024063-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-movil-2024063-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-movil-2024063-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-astrazeneca-movil-2024063-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -680,12 +680,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-3840x16384-20240617-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-3840x16384-20240617-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-3840x16384-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-3840x16384-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-3840x16384-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-3840x16384-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Banamex"
@@ -725,14 +725,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>El sitio no cuenta con botones para la descarga de sus aplicaciones móviles, ni utiliza chatbots para ofrecer un servicio al cliente en tiempo real. La velocidad de carga puede ser lenta debido a la saturación de contenido e imágenes. Algunas secciones pueden requerir múltiples clics para encontrar detalles específicos.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-3840x16384-20240617-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-3840x16384-20240617-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-3840x16384-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-3840x16384-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -746,14 +746,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En su versión de escritorio la funcionalidad del sitio web es robusta, permitiendo a los usuarios realizar transacciones bancarias, consultar saldos y acceder a servicios financieros de manera eficiente. La navegación es intuitiva gracias a la estructura clara y los menús bien categorizados. El rendimiento de su página en esta versión, es de 52/100, de acuerdo al sitio Google’s PageSpeed Insights.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-824x16384-20240617-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-824x16384-20240617-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-824x16384-20240617-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-banamex-824x16384-20240617-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -778,12 +778,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-3840x10950-2024064-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-3840x10950-2024064-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-3840x10950-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-3840x10950-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-3840x10950-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-3840x10950-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Seguros Sura"
@@ -823,14 +823,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>La velocidad de carga puede llegar a ser lenta. Según WAVE, tiene muchos errores de contraste, lo que limita la accesibilidad para las personas con discapacidad visual. El contenido en su página principal es excesivo, lo que puede resultar en una mala experiencia de usuario.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-3840x10950-2024064-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-3840x10950-2024064-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-3840x10950-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-3840x10950-2024064-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -844,14 +844,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En su versión para computadoras de escritorio, el sitio web ofrece una buena experiencia con fácil acceso a todas las funcionalidades. La navegación es fluida y la disposición del contenido está bien organizada. Las herramientas de cotización y contacto en línea están bien implementadas, facilitando la interacción del usuario. Su rendimiento es de 80/100, según Google’s PageSpeed Insights.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-2024064-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-2024064-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-2024064-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-profesionales-seguros-sura-2024064-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -876,12 +876,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-3840x9680-20240617-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-3840x9680-20240617-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-3840x9680-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-3840x9680-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-3840x9680-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-3840x9680-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Telmex"
@@ -921,14 +921,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>La gran cantidad de imágenes puede parecer caótica en ocasiones, lo que podría confundir la navegación por parte de algunos usuarios. La velocidad de carga puede verse comprometida en algunas secciones debido al uso intensivo de recursos multimedia. Según el análisis de WAVE, el sitio cuenta con varios errores de contraste.</p></div></div></div><h4>Reseña de escritorio:</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-3840x9680-20240617-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-3840x9680-20240617-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-3840x9680-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-3840x9680-20240617-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -942,14 +942,14 @@ height="50"
 /></div><div
 class="entry-text"><p>En una computadora de escritorio la navegación es intuitiva, gracias a la estructura clara y los menús bien categorizados. Los gráficos ofrecen una experiencia visualmente atractiva, y los banners rotativos destacan las promociones y servicios.</p><p>La navegación es intuitiva, facilitada por menús desplegables y enlaces claros. La funcionalidad del sitio es robusta y permite a los usuarios realizar distintas operaciones. El rendimiento en esta versión es de 52/100, de acuerdo al sitio Google’s PageSpeed Insights.</p></div></div><h4>Reseña de móvil</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-20240617-mobile-1.webp"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-20240617-mobile-1.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-20240617-mobile-1.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ejemplos-de-sitios-web-de-profesionales-telmex-20240617-mobile-1.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -985,68 +985,68 @@ class="container"><h2 class="section-heading">Artículos relacionados</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-claves-para-identificar-un-buen-diseo-de-pginas-web-0x0-20240430.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="El diseño de una página web en una computadora sobre un escritorio." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-claves-para-identificar-un-buen-diseo-de-pginas-web-0x0-20240430.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="El diseño de una página web en una computadora sobre un escritorio." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">Claves para identificar un buen diseño de páginas web</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/claves-para-identificar-un-buen-dise%C3%B1o-de-p%C3%A1ginas-web">Claves para identificar un buen diseño de páginas web</a></h3><div
 class="card-text">A continuación, te presentamos algunas claves y tips para obtener el mejor diseño web para tu negocio.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web-4288x2848-20240313.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Tres dispositivos con distintos tipos de diseño web." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web-4288x2848-20240313.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Tres dispositivos con distintos tipos de diseño web." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">¿Cuáles son los tipos de diseño web?</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/cu%C3%A1les-son-los-tipos-de-dise%C3%B1o-web">¿Cuáles son los tipos de diseño web?</a></h3><div
 class="card-text">Descubre los diferentes tipos de diseños web para que puedas utilizar el más adecuado para tu sitio.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-dise%C3%B1o-web">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-dise%C3%B1o-web">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-web-design-logos-6000x4000-2021023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Hombre trabajando en un nuevo diseño de sitio web." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-web-design-logos-6000x4000-2021023.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Hombre trabajando en un nuevo diseño de sitio web." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-dise%C3%B1o-web">Logos para diseño web</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-dise%C3%B1o-web">Logos para diseño web</a></h3><div
 class="card-text">10 excelentes sugerencias de logos para tu negocio de diseño web.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/tendencias-en-dise%C3%B1o-de-logos">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/tendencias-en-dise%C3%B1o-de-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-tendencias-en-dise%C3%B1o-de-logos-5978x4000-2024014.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una diseñadora gráfica buscando las tendencias en diseño de logos." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-tendencias-en-dise%C3%B1o-de-logos-5978x4000-2024014.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una diseñadora gráfica buscando las tendencias en diseño de logos." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/tendencias-en-dise%C3%B1o-de-logos">Tendencias en diseño de logos para el 2024</a></h3><div
+href="https://www.notzarla.com/es/gu%C3%ADas/tendencias-en-dise%C3%B1o-de-logos">Tendencias en diseño de logos para el 2024</a></h3><div
 class="card-text">Conoce cuáles son las tendencias en el diseño de logos para que las tomes en cuenta para  tu empresa.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/logos-modernos">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/logos-modernos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-modern-logos-4604x2590-20210817.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="una escultura de arte moderno" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-modern-logos-4604x2590-20210817.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="una escultura de arte moderno" />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-modernos">Logos modernos</a></h3><div
-class="card-text">10 ideas ingeniosas e innovadoras de logos modernos.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales","name":"Ejemplos de sitios web profesionales - 5 páginas que transpiran prestigio"},"headline":"Ejemplos de sitios web profesionales - 5 páginas que transpiran prestigio","description":"Descubre 5 increíbles diseños de sitios web profesionales, con reseñas sobre la experiencia del usuario para computadoras de escritorio y móviles.","image":["https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-05-15T11:44:00-05:00","dateModified":"2024-07-26T05:17:04-05:00","author":{"@type":"Person","name":"Jorge Diaz","url":"https://www.zarla.com/es/colaboradores/jorge-diaz"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-modernos">Logos modernos</a></h3><div
+class="card-text">10 ideas ingeniosas e innovadoras de logos modernos.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/es/gu%C3%ADas/ejemplos-de-sitios-web-profesionales","name":"Ejemplos de sitios web profesionales - 5 páginas que transpiran prestigio"},"headline":"Ejemplos de sitios web profesionales - 5 páginas que transpiran prestigio","description":"Descubre 5 increíbles diseños de sitios web profesionales, con reseñas sobre la experiencia del usuario para computadoras de escritorio y móviles.","image":["https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/ejemplos-de-sitios-web-profesionales-2400x2400-20240617.webp?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-05-15T11:44:00-05:00","dateModified":"2024-07-26T05:17:04-05:00","author":{"@type":"Person","name":"Jorge Diaz","url":"https://www.notzarla.com/es/colaboradores/jorge-diaz"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -1055,7 +1055,7 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/es">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
@@ -1066,7 +1066,7 @@ class="col-md-6 col-lg-3 "><p
 class="footer-category">Recursos</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/ideas-de-logo">
+href="https://www.notzarla.com/es/gu%C3%ADas/ideas-de-logo">
 Ideas de Logo
 </a></li><li>
 <a
@@ -1074,11 +1074,11 @@ href="/es">
 Creador de sitios web por IA
 </a></li><li>
 <a
-href="https://www.zarla.com/es/creador-de-logos-gratis">
+href="https://www.notzarla.com/es/creador-de-logos-gratis">
 Creador de logos gratis
 </a></li><li>
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso">
+href="https://www.notzarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso">
 Guías paso por paso
 </a></li><li>
 <a
@@ -1086,15 +1086,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/es/t%C3%A9rminos-de-uso">
+href="https://www.notzarla.com/es/t%C3%A9rminos-de-uso">
 Términos de Uso
 </a></li><li>
 <a
-href="https://www.zarla.com/es/pol%C3%ADtica-de-derechos-de-autor">
+href="https://www.notzarla.com/es/pol%C3%ADtica-de-derechos-de-autor">
 Política de Derechos de Autor
 </a></li><li>
 <a
-href="https://www.zarla.com/es/pol%C3%ADtica-de-privacidad">
+href="https://www.notzarla.com/es/pol%C3%ADtica-de-privacidad">
 Política de Privacidad
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

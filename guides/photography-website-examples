@@ -7,27 +7,27 @@ property="og:title" content="Photography Website Examples - 5 Sites That Embody 
 property="og:description" content="An in-depth review of 10 live photography websites and why they work." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/guides/photography-website-examples"><meta
+property="og:url" content="https://www.notzarla.com/guides/photography-website-examples"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="en"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/guides/photography-website-examples"><link
-rel="alternate" href="https://www.zarla.com/guides/photography-website-examples" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/photography-website-examples" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/przyk%C5%82ady-stron-internetowych-dla-fotografa" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/contoh-website-fotografi" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/guides/photography-website-examples"><link
+rel="alternate" href="https://www.notzarla.com/guides/photography-website-examples" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/photography-website-examples" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/przyk%C5%82ady-stron-internetowych-dla-fotografa" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/contoh-website-fotografi" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="websiteExamples"><header
 class="header"><div
 class="container"><nav
@@ -36,10 +36,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/"
+href="https://www.notzarla.com/"
 class="btn btn-primary cta-nav
 "
 >
@@ -53,11 +53,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides">Guides</a></li><li
+href="https://www.notzarla.com/guides">Guides</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides/website-examples">Website Examples</a></li><li
+href="https://www.notzarla.com/guides/website-examples">Website Examples</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides/website-examples/arts-entertainment-and-recreation">Arts, Entertainment, and Recreation</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/guides"},{"@type":"ListItem","position":2,"name":"Website Examples","item":"https://www.zarla.com/guides/website-examples"},{"@type":"ListItem","position":3,"name":"Arts, Entertainment, and Recreation","item":"https://www.zarla.com/guides/website-examples/arts-entertainment-and-recreation"},{"@type":"ListItem","position":4,"name":"Photography Website Examples - 5 Sites That Embody Creativity and Talent","item":"https://www.zarla.com/guides/photography-website-examples"}]}</script> <div
+href="https://www.notzarla.com/guides/website-examples/arts-entertainment-and-recreation">Arts, Entertainment, and Recreation</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.notzarla.com/guides"},{"@type":"ListItem","position":2,"name":"Website Examples","item":"https://www.notzarla.com/guides/website-examples"},{"@type":"ListItem","position":3,"name":"Arts, Entertainment, and Recreation","item":"https://www.notzarla.com/guides/website-examples/arts-entertainment-and-recreation"},{"@type":"ListItem","position":4,"name":"Photography Website Examples - 5 Sites That Embody Creativity and Talent","item":"https://www.notzarla.com/guides/photography-website-examples"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Photography Website Examples - 5 Sites That Embody Creativity and Talent</h1><div
 class="card-body"><div
@@ -66,14 +66,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-simone-gambrell-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-simone-gambrell-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Simoné Gambrell"
 /></div><div
 class="card-byline-details">
 <span>By <a
-class="card-byline-author" href="https://www.zarla.com/contributors/simoné-gambrell">Simoné Gambrell</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/contributors/simoné-gambrell">Simoné Gambrell</a>,</span>
 <span
 class="card-byline-date">Jul 26, 2024</span><div
 class="card-byline-bio">
@@ -82,21 +82,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="A photographer leaning over a railing by a bridge and taking photos."
@@ -205,12 +205,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-katibest-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-katibest-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-katibest-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-katibest-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-katibest-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-katibest-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Kati Best Photography"
@@ -250,14 +250,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site lacks accessibility for people using assistive technologies and WAVE reports a number of empty link errors. The contrast between the text and background should be improved, and larger text would make legibility easier.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-katibest-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-katibest-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-katibest-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-katibest-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -271,14 +271,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The user experience of the desktop site is seamless, with a simple-to-navigate design and easy access to booking the photographer's services. The text is a bit small with poor contrast, but the site radiates energy and emotion, conveying the photographer's style and personality.</p><p>The simple site design keeps a really clean experience while providing visitors with all the information necessary for a photography website, including a great niche blog. On Google's PageSpeed Insights report, the desktop site scores 93/100 for performance.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-katibest-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-katibest-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-katibest-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-katibest-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -303,12 +303,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-emilystarpoole-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-emilystarpoole-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-emilystarpoole-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-emilystarpoole-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-emilystarpoole-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-emilystarpoole-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Emily Star Poole"
@@ -348,14 +348,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site seems to focus on wedding photography and the other available options are only made clear when exploring the different tabs. The site is only semi-compliant with assistive technologies.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-emilystarpoole-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-emilystarpoole-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-emilystarpoole-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-emilystarpoole-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -369,14 +369,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site uses a simple, grid pattern that welcomes visitors with a clean home page that is not overly cluttered and distracting. The visuals are well organized with all the necessary information present on the home page, and the varying sizes of the text keep things visually interesting.</p><p>While the desktop site excels at best practices on PageSpeed Insights, large content and slow loading times reduce the performance score to 60/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-emilystarpoole-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-emilystarpoole-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-emilystarpoole-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-emilystarpoole-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -401,12 +401,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-kissphotography-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-kissphotography-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-kissphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-kissphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-kissphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-kissphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Kiss Photography"
@@ -446,14 +446,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is only semi-compliant with assistive technologies and features a text-heavy layout, with some text blocks covering the photos and creating poor legibility. The link to the customer reviews should also be stronger.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-kissphotography-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-kissphotography-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-kissphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-kissphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -467,14 +467,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site beautifully highlights all the content with well-spaced text and a simple grid layout. However, the site would benefit from a more modern update, as it looks outdated.</p><p>The bottom menu is more extensive than the top menu, including the link to the customer reviews. Google's PageSpeed Insights reports slow loading times for larger images, leading to an overall performance score of 84/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-kissphotography-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-kissphotography-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-kissphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-kissphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -499,12 +499,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-saranagelphotography-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-saranagelphotography-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-saranagelphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-saranagelphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-saranagelphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-saranagelphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Sara Nagel Photography"
@@ -544,14 +544,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>WAVE notes a number of missing links, missing language, and contrast errors on the site, which is not compliant with assistive technologies. The photographer's contact details are not clearly visible next to the contact form.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-saranagelphotography-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-saranagelphotography-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-saranagelphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-saranagelphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -565,14 +565,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site features a clean, aesthetically pleasing design, while navigation is simple, intuitive, and consistent. However, the tab called "Seniors" may be a bit misleading, taking visitors to photo services for high school seniors, rather than senior citizens.</p><p>Different text fonts and photo sizes create visual interest, while the choice of photos will leave the viewer smiling. The desktop site performs well on Google's PageSpeed Insights report, with a performance score of 93/100, even though the accessibility of the site, with a score of 59/100, needs to be improved.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-saranagelphotography-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-saranagelphotography-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-saranagelphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-saranagelphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -597,12 +597,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-kjmahoney-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-kjmahoney-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-kjmahoney-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-kjmahoney-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-kjmahoney-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-kjmahoney-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website KJMahoney Photography"
@@ -642,14 +642,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is quite impersonal, as it focuses on sales, and the text used in the artist's bio is too small for easy legibility. There are also small grammar errors on the site. The URL is not user-friendly and does not register on WAVE or PageSpeed Insights, and the site is not compliant with assistive technologies.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-kjmahoney-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-kjmahoney-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-kjmahoney-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-kjmahoney-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -663,14 +663,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The simple desktop site focuses on the sale of wildlife and landscape photography in the Buffalo area, leading to an impersonal site. However, the choice of photos shows well against the earthy color palette and the focus on buffalo photos is a cute touch for the home page.</p><p>The online purchasing software is impressive, offering customers different sizes and styles for both prints and downloads, with clear pricing. Shipping and tax are automatically added, and an estimate of shipping times is provided.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-kjmahoney-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-kjmahoney-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-kjmahoney-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-kjmahoney-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -695,12 +695,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Bianca Smit Photography"
@@ -740,14 +740,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The contrast between text and background images is poor, and WAVE reports a number of these contrast errors as well as missing alternative text, which impacts accessibility. The site is not compliant with assistive technologies.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -761,14 +761,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site makes great use of the space to highlight the clean layout, appealing images, and straightforward navigation. The images load quickly and are high quality, but the use of text over some of the background images distracts from the image quality and shows poor contrast for the text.</p><p>Improving the accessibility of the site would be beneficial, but Google's PageSpeed Insights report awards the desktop version a performance score of 77/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-biancasmitphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -793,12 +793,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-acwphotography-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-acwphotography-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-acwphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-acwphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-acwphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-acwphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Amanda Wilson Photography"
@@ -838,14 +838,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The color palette leads to poor contrast between the text and background. The site lacks additional contact details for the photographer, aside from the contact form, and as the form states "booking for December and 2024", obviously the site needs to be updated.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-acwphotography-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-acwphotography-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-acwphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-acwphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -859,14 +859,14 @@ height="50"
 /></div><div
 class="entry-text"><p>Visitors to the desktop site are greeted by a large rotating gallery of photos, immediately highlighting the photographer's style. The home page itself contains only a few photos and small blocks of text, creating a clean design.</p><p>The designer has been a bit more creative with the headings, but using "Investment" for the pricing page is misleading. Despite the seamless real-life experience, the desktop site earns a performance score of 81/100 on PageSpeed Insights.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-acwphotography-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-acwphotography-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-acwphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-acwphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -891,12 +891,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Alisha Bacon Photography"
@@ -936,14 +936,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>Low contrast on the visuals and repetitive texts decrease the UX; the photographer's services are also not clearly listed. The site is not compliant with assistive technologies and lacks some important features, such as a gallery of past work.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -957,14 +957,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The site uses a rather simple design, with photos and blocks of text balancing each other. This clean design is echoed in the white and gray color palette, which lowers the contrast between text and background.</p><p>The designer has been repetitive with no less than three blocks of text introducing the photographer. The photographer apparently offers wedding photography as well as portraits, but potential clients would only learn this through an examination of the home page.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-alishabaconphoto-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -989,12 +989,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-rebecca-denton-3840x11389-20240625.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-rebecca-denton-3840x11389-20240625.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-rebecca-denton-3840x11389-20240625.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-rebecca-denton-3840x11389-20240625.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-rebecca-denton-3840x11389-20240625.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-rebecca-denton-3840x11389-20240625.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Rebecca Denton Photography"
@@ -1034,14 +1034,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The text is sometimes lost against the bright photos, and the site itself is not accessible to people with disabilities who use assistive technologies. WAVE reports a large number of missing alternative text, empty links, and contrast errors. The site lacks pricing information.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-rebecca-denton-3840x11389-20240625.webp"
+data-src="https://www.notzarla.com/images/zarla-rebecca-denton-3840x11389-20240625.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-rebecca-denton-3840x11389-20240625.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-rebecca-denton-3840x11389-20240625.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -1055,14 +1055,14 @@ height="50"
 /></div><div
 class="entry-text"><p>Visitors to the desktop site can immediately view bright photos showing the range of the photographer's skill. The services are clearly listed, each service featuring its own page with examples, and a list of brands that the photographer has previously worked with increases the photographer's credibility. The clear menu creates a good UX, but the photographer does not list any pricing on the site.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-rebeccadentonphotography-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-rebeccadentonphotography-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-rebeccadentonphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-rebeccadentonphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -1087,12 +1087,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-sbsphotography-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-sbsphotography-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-sbsphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-sbsphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-sbsphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-sbsphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Sullivan Photography"
@@ -1132,14 +1132,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is only semi-compliant with assistive technologies and the page scripting prevents WAVE from assessing the site. The landing page almost creates a block to the rest of the site, with the "Enter" button hidden in the bottom corner in a white typeface.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-sbsphotography-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-sbsphotography-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-sbsphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-sbsphotography-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -1153,14 +1153,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site is clean and geometrically structured, creating a visually appealing site with plenty of white space in the organization. The menu is simple and improves the UX, but the "Home" page takes you to something of a cover page, with no links except for one to "enter" the site. This photographer has also taken their services a step further by offering prints and albums, highlighted on the website.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-sbsphotography-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-sbsphotography-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-sbsphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-sbsphotography-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -1206,68 +1206,68 @@ class="container"><h2 class="section-heading">Related Articles</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/photography-logos">
+class="card-preview" href="https://www.notzarla.com/guides/photography-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-photography-logos-4926x3279-20230525.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A photographer crouched on mountaintop taking pictures for his photography business." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-photography-logos-4926x3279-20230525.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A photographer crouched on mountaintop taking pictures for his photography business." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/photography-logos">Photography Logos</a></h3><div
+href="https://www.notzarla.com/guides/photography-logos">Photography Logos</a></h3><div
 class="card-text">10 captivating logo ideas for your photography business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/drone-photography-logos">
+class="card-preview" href="https://www.notzarla.com/guides/drone-photography-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-drone-photography-logos-3834x2938-2022075.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A person about to launch a drone to take drone photographs of a lake." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-drone-photography-logos-3834x2938-2022075.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A person about to launch a drone to take drone photographs of a lake." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/drone-photography-logos">Drone Photography Logos</a></h3><div
+href="https://www.notzarla.com/guides/drone-photography-logos">Drone Photography Logos</a></h3><div
 class="card-text">10 sophisticated logo recommendations for your drone photography business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/aerial-photography-logos">
+class="card-preview" href="https://www.notzarla.com/guides/aerial-photography-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logos-para-fotograf%C3%ADa-a%C3%A9rea-3992x2992-20220511.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="An aerial photograph of a beach." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-logos-para-fotograf%C3%ADa-a%C3%A9rea-3992x2992-20220511.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="An aerial photograph of a beach." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/aerial-photography-logos">Aerial Photography Logos</a></h3><div
+href="https://www.notzarla.com/guides/aerial-photography-logos">Aerial Photography Logos</a></h3><div
 class="card-text">10 exciting logo ideas for your aerial photography business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/how-to-start-a-photography-business">
+class="card-preview" href="https://www.notzarla.com/guides/how-to-start-a-photography-business">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-start-a-photography-business-5859x3906-20200727.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="DSLR camera on a tripod capturing a building" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-start-a-photography-business-5859x3906-20200727.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="DSLR camera on a tripod capturing a building" />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/how-to-start-a-photography-business">How to Start a Photography Business</a></h3><div
+href="https://www.notzarla.com/guides/how-to-start-a-photography-business">How to Start a Photography Business</a></h3><div
 class="card-text">A step-by-step guide to starting a successful photography business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop">
+class="card-preview" href="https://www.notzarla.com/guides/how-to-make-a-logo-in-photoshop">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="The Adobe Photoshop logo on an app icon on a computer screen." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="The Adobe Photoshop logo on an app icon on a computer screen." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/how-to-make-a-logo-in-photoshop">How to Make a Logo in Photoshop</a></h3><div
-class="card-text">Learn how to create a business logo in Photoshop with our step-by-step guide.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/guides/photography-website-examples","name":"Photography Website Examples - 5 Sites That Embody Creativity and Talent"},"headline":"Photography Website Examples - 5 Sites That Embody Creativity and Talent","description":"An in-depth review of 10 live photography websites and why they work.","image":["https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-02-27T04:13:00-06:00","dateModified":"2024-07-26T09:04:31-05:00","author":{"@type":"Person","name":"Simoné Gambrell","url":"https://www.zarla.com/contributors/simoné-gambrell"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/guides/how-to-make-a-logo-in-photoshop">How to Make a Logo in Photoshop</a></h3><div
+class="card-text">Learn how to create a business logo in Photoshop with our step-by-step guide.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/guides/photography-website-examples","name":"Photography Website Examples - 5 Sites That Embody Creativity and Talent"},"headline":"Photography Website Examples - 5 Sites That Embody Creativity and Talent","description":"An in-depth review of 10 live photography websites and why they work.","image":["https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-photography-website-examples-5472x3648-20240513.webp?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-02-27T04:13:00-06:00","dateModified":"2024-07-26T09:04:31-05:00","author":{"@type":"Person","name":"Simoné Gambrell","url":"https://www.notzarla.com/contributors/simoné-gambrell"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -1276,32 +1276,32 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Language</p><ul
 class="footer-menu list-unstyled"><li
 class="current" style="color: #3041c4;">English</li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/przyk%C5%82ady-stron-internetowych-dla-fotografa">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/contoh-website-fotografi">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/przyk%C5%82ady-stron-internetowych-dla-fotografa">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/contoh-website-fotografi">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Resources</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/guides/logo-ideas">
+href="https://www.notzarla.com/guides/logo-ideas">
 Logo Ideas
 </a></li><li>
 <a
-href="https://www.zarla.com/">
+href="https://www.notzarla.com/">
 AI Website Builder
 </a></li><li>
 <a
-href="https://www.zarla.com/free-logo-maker">
+href="https://www.notzarla.com/free-logo-maker">
 Free Logo Maker
 </a></li><li>
 <a
-href="https://www.zarla.com/guides/how-to">
+href="https://www.notzarla.com/guides/how-to">
 How To
 </a></li><li>
 <a
@@ -1309,15 +1309,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/terms-of-use">
+href="https://www.notzarla.com/terms-of-use">
 Terms of Use
 </a></li><li>
 <a
-href="https://www.zarla.com/copyright-policy">
+href="https://www.notzarla.com/copyright-policy">
 Copyright Policy
 </a></li><li>
 <a
-href="https://www.zarla.com/privacy-policy">
+href="https://www.notzarla.com/privacy-policy">
 Privacy Policy
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

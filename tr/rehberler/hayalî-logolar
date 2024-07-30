@@ -7,34 +7,34 @@ property="og:title" content="Hayalî Logolar + Ücretsiz Logo Oluşturucu" /><me
 property="og:description" content="Tüm işletme türleri için 20 hayal ürünü logo fikri." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/tr/rehberler/hayal%C3%AE-logolar"><meta
+property="og:url" content="https://www.notzarla.com/tr/rehberler/hayal%C3%AE-logolar"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="tr-TR"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/tr/rehberler/hayal%C3%AE-logolar"><link
-rel="alternate" href="https://www.zarla.com/guides/fanciful-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/fanciful-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-fantasiosos" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-fantasiosi" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-fantasques" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/fantasievolle-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-fantasiosos" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/fantasievolle-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/hayal%C3%AE-logolar" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/fantazyjne-logo" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-fantastis" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/tr/rehberler/hayal%C3%AE-logolar"><link
+rel="alternate" href="https://www.notzarla.com/guides/fanciful-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/fanciful-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-fantasiosos" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-fantasiosi" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-fantasques" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/fantasievolle-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-fantasiosos" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/fantasievolle-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/hayal%C3%AE-logolar" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/fantazyjne-logo" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-fantastis" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/tr">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu"
+href="https://www.notzarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/tr/rehberler">Rehberler</a></li><li
+href="https://www.notzarla.com/tr/rehberler">Rehberler</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/tr/rehberler/logolar">Logolar</a></li><li
+href="https://www.notzarla.com/tr/rehberler/logolar">Logolar</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/tr/rehberler/logolar/ture-gore">Türe Göre</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Rehberler","item":"https://www.zarla.com/tr/rehberler"},{"@type":"ListItem","position":2,"name":"Logolar","item":"https://www.zarla.com/tr/rehberler/logolar"},{"@type":"ListItem","position":3,"name":"Türe Göre","item":"https://www.zarla.com/tr/rehberler/logolar/ture-gore"},{"@type":"ListItem","position":4,"name":"Hayalî Logolar + Ücretsiz Logo Oluşturucu","item":"https://www.zarla.com/tr/rehberler/hayal%C3%AE-logolar"}]}</script> <div
+href="https://www.notzarla.com/tr/rehberler/logolar/ture-gore">Türe Göre</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Rehberler","item":"https://www.notzarla.com/tr/rehberler"},{"@type":"ListItem","position":2,"name":"Logolar","item":"https://www.notzarla.com/tr/rehberler/logolar"},{"@type":"ListItem","position":3,"name":"Türe Göre","item":"https://www.notzarla.com/tr/rehberler/logolar/ture-gore"},{"@type":"ListItem","position":4,"name":"Hayalî Logolar + Ücretsiz Logo Oluşturucu","item":"https://www.notzarla.com/tr/rehberler/hayal%C3%AE-logolar"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Hayalî Logolar + Ücretsiz Logo Oluşturucu</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-ebru-celik-800x800-2024058_2024-05-08-080444_wcwn.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-ebru-celik-800x800-2024058_2024-05-08-080444_wcwn.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Ebru Çelik"
 /></div><div
 class="card-byline-details">
 <span>Yazan: <a
-class="card-byline-author" href="https://www.zarla.com/tr/katkı-sağlayanlar/ebru-çelik">Ebru Çelik</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/tr/katkı-sağlayanlar/ebru-çelik">Ebru Çelik</a>,</span>
 <span
 class="card-byline-date">6 May 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Bir kitabın açık sayfaları içerisinde uyuyan bir kadının hayalî bir görüntüsü."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Hayalî logolar; süslü, dekoratif ve yaratıcı simgeler ve yazı tipleriyle görenleri şaşırtmalıdır. Simgeler; soyut, fantastik veya sadece çok süslü olabilir. Renk paletleri ise parlak ve neşeli renkler ya da karanlık ve mistik tonlardan oluşabilir. Fikir edinmek için aşağıdaki listemizi inceleyin veya <a
-href="https://www.zarla.com/tr/ücretsiz-logo-oluşturucu">ücretsiz hayalî logo oluşturucumuzu</a> kullanın.</p></div></div></div></div><div
+href="https://www.notzarla.com/tr/ücretsiz-logo-oluşturucu">ücretsiz hayalî logo oluşturucumuzu</a> kullanın.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,246 +120,246 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Tanım</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/vrcc6r4hv66f9pvwtxjb/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/vrcc6r4hv66f9pvwtxjb/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-vrcc6r4hv66f9pvwtxjb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-vrcc6r4hv66f9pvwtxjb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/vrcc6r4hv66f9pvwtxjb/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/vrcc6r4hv66f9pvwtxjb/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Soyut ateş simgesinin zarif girdapları, Cookie yazı tipinin dekoratif fırça stiliyle vurgulanarak harika bir şekilde süslenmiş bir logo oluşturuyor. Soluk ve boz kahverengi tonu, ikonu koyu mavi arka plandan ayrıştırıyor ve sofistike bir marka mesajı iletmeye yardımcı oluyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/rwx9kprm97hdwb9x9vx3/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/rwx9kprm97hdwb9x9vx3/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-rwx9kprm97hdwb9x9vx3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-rwx9kprm97hdwb9x9vx3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/rwx9kprm97hdwb9x9vx3/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/rwx9kprm97hdwb9x9vx3/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Koyu mavi, gücü ve bütünlüğü simgeleyerek müşterileri markanıza güvenmeye teşvik ediyor. Hilal içindeki mum ve yıldızlar, sihri ve büyüleri anımsatan mistik bir görüntü yaratırken hassas Sacramento yazı tipi, işletme adı için abartısız ancak komuta eden bir ifade oluşturuyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/89gdjrhdpfwqgh7pht4y/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/89gdjrhdpfwqgh7pht4y/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-89gdjrhdpfwqgh7pht4y.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-89gdjrhdpfwqgh7pht4y.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/89gdjrhdpfwqgh7pht4y/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/89gdjrhdpfwqgh7pht4y/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Redressed yazı tipinin şık harf biçimleri, hayalî bir logo için ideal. Dekoratif mandala simgesi, karmaşıklığı ile göze çarpıyor ve müşterileri tasarımı görsel olarak yorumlamaya davet ediyor. Bu arada kahverengi ve sarı renkleri de davetkar bir logo için konforu iyimserlikle harmanlıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/kqjpmpjx8c3vv4m3fpj7/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/kqjpmpjx8c3vv4m3fpj7/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-kqjpmpjx8c3vv4m3fpj7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-kqjpmpjx8c3vv4m3fpj7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/kqjpmpjx8c3vv4m3fpj7/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/kqjpmpjx8c3vv4m3fpj7/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Fantastik iblis kafası dikkat çekiyor ve oyun logoları için ideal. Sağlam Arbutus Slab yazı tipi, güçlü ve büyük simgeye karşı kendine ait bir yer tutuyor ve işletme adının parlamasını sağlıyor. Beyaz tasarım, karanlık ve neredeyse siyah arka plana karşı öne çıkarak mistik bir etki yaratıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/6vpjqyt8q48wyqty78qp/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/6vpjqyt8q48wyqty78qp/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-6vpjqyt8q48wyqty78qp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-6vpjqyt8q48wyqty78qp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/6vpjqyt8q48wyqty78qp/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/6vpjqyt8q48wyqty78qp/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>El yazısı stilindeki Delius yazı tipi, tasarımda bir kişisellik duygusu yaratarak samimi bir his uyandırıyor. Işıltılı güneş, yatıştırıcı ve davetkar bir sıcaklık ve enerji yayarken kahverengi ve kırmızımsı pembe kombinasyonu, rekabette öne çıkacak göz alıcı bir kontrast oluşturuyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/ddtgm38v8tfxhgbw99j6/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/ddtgm38v8tfxhgbw99j6/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-ddtgm38v8tfxhgbw99j6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-ddtgm38v8tfxhgbw99j6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/ddtgm38v8tfxhgbw99j6/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/ddtgm38v8tfxhgbw99j6/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Kahverengi tonları, logoya hakim görünüyor ve topraksı ve güvenilir bir işletmeye uygun. Kabuk simgesi, topraksı renk paleti ile uyum sağlıyor ve belki de doğaya ve okyanusa bağlılığı ifade ediyor. Sessiz Frank Ruhl Libre yazı tipi, logonun temiz hatlarını mükemmel bir şekilde tamamlıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gg6c4tkjyyphyjmtwmcd/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/gg6c4tkjyyphyjmtwmcd/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-gg6c4tkjyyphyjmtwmcd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-gg6c4tkjyyphyjmtwmcd.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gg6c4tkjyyphyjmtwmcd/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/gg6c4tkjyyphyjmtwmcd/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Parlak turuncu, logonun öne çıkmasına ve macera, eğlence ve coşku duygusuyla dikkat çekmesine yardımcı oluyor. Ciddi kurt simgesi, fantastik bir dokunuş katıyor ve ciddi bir oyuncunun kararlılığını gösteriyor. Sansation yazı tipinin klasik harf biçimleri ise reklamcılık için mükemmel.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/kpt6x6gxjfmkjjfpqhrx/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/kpt6x6gxjfmkjjfpqhrx/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-kpt6x6gxjfmkjjfpqhrx_2022-09-21-111945_ulct.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-kpt6x6gxjfmkjjfpqhrx_2022-09-21-111945_ulct.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/kpt6x6gxjfmkjjfpqhrx/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/kpt6x6gxjfmkjjfpqhrx/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>İkonun detaylı dal çalışması, tasarımda bir odak noktası oluşturuyor ve hayalî bir hava yaratıyor. Morumsu mavi renk, bu etkiyi artırarak gizem ve sihir duygusu katıyor. Mitr yazı tipi, sade simgeyi yatıştırıcı pembe rengini samimi, havadar ve gündelik harflerle birleştiriyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/496tkrd8fvg3r8jt7gdg/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/496tkrd8fvg3r8jt7gdg/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-496tkrd8fvg3r8jt7gdg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-496tkrd8fvg3r8jt7gdg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/496tkrd8fvg3r8jt7gdg/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/496tkrd8fvg3r8jt7gdg/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Rosarivo, yüksek kaliteli ve hayalî detaylara sahip zarif bir yazı tipi. Çiçeksi ancak geometrik ikon ise dengeli ve simetrik tasarımıyla yazı tipiyle uyum sağlıyor. Tasarımın birinci sınıf hissi, baharı ve yeniden doğuşu simgeleyen yeşil ve turuncudan oluşan renk paletiyle güçleniyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/mvcxqxmrqfrjd7qrychj/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/mvcxqxmrqfrjd7qrychj/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-mvcxqxmrqfrjd7qrychj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-mvcxqxmrqfrjd7qrychj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/mvcxqxmrqfrjd7qrychj/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/mvcxqxmrqfrjd7qrychj/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Pembe ve koyu gri, yumuşaklığı güç ve sağlamlıkla birleştiren çarpıcı bir kombinasyon oluşturuyor. Bu zıtlık, soyut ikonun yumuşak ve kıvrımlı çizgilerinde ve Oswald yazı tipinin güçlü ve klasik karakterlerinde de görülüyor. Logo, oldukça göz alıcı ve akılda kalıcı görünüyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fk3hd8tqm6fj7yh3ff76/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/fk3hd8tqm6fj7yh3ff76/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-fk3hd8tqm6fj7yh3ff76.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-fk3hd8tqm6fj7yh3ff76.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fk3hd8tqm6fj7yh3ff76/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/fk3hd8tqm6fj7yh3ff76/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Cinzel Decorative yazı tipi, ikonun ince çizgileriyle kontrast oluşturuyor ve çağdaş bir tarz yaratıyor. Soyut simge, bir elması, çiçeği ve mandalayı andırıyor ve logoya çeşitli işletmeler için kullanılabilecek bir çok yönlülük kazandırıyor. Siyah, beyaz ve kırmızı, zarif ve lüks görünüyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/tygmc9mgbxbw69k674xh/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/tygmc9mgbxbw69k674xh/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-tygmc9mgbxbw69k674xh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-tygmc9mgbxbw69k674xh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/tygmc9mgbxbw69k674xh/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/tygmc9mgbxbw69k674xh/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bubblegum Sans yazı tipinin iyimser ve fırça darbeli stili, davetkar ve neşeli bir atmosfer yaratıyor. Yumuşak mavi, bu estetiği tamamlıyor ve tasarıma güven ve huzur duygusu kazandırıyor. Dekoratif ve karmaşık simge, bu logonun hayalî bir temaya sahip olmasını sağlıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/4h34b9fhd3ggwgkh8tr9/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/4h34b9fhd3ggwgkh8tr9/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-4h34b9fhd3ggwgkh8tr9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-4h34b9fhd3ggwgkh8tr9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/4h34b9fhd3ggwgkh8tr9/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/4h34b9fhd3ggwgkh8tr9/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Kapsüllerin içindeki yapraklar, holistik bir şifa markası için eğlenceli ve tuhaf bir sembol yaratıyor. Mora çalan pembe ve gök mavisi, kalabalığın arasından sıyrılacak harika bir kombinasyon. Arbutus Slab yazı tipi ise reklamcılık için çok yönlü bir tercih ve görsel bir nefes alanı yaratıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/74x9kjhchjjf8m3w7hff/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/74x9kjhchjjf8m3w7hff/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-74x9kjhchjjf8m3w7hff.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-74x9kjhchjjf8m3w7hff.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/74x9kjhchjjf8m3w7hff/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/74x9kjhchjjf8m3w7hff/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Güçlü kırmızı renk, mavi ile uyumuyla dikkat çekiyor ve harekete geçirici bir mesaj işlevi görüyor. Ampulün içindeki sevimli ateş simgesi, yeniliği ve sınırların dışında düşünmeyi temsil ediyor. İkon, aynı zamanda çağdaş Noto Serif yazı tipindeki işletme adına da dikkat çekiyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wqvj7fcctqk8myqmcfkj/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/wqvj7fcctqk8myqmcfkj/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-wqvj7fcctqk8myqmcfkj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-wqvj7fcctqk8myqmcfkj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wqvj7fcctqk8myqmcfkj/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/wqvj7fcctqk8myqmcfkj/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Mavimsi koyu gri, tasarımda ön plana çıkıyor ve profesyonel ve sofistike bir estetik taşıyor. Üst üste binen dikdörtgenler, oldukça tanıdık şekiller ancak aynı zamanda çağdaş ve modaya uygun bir markayı vurguluyor. Simge, yuvarlak ve geometrik Comfortaa yazı tipiyle kontrast yaratıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3v6x6jyd96twjxgx4kg6/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/3v6x6jyd96twjxgx4kg6/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-3v6x6jyd96twjxgx4kg6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-3v6x6jyd96twjxgx4kg6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3v6x6jyd96twjxgx4kg6/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/3v6x6jyd96twjxgx4kg6/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Hipnotik ve soyut simge, göze çarpıyor ve adeta tasarımın anlamı hakkında spekülasyonlara davetiye çıkarıyor. Mistik hava, müşterileri markanıza güven duymaya teşvik eden koyu mavi tonlarla zenginleşirken ZCOOL XiaoWei yazı tipi, merak uyandırmak için çevik fırça darbeleri kullanıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3dpvdff9w449mpyygkyy/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/3dpvdff9w449mpyygkyy/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-3dpvdff9w449mpyygkyy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-3dpvdff9w449mpyygkyy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3dpvdff9w449mpyygkyy/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/3dpvdff9w449mpyygkyy/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bu logo, doğa ve dünya ile kurulan bağlantıyı vurgulamak için koyu grimsi kahverenginden faydalanıyor. Ateş göndermesi, bu temayı devam ettirirken çok çeşitli iş türleri için ideal olan fantastik bir element ekliyor. Aralıklı Titillium Web yazı tipi ise görsel bir nefes alma alanı yaratıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9tw4ptxyr8q8k7wbkg3d/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/9tw4ptxyr8q8k7wbkg3d/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-9tw4ptxyr8q8k7wbkg3d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-9tw4ptxyr8q8k7wbkg3d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9tw4ptxyr8q8k7wbkg3d/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/9tw4ptxyr8q8k7wbkg3d/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Dingin figür, bir çeşit huzur hissi uyandırıyor ve yapraklardan oluşan taç, doğa ve maneviyatla kurulan bağlantıyı gösteriyor. Geometrik Sen yazı tipi, samimi ve davetkar olduğu için simgenin iyi bir tamamlayıcısı. Zarif bej ve koyu yeşil, doğal estetiği arttırırken aynı zamanda zarif görünüyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/tjb4973f3hm9x33fm4p7/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/tjb4973f3hm9x33fm4p7/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-tjb4973f3hm9x33fm4p7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-tjb4973f3hm9x33fm4p7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/tjb4973f3hm9x33fm4p7/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/tjb4973f3hm9x33fm4p7/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Cinzel yazı tipinin ince ve klasik çizgileri, ikonu tamamlıyor ama aynı zamanda yoğun, detaylı ve karmaşık mandala ikonuna kıyasla temiz görünüyor ve kontrast katıyor. Canlı gök mavisi, tefekküre teşvik eden mandala simgesiyle uyum içerisinde ve barış, dinginlik ve maneviyat taşıyor.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/k79pyfhp9wmprcx9crr6/edit?brand=Saf%20Saye">
+href="https://www.notzarla.com/logo-maker/k79pyfhp9wmprcx9crr6/edit?brand=Saf%20Saye">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-k79pyfhp9wmprcx9crr6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
+data-src="https://www.notzarla.com/images/zarla-saf-saye-1x1-2400x2400-20220921-k79pyfhp9wmprcx9crr6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Saf Saye adındaki bir işletme için hayalî logo.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/k79pyfhp9wmprcx9crr6/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
+href="https://www.notzarla.com/logo-maker/k79pyfhp9wmprcx9crr6/edit?brand=Saf%20Saye" class="btn btn-primary">Düzenle</a></td><td
 data-label="Tanım"><p>Bu eğlenceli ve ilginç tasarım, lazer etiketi veya Gotik bir mağaza gibi farklı işletmeler için işe yarayabilir. Sıra dışı Alice yazı tipi, eklektik görünürken fantastik yanan kafatası simgesini tamamlıyor. Kafatasındaki çatlak, bir tehlike unsuru eklerken turuncu, macera ve heyecanı simgeliyor.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/belirsiz-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/belirsiz-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-obscure-logos-5760x3840-20211012.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Belirsiz Logolar" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-obscure-logos-5760x3840-20211012.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Belirsiz Logolar" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/belirsiz-logolar">Belirsiz Logolar</a></p><div
+href="https://www.notzarla.com/tr/rehberler/belirsiz-logolar">Belirsiz Logolar</a></p><div
 class="card-text">Her tür işletme için uygun 20 belirsiz logo fikri.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=sss class="section-heading">SSS:</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=hayali-bir-logo-nasil-olusturulur class="question">Hayalî bir logo nasıl oluşturulur?</h3><div
 class="answer"><ol><li>Bir logoyu hayalî yapan şeyin ne olduğunu araştırın.</li><li>Marka mesajınızı ve bunu hayalî bir şekilde nasıl iletebileceğinizi düşünün.</li><li>Birkaç hayalî logo fikri üretmek için bir <a
-href="https://www.zarla.com/tr/ücretsiz-logo-oluşturucu">logo oluşturucu</a> kullanın.</li><li>Tasarıma uygun olduklarından emin olmak için renklerin anlamlarını öğrenin.</li><li>Birkaç örnek tasarlayın ve arkadaşlarınızdan ve ailenizden geri bildirim isteyin.</li><li>İşletmeniz için en iyi tasarımı seçin ve indirin.</li></ol></div></div><div
+href="https://www.notzarla.com/tr/ücretsiz-logo-oluşturucu">logo oluşturucu</a> kullanın.</li><li>Tasarıma uygun olduklarından emin olmak için renklerin anlamlarını öğrenin.</li><li>Birkaç örnek tasarlayın ve arkadaşlarınızdan ve ailenizden geri bildirim isteyin.</li><li>İşletmeniz için en iyi tasarımı seçin ve indirin.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=bir-logoyu-hayali-yapan-sey-nedir class="question">Bir logoyu hayalî yapan şey nedir?</h3><div
 class="answer"><p>Hayalî logolar, genellikle soyut, fantastik veya sadece son derece süslü simgelere, turuncu ve yeşil gibi canlı ve neşeli veya siyah ve gri gibi karanlık ve mistik renklere ve Cinzel Decorative ya da Redressed gibi dekoratif yazı tiplerine sahiptir. Fikir edinmek için <a
 href="#hayali-logo-fikirleri">hayalî logo tasarımları</a> koleksiyonumuza göz atabilirsiniz.</p></div></div><div
@@ -370,68 +370,68 @@ class="container"><h2 class="section-heading">Benzer Yazılar</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/mistik-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/mistik-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-mystical-logos-6000x4000-20210831.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Karanlık bir arka planda görüntülenen tütsü, yanan ada çayı ve kristallerin olduğu mistik bir ortam." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-mystical-logos-6000x4000-20210831.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Karanlık bir arka planda görüntülenen tütsü, yanan ada çayı ve kristallerin olduğu mistik bir ortam." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/mistik-logolar">Mistik Logolar</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/mistik-logolar">Mistik Logolar</a></h3><div
 class="card-text">İşletmeniz için 20 etkileyici ve mistik logo fikri.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/gizemli-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/gizemli-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-mysterious-logos-5610x3740-20220323.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Yüzü gölgede gizlenmiş gizemli bir adam." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-mysterious-logos-5610x3740-20220323.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Yüzü gölgede gizlenmiş gizemli bir adam." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/gizemli-logolar">Gizemli Logolar</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/gizemli-logolar">Gizemli Logolar</a></h3><div
 class="card-text">Her tür işletme için uygun 20 gizemli logo fikri.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/y%C4%B1ld%C4%B1zl%C4%B1-logolar">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/y%C4%B1ld%C4%B1zl%C4%B1-logolar">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-star-logo-20210906.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Açık bir kitap üzerinde görüntülenen beyaz bir yıldız." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-star-logo-20210906.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Açık bir kitap üzerinde görüntülenen beyaz bir yıldız." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/y%C4%B1ld%C4%B1zl%C4%B1-logolar">Yıldızlı Logolar</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/y%C4%B1ld%C4%B1zl%C4%B1-logolar">Yıldızlı Logolar</a></h3><div
 class="card-text">İşletmeniz için 20 yıldızlı logo fikri.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/peri-masal%C4%B1-logolar%C4%B1">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/peri-masal%C4%B1-logolar%C4%B1">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-fairytale-logos-4896x3264-2022115.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Peri kostümlü bir kadın beyazlar içinde eterik görünüyor." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-fairytale-logos-4896x3264-2022115.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Peri kostümlü bir kadın beyazlar içinde eterik görünüyor." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/peri-masal%C4%B1-logolar%C4%B1">Peri Masalı Logoları</a></h3><div
+href="https://www.notzarla.com/tr/rehberler/peri-masal%C4%B1-logolar%C4%B1">Peri Masalı Logoları</a></h3><div
 class="card-text">İşletmeniz için 20 peri masalı logosu fikri.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/tr/rehberler/ay-logolar%C4%B1">
+class="card-preview" href="https://www.notzarla.com/tr/rehberler/ay-logolar%C4%B1">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-lunar-logos-3264x4697-20221028.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Şafakta bir ay görünümü." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-lunar-logos-3264x4697-20221028.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Şafakta bir ay görünümü." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/tr/rehberler/ay-logolar%C4%B1">Ay Logoları</a></h3><div
-class="card-text">İşletmeniz için 20 zarif ay logosu fikri.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/tr/rehberler/hayal%C3%AE-logolar","name":"Hayalî Logolar + Ücretsiz Logo Oluşturucu"},"headline":"Hayalî Logolar + Ücretsiz Logo Oluşturucu","description":"Tüm işletme türleri için 20 hayal ürünü logo fikri.","image":["https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2022-04-07T08:36:00-05:00","dateModified":"2024-05-06T18:13:44-05:00","author":{"@type":"Person","name":"Ebru Çelik","url":"https://www.zarla.com/tr/katkı-sağlayanlar/ebru-çelik"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/tr/rehberler/ay-logolar%C4%B1">Ay Logoları</a></h3><div
+class="card-text">İşletmeniz için 20 zarif ay logosu fikri.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/tr/rehberler/hayal%C3%AE-logolar","name":"Hayalî Logolar + Ücretsiz Logo Oluşturucu"},"headline":"Hayalî Logolar + Ücretsiz Logo Oluşturucu","description":"Tüm işletme türleri için 20 hayal ürünü logo fikri.","image":["https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-fanciful-logos-5472x3648-2022047.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2022-04-07T08:36:00-05:00","dateModified":"2024-05-06T18:13:44-05:00","author":{"@type":"Person","name":"Ebru Çelik","url":"https://www.notzarla.com/tr/katkı-sağlayanlar/ebru-çelik"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -440,27 +440,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/tr">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Dil</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/fanciful-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-fantasiosos">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-fantasiosi">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-fantasques">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/fantasievolle-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-fantasiosos">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/fantasievolle-logos">Nederlands</a></li><li
+href="https://www.notzarla.com/guides/fanciful-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-fantasiosos">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-fantasiosi">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-fantasques">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/fantasievolle-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-fantasiosos">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/fantasievolle-logos">Nederlands</a></li><li
 class="current" style="color: #3041c4;">Türkçe</li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/fantazyjne-logo">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-fantastis">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/fantazyjne-logo">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-fantastis">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Kaynaklar</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/tr/rehberler/logo-fikirleri">
+href="https://www.notzarla.com/tr/rehberler/logo-fikirleri">
 Logo Fikirleri
 </a></li><li>
 <a
@@ -468,7 +468,7 @@ href="/tr">
 AI Web Sitesi Oluşturma Aracı
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
+href="https://www.notzarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
 Ücretsiz Logo Oluşturucu
 </a></li><li>
 <a
@@ -476,15 +476,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
+href="https://www.notzarla.com/tr/kullan%C4%B1m-ko%C5%9Fullar%C4%B1">
 Kullanım Koşulları
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
+href="https://www.notzarla.com/tr/telif-hakk%C4%B1-politikas%C4%B1">
 Telif Hakkı Politikası
 </a></li><li>
 <a
-href="https://www.zarla.com/tr/gizlilik-politikas%C4%B1">
+href="https://www.notzarla.com/tr/gizlilik-politikas%C4%B1">
 Gizlilik Politikası
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -492,7 +492,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=tr-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=tr-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Özel bir logo tasarlamaya başlayın

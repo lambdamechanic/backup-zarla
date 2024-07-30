@@ -7,34 +7,34 @@ property="og:title" content="Loghi Rétro + Logo Maker Gratuito" /><meta
 property="og:description" content="20 bellissime idee rétro per il logo della tua azienda." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/it/guide/loghi-r%C3%A9tro"><meta
+property="og:url" content="https://www.notzarla.com/it/guide/loghi-r%C3%A9tro"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="it"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/it/guide/loghi-r%C3%A9tro"><link
-rel="alternate" href="https://www.zarla.com/guides/retro-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/retro-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-retro" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-r%C3%A9tro" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-r%C3%A9tro" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/retro-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-retr%C3%B4" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/retro-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/retro-logolar" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/retro-logo" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-retro" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/it/guide/loghi-r%C3%A9tro"><link
+rel="alternate" href="https://www.notzarla.com/guides/retro-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/retro-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-retro" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-r%C3%A9tro" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-r%C3%A9tro" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/retro-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-retr%C3%B4" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/retro-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/retro-logolar" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/retro-logo" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-retro" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/it">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito"
+href="https://www.notzarla.com/it/logo-maker-gratuito"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide">Guide</a></li><li
+href="https://www.notzarla.com/it/guide">Guide</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide/loghi">Loghi</a></li><li
+href="https://www.notzarla.com/it/guide/loghi">Loghi</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide/loghi/per-tipo">Per Tipo</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guide","item":"https://www.zarla.com/it/guide"},{"@type":"ListItem","position":2,"name":"Loghi","item":"https://www.zarla.com/it/guide/loghi"},{"@type":"ListItem","position":3,"name":"Per Tipo","item":"https://www.zarla.com/it/guide/loghi/per-tipo"},{"@type":"ListItem","position":4,"name":"Loghi Rétro + Logo Maker Gratuito","item":"https://www.zarla.com/it/guide/loghi-r%C3%A9tro"}]}</script> <div
+href="https://www.notzarla.com/it/guide/loghi/per-tipo">Per Tipo</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guide","item":"https://www.notzarla.com/it/guide"},{"@type":"ListItem","position":2,"name":"Loghi","item":"https://www.notzarla.com/it/guide/loghi"},{"@type":"ListItem","position":3,"name":"Per Tipo","item":"https://www.notzarla.com/it/guide/loghi/per-tipo"},{"@type":"ListItem","position":4,"name":"Loghi Rétro + Logo Maker Gratuito","item":"https://www.notzarla.com/it/guide/loghi-r%C3%A9tro"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Loghi Rétro + Logo Maker Gratuito</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-michela-cambria-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-michela-cambria-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Michela Cambria"
 /></div><div
 class="card-byline-details">
 <span>Di <a
-class="card-byline-author" href="https://www.zarla.com/it/contributors/michela-cambria">Michela Cambria</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/it/contributors/michela-cambria">Michela Cambria</a>,</span>
 <span
 class="card-byline-date">17 apr 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Due dischi in vinile dall&#039;aspetto rétro."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Se vuoi che la tua azienda abbia un'identità un po' rétro — o retrò — inizia con un logo a tema: i loghi rétro usano simboli iconici e font ispirati al passato per dare ai brand un sapore antico e un po' nostalgico. Trova un po' di idee con la lista seguente e usa il nostro logo maker per <a
-href="https://www.zarla.com/it/logo-maker-gratuito">creare loghi rétro gratis</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/it/logo-maker-gratuito">creare loghi rétro gratis</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,239 +120,239 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Descrizione</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/pmq7qg49vgwd7xwvyb3d/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/pmq7qg49vgwd7xwvyb3d/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-pmq7qg49vgwd7xwvyb3d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-pmq7qg49vgwd7xwvyb3d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/pmq7qg49vgwd7xwvyb3d/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/pmq7qg49vgwd7xwvyb3d/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>La palette di colori di questo logo è audace e ricca di contrasti, una scelta che va molto d’accordo con l’icona con la penna stilografica e con le proporzioni classiche del carattere Cardo. Lo sfondo nero aggiunge un tocco di classe ed è bilanciato dalla brillantezza del bianco e del rosso.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/qt6j7f8vxfht44fwy96d/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/qt6j7f8vxfht44fwy96d/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-qt6j7f8vxfht44fwy96d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-qt6j7f8vxfht44fwy96d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/qt6j7f8vxfht44fwy96d/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/qt6j7f8vxfht44fwy96d/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Questo logo è aggraziato e solido allo stesso tempo: tale effetto è dato dall’unione di un font fluido che sembra scritto a mano, il Sacramento, con un’icona floreale dalle forme dure e geometriche. La palette monocromatica sfrutta una profonda sfumatura di blu per dare eleganza al design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/4hdcqg3xj3bf3jptpckb/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/4hdcqg3xj3bf3jptpckb/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-4hdcqg3xj3bf3jptpckb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-4hdcqg3xj3bf3jptpckb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/4hdcqg3xj3bf3jptpckb/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/4hdcqg3xj3bf3jptpckb/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Il font usato in questo logo — il Pacifico — ha un aspetto invitante e amichevole. Queste stesse sensazioni sono suscitate anche dalla calda palette in bianco e arancione che possiede un irresistibile charme rétro. L’icona con le mani che custodiscono amorevolmente un cuore-sole è piena di energia.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/md4bdj9vddkbt9q4pj4w/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/md4bdj9vddkbt9q4pj4w/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-md4bdj9vddkbt9q4pj4w.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-md4bdj9vddkbt9q4pj4w.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/md4bdj9vddkbt9q4pj4w/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/md4bdj9vddkbt9q4pj4w/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L’icona con lo scrunchie è un’ottima rappresentazione degli anni 80-90 essendo stato uno degli accessori più utilizzati dell'epoca. Le forme circolari, inoltre, sono simbolo di unità. L’atmosfera rétro è evidenziata anche dalla palette oro e dallo stile raffinato del carattere DM Serif Text.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/ff8gjrvjy6m79j8m3qxf/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/ff8gjrvjy6m79j8m3qxf/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-ff8gjrvjy6m79j8m3qxf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-ff8gjrvjy6m79j8m3qxf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/ff8gjrvjy6m79j8m3qxf/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/ff8gjrvjy6m79j8m3qxf/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L’audace palette in blu scuro e arancione conferisce al design un’estetica vintage che ravviva l’elegante icona: un divano dallo stile rétro che si ispira alla moda francese. Quest’ultima, che si abbina alle imponenti lettere del font Oswald Medium, è perfetta per un negozio di antiquariato.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fkkf44ryr64g9mwdbryx/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/fkkf44ryr64g9mwdbryx/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-fkkf44ryr64g9mwdbryx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-fkkf44ryr64g9mwdbryx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fkkf44ryr64g9mwdbryx/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/fkkf44ryr64g9mwdbryx/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L’icona a mo’ di sticker con l’auto classica è il punto focale di questo design e il suo stile morbido viene evidenziato e ripreso dal font Poppins Bold. Il contrasto tra il bianco e lo sfondo marrone cioccolato è ricco, distinto e autorevole. Questo logo rétro, dunque, si farà sicuramente notare.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/dk3kcpx489tyr9r4wr8d/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/dk3kcpx489tyr9r4wr8d/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-dk3kcpx489tyr9r4wr8d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-dk3kcpx489tyr9r4wr8d.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/dk3kcpx489tyr9r4wr8d/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/dk3kcpx489tyr9r4wr8d/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Il tocco rétro del logo si può ritrovare sia nell’aspetto pieno e ricco del carattere tipografico Monoton, sia nell’icona, la quale ricorda lo stile di una vecchia cartella da scuola. La palette in rosa e grigio scuro, invece, aggiunge un pizzico in più di brio e allegria al design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3mh4v9rfbrkyvy6xvpdj/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/3mh4v9rfbrkyvy6xvpdj/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-3mh4v9rfbrkyvy6xvpdj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-3mh4v9rfbrkyvy6xvpdj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3mh4v9rfbrkyvy6xvpdj/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/3mh4v9rfbrkyvy6xvpdj/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L’icona raffigura un camper — o un furgoncino — d’epoca e, in combinazione con il carismatico font Redressed Regular, dà vita a un logo rétro difficile da ignorare. La palette sui toni del grigio evoca una certa sensazione di nostalgia che rende il logo estremamente versatile ed elegante.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/jd9t4w9vptm8m89brj4r/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/jd9t4w9vptm8m89brj4r/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-jd9t4w9vptm8m89brj4r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-jd9t4w9vptm8m89brj4r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/jd9t4w9vptm8m89brj4r/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/jd9t4w9vptm8m89brj4r/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L'icona con il cono gelato, messo in risalto dalla forma circolare, fa riemergere i ricordi delle estati trascorse in spiaggia gustando spuntini freschi. Il giallo e il rosso, infatti, comunicano gioia, mentre l’azzurro è simbolo di freschezza. Il font Frijole rafforza l'aspetto retrò del design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/ympkmy3yvf7w6jrxbdqr/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/ympkmy3yvf7w6jrxbdqr/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-ympkmy3yvf7w6jrxbdqr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-ympkmy3yvf7w6jrxbdqr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/ympkmy3yvf7w6jrxbdqr/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/ympkmy3yvf7w6jrxbdqr/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L’icona ricorda, in modo astratto, le decorazioni art déco tipiche dei palazzi novecenteschi e crea un’immagine sofisticata evidenziata dalla ricchezza dell’oro, dello sfondo panna e del marrone opaco. Le lettere slanciate del carattere Rum Raisin danno risalto alla verticalità dell’icona.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/d3gy7vffbgqmk6mjgcrm/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/d3gy7vffbgqmk6mjgcrm/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-d3gy7vffbgqmk6mjgcrm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-d3gy7vffbgqmk6mjgcrm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/d3gy7vffbgqmk6mjgcrm/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/d3gy7vffbgqmk6mjgcrm/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Il profilo di un uomo con un cappello borsalino fa immergere chi guarda in un'atmosfera rétro anni 20. La scelta del rosa, tuttavia, dona un inaspettato tocco di brio e di modernità al design. Il font Abhaya Libre, grazie alle linee classiche e alla seriosità del grigio, regala eleganza al design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/78t9gpbcm3b88vfb3hq9/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/78t9gpbcm3b88vfb3hq9/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-78t9gpbcm3b88vfb3hq9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-78t9gpbcm3b88vfb3hq9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/78t9gpbcm3b88vfb3hq9/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/78t9gpbcm3b88vfb3hq9/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Un design giocoso che fa pensare alla cultura hippie degli anni 60. Il font Cinzel Bold aggiunge un elemento di classe al design che bilancia l'energia dell’accattivante icona con le due chitarre e le stelle. La particolare sfumatura di colore, tra il grigio e il blu, è versatile e raffinata.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7k9pdcxxmp4rjgfxcvr4/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/7k9pdcxxmp4rjgfxcvr4/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-7k9pdcxxmp4rjgfxcvr4.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-7k9pdcxxmp4rjgfxcvr4.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7k9pdcxxmp4rjgfxcvr4/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/7k9pdcxxmp4rjgfxcvr4/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L’icona pixelata a forma di razzo fa pensare ai videogame rétro, andando a suscitare sensazioni nostalgiche in chi la guarda. La palette blu scura e rosa, invece, concilia eleganza e vivacità. Quest'ultima è una qualità che si può ritrovare anche nell’estetica amichevole del carattere Autour One.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fkqhrtfb4xtgpjgg3rwb/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/fkqhrtfb4xtgpjgg3rwb/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-fkqhrtfb4xtgpjgg3rwb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-fkqhrtfb4xtgpjgg3rwb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fkqhrtfb4xtgpjgg3rwb/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/fkqhrtfb4xtgpjgg3rwb/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Il vestito anni 50 è la perfetta rappresentazione dell’abbigliamento rétro: un’icona del genere è perfetta per attirare l’attenzione degli amanti di questo stile. L’elegante palette in nero opaco viene rallegrata dal fresco tocco di azzurro, mentre il font Cormorant Unicase Bold è un’aggiunta chic.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/r9pkfcthb7yxb8pddbt6/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/r9pkfcthb7yxb8pddbt6/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-r9pkfcthb7yxb8pddbt6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-r9pkfcthb7yxb8pddbt6.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/r9pkfcthb7yxb8pddbt6/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/r9pkfcthb7yxb8pddbt6/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Un design che porta lontano nel tempo e nello spazio sia grazie all’icona con il narghilè, sia grazie allo stile elegante e classicheggiante del font Cinzel Bold. Il blu scuro, colore tipicamente associato alla saggezza, alla nobiltà e al prestigio, dà risalto alle forme longilinee dell'icona.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/vdwmymwjwd3pcykx9pb7/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/vdwmymwjwd3pcykx9pb7/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-vdwmymwjwd3pcykx9pb7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-vdwmymwjwd3pcykx9pb7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/vdwmymwjwd3pcykx9pb7/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/vdwmymwjwd3pcykx9pb7/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L'icona di questo logo, un vortice ipnotico che si staglia su una forma quadrata, ricorda i favolosi e psichedelici anni 60. Il viola, inoltre, è un colore invitante, sinonimo di spiritualità, originalità e creatività. L'accattivante font Grenze Medium, invece, ricorda le miniature medievali.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9qqjbptjjfycwdpp9mx4/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/9qqjbptjjfycwdpp9mx4/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-9qqjbptjjfycwdpp9mx4.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-9qqjbptjjfycwdpp9mx4.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9qqjbptjjfycwdpp9mx4/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/9qqjbptjjfycwdpp9mx4/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Le perline allegre, disposte su due file simmetriche, danno a questo logo un appariscente e amichevole look rétro, bilanciato dal font Saira Condensed SemiBold, carattere leggibile che comunica sicurezza. Il giallo e il rosa dell’icona, infine, sono smussati dal più pacato marrone scuro.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fpy8qrxwjt9jchk967fm/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/fpy8qrxwjt9jchk967fm/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-fpy8qrxwjt9jchk967fm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-fpy8qrxwjt9jchk967fm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fpy8qrxwjt9jchk967fm/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/fpy8qrxwjt9jchk967fm/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Questo design è reso rétro dall’icona con un oggetto tipicamente vintage: una macchina fotografica analogica. La palette in marrone cioccolato è invitante e accogliente, mentre il carattere Pacifico dà un po’ di carisma al design grazie ai suoi tratti morbidi e dall'andamento corsivo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/bk3d8cbwwtpfpx48rw9r/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/bk3d8cbwwtpfpx48rw9r/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-bk3d8cbwwtpfpx48rw9r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20220406-bk3d8cbwwtpfpx48rw9r.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/bk3d8cbwwtpfpx48rw9r/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/bk3d8cbwwtpfpx48rw9r/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L’alternanza di blu e rosso, colori accesi e vivaci, dà vita a un’icona inebriante e divertente. Questa fantasia, insieme alla morbidezza del fiore, ricorda lo stile della carta da parati anni 70. Il font Cormorant Infant Medium ha un aspetto raffinato e forte, messo in luce dal sobrio grigio scuro.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/xgmvdvh4vycmq4mpkqp9/edit?brand=Diva%20Dandy">
+href="https://www.notzarla.com/logo-maker/xgmvdvh4vycmq4mpkqp9/edit?brand=Diva%20Dandy">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-xgmvdvh4vycmq4mpkqp9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
+data-src="https://www.notzarla.com/images/zarla-diva-dandy-1x1-2400x2400-20211109-xgmvdvh4vycmq4mpkqp9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo rétro per un&#039;azienda che si chiama Diva Dandy.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/xgmvdvh4vycmq4mpkqp9/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/xgmvdvh4vycmq4mpkqp9/edit?brand=Diva%20Dandy" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Un logo rétro e accattivante, reso ancora più attraente dalla palette in bianco e nero: il contrasto tra i colori e le linee sottili dell’icona con il microfono vintage richiama l’attenzione e crea un effetto quasi tridimensionale. Il font Overpass SemiBold è semplice, molto leggibile e senza tempo.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-stilosi">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-stilosi">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-stylish-logos-4925x3078-20210902.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Loghi Stilosi" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-stylish-logos-4925x3078-20210902.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Loghi Stilosi" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-stilosi">Loghi Stilosi</a></p><div
+href="https://www.notzarla.com/it/guide/loghi-stilosi">Loghi Stilosi</a></p><div
 class="card-text">20 idee per creare un logo stiloso per la tua azienda.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=fAQs class="section-heading">FAQs:</h2><div
@@ -362,7 +362,7 @@ class="answer"><p>Puoi trovarli su Zarla. Inoltre, per creare un logo ti baster�
 href="#idee-per-loghi-retro">loghi</a> oppure usare direttamente il nostro logo maker per creare un logo da zero.</p></div></div><div
 class="col-12 faq-item"><h3 id=come-creare-un-logo-retro-per-un-039-azienda class="question">Come creare un logo rétro per un&#039;azienda?</h3><div
 class="answer"><ol><li>Fai delle ricerche su aziende che hanno un logo rétro e identifica le caratteristiche comuni.</li><li>Prendi degli appunti sulle caratteristiche che il logo della tua azienda dovrebbe avere.</li><li>Usa un logo maker per mettere in pratica le tue idee e <a
-href="https://www.zarla.com/it/logo-maker-gratuito">creare loghi</a>.</li><li>Sbizzarrisciti con icone, font e colori per trovare la combinazione che più rispecchia la tua identità.</li><li>Ricordati di chiedere un feedback ad amici, familiari e ai tuoi potenziali clienti.</li><li>Scegli il logo che preferisci e scaricalo.</li></ol></div></div><div
+href="https://www.notzarla.com/it/logo-maker-gratuito">creare loghi</a>.</li><li>Sbizzarrisciti con icone, font e colori per trovare la combinazione che più rispecchia la tua identità.</li><li>Ricordati di chiedere un feedback ad amici, familiari e ai tuoi potenziali clienti.</li><li>Scegli il logo che preferisci e scaricalo.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=dove-scaricare-un-logo-retro-in-png-o-in-vettoriale-gratis class="question">Dove scaricare un logo rétro in PNG o in vettoriale gratis?</h3><div
 class="answer"><p>Prova il logo maker di Zarla, uno strumento intuitivo e facile da usare che ti aiuterà a creare e personalizzare gratuitamente il logo per la tua azienda. Una volta che avrai trovato il logo perfetto per te, potrai scaricarlo sia in vettoriale che in PNG in modo totalmente gratuito.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Dove trovare degli esempi di loghi rétro?","acceptedAnswer":{"@type":"Answer","text":"<p>Puoi trovarli su Zarla. Inoltre, per creare un logo ti baster\u00e0 cliccare sul tasto \"modifica\" sotto uno dei nostri <a href=\"#idee-per-loghi-retro\">loghi<\/a> oppure usare direttamente il nostro logo maker per creare un logo da zero.<\/p>\n"}},{"@type":"Question","name":"Come creare un logo rétro per un&#039;azienda?","acceptedAnswer":{"@type":"Answer","text":"<ol>\n<li>Fai delle ricerche su aziende che hanno un logo r\u00e9tro e identifica le caratteristiche comuni. <\/li>\n<li>Prendi degli appunti sulle caratteristiche che il logo della tua azienda dovrebbe avere. <\/li>\n<li>Usa un logo maker per mettere in pratica le tue idee e <a href=\"https:\/\/www.zarla.com\/it\/logo-maker-gratuito\">creare loghi<\/a>.<\/li>\n<li>Sbizzarrisciti con icone, font e colori per trovare la combinazione che pi\u00f9 rispecchia la tua identit\u00e0. <\/li>\n<li>Ricordati di chiedere un feedback ad amici, familiari e ai tuoi potenziali clienti.<\/li>\n<li>Scegli il logo che preferisci e scaricalo.<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Dove scaricare un logo rétro in PNG o in vettoriale gratis?","acceptedAnswer":{"@type":"Answer","text":"<p>Prova il logo maker di Zarla, uno strumento intuitivo e facile da usare che ti aiuter\u00e0 a creare e personalizzare gratuitamente il logo per la tua azienda. Una volta che avrai trovato il logo perfetto per te, potrai scaricarlo sia in vettoriale che in PNG in modo totalmente gratuito.<\/p>\n"}}]}</script> <div
 class="section-related-post"><div
@@ -370,68 +370,68 @@ class="container"><h2 class="section-heading">Articoli Correlati</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-tradizionali">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-tradizionali">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-traditional-logos-3656x2616-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una donna con un vestito tradizionale." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-traditional-logos-3656x2616-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una donna con un vestito tradizionale." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-tradizionali">Loghi Tradizionali</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-tradizionali">Loghi Tradizionali</a></h3><div
 class="card-text">20 idee per un logo dall&#039;aspetto tradizionale.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-stravaganti">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-stravaganti">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-funky-logos-3020x4027-2021091.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Dei graffiti stravaganti e variopinti sopra un muro." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-funky-logos-3020x4027-2021091.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Dei graffiti stravaganti e variopinti sopra un muro." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-stravaganti">Loghi Stravaganti</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-stravaganti">Loghi Stravaganti</a></h3><div
 class="card-text">20 idee di loghi stravaganti, vivaci ed eccentrici per la tua azienda.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-hipster">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-hipster">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-hipster-logos-2400x3200-2021101.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un carlino che indossa un cappellino di lana giallo da hipster." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-hipster-logos-2400x3200-2021101.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un carlino che indossa un cappellino di lana giallo da hipster." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-hipster">Loghi Hipster</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-hipster">Loghi Hipster</a></h3><div
 class="card-text">20 idee per loghi hipster per aziende.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-regali">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-regali">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-regal-logo-ideas-3593x5389-20210922.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="L&#039;atrio regale di un palazzo nobiliare." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-regal-logo-ideas-3593x5389-20210922.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="L&#039;atrio regale di un palazzo nobiliare." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-regali">Loghi Regali</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-regali">Loghi Regali</a></h3><div
 class="card-text">20 idee per un logo dal fascino nobiliare.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-con-foglie">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-con-foglie">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-logos-with-leaves-complete-4127x3095-2021099.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un insieme di foglie scure bagnate da piccole gocce di rugiada." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-logos-with-leaves-complete-4127x3095-2021099.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un insieme di foglie scure bagnate da piccole gocce di rugiada." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-con-foglie">Loghi con Foglie</a></h3><div
-class="card-text">20 idee per un logo con delle foglie.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/it/guide/loghi-r%C3%A9tro","name":"Loghi Rétro + Logo Maker Gratuito"},"headline":"Loghi Rétro + Logo Maker Gratuito","description":"20 bellissime idee rétro per il logo della tua azienda.","image":["https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-08-27T05:45:00-05:00","dateModified":"2024-04-17T10:17:39-05:00","author":{"@type":"Person","name":"Michela Cambria","url":"https://www.zarla.com/it/contributors/michela-cambria"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/it/guide/loghi-con-foglie">Loghi con Foglie</a></h3><div
+class="card-text">20 idee per un logo con delle foglie.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/it/guide/loghi-r%C3%A9tro","name":"Loghi Rétro + Logo Maker Gratuito"},"headline":"Loghi Rétro + Logo Maker Gratuito","description":"20 bellissime idee rétro per il logo della tua azienda.","image":["https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-retro-logos-5430x3585-20210917.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-08-27T05:45:00-05:00","dateModified":"2024-04-17T10:17:39-05:00","author":{"@type":"Person","name":"Michela Cambria","url":"https://www.notzarla.com/it/contributors/michela-cambria"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -440,27 +440,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/it">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Lingua</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/retro-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-retro">Español</a></li><li
+href="https://www.notzarla.com/guides/retro-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-retro">Español</a></li><li
 class="current" style="color: #3041c4;">Italiano</li><li><a
-href="https://www.zarla.com/fr/guides/logos-r%C3%A9tro">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/retro-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-retr%C3%B4">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/retro-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/retro-logolar">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/retro-logo">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-retro">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/fr/guides/logos-r%C3%A9tro">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/retro-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-retr%C3%B4">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/retro-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/retro-logolar">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/retro-logo">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-retro">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Risorse</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/it/guide/idee-per-loghi">
+href="https://www.notzarla.com/it/guide/idee-per-loghi">
 Idee per Loghi
 </a></li><li>
 <a
@@ -468,7 +468,7 @@ href="/it">
 Website Builder AI
 </a></li><li>
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito">
+href="https://www.notzarla.com/it/logo-maker-gratuito">
 Logo Maker Gratuito
 </a></li><li>
 <a
@@ -476,15 +476,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/it/termini-di-utilizzo">
+href="https://www.notzarla.com/it/termini-di-utilizzo">
 Termini di Utilizzo
 </a></li><li>
 <a
-href="https://www.zarla.com/it/norme-sul-copyright">
+href="https://www.notzarla.com/it/norme-sul-copyright">
 Norme sul Copyright
 </a></li><li>
 <a
-href="https://www.zarla.com/it/informativa-sulla-privacy">
+href="https://www.notzarla.com/it/informativa-sulla-privacy">
 Informativa sulla Privacy
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -492,7 +492,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=it-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/it/logo-maker-gratuito?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=it-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Comincia a creare un logo personalizzato

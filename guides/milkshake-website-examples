@@ -7,25 +7,25 @@ property="og:title" content="Milkshake Website Examples - 10 Sweet Sites That En
 property="og:description" content="10 visually appealing milkshake websites that draw attention and sell the business." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/guides/milkshake-website-examples"><meta
+property="og:url" content="https://www.notzarla.com/guides/milkshake-website-examples"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="en"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/guides/milkshake-website-examples"><link
-rel="alternate" href="https://www.zarla.com/guides/milkshake-website-examples" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/milkshake-website-examples" hreflang="en" /><link
+rel="canonical" href="https://www.notzarla.com/guides/milkshake-website-examples"><link
+rel="alternate" href="https://www.notzarla.com/guides/milkshake-website-examples" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/milkshake-website-examples" hreflang="en" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="websiteExamples"><header
 class="header"><div
 class="container"><nav
@@ -34,10 +34,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/"
+href="https://www.notzarla.com/"
 class="btn btn-primary cta-nav
 "
 >
@@ -51,11 +51,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides">Guides</a></li><li
+href="https://www.notzarla.com/guides">Guides</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides/website-examples">Website Examples</a></li><li
+href="https://www.notzarla.com/guides/website-examples">Website Examples</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/guides/website-examples/accommodation-and-food-services">Accommodation and Food Services</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/guides"},{"@type":"ListItem","position":2,"name":"Website Examples","item":"https://www.zarla.com/guides/website-examples"},{"@type":"ListItem","position":3,"name":"Accommodation and Food Services","item":"https://www.zarla.com/guides/website-examples/accommodation-and-food-services"},{"@type":"ListItem","position":4,"name":"Milkshake Website Examples - 10 Sweet Sites That Entice New Customers","item":"https://www.zarla.com/guides/milkshake-website-examples"}]}</script> <div
+href="https://www.notzarla.com/guides/website-examples/accommodation-and-food-services">Accommodation and Food Services</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.notzarla.com/guides"},{"@type":"ListItem","position":2,"name":"Website Examples","item":"https://www.notzarla.com/guides/website-examples"},{"@type":"ListItem","position":3,"name":"Accommodation and Food Services","item":"https://www.notzarla.com/guides/website-examples/accommodation-and-food-services"},{"@type":"ListItem","position":4,"name":"Milkshake Website Examples - 10 Sweet Sites That Entice New Customers","item":"https://www.notzarla.com/guides/milkshake-website-examples"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Milkshake Website Examples - 10 Sweet Sites That Entice New Customers</h1><div
 class="card-body"><div
@@ -64,14 +64,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-simone-gambrell-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-simone-gambrell-800x800-2024057.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Simoné Gambrell"
 /></div><div
 class="card-byline-details">
 <span>By <a
-class="card-byline-author" href="https://www.zarla.com/contributors/simoné-gambrell">Simoné Gambrell</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/contributors/simoné-gambrell">Simoné Gambrell</a>,</span>
 <span
 class="card-byline-date">Jul 22, 2024</span><div
 class="card-byline-bio">
@@ -80,21 +80,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Two elaborate chocolate milkshakes sitting on a messy table."
@@ -203,12 +203,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-magic-milkshakes-20240527-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-magic-milkshakes-20240527-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-magic-milkshakes-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-magic-milkshakes-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-magic-milkshakes-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-magic-milkshakes-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Magic Milkshakes &amp; More"
@@ -248,14 +248,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>According to WAVE, the site is only semi-compliant with assistive technologies. Some of the images, particularly of the location, are poor quality, which seems like an oversight for a website that seeks to showcase the edible items.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-magic-milkshakes-20240527-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-magic-milkshakes-20240527-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-magic-milkshakes-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-magic-milkshakes-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -269,14 +269,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site makes good use of the larger screen sizes, grid layout, and clear menu navigation to organize information in easy-to-view sizes, making legibility easier for visitors to the site. On Google's PageSpeed Insights, while there is room for improvement with the accessibility of the desktop, the site scores 98/100 for overall performance.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-magic-milkshakes-20240527-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-magic-milkshakes-20240527-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-magic-milkshakes-20240527-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-magic-milkshakes-20240527-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -301,12 +301,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-soda-jerk-20240527-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-soda-jerk-20240527-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-soda-jerk-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-soda-jerk-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-soda-jerk-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-soda-jerk-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Soda Jerk Co."
@@ -346,14 +346,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is only semi-compliant with assistive technologies and lacks additional information, such as allergy information, loyalty programs, party reservations, and an "about the business" section.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-soda-jerk-20240527-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-soda-jerk-20240527-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-soda-jerk-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-soda-jerk-20240527-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -367,14 +367,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site welcomes visitors with a great, bright, and enticing hero image, encouraging customers to scroll down and find out more about the business and the menu offerings. The font and color palette used complement the milkshake theme wonderfully.</p><p>According to Google's PageSpeed Insights report, the desktop site makes great use of SEO, receiving a score of 100/100, while some potential to save on space leads to an overall performance score of 89/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-soda-jerk-20240527-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-soda-jerk-20240527-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-soda-jerk-20240527-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-soda-jerk-20240527-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -399,12 +399,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-thecrazymason-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-thecrazymason-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-thecrazymason-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-thecrazymason-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-thecrazymason-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-thecrazymason-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website The Crazy Mason"
@@ -444,14 +444,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>WAVE reports a number of errors on the site, including missing alternative text, contrast issues, and empty headings or links. The site is only semi-compliant with assistive technologies and the navigation is not very intuitive.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-thecrazymason-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-thecrazymason-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-thecrazymason-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-thecrazymason-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -465,14 +465,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site appears cramped with the abundance of information on offer and some of the menu options are cut off on certain desktop screens, so visitors will be unable to visit those pages. While the issues noted on WAVE lead to a lower accessibility score of 83/100 on Google's PageSpeed Insights report, the desktop site scores 97/100 for overall performance.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-thecrazymason-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-thecrazymason-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-thecrazymason-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-thecrazymason-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -497,12 +497,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-i-love-milkshakes-20240528-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-i-love-milkshakes-20240528-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-i-love-milkshakes-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-i-love-milkshakes-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-i-love-milkshakes-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-i-love-milkshakes-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website I Love Milkshakes"
@@ -542,14 +542,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is not compliant with assistive technologies as indicated by WAVE. It also lacks some important information about the company, and some areas of poor contrast are difficult for visitors to read.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-i-love-milkshakes-20240528-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-i-love-milkshakes-20240528-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-i-love-milkshakes-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-i-love-milkshakes-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -563,14 +563,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site makes great use of the space to provide users with an easy reading experience. However, the menu may appear a bit too small and cramped on certain screens. According to Google's PageSpeed Insights, while the desktop site scores well for SEO and accessibility, depreciated APIs and the use of cookies lowers the best practices score to 56/100, and slower loading times lead to a performance score of 79/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-I-love-milkshakes-mobile-824x12167-2024066.webp"
+data-src="https://www.notzarla.com/images/zarla-I-love-milkshakes-mobile-824x12167-2024066.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-I-love-milkshakes-mobile-824x12167-2024066.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-I-love-milkshakes-mobile-824x12167-2024066.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -595,12 +595,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-chillmilkshake-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-chillmilkshake-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-chillmilkshake-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-chillmilkshake-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-chillmilkshake-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-chillmilkshake-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Chill Milkshake &amp; Waffle Bar"
@@ -640,14 +640,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is only semi-compliant with assistive technologies and WAVE reports a number of missing alternative text, empty links, and contrast errors. While the text and images create a fun aesthetic, they can be distracting and put off readers.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-chillmilkshake-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-chillmilkshake-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-chillmilkshake-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-chillmilkshake-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -661,14 +661,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop website welcomes customers with colorful sprinkles and fun text, introducing the sweet concept of milkshakes and waffles. The addition of news rankings for the business builds confidence in the brand and encourages customers to try the milkshakes, as does the high-quality images.</p><p>On Google's PageSpeed Insights, the SEO and accessibility ratings could be improved by adding descriptive text, but the site scores 100/100 for best practices, and 88/100 for performance.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zalra-chillmilkshakeandwafflebar-mobile-20240606.webp"
+data-src="https://www.notzarla.com/images/zalra-chillmilkshakeandwafflebar-mobile-20240606.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zalra-chillmilkshakeandwafflebar-mobile-20240606.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zalra-chillmilkshakeandwafflebar-mobile-20240606.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -693,12 +693,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-holyshakes-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-holyshakes-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-holyshakes-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-holyshakes-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-holyshakes-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-holyshakes-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website HOLYSHAKES"
@@ -738,14 +738,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>Some images are not the best quality and look a little grainy. Also, some of the text blocks have poor contrast against the colored backgrounds. The site is only semi-compliant with assistive technologies.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-holyshakes-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-holyshakes-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-holyshakes-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-holyshakes-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -759,14 +759,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site makes good use of the space to not overwhelm visitors with information-dense blocks or cramped images. The top floating menu is color-separated to make it easier to see and access. The desktop site scores high on SEO and accessibility on PageSpeed Insights, but slower loading times and an average best practices score lead to an overall performance score of 50/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-holyshakes-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-holyshakes-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-holyshakes-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-holyshakes-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -791,12 +791,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-buzzedbull-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-buzzedbull-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-buzzedbull-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-buzzedbull-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-buzzedbull-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-buzzedbull-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Buzzed Bull Creamery"
@@ -836,14 +836,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>While it creates a nice contrast, the lack of color doesn't match the family-friendly aesthetic of the business. The pages have a slow load time and the site is only semi-compliant with assistive technologies.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-buzzedbull-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-buzzedbull-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-buzzedbull-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-buzzedbull-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -857,14 +857,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site makes great use of a clean, grid layout to entice customers to keep scrolling. The background of billowing smoke clouds stands out from the competition and conveys this particular brand's niche draw. On Google's PageSpeed Insights report, the desktop site scores in the 90s for best practices, accessibility, and SEO, but larger content and slow loading times lower the overall performance score to 67/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-buzzedbull-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-buzzedbull-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-buzzedbull-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-buzzedbull-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -889,12 +889,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-legendairy-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-legendairy-20240522-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-websiteexample-legendairy-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-websiteexample-legendairy-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-legendairy-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-legendairy-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website The Legendairy Milkshake Bar"
@@ -934,14 +934,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>There are too many different typefaces used on the site which can put off readers. The site is not completely compatible with assistive technologies and the main logo does not have enough contrast against the dark background.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-legendairy-20240522-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-legendairy-20240522-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-legendairy-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-legendairy-20240522-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -955,14 +955,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The hero banner looks great on the desktop site, navigation is simple, and all necessary information is available. However, with the Instagram link being included in the menu bar, the bar runs a little long and runs over to the next line, which isn't as visually pleasing.</p><p>While the desktop site scores consistently highly in SEO, best practices, and accessibility, PageSpeed Insights notes slightly slower loading times, leading to an overall performance score of 66/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-websiteexample-legendairy-20240522-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-legendairy-20240522-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-websiteexample-legendairy-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-websiteexample-legendairy-20240522-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -987,12 +987,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-famous-milkshake-bar-20240528-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-famous-milkshake-bar-20240528-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-famous-milkshake-bar-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-famous-milkshake-bar-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-famous-milkshake-bar-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-famous-milkshake-bar-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Famous Milkshake Bar"
@@ -1032,14 +1032,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is only semi-compliant with assistive technologies and WAVE reports a number of missing alternative text, empty links or headers, and contrast errors on the site. The logo on the desktop site is a bit too small in the menu.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-famous-milkshake-bar-20240528-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-famous-milkshake-bar-20240528-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-famous-milkshake-bar-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-famous-milkshake-bar-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -1053,14 +1053,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site makes good use of the space to include a lot of white space to create an easy user experience. While we appreciated the clearly defined floating menu, the logo could be more prominent to take readers to the home page.</p><p>According to Google's PageSpeed Insights report, the desktop site scores in the 90s for SEO, best practices, accessibility, and performance, with the performance score reaching 91/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-famous-milkshake-bar-20240528-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-famous-milkshake-bar-20240528-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-famous-milkshake-bar-20240528-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-famous-milkshake-bar-20240528-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -1085,12 +1085,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-shake-therapy-20240528-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/zarla-shake-therapy-20240528-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-shake-therapy-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/zarla-shake-therapy-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-shake-therapy-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-shake-therapy-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Shake Therapy"
@@ -1130,14 +1130,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>The site is not compliant with assistive technologies. The milkshake menu is not available in the top menu which seems like a bit of an oversight since this is a website dedicated specifically to milkshakes.</p></div></div></div><h4>Desktop Review</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/zarla-shake-therapy-20240528-desktop.webp"
+data-src="https://www.notzarla.com/images/zarla-shake-therapy-20240528-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-shake-therapy-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-shake-therapy-20240528-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -1151,14 +1151,14 @@ height="50"
 /></div><div
 class="entry-text"><p>The desktop site encourages customers to scroll the site with a fun, animated hero banner and clean grid layout. The larger screen size helps to maintain a good balance of text, white space, and imagery for a pleasant browsing experience.</p><p>While the contrast issues lower the desktop site's accessibility score to 88/100, Google's PageSpeed Insights report awards the desktop site an overall performance score of 93/100.</p></div></div><h4>Mobile Review</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-shake-therapy-20240528-mobile.webp"
+data-src="https://www.notzarla.com/images/zarla-shake-therapy-20240528-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-shake-therapy-20240528-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-shake-therapy-20240528-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -1188,68 +1188,68 @@ class="container"><h2 class="section-heading">Related Articles</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/milkshake-logos">
+class="card-preview" href="https://www.notzarla.com/guides/milkshake-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-milkshake-logos-5430x3620-20210713.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A hand holding a vanilla milkshake in a clear glass." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-milkshake-logos-5430x3620-20210713.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A hand holding a vanilla milkshake in a clear glass." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/milkshake-logos">Milkshake Logos</a></h3><div
+href="https://www.notzarla.com/guides/milkshake-logos">Milkshake Logos</a></h3><div
 class="card-text">10 delectable logo ideas for your milkshake business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/dessert-logos">
+class="card-preview" href="https://www.notzarla.com/guides/dessert-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-dessert-logos-3360x4200-2021078.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Stacked donuts with sprinkles made for a dessert business." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-dessert-logos-3360x4200-2021078.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Stacked donuts with sprinkles made for a dessert business." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/dessert-logos">Dessert Logos</a></h3><div
+href="https://www.notzarla.com/guides/dessert-logos">Dessert Logos</a></h3><div
 class="card-text">10 tempting logo suggestions for your dessert business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/donut-logos">
+class="card-preview" href="https://www.notzarla.com/guides/donut-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-donut-logos-6000x4000-20210128.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Assorted donuts in a shop." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-donut-logos-6000x4000-20210128.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Assorted donuts in a shop." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/donut-logos">Donut Logos</a></h3><div
+href="https://www.notzarla.com/guides/donut-logos">Donut Logos</a></h3><div
 class="card-text">10 delectable logos for your donut business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/pizza-logos">
+class="card-preview" href="https://www.notzarla.com/guides/pizza-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-pizza-logos-5184x3456-2021022.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Pizza on a cutting board with herbs." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-pizza-logos-5184x3456-2021022.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Pizza on a cutting board with herbs." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/pizza-logos">Pizza Logos</a></h3><div
+href="https://www.notzarla.com/guides/pizza-logos">Pizza Logos</a></h3><div
 class="card-text">10 tasty logo ideas for your pizza business.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/guides/burger-logos">
+class="card-preview" href="https://www.notzarla.com/guides/burger-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-burger-logos-2400x2400-20240219.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A burger with cheese, lettuce, onion, and tomato highlighted on a black background." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-burger-logos-2400x2400-20240219.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="A burger with cheese, lettuce, onion, and tomato highlighted on a black background." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/guides/burger-logos">Burger Logos</a></h3><div
-class="card-text">10 succulent logo ideas for your burger business.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/guides/milkshake-website-examples","name":"Milkshake Website Examples - 10 Sweet Sites That Entice New Customers"},"headline":"Milkshake Website Examples - 10 Sweet Sites That Entice New Customers","description":"10 visually appealing milkshake websites that draw attention and sell the business.","image":["https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-04-15T02:31:00-05:00","dateModified":"2024-07-22T14:07:15-05:00","author":{"@type":"Person","name":"Simoné Gambrell","url":"https://www.zarla.com/contributors/simoné-gambrell"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/guides/burger-logos">Burger Logos</a></h3><div
+class="card-text">10 succulent logo ideas for your burger business.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/guides/milkshake-website-examples","name":"Milkshake Website Examples - 10 Sweet Sites That Entice New Customers"},"headline":"Milkshake Website Examples - 10 Sweet Sites That Entice New Customers","description":"10 visually appealing milkshake websites that draw attention and sell the business.","image":["https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-milkshake-website-examples-6000x4000-20240513.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-04-15T02:31:00-05:00","dateModified":"2024-07-22T14:07:15-05:00","author":{"@type":"Person","name":"Simoné Gambrell","url":"https://www.notzarla.com/contributors/simoné-gambrell"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -1258,7 +1258,7 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
@@ -1269,19 +1269,19 @@ class="col-md-6 col-lg-3 "><p
 class="footer-category">Resources</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/guides/logo-ideas">
+href="https://www.notzarla.com/guides/logo-ideas">
 Logo Ideas
 </a></li><li>
 <a
-href="https://www.zarla.com/">
+href="https://www.notzarla.com/">
 AI Website Builder
 </a></li><li>
 <a
-href="https://www.zarla.com/free-logo-maker">
+href="https://www.notzarla.com/free-logo-maker">
 Free Logo Maker
 </a></li><li>
 <a
-href="https://www.zarla.com/guides/how-to">
+href="https://www.notzarla.com/guides/how-to">
 How To
 </a></li><li>
 <a
@@ -1289,15 +1289,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/terms-of-use">
+href="https://www.notzarla.com/terms-of-use">
 Terms of Use
 </a></li><li>
 <a
-href="https://www.zarla.com/copyright-policy">
+href="https://www.notzarla.com/copyright-policy">
 Copyright Policy
 </a></li><li>
 <a
-href="https://www.zarla.com/privacy-policy">
+href="https://www.notzarla.com/privacy-policy">
 Privacy Policy
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

@@ -7,34 +7,34 @@ property="og:title" content="Logos médicaux + Créateur de Logos Gratuit" /><me
 property="og:description" content="10 idées de logos professionnels pour votre entreprise dans le secteur médical et de la santé." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/fr/guides/logos-m%C3%A9dicaux"><meta
+property="og:url" content="https://www.notzarla.com/fr/guides/logos-m%C3%A9dicaux"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="fr"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/fr/guides/logos-m%C3%A9dicaux"><link
-rel="alternate" href="https://www.zarla.com/guides/medical-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/medical-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-m%C3%A9dicos" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-per-medici" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-m%C3%A9dicaux" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/medizinische-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-m%C3%A9dicos" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/medische-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/medikal-logolar" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-medyczne" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-medis" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/fr/guides/logos-m%C3%A9dicaux"><link
+rel="alternate" href="https://www.notzarla.com/guides/medical-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/medical-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-m%C3%A9dicos" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-per-medici" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-m%C3%A9dicaux" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/medizinische-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-m%C3%A9dicos" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/medische-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/medikal-logolar" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-medyczne" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-medis" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/fr">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit"
+href="https://www.notzarla.com/fr/cr%C3%A9ateur-de-logos-gratuit"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides">Guides</a></li><li
+href="https://www.notzarla.com/fr/guides">Guides</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides/logos">Logos</a></li><li
+href="https://www.notzarla.com/fr/guides/logos">Logos</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides/logos/sant%C3%A9-et-assistance-sociale">Santé et assistance sociale</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/fr/guides"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.zarla.com/fr/guides/logos"},{"@type":"ListItem","position":3,"name":"Santé et assistance sociale","item":"https://www.zarla.com/fr/guides/logos/sant%C3%A9-et-assistance-sociale"},{"@type":"ListItem","position":4,"name":"Logos médicaux + Créateur de Logos Gratuit","item":"https://www.zarla.com/fr/guides/logos-m%C3%A9dicaux"}]}</script> <div
+href="https://www.notzarla.com/fr/guides/logos/sant%C3%A9-et-assistance-sociale">Santé et assistance sociale</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.notzarla.com/fr/guides"},{"@type":"ListItem","position":2,"name":"Logos","item":"https://www.notzarla.com/fr/guides/logos"},{"@type":"ListItem","position":3,"name":"Santé et assistance sociale","item":"https://www.notzarla.com/fr/guides/logos/sant%C3%A9-et-assistance-sociale"},{"@type":"ListItem","position":4,"name":"Logos médicaux + Créateur de Logos Gratuit","item":"https://www.notzarla.com/fr/guides/logos-m%C3%A9dicaux"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Logos médicaux + Créateur de Logos Gratuit</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-owen-fagundes-800x800-2024058_2024-05-08-214321_hkra.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-owen-fagundes-800x800-2024058_2024-05-08-214321_hkra.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Owen Fagundes"
 /></div><div
 class="card-byline-details">
 <span>Par <a
-class="card-byline-author" href="https://www.zarla.com/fr/contributeurs/owen-fagundes">Owen Fagundes</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/fr/contributeurs/owen-fagundes">Owen Fagundes</a>,</span>
 <span
 class="card-byline-date">23 juil. 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Instruments médicaux, médicaments et verre d&#039;eau sur fond blanc."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Que vous vendiez du matériel médical, ouvriez un cabinet, un centre ou une clinique médicale, votre logo doit évoquer la confiance et la responsabilité que la clientèle place en vous tout en véhiculant votre message. Trouvez un logo médical parmi notre collection ci-dessous, ou créez-en un avec notre <a
-href="https://www.zarla.com/fr/créateur-de-logos-gratuit">créateur gratuit de logos médicaux</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/fr/créateur-de-logos-gratuit">créateur gratuit de logos médicaux</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,136 +120,136 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Description</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/xfbbx6fyqv47h86pfpxj/edit?brand=Ma%20M%C3%A9decine">
+href="https://www.notzarla.com/logo-maker/xfbbx6fyqv47h86pfpxj/edit?brand=Ma%20M%C3%A9decine">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-8dr8cfcb6vdxrdvf8qk7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
+data-src="https://www.notzarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-8dr8cfcb6vdxrdvf8qk7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/xfbbx6fyqv47h86pfpxj/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/xfbbx6fyqv47h86pfpxj/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>La croix est un symbole connu de santé, ce qui convient à de nombreuses entreprises médicales. Le fond violet foncé dénote la puissance et la stabilité, suggérant que votre clinique prend bien soin de la patientèle. Les grandes lettres de la fonte Poppins Bold attirent l'attention.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/hdwm4ph6gv864jm9gg6v/edit?brand=Ma%20M%C3%A9decine">
+href="https://www.notzarla.com/logo-maker/hdwm4ph6gv864jm9gg6v/edit?brand=Ma%20M%C3%A9decine">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-ybxjk3kcg3dx6x3c4mkc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
+data-src="https://www.notzarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-ybxjk3kcg3dx6x3c4mkc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/hdwm4ph6gv864jm9gg6v/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/hdwm4ph6gv864jm9gg6v/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Le jeu de couleurs bleu et vert de l'icône géométrique symbolise la croissance et l'harmonie, suggérant une amélioration de la santé de la patientèle grâce à des traitements revitalisants. Le lettrage foncé de la police Kodcahsan contraste bien avec l'icône claire et équilibre le design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/8yb6brcgvfmb6dptgwtj/edit?brand=Ma%20M%C3%A9decine">
+href="https://www.notzarla.com/logo-maker/8yb6brcgvfmb6dptgwtj/edit?brand=Ma%20M%C3%A9decine">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-rvxvx8m8gfk6xf64wfr9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
+data-src="https://www.notzarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-rvxvx8m8gfk6xf64wfr9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/8yb6brcgvfmb6dptgwtj/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/8yb6brcgvfmb6dptgwtj/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>L'icône du stéthoscope en forme de cœur suggère que vous prenez soin de vos patient·e·s. Le jeu de couleurs héroïque de jaune et bleu pourrait indiquer que votre cabinet médical sauve et protège les patient·e·s. La police Rosarivo ajoute une touche d'élégance au design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fttmxbcydcprmfm8k4y8/edit?brand=Ma%20M%C3%A9decine">
+href="https://www.notzarla.com/logo-maker/fttmxbcydcprmfm8k4y8/edit?brand=Ma%20M%C3%A9decine">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-3ftq3wfxjgt63pxxthf8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
+data-src="https://www.notzarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-3ftq3wfxjgt63pxxthf8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fttmxbcydcprmfm8k4y8/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/fttmxbcydcprmfm8k4y8/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>La grosse croix cochée évoque des notions de santé et de bien-être, suggérant que la clientèle cochera la bonne case lorsqu'elle choisira d'utiliser vos services médicaux. La police Cinzel attire l'attention avec son lettrage large et audacieux, accentué par la palette de couleurs bleu foncé.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7xc3w7bjjwkb8d7db48q/edit?brand=Ma%20M%C3%A9decine">
+href="https://www.notzarla.com/logo-maker/7xc3w7bjjwkb8d7db48q/edit?brand=Ma%20M%C3%A9decine">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-37bfx8d9x8w4bb97fy6w.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
+data-src="https://www.notzarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-37bfx8d9x8w4bb97fy6w.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7xc3w7bjjwkb8d7db48q/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/7xc3w7bjjwkb8d7db48q/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Les couleurs bleues symbolisent le calme et la tranquillité, ce qui suggère que vous mettez la patientèle nerveuse à l'aise. La joyeuse icône renforce l'idée que votre entreprise crée un environnement sûr et gai. La forme incurvée de l'icône est équilibrée par la clarté de la police Rosarivo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/md4gqm86ydvqfbhyqgcg/edit?brand=Ma%20M%C3%A9decine">
+href="https://www.notzarla.com/logo-maker/md4gqm86ydvqfbhyqgcg/edit?brand=Ma%20M%C3%A9decine">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-v3dchwfbwgyh33qkx9hx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
+data-src="https://www.notzarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-v3dchwfbwgyh33qkx9hx.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/md4gqm86ydvqfbhyqgcg/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/md4gqm86ydvqfbhyqgcg/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>Les mains tenant le cœur suggèrent que vos patient·e·s sont entre de bonnes mains. La police Poppins, très lisible, complète les lignes douces de l'icône, symbole de guérison et de force. Elle se marie bien avec les tons bleus et noirs, qui dénotent le pouvoir et l'authenticité.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/4g7dcvmbj8jqr7py638f/edit?brand=Ma%20M%C3%A9decine">
+href="https://www.notzarla.com/logo-maker/4g7dcvmbj8jqr7py638f/edit?brand=Ma%20M%C3%A9decine">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-6gptyvfqb9yv8bkh44vv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
+data-src="https://www.notzarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-6gptyvfqb9yv8bkh44vv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/4g7dcvmbj8jqr7py638f/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/4g7dcvmbj8jqr7py638f/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>L'œil et les croix groupées suggèrent que votre clinique ophtalmologique rendra leur éclat aux yeux de vos patient·e·s. L'audacieuse police Cinzel est un ajout sophistiqué au logo et contraste avec la douceur de l'icône. Le jeu de couleurs bleu et rouge dénote la confiance et la force.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/x3jx4cb8gbkvc9jdjmt3/edit?brand=Ma%20M%C3%A9decine">
+href="https://www.notzarla.com/logo-maker/x3jx4cb8gbkvc9jdjmt3/edit?brand=Ma%20M%C3%A9decine">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-fjw443bvdgjkgmh7prpb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
+data-src="https://www.notzarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-fjw443bvdgjkgmh7prpb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/x3jx4cb8gbkvc9jdjmt3/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/x3jx4cb8gbkvc9jdjmt3/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>L'icône montre des mains tenant un corps, suggérant que vous êtes spécialiste de la physiothérapie. Le jeu de couleurs sombres symbolise le prestige, mettant en valeur la police Kodchasan qui fait autorité. La touche de rose peut traditionnellement suggérer que votre entreprise s'adresse aux femmes.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3j9qbg7bxwb6tfc3h6hm/edit?brand=Ma%20M%C3%A9decine">
+href="https://www.notzarla.com/logo-maker/3j9qbg7bxwb6tfc3h6hm/edit?brand=Ma%20M%C3%A9decine">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-dw67f93hvfc77v6q6r66.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
+data-src="https://www.notzarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-dw67f93hvfc77v6q6r66.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3j9qbg7bxwb6tfc3h6hm/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/3j9qbg7bxwb6tfc3h6hm/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>L'icône montre un caducée, symbole international de santé, coiffé du signe masculin. Cette image puissante suggère que votre entreprise médicale s'adresse aux hommes. Les lignes fines de la police Cinzel complètent la forme minimaliste de l'icône, et les nuances de bleu dénotent le calme.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/rcpb49hyj8qbmvwmfjq7/edit?brand=Ma%20M%C3%A9decine">
+href="https://www.notzarla.com/logo-maker/rcpb49hyj8qbmvwmfjq7/edit?brand=Ma%20M%C3%A9decine">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-yqg9hgjy33b3w8rhyvrf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
+data-src="https://www.notzarla.com/images/zarla-ma-mdecine-1x1-2400x2400-20210603-yqg9hgjy33b3w8rhyvrf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo médical pour une entreprise appelée Ma Médecine.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/rcpb49hyj8qbmvwmfjq7/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
+href="https://www.notzarla.com/logo-maker/rcpb49hyj8qbmvwmfjq7/edit?brand=Ma%20M%C3%A9decine" class="btn btn-primary">Modifier</a></td><td
 data-label="Description"><p>La main tenant un cœur suggère une spécialisation dans la santé cardiaque, ce qui est renforcé par la fréquence cardiaque. Les nuances bleues dénotent la vitalité et l'intégrité, mettant en valeur les lignes lisses et épurées de la fonte Sen Bold qui convient à une marque conviviale et accessible.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-m%C3%A9decine-interne">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-m%C3%A9decine-interne">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-internal-medicine-logos-5856x3946-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logos de médecine interne" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-internal-medicine-logos-5856x3946-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Logos de médecine interne" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-m%C3%A9decine-interne">Logos de médecine interne</a></p><div
+href="https://www.notzarla.com/fr/guides/logos-de-m%C3%A9decine-interne">Logos de médecine interne</a></p><div
 class="card-text">10 idées de logos axés sur la santé pour votre cabinet de médecine interne.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=fAQs class="section-heading">FAQs :</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=comment-creer-un-logo-medical class="question">Comment créer un logo médical ?</h3><div
 class="answer"><p>Pour créer un logo médical unique, vous pouvez commencer par faire des recherches sur la concurrence pour voir quels logos existent déjà. Faites un brainstorming pour trouver des idées et réfléchissez au message de votre marque. Vous pouvez ensuite utiliser un <a
-href="https://www.zarla.com/fr/créateur-de-logos-gratuit">générateur de logos médicaux</a> pour vous inspirer. Mélangez et associez quelques icônes, couleurs et polices pour créer un logo qui reflète fidèlement votre marque.</p></div></div><div
+href="https://www.notzarla.com/fr/créateur-de-logos-gratuit">générateur de logos médicaux</a> pour vous inspirer. Mélangez et associez quelques icônes, couleurs et polices pour créer un logo qui reflète fidèlement votre marque.</p></div></div><div
 class="col-12 faq-item"><h3 id=ou-puis-je-trouver-un-logo-de-medecine-gratuit class="question">Où puis-je trouver un logo de médecine gratuit ?</h3><div
 class="answer"><p>Vous pouvez utiliser le créateur de logo de Zarla pour concevoir gratuitement un logo qui correspondra parfaitement à votre activité. Combinez des icônes, des polices et différentes couleurs amusantes pour concevoir votre logo médical. Lorsque vous êtes satisfait·e, vous pouvez le télécharger gratuitement.</p></div></div><div
 class="col-12 faq-item"><h3 id=qu-039-est-ce-qui-definit-un-logo-medical-creatif class="question">Qu&#039;est-ce qui définit un logo médical créatif ?</h3><div
@@ -262,68 +262,68 @@ class="container"><h2 class="section-heading">Articles Liés</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-physiotherapeute">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-physiotherapeute">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-physiotherapist-logos-3352x2694-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un physiothérapeute traitant le pied d&#039;un·e patient·e." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-physiotherapist-logos-3352x2694-2021024.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un physiothérapeute traitant le pied d&#039;un·e patient·e." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-physiotherapeute">Logos de physiothérapeute</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-de-physiotherapeute">Logos de physiothérapeute</a></h3><div
 class="card-text">10 excellentes suggestions de logos pour votre centre de kinésithérapie.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-sant%C3%A9">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-sant%C3%A9">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-logos-para-empresas-de-salud-2448x2448-20210419.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une femme prenant soin de sa santé en mangeant une salade de fruits nutritive." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-logos-para-empresas-de-salud-2448x2448-20210419.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une femme prenant soin de sa santé en mangeant une salade de fruits nutritive." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-sant%C3%A9">Logos de santé</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-de-sant%C3%A9">Logos de santé</a></h3><div
 class="card-text">10 suggestions de logos appropriés pour votre entreprise dans le secteur de la santé.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-soins-holistiques">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-soins-holistiques">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-holistic-healing-business-logos-4315x2853-20210129.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un thé aux fleurs pour une guérison holistique avec des herbes sur une table." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-holistic-healing-business-logos-4315x2853-20210129.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un thé aux fleurs pour une guérison holistique avec des herbes sur une table." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-soins-holistiques">Logos de soins holistiques</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-de-soins-holistiques">Logos de soins holistiques</a></h3><div
 class="card-text">10 idées uniques de logos pour votre centre de soins holistiques.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-dentiste">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-dentiste">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-general-dentist-logos-6000x4000-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une dentiste traite une cliente dans son cabinet dentaire." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-general-dentist-logos-6000x4000-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une dentiste traite une cliente dans son cabinet dentaire." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-dentiste">Logos de dentiste</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-de-dentiste">Logos de dentiste</a></h3><div
 class="card-text">10 suggestions de logos professionnels et élégants pour un cabinet dentaire.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-nutrition">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-nutrition">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-nutrition-logos-5512x3675-20210629.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une variété de légumes et de salades sains dans une entreprise du secteur de la nutrition." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-nutrition-logos-5512x3675-20210629.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une variété de légumes et de salades sains dans une entreprise du secteur de la nutrition." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-nutrition">Logos de nutrition</a></h3><div
-class="card-text">10 logos diététiques pour votre entreprise de nutrition-santé.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/fr/guides/logos-m%C3%A9dicaux","name":"Logos médicaux + Créateur de Logos Gratuit"},"headline":"Logos médicaux + Créateur de Logos Gratuit","description":"10 idées de logos professionnels pour votre entreprise dans le secteur médical et de la santé.","image":["https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-02-04T03:55:00-06:00","dateModified":"2024-07-23T10:34:47-05:00","author":{"@type":"Person","name":"Owen Fagundes","url":"https://www.zarla.com/fr/contributeurs/owen-fagundes"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/fr/guides/logos-de-nutrition">Logos de nutrition</a></h3><div
+class="card-text">10 logos diététiques pour votre entreprise de nutrition-santé.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/fr/guides/logos-m%C3%A9dicaux","name":"Logos médicaux + Créateur de Logos Gratuit"},"headline":"Logos médicaux + Créateur de Logos Gratuit","description":"10 idées de logos professionnels pour votre entreprise dans le secteur médical et de la santé.","image":["https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-medical-logos-4031x3023-20230523.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-02-04T03:55:00-06:00","dateModified":"2024-07-23T10:34:47-05:00","author":{"@type":"Person","name":"Owen Fagundes","url":"https://www.notzarla.com/fr/contributeurs/owen-fagundes"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -332,27 +332,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/fr">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Langue</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/medical-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-m%C3%A9dicos">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-per-medici">Italiano</a></li><li
+href="https://www.notzarla.com/guides/medical-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-m%C3%A9dicos">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-per-medici">Italiano</a></li><li
 class="current" style="color: #3041c4;">Français</li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/medizinische-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-m%C3%A9dicos">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/medische-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/medikal-logolar">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-medyczne">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-medis">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/de/leitf%C3%A4den/medizinische-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-m%C3%A9dicos">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/medische-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/medikal-logolar">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-medyczne">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-medis">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Ressources</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/fr/guides/id%C3%A9es-de-logo">
+href="https://www.notzarla.com/fr/guides/id%C3%A9es-de-logo">
 Idées de logo
 </a></li><li>
 <a
@@ -360,7 +360,7 @@ href="/fr">
 Créateur de sites web par IA
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit">
+href="https://www.notzarla.com/fr/cr%C3%A9ateur-de-logos-gratuit">
 Créateur de logos gratuit
 </a></li><li>
 <a
@@ -368,15 +368,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/conditions-dutilisation">
+href="https://www.notzarla.com/fr/conditions-dutilisation">
 Conditions d&#039;utilisation
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/politique-droits-dauteur">
+href="https://www.notzarla.com/fr/politique-droits-dauteur">
 Politique de droits d&#039;auteur
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/politique-confidentialit%C3%A9">
+href="https://www.notzarla.com/fr/politique-confidentialit%C3%A9">
 Politique de confidentialité
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -384,7 +384,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=fr-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/fr/cr%C3%A9ateur-de-logos-gratuit?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=fr-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Commencez à concevoir un logo personnalisé

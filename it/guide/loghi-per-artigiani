@@ -7,34 +7,34 @@ property="og:title" content="Loghi per Artigiani + Logo Maker Gratuito" /><meta
 property="og:description" content="20 idee di loghi per artigiani." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/it/guide/loghi-per-artigiani"><meta
+property="og:url" content="https://www.notzarla.com/it/guide/loghi-per-artigiani"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="it"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/it/guide/loghi-per-artigiani"><link
-rel="alternate" href="https://www.zarla.com/guides/artisan-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/artisan-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-para-artesanos" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-per-artigiani" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-d-artisan" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/meisterhafte-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-artesanais" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/ambacht-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/esnaf-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-rzemios%C5%82o" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-artisan" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/it/guide/loghi-per-artigiani"><link
+rel="alternate" href="https://www.notzarla.com/guides/artisan-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/artisan-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-artesanos" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-per-artigiani" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-d-artisan" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/meisterhafte-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-artesanais" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/ambacht-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/esnaf-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-rzemios%C5%82o" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-artisan" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/it">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito"
+href="https://www.notzarla.com/it/logo-maker-gratuito"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide">Guide</a></li><li
+href="https://www.notzarla.com/it/guide">Guide</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide/loghi">Loghi</a></li><li
+href="https://www.notzarla.com/it/guide/loghi">Loghi</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide/loghi/servizi-professionali-scientifici-e-tecnici">Servizi Professionali, Scientifici e Tecnici</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guide","item":"https://www.zarla.com/it/guide"},{"@type":"ListItem","position":2,"name":"Loghi","item":"https://www.zarla.com/it/guide/loghi"},{"@type":"ListItem","position":3,"name":"Servizi Professionali, Scientifici e Tecnici","item":"https://www.zarla.com/it/guide/loghi/servizi-professionali-scientifici-e-tecnici"},{"@type":"ListItem","position":4,"name":"Loghi per Artigiani + Logo Maker Gratuito","item":"https://www.zarla.com/it/guide/loghi-per-artigiani"}]}</script> <div
+href="https://www.notzarla.com/it/guide/loghi/servizi-professionali-scientifici-e-tecnici">Servizi Professionali, Scientifici e Tecnici</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guide","item":"https://www.notzarla.com/it/guide"},{"@type":"ListItem","position":2,"name":"Loghi","item":"https://www.notzarla.com/it/guide/loghi"},{"@type":"ListItem","position":3,"name":"Servizi Professionali, Scientifici e Tecnici","item":"https://www.notzarla.com/it/guide/loghi/servizi-professionali-scientifici-e-tecnici"},{"@type":"ListItem","position":4,"name":"Loghi per Artigiani + Logo Maker Gratuito","item":"https://www.notzarla.com/it/guide/loghi-per-artigiani"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Loghi per Artigiani + Logo Maker Gratuito</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-emma-martinelli-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-emma-martinelli-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Emma Martinelli"
 /></div><div
 class="card-byline-details">
 <span>Di <a
-class="card-byline-author" href="https://www.zarla.com/it/contributors/emma-martinelli">Emma Martinelli</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/it/contributors/emma-martinelli">Emma Martinelli</a>,</span>
 <span
 class="card-byline-date">14 giu 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Un artigiano che prepara del pane in modo artigianale."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Il logo di un artigiano o di una produzione artigianale, indipendentemente dai prodotti offerti, dovrebbe comunicare le idee di genuinità, integrità, qualità e tradizione. Se hai bisogno di farti un'idea con degli esempi concreti, consulta la lista seguente e usa il nostro logo maker per <a
-href="https://www.zarla.com/it/logo-maker-gratuito">creare loghi gratis per artigiani</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/it/logo-maker-gratuito">creare loghi gratis per artigiani</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,246 +120,246 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Descrizione</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wytcx99by338k7384btm/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/wytcx99by338k7384btm/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-wytcx99by338k7384btm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-wytcx99by338k7384btm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wytcx99by338k7384btm/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/wytcx99by338k7384btm/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Un design che pone intelligentemente il vapore della tazzina sopra una forma ovale per creare l’immagine di un chicco di caffè: un’icona ideale, ad esempio, per una torrefazione artigianale. Il ricco marrone intenso comunica qualità, mentre il carattere Enriqueta trasmette l’idea di autorevolezza.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wg94mkbvxj36jxdbyhmy/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/wg94mkbvxj36jxdbyhmy/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-wg94mkbvxj36jxdbyhmy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-wg94mkbvxj36jxdbyhmy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wg94mkbvxj36jxdbyhmy/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/wg94mkbvxj36jxdbyhmy/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Un logo ideale per un artigiano che lavora il legno, i martelli dietro allo stemma legnoso fanno subito venire in mente tradizione e lavoro manuale. I due marroni creano profondità e sono coerenti con il tema del design, mentre il carattere Lato rappresenta la solidità di queste creazioni.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/vqdmrdgb7xyyjcc8rdfj/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/vqdmrdgb7xyyjcc8rdfj/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-vqdmrdgb7xyyjcc8rdfj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-vqdmrdgb7xyyjcc8rdfj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/vqdmrdgb7xyyjcc8rdfj/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/vqdmrdgb7xyyjcc8rdfj/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Con il suo fresco verde e le sue linee sinuose, questo logo comunica tutto il piacere del bersi una tazza di tè artigianale. Inoltre, la forma un po' a lampada da genio, sembra dire che l’esperienza di questo tè è magica. Le lettere arrotondate del carattere Kodchasan riprendono le linee dell’icona.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gpdqprdgjw3cdjtgjyvq/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/gpdqprdgjw3cdjtgjyvq/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-gpdqprdgjw3cdjtgjyvq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-gpdqprdgjw3cdjtgjyvq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gpdqprdgjw3cdjtgjyvq/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/gpdqprdgjw3cdjtgjyvq/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Delle morbide colline illuminate dal sole: un’immagine che trasmette calore e speranza. Il verde comunica rinascita, mentre il viola rappresenta la spiritualità. Le linee moderne del carattere Sansation, poi, rendono il design contemporaneo. Un logo ideale per dei prodotti artigianali e salutari.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9pctkpc3qth97jm6q6bb/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/9pctkpc3qth97jm6q6bb/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-9pctkpc3qth97jm6q6bb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-9pctkpc3qth97jm6q6bb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9pctkpc3qth97jm6q6bb/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/9pctkpc3qth97jm6q6bb/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Un logo per niente scontato per chi si occupa di mobili artigianali ma moderni e funzionali: l’icona trasmette l’idea di modernità, mentre la palette calda comunica tutta l’umanità del lavoro da artigiano. Il carattere tipografico Rubik, infine, completa il logo con semplicità e professionalità.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/qw7j948dqh6fvqkxvqdq/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/qw7j948dqh6fvqkxvqdq/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-qw7j948dqh6fvqkxvqdq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-qw7j948dqh6fvqkxvqdq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/qw7j948dqh6fvqkxvqdq/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/qw7j948dqh6fvqkxvqdq/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Un top delicato e leggermente mosso dal vento: l’icona ideale per un brand di abbigliamento fatto a mano. Il color oro, inoltre, comunica i concetti di preziosità e unicità spesso legati alle produzioni artigianali. Infine, il carattere El Messiri dona un tocco di charme esotico al logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/63hrc7fycqqfptwcxfdh/edit?industry=Bakery&amp;brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/63hrc7fycqqfptwcxfdh/edit?industry=Bakery&amp;brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20240603-63hrc7fycqqfptwcxfdh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20240603-63hrc7fycqqfptwcxfdh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/63hrc7fycqqfptwcxfdh/edit?industry=Bakery&amp;brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/63hrc7fycqqfptwcxfdh/edit?industry=Bakery&amp;brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>I panzerotti nell'icona sono disegnati con uno stile caldo e accogliente, che rimanda alla tradizione e alla genuinità. Questa atmosfera è ribadita dal marrone scuro, unico colore del logo, il quale comunica anche autorevolezza. Il carattere Montserrat, invece, dà un tocco contemporaneo al design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/tq4h379cgfdwxg3bwg9m/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/tq4h379cgfdwxg3bwg9m/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-tq4h379cgfdwxg3bwg9m.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-tq4h379cgfdwxg3bwg9m.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/tq4h379cgfdwxg3bwg9m/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/tq4h379cgfdwxg3bwg9m/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Una fantastica icona per prodotti artigianali per la cura del corpo e per la bellezza. La dolce palette rosa e celeste amalgama le idee di freschezza e di delicatezza, spesso essenziali per dei buoni cosmetici. Infine, il carattere Noto Serif dona autorevolezza al logo mantenendolo però grazioso.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/h9wwdbmqkg7f77k4pmg7/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/h9wwdbmqkg7f77k4pmg7/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-h9wwdbmqkg7f77k4pmg7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-h9wwdbmqkg7f77k4pmg7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/h9wwdbmqkg7f77k4pmg7/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/h9wwdbmqkg7f77k4pmg7/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>La fantasia con la quale è decorata la ciambella trasmette tutta la dolcezza di queste prelibatezze. Il color oro e, ancora di più, lo stile “fatto a mano” del carattere tipografico Amatica SC suggeriscono all’osservatore in modo semplice che si trova davanti a dei prodotti artigianali.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9c97xm93xjc4qwmpbq9h/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/9c97xm93xjc4qwmpbq9h/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-9c97xm93xjc4qwmpbq9h.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-9c97xm93xjc4qwmpbq9h.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9c97xm93xjc4qwmpbq9h/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/9c97xm93xjc4qwmpbq9h/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L’accostamento di nero e rosso è energico, professionale e attira l’attenzione; insieme a questa icona sognante con lo zucchero filato contornato da scintillii e al delizioso carattere tipografico Pacifico, il quale sembra scritto a mano, crea un logo adatto a un laboratorio artigianale di dolciumi.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/frpdfm379gbwc3r9wrj9/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/frpdfm379gbwc3r9wrj9/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-frpdfm379gbwc3r9wrj9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-frpdfm379gbwc3r9wrj9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/frpdfm379gbwc3r9wrj9/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/frpdfm379gbwc3r9wrj9/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L’oro è un colore adatto a rappresentare un brand artigianale di accessori e gioielli, l’icona ricorda sia una collana che un braccialetto e la cordicina fa pensare a delle creazioni fatte con pelle o cuoio. Il carattere Poppins, infine, completa il logo con il suo stile pulito ma deciso.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/m9447xrg7jpdmbh9hgg8/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/m9447xrg7jpdmbh9hgg8/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-m9447xrg7jpdmbh9hgg8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-m9447xrg7jpdmbh9hgg8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/m9447xrg7jpdmbh9hgg8/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/m9447xrg7jpdmbh9hgg8/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Questa icona include un cane, un gatto e un pesce: potrebbe funzionare bene per un brand di cibo per animali domestici fatto a mano. Le stelle indicano la qualità degli ingredienti, mentre il grigio rende il design pacifico. Infine, le lettere del carattere Saira Condensed comunicano sicurezza.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/f9dgpvw6bp3wx3bwt9fh/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/f9dgpvw6bp3wx3bwt9fh/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-f9dgpvw6bp3wx3bwt9fh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-f9dgpvw6bp3wx3bwt9fh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/f9dgpvw6bp3wx3bwt9fh/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/f9dgpvw6bp3wx3bwt9fh/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Il colore neutro e la delicata immagine floreale dell’icona evocano l’idea di un brand premium. Il beige comunica morbidezza e lo sfondo scuro simboleggia esclusività. Infine, il carattere tipografico DM Serif Text è ben abbinato all’eleganza della palette e dell’icona con il fiore.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/8qkjq3vfd4w3d9r76b8f/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/8qkjq3vfd4w3d9r76b8f/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-8qkjq3vfd4w3d9r76b8f.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-8qkjq3vfd4w3d9r76b8f.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/8qkjq3vfd4w3d9r76b8f/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/8qkjq3vfd4w3d9r76b8f/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Una pianta che cresce su un campo pulito: un’immagine che suggerisce purezza e semplicità, qualità spesso associate all’artigianalità e che si addicono a un brand che promuove l’uso di ingredienti sani. Il verde sottolinea questa idea, mentre il carattere Comfortaa dona un tocco giovane al logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/69ywr8bhprbfh4vkmv46/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/69ywr8bhprbfh4vkmv46/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-69ywr8bhprbfh4vkmv46.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-69ywr8bhprbfh4vkmv46.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/69ywr8bhprbfh4vkmv46/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/69ywr8bhprbfh4vkmv46/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Il bianco e nero è intramontabile e, inoltre, si addice a un’azienda di abbigliamento fatto a mano. L'icona con la donna con il cappello a fiori comunica rilassatezza e crea una certa atmosfera  bohémien. Le lettere decise e squadrate del carattere Teko, infine, suscitano l’idea di innovazione.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/bttj3ptj78dx43y3pqw3/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/bttj3ptj78dx43y3pqw3/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-bttj3ptj78dx43y3pqw3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-bttj3ptj78dx43y3pqw3.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/bttj3ptj78dx43y3pqw3/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/bttj3ptj78dx43y3pqw3/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Divertente, amichevole e un po’ strambo, ecco alcuni aggettivi adatti a questa icona. La nuvola che sorride tenuta su dai palloncini, unita alla elegante e naturale palette oro e blu, fa pensare a dei prodotti artigianali rivolti ai bambini. Il carattere Quicksand, infine, è pulito e ben leggibile.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/c3kykg7q4wrgyppkcwx9/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/c3kykg7q4wrgyppkcwx9/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-c3kykg7q4wrgyppkcwx9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-c3kykg7q4wrgyppkcwx9.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/c3kykg7q4wrgyppkcwx9/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/c3kykg7q4wrgyppkcwx9/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Questo logo combina una palette rosa e verde chiara con un’icona glaciale, che vede come protagonista un gelato: un mix spensierato e rinfrescante, ideale per una gelateria artigianale. Il carattere tipografico Rum Raisin, poi, aggiunge una irresistibile e fantasiosa graziosità al design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/pdcrf6hh87fvdvmc9b94/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/pdcrf6hh87fvdvmc9b94/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-pdcrf6hh87fvdvmc9b94.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-pdcrf6hh87fvdvmc9b94.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/pdcrf6hh87fvdvmc9b94/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/pdcrf6hh87fvdvmc9b94/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>I toni intensi del marrone e dell’arancione evocano sapori come caramello e caffè, dando vita a un logo invitante per un forno-pasticceria-bar artigianale. Il matterello e il cappuccino non lasciano dubbi sulla natura dell’attività, mentre il carattere Special Elite dona un tocco vintage al logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/vgjwcjt6brwpydxxprjm/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/vgjwcjt6brwpydxxprjm/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-vgjwcjt6brwpydxxprjm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-vgjwcjt6brwpydxxprjm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/vgjwcjt6brwpydxxprjm/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/vgjwcjt6brwpydxxprjm/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>È un fiocco di neve o sono impronte di gallina? Un logo unico e interessante che si addice a diversi tipi attività artigianali. Il rosa usato per l’icona è di buon gusto e possiede uno charme romantico, mentre il carattere Questrial, fine e professionale, lascia che l’icona faccia da protagonista.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/cq7wk4cyyf9jq43jr369/edit?brand=Artigianatto">
+href="https://www.notzarla.com/logo-maker/cq7wk4cyyf9jq43jr369/edit?brand=Artigianatto">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-cq7wk4cyyf9jq43jr369.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
+data-src="https://www.notzarla.com/images/zarla-artigianatto-1x1-2400x2400-20220614-cq7wk4cyyf9jq43jr369.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo per un artigiano che si chiama Artigianatto.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/cq7wk4cyyf9jq43jr369/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/cq7wk4cyyf9jq43jr369/edit?brand=Artigianatto" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Un logo semplice ma forte che non necessita di nessuna icona facendo affidamento sulla coppia di sfumature di arancione e sull’aspetto classico del carattere tipografico Pridi. La palette calda, poi, è perfetta per trasmettere tutta la genuinità e tutta l’umanità del lavoro artigianale.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-fatti-a-mano">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-fatti-a-mano">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-handmade-logos-3997x2661-2022016.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Loghi Fatti a Mano" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-handmade-logos-3997x2661-2022016.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Loghi Fatti a Mano" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-fatti-a-mano">Loghi Fatti a Mano</a></p><div
+href="https://www.notzarla.com/it/guide/loghi-fatti-a-mano">Loghi Fatti a Mano</a></p><div
 class="card-text">20 idee dallo stile artigianale per loghi che sembrano fatti a mano.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=fAQs class="section-heading">FAQs:</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=come-creare-il-logo-per-un-artigiano class="question">Come creare il logo per un artigiano?</h3><div
 class="answer"><ol><li>Studia i loghi della concorrenza.</li><li>Rifletti sulla tua clientela ideale.</li><li>Usa un logo maker per <a
-href="https://www.zarla.com/it/logo-maker-gratuito">creare loghi gratis</a>.</li><li>Sbizzarrisciti con icone e font per trovare la combinazione che più rispecchia l’identità della tua produzione artigianale.</li><li>Ricordati di chiedere un feedback ad amici, familiari e ai tuoi potenziali clienti.</li></ol></div></div><div
+href="https://www.notzarla.com/it/logo-maker-gratuito">creare loghi gratis</a>.</li><li>Sbizzarrisciti con icone e font per trovare la combinazione che più rispecchia l’identità della tua produzione artigianale.</li><li>Ricordati di chiedere un feedback ad amici, familiari e ai tuoi potenziali clienti.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=dove-scaricare-loghi-per-artigiani-gratis class="question">Dove scaricare loghi per artigiani gratis?</h3><div
 class="answer"><p>Con Zarla puoi creare, editare e scaricare gratuitamente dei loghi per artigiani semplicemente cliccando “modifica” sotto <a
 href="#idee-per-loghi-per-artigiani">uno dei nostri loghi</a> oppure usando il nostro logo maker.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Come creare il logo per un artigiano?","acceptedAnswer":{"@type":"Answer","text":"<ol>\n<li>Studia i loghi della concorrenza.<\/li>\n<li>Rifletti sulla tua clientela ideale.<\/li>\n<li>Usa un logo maker per <a href=\"https:\/\/www.zarla.com\/it\/logo-maker-gratuito\">creare loghi gratis<\/a>.<\/li>\n<li>Sbizzarrisciti con icone e font per trovare la combinazione che pi\u00f9 rispecchia l\u2019identit\u00e0 della tua produzione artigianale. <\/li>\n<li>Ricordati di chiedere un feedback ad amici, familiari e ai tuoi potenziali clienti.<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Dove scaricare loghi per artigiani gratis?","acceptedAnswer":{"@type":"Answer","text":"<p>Con Zarla puoi creare, editare e scaricare gratuitamente dei loghi per artigiani semplicemente cliccando \u201cmodifica\u201d sotto <a href=\"#idee-per-loghi-per-artigiani\">uno dei nostri loghi<\/a> oppure usando il nostro logo maker.<\/p>\n"}}]}</script> <div
@@ -368,68 +368,68 @@ class="container"><h2 class="section-heading">Articoli Correlati</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-per-aziende-di-miele">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-per-aziende-di-miele">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un coglimiele sopra un piatto accanto a un favo." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-honey-logos-6000x4000-2021123.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un coglimiele sopra un piatto accanto a un favo." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-per-aziende-di-miele">Loghi per Aziende di Miele</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-per-aziende-di-miele">Loghi per Aziende di Miele</a></h3><div
 class="card-text">10 dolci loghi per la tua apicoltura e produzione di miele.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-artistici">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-artistici">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-artistic-logos-4608x2592-20220328.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un quadro astratto, colorato e artistico." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-artistic-logos-4608x2592-20220328.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un quadro astratto, colorato e artistico." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-artistici">Loghi Artistici</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-artistici">Loghi Artistici</a></h3><div
 class="card-text">20 idee di loghi artistici per aziende, brand e negozi.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-per-servizi-di-riparazione-di-mobili">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-per-servizi-di-riparazione-di-mobili">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-furniture-repair-logos-4500x3000-20220217.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Alcune sedie appena riparate in un negozio di riparazione di mobili." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-furniture-repair-logos-4500x3000-20220217.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Alcune sedie appena riparate in un negozio di riparazione di mobili." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-per-servizi-di-riparazione-di-mobili">Loghi per Servizi di Riparazione di Mobili</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-per-servizi-di-riparazione-di-mobili">Loghi per Servizi di Riparazione di Mobili</a></h3><div
 class="card-text">10 esempi di loghi per un servizio di riparazione di mobili.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-senza-tempo">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-senza-tempo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-timeless-logos-2400x2400-20211012.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un&#039;immagine senza tempo del cielo stellato." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-timeless-logos-2400x2400-20211012.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un&#039;immagine senza tempo del cielo stellato." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-senza-tempo">Loghi Senza Tempo</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-senza-tempo">Loghi Senza Tempo</a></h3><div
 class="card-text">20 esempi di loghi intramontabili.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-per-upcycling">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-per-upcycling">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-upcycling-logos-3024x2992-20220125.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un telefono giallo riciclato in modo creativo con delle lampadine da un’azienda di upcycling." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-upcycling-logos-3024x2992-20220125.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un telefono giallo riciclato in modo creativo con delle lampadine da un’azienda di upcycling." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-per-upcycling">Loghi per Upcycling</a></h3><div
-class="card-text">10 idee originali per il logo della tua azienda di riciclo creativo.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/it/guide/loghi-per-artigiani","name":"Loghi per Artigiani + Logo Maker Gratuito"},"headline":"Loghi per Artigiani + Logo Maker Gratuito","description":"20 idee di loghi per artigiani.","image":["https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2022-01-03T15:12:00-06:00","dateModified":"2024-06-14T05:16:46-05:00","author":{"@type":"Person","name":"Emma Martinelli","url":"https://www.zarla.com/it/contributors/emma-martinelli"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/it/guide/loghi-per-upcycling">Loghi per Upcycling</a></h3><div
+class="card-text">10 idee originali per il logo della tua azienda di riciclo creativo.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/it/guide/loghi-per-artigiani","name":"Loghi per Artigiani + Logo Maker Gratuito"},"headline":"Loghi per Artigiani + Logo Maker Gratuito","description":"20 idee di loghi per artigiani.","image":["https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-artisan-logos-5040x3360-2022013.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2022-01-03T15:12:00-06:00","dateModified":"2024-06-14T05:16:46-05:00","author":{"@type":"Person","name":"Emma Martinelli","url":"https://www.notzarla.com/it/contributors/emma-martinelli"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -438,27 +438,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/it">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Lingua</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/artisan-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-para-artesanos">Español</a></li><li
+href="https://www.notzarla.com/guides/artisan-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-para-artesanos">Español</a></li><li
 class="current" style="color: #3041c4;">Italiano</li><li><a
-href="https://www.zarla.com/fr/guides/logos-d-artisan">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/meisterhafte-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-artesanais">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/ambacht-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/esnaf-logolar%C4%B1">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-rzemios%C5%82o">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-artisan">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/fr/guides/logos-d-artisan">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/meisterhafte-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-artesanais">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/ambacht-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/esnaf-logolar%C4%B1">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-rzemios%C5%82o">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-artisan">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Risorse</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/it/guide/idee-per-loghi">
+href="https://www.notzarla.com/it/guide/idee-per-loghi">
 Idee per Loghi
 </a></li><li>
 <a
@@ -466,7 +466,7 @@ href="/it">
 Website Builder AI
 </a></li><li>
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito">
+href="https://www.notzarla.com/it/logo-maker-gratuito">
 Logo Maker Gratuito
 </a></li><li>
 <a
@@ -474,15 +474,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/it/termini-di-utilizzo">
+href="https://www.notzarla.com/it/termini-di-utilizzo">
 Termini di Utilizzo
 </a></li><li>
 <a
-href="https://www.zarla.com/it/norme-sul-copyright">
+href="https://www.notzarla.com/it/norme-sul-copyright">
 Norme sul Copyright
 </a></li><li>
 <a
-href="https://www.zarla.com/it/informativa-sulla-privacy">
+href="https://www.notzarla.com/it/informativa-sulla-privacy">
 Informativa sulla Privacy
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -490,7 +490,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=it-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/it/logo-maker-gratuito?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=it-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Comincia a creare un logo personalizzato

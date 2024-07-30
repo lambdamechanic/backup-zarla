@@ -7,32 +7,32 @@ property="og:title" content="Como criar um logotipo no GIMP + Criador de Logo Gr
 property="og:description" content="Aprenda a criar um logotipo para o seu negócio no GIMP com nosso guia passo a passo." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp"><meta
+property="og:url" content="https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="pt-BR"><meta
-property="og:image" content="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp"><link
-rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-gimp" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/how-to-make-a-logo-in-gimp" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-gimp" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-gimp" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/hoe-maak-je-een-logo-in-gimp" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-gimp" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp"><link
+rel="alternate" href="https://www.notzarla.com/guides/how-to-make-a-logo-in-gimp" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/how-to-make-a-logo-in-gimp" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-gimp" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-gimp" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/hoe-maak-je-een-logo-in-gimp" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/cara-membuat-logo-di-gimp" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -41,10 +41,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/br">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis"
+href="https://www.notzarla.com/br/criador-de-logo-gr%C3%A1tis"
 class="btn btn-primary cta-nav
 "
 >
@@ -58,11 +58,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/br/guias">Guias</a></li><li
+href="https://www.notzarla.com/br/guias">Guias</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/br/guias/logotipos">Logotipos</a></li><li
+href="https://www.notzarla.com/br/guias/logotipos">Logotipos</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/br/guias/logotipos/guias-pr%C3%A1ticos">Guias práticos</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guias","item":"https://www.zarla.com/br/guias"},{"@type":"ListItem","position":2,"name":"Logotipos","item":"https://www.zarla.com/br/guias/logotipos"},{"@type":"ListItem","position":3,"name":"Guias práticos","item":"https://www.zarla.com/br/guias/logotipos/guias-pr%C3%A1ticos"},{"@type":"ListItem","position":4,"name":"Como criar um logotipo no GIMP + Criador de Logo Grátis","item":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp"}]}</script> <div
+href="https://www.notzarla.com/br/guias/logotipos/guias-pr%C3%A1ticos">Guias práticos</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guias","item":"https://www.notzarla.com/br/guias"},{"@type":"ListItem","position":2,"name":"Logotipos","item":"https://www.notzarla.com/br/guias/logotipos"},{"@type":"ListItem","position":3,"name":"Guias práticos","item":"https://www.notzarla.com/br/guias/logotipos/guias-pr%C3%A1ticos"},{"@type":"ListItem","position":4,"name":"Como criar um logotipo no GIMP + Criador de Logo Grátis","item":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Como criar um logotipo no GIMP + Criador de Logo Grátis</h1><div
 class="card-body"><div
@@ -71,14 +71,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-nata%CC%81lia-nogueira-800x800-1185x1202-20240531.webp?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-nata%CC%81lia-nogueira-800x800-1185x1202-20240531.webp?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Natália Nogueira"
 /></div><div
 class="card-byline-details">
 <span>Por <a
-class="card-byline-author" href="https://www.zarla.com/br/colaboradores/natália-nogueira">Natália Nogueira</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/br/colaboradores/natália-nogueira">Natália Nogueira</a>,</span>
 <span
 class="card-byline-date">17 de jun. de 2024</span><div
 class="card-byline-bio">
@@ -87,28 +87,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="O logotipo do GIMP em com um teclado e uma mesa digitalizadora."
 />
 </picture></div></div><div
 class="block-intro-text"><p>GNU Image Manipulation Program (GIMP) é um aplicativo gráfico grátis usado para edição de imagens, desenho digital e retoque de fotos. A plataforma foi lançada em 1998, como uma alternativa aos programas caros de design, e é uma excelente plataforma para criar logotipos com aparência profissional para o seu negócio em menos de noventa minutos.</p><p>Nosso guia passo a passo o ajudará a entender os elementos básicos que compõem um logotipo e como você pode usá-los para criar uma identidade visual única para a sua empresa. Se você deseja uma maneira mais rápida e fácil de criar um logotipo atraente, experimente nosso <a
-href="https://www.zarla.com/br/criador-de-logo-grátis">criador de logo grátis</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/br/criador-de-logo-grátis">criador de logo grátis</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -159,7 +159,7 @@ class="how-to-desc"><div
 class="how-to-image">
 <picture>
 <img
-data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-gimp-completed-800x800-20211020_2021-10-20-094559_vmuo.jpeg?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Como criar um logotipo no GIMP:">
+data-src="https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-gimp-completed-800x800-20211020_2021-10-20-094559_vmuo.jpeg?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Como criar um logotipo no GIMP:">
 </picture></div><p>Nove etapas fáceis para criar um logotipo profissional para a sua empresa usando o GIMP.</p></div><div
 id="como-criar-um-logotipo-no-gimp-section1" class="how-to-section"><div
 class="section-title">
@@ -171,7 +171,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-navigate-to-gimp-org-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Navegue até GIMP.org"></div></div><p>Na <a
+data-src="https://www.notzarla.com/images/Zarla-navigate-to-gimp-org-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Navegue até GIMP.org"></div></div><p>Na <a
 href="https://www.gimp.org/">página inicial do GIMP</a>, clique em "DOWNLOAD" no banner superior.</p><div
 class="step-direction">
 <span
@@ -234,7 +234,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/zarla-create-a-new-document-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie um novo documento."></div></div><p>Abra o GIMP, clique em "Arquivo" na barra de menu principal e selecione "Novo (Ctrl / Cmd + N)" no menu suspenso.</p></div></div><div
+data-src="https://www.notzarla.com/images/zarla-create-a-new-document-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie um novo documento."></div></div><p>Abra o GIMP, clique em "Arquivo" na barra de menu principal e selecione "Novo (Ctrl / Cmd + N)" no menu suspenso.</p></div></div><div
 id="como-criar-um-logotipo-no-gimp-section2-step2" class="step"><div
 class="step-desc"><div
 class="step-title">
@@ -242,7 +242,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-set-the-image-size-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Defina o tamanho da imagem."></div></div><p>Na janela pop-up, defina a "Largura" e "Altura" da imagem para "1000 px" e clique em "OK".</p><div
+data-src="https://www.notzarla.com/images/Zarla-set-the-image-size-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Defina o tamanho da imagem."></div></div><p>Na janela pop-up, defina a "Largura" e "Altura" da imagem para "1000 px" e clique em "OK".</p><div
 class="step-direction tip">
 <span
 class="icon">
@@ -272,7 +272,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-create-a-save-file-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie um arquivo salvo."></div></div><p>É importante salvar sua imagem no GIMP com frequência para evitar a perda de qualquer alteração.</p><div
+data-src="https://www.notzarla.com/images/Zarla-create-a-save-file-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie um arquivo salvo."></div></div><p>É importante salvar sua imagem no GIMP com frequência para evitar a perda de qualquer alteração.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -309,7 +309,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-create-guides-288x288-20211019_2021-10-19-093432_hwte.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie guias."></div></div><p>As guias ajudarão a alinhar automaticamente os elementos do documento.</p><div
+data-src="https://www.notzarla.com/images/Zarla-create-guides-288x288-20211019_2021-10-19-093432_hwte.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie guias."></div></div><p>As guias ajudarão a alinhar automaticamente os elementos do documento.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -356,7 +356,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-create-a-new-layer-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie uma nova camada."></div></div><p>Na barra de menu principal, clique em "Camada" e selecione "Nova Camada (Shift + Ctrl / Cmd + N)" no menu suspenso.</p><div
+data-src="https://www.notzarla.com/images/Zarla-create-a-new-layer-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie uma nova camada."></div></div><p>Na barra de menu principal, clique em "Camada" e selecione "Nova Camada (Shift + Ctrl / Cmd + N)" no menu suspenso.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -384,7 +384,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-select-the-ellipse-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta &quot;Seleção elíptica&quot;."></div></div><p>No painel de ferramentas no canto superior esquerdo, clique com o botão direito em "Ferramenta Forma" e selecione a ferramenta "Seleção elíptica (E)".</p></div></div><div
+data-src="https://www.notzarla.com/images/Zarla-select-the-ellipse-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta &quot;Seleção elíptica&quot;."></div></div><p>No painel de ferramentas no canto superior esquerdo, clique com o botão direito em "Ferramenta Forma" e selecione a ferramenta "Seleção elíptica (E)".</p></div></div><div
 id="como-criar-um-logotipo-no-gimp-section3-step3" class="step"><div
 class="step-desc"><div
 class="step-title">
@@ -392,7 +392,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-draw-your-shape-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Desenhe sua forma."></div></div><p>Clique e arraste na tela para criar a forma.</p><div
+data-src="https://www.notzarla.com/images/Zarla-draw-your-shape-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Desenhe sua forma."></div></div><p>Clique e arraste na tela para criar a forma.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -421,7 +421,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/zarla-select-the-gradient-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta Gradiente."></div></div><p>No painel de ferramentas no canto superior esquerdo, clique com o botão direito na ferramenta "preenchimento com balde" e selecione "gradiente (G)".</p></div></div><div
+data-src="https://www.notzarla.com/images/zarla-select-the-gradient-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta Gradiente."></div></div><p>No painel de ferramentas no canto superior esquerdo, clique com o botão direito na ferramenta "preenchimento com balde" e selecione "gradiente (G)".</p></div></div><div
 id="como-criar-um-logotipo-no-gimp-section4-step2" class="step"><div
 class="step-desc"><div
 class="step-title">
@@ -429,7 +429,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-create-the-gradient-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie o gradiente."></div></div><p>Você pode clicar e arrastar em qualquer direção para criar o gradiente e degradê. Neste exemplo, criaremos um gradiente vertical arrastando a ferramenta para baixo na guia central.</p><div
+data-src="https://www.notzarla.com/images/Zarla-create-the-gradient-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie o gradiente."></div></div><p>Você pode clicar e arrastar em qualquer direção para criar o gradiente e degradê. Neste exemplo, criaremos um gradiente vertical arrastando a ferramenta para baixo na guia central.</p><div
 class="step-direction tip">
 <span
 class="icon">
@@ -448,7 +448,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-change-the-color-of-the-gradient-288x288-20211019_2021-10-19-115436_slto.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Altere as cores do gradiente."></div></div><p>Clique no bloco "Cores do primeiro plano" na barra de menu à esquerda para selecionar a primeira cor do gradiente.</p><div
+data-src="https://www.notzarla.com/images/Zarla-change-the-color-of-the-gradient-288x288-20211019_2021-10-19-115436_slto.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Altere as cores do gradiente."></div></div><p>Clique no bloco "Cores do primeiro plano" na barra de menu à esquerda para selecionar a primeira cor do gradiente.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -468,7 +468,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-use-a-reference-image-288x288-20211019_2021-10-19-133623_mlel.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Use uma imagem de referência."></div></div><p>Baixe uma <a
+data-src="https://www.notzarla.com/images/Zarla-use-a-reference-image-288x288-20211019_2021-10-19-133623_mlel.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Use uma imagem de referência."></div></div><p>Baixe uma <a
 href="https://pixabay.com/vectors/green-leaf-leaves-1299703/">imagem de referência</a> para usar como um guia para construir a forma do ícone. Neste exemplo, vamos usar a imagem de uma folha.</p><div
 class="step-direction tip">
 <span
@@ -537,7 +537,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/zarla-resize-the-reference-image-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Redimensione a imagem de referência."></div></div><p>Clique com o botão direito na camada da imagem de referência e selecione "Escala ..." no menu pop-up.</p><div
+data-src="https://www.notzarla.com/images/zarla-resize-the-reference-image-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Redimensione a imagem de referência."></div></div><p>Clique com o botão direito na camada da imagem de referência e selecione "Escala ..." no menu pop-up.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -574,7 +574,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/zarla-position-the-reference-image-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Posicione a imagem de referência."></div></div><p>No painel de ferramentas no canto superior esquerdo, selecione a ferramenta "Mover (M)".</p><div
+data-src="https://www.notzarla.com/images/zarla-position-the-reference-image-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Posicione a imagem de referência."></div></div><p>No painel de ferramentas no canto superior esquerdo, selecione a ferramenta "Mover (M)".</p><div
 class="step-direction">
 <span
 class="icon">
@@ -591,7 +591,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-select-the-paths-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta Caminhos."></div></div><p>Crie uma nova camada com o nome "Ícone". Em seguida, no painel de ferramentas no canto superior esquerdo, clique na ferramenta "Caminhos".</p></div></div><div
+data-src="https://www.notzarla.com/images/Zarla-select-the-paths-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta Caminhos."></div></div><p>Crie uma nova camada com o nome "Ícone". Em seguida, no painel de ferramentas no canto superior esquerdo, clique na ferramenta "Caminhos".</p></div></div><div
 id="como-criar-um-logotipo-no-gimp-section5-step5" class="step"><div
 class="step-desc"><div
 class="step-title">
@@ -599,7 +599,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/zarla-create-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie o caminho do ícone."></div></div><p>Escolha um ponto inicial e clique para adicionar um ponto de ancoragem com a ferramenta "Caminhos". Ao clicar novamente, uma linha reta será criada automaticamente e conectará os dois pontos de ancoragem.</p><div
+data-src="https://www.notzarla.com/images/zarla-create-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie o caminho do ícone."></div></div><p>Escolha um ponto inicial e clique para adicionar um ponto de ancoragem com a ferramenta "Caminhos". Ao clicar novamente, uma linha reta será criada automaticamente e conectará os dois pontos de ancoragem.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -645,7 +645,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/zarla-refine-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Refine o caminho do ícone."></div></div><p>Ajuste os pontos de ancoragem e as alças de arco para refinar a posição e as curvas do caminho até que você esteja satisfeito com a forma do seu ícone.</p><div
+data-src="https://www.notzarla.com/images/zarla-refine-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Refine o caminho do ícone."></div></div><p>Ajuste os pontos de ancoragem e as alças de arco para refinar a posição e as curvas do caminho até que você esteja satisfeito com a forma do seu ícone.</p><div
 class="step-direction tip">
 <span
 class="icon">
@@ -667,7 +667,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/zarla-create-a-stroke-for-the-icon-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie um traço para o ícone."></div></div><p>Selecione uma cor na caixa de cor "Cor do primeiro plano" — neste exemplo, vamos defini-la como branco.</p><div
+data-src="https://www.notzarla.com/images/zarla-create-a-stroke-for-the-icon-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie um traço para o ícone."></div></div><p>Selecione uma cor na caixa de cor "Cor do primeiro plano" — neste exemplo, vamos defini-la como branco.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -722,7 +722,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-create-a-fill-for-the-icon-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie um preenchimento para o ícone."></div></div><p>Crie uma nova camada e identifique-a como "Preenchimento de ícone". Semelhante a criar um traço para o ícone, podemos preencher o ícone com uma cor.</p><div
+data-src="https://www.notzarla.com/images/Zarla-create-a-fill-for-the-icon-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Crie um preenchimento para o ícone."></div></div><p>Crie uma nova camada e identifique-a como "Preenchimento de ícone". Semelhante a criar um traço para o ícone, podemos preencher o ícone com uma cor.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -771,7 +771,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-select-the-text-tool-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta Texto."></div></div><p>No painel de ferramentas no canto superior esquerdo, selecione a "Ferramenta de Texto (T)".</p><div
+data-src="https://www.notzarla.com/images/Zarla-select-the-text-tool-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione a ferramenta Texto."></div></div><p>No painel de ferramentas no canto superior esquerdo, selecione a "Ferramenta de Texto (T)".</p><div
 class="step-direction">
 <span
 class="icon">
@@ -788,7 +788,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-change-the-text-color-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Altere a cor do texto."></div></div><p>Destaque o texto e clique no bloco de cores no canto inferior direito da janela acima da caixa de texto para alterar a cor do texto.</p><div
+data-src="https://www.notzarla.com/images/Zarla-change-the-text-color-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Altere a cor do texto."></div></div><p>Destaque o texto e clique no bloco de cores no canto inferior direito da janela acima da caixa de texto para alterar a cor do texto.</p><div
 class="step-direction tip">
 <span
 class="icon">
@@ -807,7 +807,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-change-the-font-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Mude a fonte."></div></div><p>Ajuste a aparência do seu texto selecionando uma fonte no menu suspenso "Fonte" na guia do menu à esquerda.</p><div
+data-src="https://www.notzarla.com/images/Zarla-change-the-font-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Mude a fonte."></div></div><p>Ajuste a aparência do seu texto selecionando uma fonte no menu suspenso "Fonte" na guia do menu à esquerda.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -835,7 +835,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-position-the-business-name-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Posicione o nome da empresa."></div></div><p>No painel de ferramentas no canto superior esquerdo, selecione a ferramenta "Mover (M)".</p><div
+data-src="https://www.notzarla.com/images/Zarla-position-the-business-name-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Posicione o nome da empresa."></div></div><p>No painel de ferramentas no canto superior esquerdo, selecione a ferramenta "Mover (M)".</p><div
 class="step-direction">
 <span
 class="icon">
@@ -855,7 +855,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/zarla-compare-different-styles-of-your-design-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Compare diferentes estilos do seu design."></div></div><p>Depois de concluir a estrutura geral do seu logotipo, você pode começar a brincar com os detalhes. Você pode clicar no ícone do olho próximo à camada de preenchimento para ocultá-lo, deixando apenas o caminho do traço do ícone, por exemplo.</p><div
+data-src="https://www.notzarla.com/images/zarla-compare-different-styles-of-your-design-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Compare diferentes estilos do seu design."></div></div><p>Depois de concluir a estrutura geral do seu logotipo, você pode começar a brincar com os detalhes. Você pode clicar no ícone do olho próximo à camada de preenchimento para ocultá-lo, deixando apenas o caminho do traço do ícone, por exemplo.</p><div
 class="step-tip">
 <span
 class="icon">
@@ -885,7 +885,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-make-copies-of-the-original-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Faça cópias do caminho original."></div></div><p>Crie uma nova camada e chame-a de "Traço de ícone 2".</p><div
+data-src="https://www.notzarla.com/images/Zarla-make-copies-of-the-original-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Faça cópias do caminho original."></div></div><p>Crie uma nova camada e chame-a de "Traço de ícone 2".</p><div
 class="step-direction">
 <span
 class="icon">
@@ -915,7 +915,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-export-your-logo-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Exporte seu logotipo."></div></div><p>Quando estiver satisfeito com o design do seu logotipo, você poderá exportá-lo em vários formatos de arquivo.</p><div
+data-src="https://www.notzarla.com/images/Zarla-export-your-logo-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Exporte seu logotipo."></div></div><p>Quando estiver satisfeito com o design do seu logotipo, você poderá exportá-lo em vários formatos de arquivo.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -932,7 +932,7 @@ class="step-title">
 class="image-wrapper"><div
 class="image-holder">
 <img
-data-src="https://www.zarla.com/images/Zarla-select-a-file-format-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione um formato de arquivo."></div></div><p>Na janela pop-up, expanda a opção "Selecionar tipo de arquivo (por extensão)" para visualizar os diversos formatos de imagem.</p><div
+data-src="https://www.notzarla.com/images/Zarla-select-a-file-format-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2" class="lazyload" width="144" height="144" alt="Selecione um formato de arquivo."></div></div><p>Na janela pop-up, expanda a opção "Selecionar tipo de arquivo (por extensão)" para visualizar os diversos formatos de imagem.</p><div
 class="step-direction">
 <span
 class="icon">
@@ -972,22 +972,22 @@ xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
 <path
 d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm7 14h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#4949E7"/>
 </svg>
-</span><p>Depois de selecionar um formato de arquivo, clique em "Exportar" no canto inferior direito.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"http://schema.org","@type":"HowTo","name":"Como criar um logotipo no GIMP","description":"<p>Nove etapas f\u00e1ceis para criar um logotipo profissional para a sua empresa usando o GIMP.<\/p>\n","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-gimp-completed-800x800-20211020_2021-10-20-094559_vmuo.jpeg?crop=1:1,smart&width=250&dpr=2","height":"800","width":"800"},"estimatedCost":{"@type":"MonetaryAmount","currency":"USD","value":"0.00"},"totalTime":"PT1H30M","step":[{"@type":"HowToSection","position":"1","name":"<p>Baixe o aplicativo.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Navegue at\u00e9 GIMP.org<\/p>\n","text":"<p>Na <a href=\"https:\/\/www.gimp.org\/\">p\u00e1gina inicial do GIMP<\/a>, clique em \"DOWNLOAD\" no banner superior.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section1-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-navigate-to-gimp-org-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Certifique-se de ter selecionado o sistema operacional apropriado e clique no link relevante.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Instale o aplicativo em seu computador.<\/p>\n"},{"@type":"HowToTip","text":"<p>O GIMP requer aproximadamente 200 MB de espa\u00e7o livre para ser instalado.<\/p>\n"},{"@type":"HowToTip","text":"<p>Um processador Intel Pentium 4 ou equivalente \u00e9 suficiente para executar o GIMP.<\/p>\n"},{"@type":"HowToTip","text":"<p>\u00c9 necess\u00e1rio um m\u00ednimo de 25 MB de RAM para que o aplicativo opere de forma eficaz.<\/p>\n"}]}]},{"@type":"HowToSection","position":"2","name":"<p>Come\u00e7ando.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Crie um novo documento.<\/p>\n","text":"<p>Abra o GIMP, clique em \"Arquivo\" na barra de menu principal e selecione \"Novo (Ctrl \/ Cmd + N)\" no menu suspenso.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section2-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-new-document-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Defina o tamanho da imagem.<\/p>\n","text":"<p>Na janela pop-up, defina a \"Largura\" e \"Altura\" da imagem para \"1000 px\" e clique em \"OK\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section2-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-set-the-image-size-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Voc\u00ea tamb\u00e9m pode selecionar entre uma variedade de tamanhos de imagem predefinidos em \"Modelo\" no menu suspenso.<\/p>\n"},{"@type":"HowToTip","text":"<p>No menu suspenso \"Op\u00e7\u00f5es avan\u00e7adas\", voc\u00ea pode definir a cor de fundo clicando na caixa \"Preencher com\" e selecionando uma op\u00e7\u00e3o, como \"Primeiro plano\", \"Transparente\", \"Padr\u00e3o\" ou \"Branco\" como estamos fazendo neste exemplo.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Crie um arquivo salvo.<\/p>\n","text":"<p>\u00c9 importante salvar sua imagem no GIMP com frequ\u00eancia para evitar a perda de qualquer altera\u00e7\u00e3o.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section2-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-create-a-save-file-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>V\u00e1 para \"Arquivo\" na barra de menu principal e selecione \"Salvar como ...\" no menu suspenso.<\/p>\n"},{"@type":"HowToDirection","text":"<p>D\u00ea um nome \u00e0 sua imagem, especifique o local que deseja salv\u00e1-la em seu computador e clique em \"Salvar\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea pode salvar rapidamente suas altera\u00e7\u00f5es enquanto trabalha com o atalho \"Ctrl \/ Cmd + S\".<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Crie guias.<\/p>\n","text":"<p>As guias ajudar\u00e3o a alinhar automaticamente os elementos do documento.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section2-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-create-guides-288x288-20211019_2021-10-19-093432_hwte.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique em \"Imagem\" na barra do menu principal, passe o mouse sobre \"Guias\" e selecione \"Novo Guia (por Porcentagem) ...\"<\/p>\n"},{"@type":"HowToDirection","text":"<p>Defina a \"Dire\u00e7\u00e3o\" como \"Horizontal\", a \"Posi\u00e7\u00e3o (em %)\" como \"50,00\" e clique em \"OK\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Repita o processo, desta vez configurando a \"Dire\u00e7\u00e3o\" para \"Vertical\" e a \"Posi\u00e7\u00e3o (em %)\" para \"50,00\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique em \"Exibir\" na barra de menu principal e selecione \"Ajustar \u00e0s guias\" no menu suspenso.<\/p>\n"}]}]},{"@type":"HowToSection","position":"3","name":"<p>Criando formas.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Crie uma nova camada.<\/p>\n","text":"<p>Na barra de menu principal, clique em \"Camada\" e selecione \"Nova Camada (Shift + Ctrl \/ Cmd + N)\" no menu suspenso.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section3-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-create-a-new-layer-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Nomeie sua camada \"Forma principal\" e clique em \"OK\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea tamb\u00e9m pode criar uma nova camada clicando no \u00edcone na parte inferior esquerda do painel de camadas.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Selecione a ferramenta \"Sele\u00e7\u00e3o el\u00edptica\".<\/p>\n","text":"<p>No painel de ferramentas no canto superior esquerdo, clique com o bot\u00e3o direito em \"Ferramenta Forma\" e selecione a ferramenta \"Sele\u00e7\u00e3o el\u00edptica (E)\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section3-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-select-the-ellipse-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>Desenhe sua forma.<\/p>\n","text":"<p>Clique e arraste na tela para criar a forma.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section3-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-draw-your-shape-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Voc\u00ea pode redimensionar a el\u00edptica arrastando as caixas de canto da forma.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique e arraste a imagem e alinhe-a \u00e0s guias.<\/p>\n"}]}]},{"@type":"HowToSection","position":"4","name":"<p>Adicionando cor.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Selecione a ferramenta Gradiente.<\/p>\n","text":"<p>No painel de ferramentas no canto superior esquerdo, clique com o bot\u00e3o direito na ferramenta \"preenchimento com balde\" e selecione \"gradiente (G)\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section4-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-select-the-gradient-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Crie o gradiente.<\/p>\n","text":"<p>Voc\u00ea pode clicar e arrastar em qualquer dire\u00e7\u00e3o para criar o gradiente e degrad\u00ea. Neste exemplo, criaremos um gradiente vertical arrastando a ferramenta para baixo na guia central.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section4-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-create-the-gradient-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>O comprimento da linha do gradiente determinar\u00e1 o tamanho do espectro do gradiente.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Altere as cores do gradiente.<\/p>\n","text":"<p>Clique no bloco \"Cores do primeiro plano\" na barra de menu \u00e0 esquerda para selecionar a primeira cor do gradiente.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section4-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-change-the-color-of-the-gradient-288x288-20211019_2021-10-19-115436_slto.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique no bloco \"Cor de fundo\" para selecionar a segunda cor do gradiente.<\/p>\n"}]}]},{"@type":"HowToSection","position":"5","name":"<p>Criando um \u00edcone.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Use uma imagem de refer\u00eancia.<\/p>\n","text":"<p>Baixe uma <a href=\"https:\/\/pixabay.com\/vectors\/green-leaf-leaves-1299703\/\">imagem de refer\u00eancia<\/a> para usar como um guia para construir a forma do \u00edcone. Neste exemplo, vamos usar a imagem de uma folha.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-use-a-reference-image-288x288-20211019_2021-10-19-133623_mlel.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>A tela do GIMP tem 1000 x 1000 px, portanto, 500 x 500 px \u00e9 grande o suficiente para a imagem de refer\u00eancia.<\/p>\n"},{"@type":"HowToDirection","text":"<p>V\u00e1 em \u201cArquivo\u201d na barra de menu principal e selecione \"Abrir como camadas\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Selecione a imagem de refer\u00eancia e clique em \"Abrir\".<\/p>\n"},{"@type":"HowToTip","text":"<p>O GIMP pode precisar converter a imagem para o formato apropriado. Para fazer isso, basta clicar em \"Converter\" na janela pop-up.<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea tamb\u00e9m pode arrastar e soltar a imagem no projeto GIMP.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Com a camada de imagem de refer\u00eancia selecionada, defina a opacidade em 50% na parte superior do painel de camadas.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Redimensione a imagem de refer\u00eancia.<\/p>\n","text":"<p>Clique com o bot\u00e3o direito na camada da imagem de refer\u00eancia e selecione \"Escala ...\" no menu pop-up.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-resize-the-reference-image-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Certifique-se de que as caixas \"Largura\" e \"Altura\" estejam vinculadas para manter a propor\u00e7\u00e3o da imagem.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Defina a \"Largura\" para aproximadamente \"450 px\" e clique em \"Escala\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Use as setas \"para cima\" e \"para baixo\" nas caixas \"Largura\" ou \"Altura\" para refinar o tamanho da imagem.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Posicione a imagem de refer\u00eancia.<\/p>\n","text":"<p>No painel de ferramentas no canto superior esquerdo, selecione a ferramenta \"Mover (M)\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-position-the-reference-image-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique e arraste a imagem de refer\u00eancia para a posi\u00e7\u00e3o na elipse.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Selecione a ferramenta Caminhos.<\/p>\n","text":"<p>Crie uma nova camada com o nome \"\u00cdcone\". Em seguida, no painel de ferramentas no canto superior esquerdo, clique na ferramenta \"Caminhos\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-select-the-paths-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"5","name":"<p>Crie o caminho do \u00edcone.<\/p>\n","text":"<p>Escolha um ponto inicial e clique para adicionar um ponto de ancoragem com a ferramenta \"Caminhos\". Ao clicar novamente, uma linha reta ser\u00e1 criada automaticamente e conectar\u00e1 os dois pontos de ancoragem.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step5","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique no meio da linha reta e arraste em dire\u00e7\u00e3o ao canto superior esquerdo para criar um arco.<\/p>\n"},{"@type":"HowToTip","text":"<p>Use as linhas tangentes em laranja para ajustar a amplitude das curvas.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Repita o processo criando e curvando mais linhas.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Mantenha pressionado Control\/Command ao clicar em um ponto de ancoragem existente para conect\u00e1-los.<\/p>\n"}]},{"@type":"HowToStep","position":"6","name":"<p>Refine o caminho do \u00edcone.<\/p>\n","text":"<p>Ajuste os pontos de ancoragem e as al\u00e7as de arco para refinar a posi\u00e7\u00e3o e as curvas do caminho at\u00e9 que voc\u00ea esteja satisfeito com a forma do seu \u00edcone.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step6","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-refine-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Quando estiver satisfeito com a forma do \u00edcone, voc\u00ea pode ocultar a imagem de refer\u00eancia clicando no \u00edcone de olho correspondente no painel de camadas.<\/p>\n"}]}]},{"@type":"HowToSection","position":"6","name":"<p>Completando o \u00edcone.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Crie um tra\u00e7o para o \u00edcone.<\/p>\n","text":"<p>Selecione uma cor na caixa de cor \"Cor do primeiro plano\" \u2014 neste exemplo, vamos defini-la como branco.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section6-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-create-a-stroke-for-the-icon-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique em \"Caminho\" na guia do menu \u00e0 esquerda para abrir as op\u00e7\u00f5es de contorno.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Certifique-se de que as caixas \"Caminhos\", \"Cor s\u00f3lida\" e Anti-serrilhamento\" estejam marcadas.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Ajuste os pixels na caixa \"Largura da linha\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique em \"Tra\u00e7ado\" para aplicar contorno ao caminho.<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea pode experimentar diferentes op\u00e7\u00f5es de linha expandindo o menu \"Estilo de linha\".<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Crie um preenchimento para o \u00edcone.<\/p>\n","text":"<p>Crie uma nova camada e identifique-a como \"Preenchimento de \u00edcone\". Semelhante a criar um tra\u00e7o para o \u00edcone, podemos preencher o \u00edcone com uma cor.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section6-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-create-a-fill-for-the-icon-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Certifique-se de que a caixa de cor do primeiro plano esteja definida como branco.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique em \"Preencher caminho\" na guia do menu \u00e0 esquerda para abrir as op\u00e7\u00f5es de preenchimento.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Marque as caixas \"Cor s\u00f3lida\" e \"Anti-serrilhamento\" e clique em \"Preencher\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea tamb\u00e9m pode preencher o \u00edcone com um padr\u00e3o, marcando a caixa \"Padr\u00e3o\".<\/p>\n"}]}]},{"@type":"HowToSection","position":"7","name":"<p>Adicionando o nome da sua empresa.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Selecione a ferramenta Texto.<\/p>\n","text":"<p>No painel de ferramentas no canto superior esquerdo, selecione a \"Ferramenta de Texto (T)\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section7-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-select-the-text-tool-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique em qualquer lugar da p\u00e1gina para criar uma caixa de texto e digite o nome da sua empresa. Uma nova camada ser\u00e1 criada automaticamente para o texto.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Altere a cor do texto.<\/p>\n","text":"<p>Destaque o texto e clique no bloco de cores no canto inferior direito da janela acima da caixa de texto para alterar a cor do texto.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section7-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-change-the-text-color-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Voc\u00ea pode alterar a cor de letras individuais destacando a letra e selecionando uma cor.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Mude a fonte.<\/p>\n","text":"<p>Ajuste a apar\u00eancia do seu texto selecionando uma fonte no menu suspenso \"Fonte\" na guia do menu \u00e0 esquerda.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section7-step3","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-change-the-font-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Voc\u00ea tamb\u00e9m pode alterar o tamanho do texto na guia de menu ajustando a caixa \"Tamanho\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea pode alterar o tamanho das letras individuais destacando a letra e alterando o tamanho.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Posicione o nome da empresa.<\/p>\n","text":"<p>No painel de ferramentas no canto superior esquerdo, selecione a ferramenta \"Mover (M)\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section7-step4","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-position-the-business-name-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique no texto para posicionar o nome da empresa.<\/p>\n"}]}]},{"@type":"HowToSection","position":"8","name":"<p>Criando varia\u00e7\u00f5es.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Compare diferentes estilos do seu design.<\/p>\n","text":"<p>Depois de concluir a estrutura geral do seu logotipo, voc\u00ea pode come\u00e7ar a brincar com os detalhes. Voc\u00ea pode clicar no \u00edcone do olho pr\u00f3ximo \u00e0 camada de preenchimento para ocult\u00e1-lo, deixando apenas o caminho do tra\u00e7o do \u00edcone, por exemplo.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section8-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/zarla-compare-different-styles-of-your-design-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Experimente diferentes cores de fundo, contornos de formas, fontes e arranjos para refinar a apar\u00eancia geral do seu logotipo.<\/p>\n"},{"@type":"HowToTip","text":"<p>Isso o ajudar\u00e1 a imaginar como ser\u00e1 a apar\u00eancia do seu logotipo em diferentes contextos e a tomar uma decis\u00e3o final.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Fa\u00e7a c\u00f3pias do caminho original.<\/p>\n","text":"<p>Crie uma nova camada e chame-a de \"Tra\u00e7o de \u00edcone 2\".<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section8-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-make-copies-of-the-original-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique na guia \"Caminhos\" acima do painel de camadas e clique duas vezes na camada de caminho do \u00edcone.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Agora voc\u00ea pode criar um novo tra\u00e7o e preencher o \u00edcone em uma cor diferente, seguindo o mesmo processo da <a href=\"#completando-o-icone\">etapa 6<\/a>.<\/p>\n"}]}]},{"@type":"HowToSection","position":"9","name":"<p>Finalizando.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Exporte seu logotipo.<\/p>\n","text":"<p>Quando estiver satisfeito com o design do seu logotipo, voc\u00ea poder\u00e1 export\u00e1-lo em v\u00e1rios formatos de arquivo.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section9-step1","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-export-your-logo-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique em \"Arquivo\" na barra de menu principal e selecione \"Exportar como ...\"<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Selecione um formato de arquivo.<\/p>\n","text":"<p>Na janela pop-up, expanda a op\u00e7\u00e3o \"Selecionar tipo de arquivo (por extens\u00e3o)\" para visualizar os diversos formatos de imagem.<\/p>\n","url":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section9-step2","image":{"@type":"ImageObject","url":"https://www.zarla.com/images/Zarla-select-a-file-format-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Especifique o nome do arquivo e a pasta de destino em seu computador.<\/p>\n"},{"@type":"HowToTip","text":"<p>\"PNG\" e \"GIF\" s\u00e3o formatos de alta resolu\u00e7\u00e3o e manter\u00e3o o fundo do seu logotipo transparente.<\/p>\n"},{"@type":"HowToTip","text":"<p>O formato \"JPG\" usa algoritmos para compactar a imagem para um tamanho de arquivo menor e manter um fundo s\u00f3lido.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Depois de selecionar um formato de arquivo, clique em \"Exportar\" no canto inferior direito.<\/p>\n"}]}]}]}</script> <div
+</span><p>Depois de selecionar um formato de arquivo, clique em "Exportar" no canto inferior direito.</p></div></div></div></div></div> <script type="application/ld+json">{"@context":"http://schema.org","@type":"HowTo","name":"Como criar um logotipo no GIMP","description":"<p>Nove etapas f\u00e1ceis para criar um logotipo profissional para a sua empresa usando o GIMP.<\/p>\n","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-gimp-completed-800x800-20211020_2021-10-20-094559_vmuo.jpeg?crop=1:1,smart&width=250&dpr=2","height":"800","width":"800"},"estimatedCost":{"@type":"MonetaryAmount","currency":"USD","value":"0.00"},"totalTime":"PT1H30M","step":[{"@type":"HowToSection","position":"1","name":"<p>Baixe o aplicativo.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Navegue at\u00e9 GIMP.org<\/p>\n","text":"<p>Na <a href=\"https:\/\/www.gimp.org\/\">p\u00e1gina inicial do GIMP<\/a>, clique em \"DOWNLOAD\" no banner superior.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section1-step1","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-navigate-to-gimp-org-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Certifique-se de ter selecionado o sistema operacional apropriado e clique no link relevante.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Instale o aplicativo em seu computador.<\/p>\n"},{"@type":"HowToTip","text":"<p>O GIMP requer aproximadamente 200 MB de espa\u00e7o livre para ser instalado.<\/p>\n"},{"@type":"HowToTip","text":"<p>Um processador Intel Pentium 4 ou equivalente \u00e9 suficiente para executar o GIMP.<\/p>\n"},{"@type":"HowToTip","text":"<p>\u00c9 necess\u00e1rio um m\u00ednimo de 25 MB de RAM para que o aplicativo opere de forma eficaz.<\/p>\n"}]}]},{"@type":"HowToSection","position":"2","name":"<p>Come\u00e7ando.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Crie um novo documento.<\/p>\n","text":"<p>Abra o GIMP, clique em \"Arquivo\" na barra de menu principal e selecione \"Novo (Ctrl \/ Cmd + N)\" no menu suspenso.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section2-step1","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-create-a-new-document-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Defina o tamanho da imagem.<\/p>\n","text":"<p>Na janela pop-up, defina a \"Largura\" e \"Altura\" da imagem para \"1000 px\" e clique em \"OK\".<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section2-step2","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-set-the-image-size-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Voc\u00ea tamb\u00e9m pode selecionar entre uma variedade de tamanhos de imagem predefinidos em \"Modelo\" no menu suspenso.<\/p>\n"},{"@type":"HowToTip","text":"<p>No menu suspenso \"Op\u00e7\u00f5es avan\u00e7adas\", voc\u00ea pode definir a cor de fundo clicando na caixa \"Preencher com\" e selecionando uma op\u00e7\u00e3o, como \"Primeiro plano\", \"Transparente\", \"Padr\u00e3o\" ou \"Branco\" como estamos fazendo neste exemplo.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Crie um arquivo salvo.<\/p>\n","text":"<p>\u00c9 importante salvar sua imagem no GIMP com frequ\u00eancia para evitar a perda de qualquer altera\u00e7\u00e3o.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section2-step3","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-create-a-save-file-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>V\u00e1 para \"Arquivo\" na barra de menu principal e selecione \"Salvar como ...\" no menu suspenso.<\/p>\n"},{"@type":"HowToDirection","text":"<p>D\u00ea um nome \u00e0 sua imagem, especifique o local que deseja salv\u00e1-la em seu computador e clique em \"Salvar\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea pode salvar rapidamente suas altera\u00e7\u00f5es enquanto trabalha com o atalho \"Ctrl \/ Cmd + S\".<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Crie guias.<\/p>\n","text":"<p>As guias ajudar\u00e3o a alinhar automaticamente os elementos do documento.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section2-step4","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-create-guides-288x288-20211019_2021-10-19-093432_hwte.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique em \"Imagem\" na barra do menu principal, passe o mouse sobre \"Guias\" e selecione \"Novo Guia (por Porcentagem) ...\"<\/p>\n"},{"@type":"HowToDirection","text":"<p>Defina a \"Dire\u00e7\u00e3o\" como \"Horizontal\", a \"Posi\u00e7\u00e3o (em %)\" como \"50,00\" e clique em \"OK\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Repita o processo, desta vez configurando a \"Dire\u00e7\u00e3o\" para \"Vertical\" e a \"Posi\u00e7\u00e3o (em %)\" para \"50,00\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique em \"Exibir\" na barra de menu principal e selecione \"Ajustar \u00e0s guias\" no menu suspenso.<\/p>\n"}]}]},{"@type":"HowToSection","position":"3","name":"<p>Criando formas.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Crie uma nova camada.<\/p>\n","text":"<p>Na barra de menu principal, clique em \"Camada\" e selecione \"Nova Camada (Shift + Ctrl \/ Cmd + N)\" no menu suspenso.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section3-step1","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-create-a-new-layer-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Nomeie sua camada \"Forma principal\" e clique em \"OK\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea tamb\u00e9m pode criar uma nova camada clicando no \u00edcone na parte inferior esquerda do painel de camadas.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Selecione a ferramenta \"Sele\u00e7\u00e3o el\u00edptica\".<\/p>\n","text":"<p>No painel de ferramentas no canto superior esquerdo, clique com o bot\u00e3o direito em \"Ferramenta Forma\" e selecione a ferramenta \"Sele\u00e7\u00e3o el\u00edptica (E)\".<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section3-step2","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-select-the-ellipse-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"3","name":"<p>Desenhe sua forma.<\/p>\n","text":"<p>Clique e arraste na tela para criar a forma.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section3-step3","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-draw-your-shape-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Voc\u00ea pode redimensionar a el\u00edptica arrastando as caixas de canto da forma.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique e arraste a imagem e alinhe-a \u00e0s guias.<\/p>\n"}]}]},{"@type":"HowToSection","position":"4","name":"<p>Adicionando cor.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Selecione a ferramenta Gradiente.<\/p>\n","text":"<p>No painel de ferramentas no canto superior esquerdo, clique com o bot\u00e3o direito na ferramenta \"preenchimento com balde\" e selecione \"gradiente (G)\".<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section4-step1","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-select-the-gradient-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"2","name":"<p>Crie o gradiente.<\/p>\n","text":"<p>Voc\u00ea pode clicar e arrastar em qualquer dire\u00e7\u00e3o para criar o gradiente e degrad\u00ea. Neste exemplo, criaremos um gradiente vertical arrastando a ferramenta para baixo na guia central.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section4-step2","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-create-the-gradient-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>O comprimento da linha do gradiente determinar\u00e1 o tamanho do espectro do gradiente.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Altere as cores do gradiente.<\/p>\n","text":"<p>Clique no bloco \"Cores do primeiro plano\" na barra de menu \u00e0 esquerda para selecionar a primeira cor do gradiente.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section4-step3","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-change-the-color-of-the-gradient-288x288-20211019_2021-10-19-115436_slto.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique no bloco \"Cor de fundo\" para selecionar a segunda cor do gradiente.<\/p>\n"}]}]},{"@type":"HowToSection","position":"5","name":"<p>Criando um \u00edcone.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Use uma imagem de refer\u00eancia.<\/p>\n","text":"<p>Baixe uma <a href=\"https:\/\/pixabay.com\/vectors\/green-leaf-leaves-1299703\/\">imagem de refer\u00eancia<\/a> para usar como um guia para construir a forma do \u00edcone. Neste exemplo, vamos usar a imagem de uma folha.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step1","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-use-a-reference-image-288x288-20211019_2021-10-19-133623_mlel.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>A tela do GIMP tem 1000 x 1000 px, portanto, 500 x 500 px \u00e9 grande o suficiente para a imagem de refer\u00eancia.<\/p>\n"},{"@type":"HowToDirection","text":"<p>V\u00e1 em \u201cArquivo\u201d na barra de menu principal e selecione \"Abrir como camadas\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Selecione a imagem de refer\u00eancia e clique em \"Abrir\".<\/p>\n"},{"@type":"HowToTip","text":"<p>O GIMP pode precisar converter a imagem para o formato apropriado. Para fazer isso, basta clicar em \"Converter\" na janela pop-up.<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea tamb\u00e9m pode arrastar e soltar a imagem no projeto GIMP.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Com a camada de imagem de refer\u00eancia selecionada, defina a opacidade em 50% na parte superior do painel de camadas.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Redimensione a imagem de refer\u00eancia.<\/p>\n","text":"<p>Clique com o bot\u00e3o direito na camada da imagem de refer\u00eancia e selecione \"Escala ...\" no menu pop-up.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step2","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-resize-the-reference-image-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Certifique-se de que as caixas \"Largura\" e \"Altura\" estejam vinculadas para manter a propor\u00e7\u00e3o da imagem.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Defina a \"Largura\" para aproximadamente \"450 px\" e clique em \"Escala\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Use as setas \"para cima\" e \"para baixo\" nas caixas \"Largura\" ou \"Altura\" para refinar o tamanho da imagem.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Posicione a imagem de refer\u00eancia.<\/p>\n","text":"<p>No painel de ferramentas no canto superior esquerdo, selecione a ferramenta \"Mover (M)\".<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step3","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-position-the-reference-image-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique e arraste a imagem de refer\u00eancia para a posi\u00e7\u00e3o na elipse.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Selecione a ferramenta Caminhos.<\/p>\n","text":"<p>Crie uma nova camada com o nome \"\u00cdcone\". Em seguida, no painel de ferramentas no canto superior esquerdo, clique na ferramenta \"Caminhos\".<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step4","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-select-the-paths-tool-288x288-20211019.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"}},{"@type":"HowToStep","position":"5","name":"<p>Crie o caminho do \u00edcone.<\/p>\n","text":"<p>Escolha um ponto inicial e clique para adicionar um ponto de ancoragem com a ferramenta \"Caminhos\". Ao clicar novamente, uma linha reta ser\u00e1 criada automaticamente e conectar\u00e1 os dois pontos de ancoragem.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step5","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-create-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique no meio da linha reta e arraste em dire\u00e7\u00e3o ao canto superior esquerdo para criar um arco.<\/p>\n"},{"@type":"HowToTip","text":"<p>Use as linhas tangentes em laranja para ajustar a amplitude das curvas.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Repita o processo criando e curvando mais linhas.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Mantenha pressionado Control\/Command ao clicar em um ponto de ancoragem existente para conect\u00e1-los.<\/p>\n"}]},{"@type":"HowToStep","position":"6","name":"<p>Refine o caminho do \u00edcone.<\/p>\n","text":"<p>Ajuste os pontos de ancoragem e as al\u00e7as de arco para refinar a posi\u00e7\u00e3o e as curvas do caminho at\u00e9 que voc\u00ea esteja satisfeito com a forma do seu \u00edcone.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section5-step6","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-refine-the-icons-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Quando estiver satisfeito com a forma do \u00edcone, voc\u00ea pode ocultar a imagem de refer\u00eancia clicando no \u00edcone de olho correspondente no painel de camadas.<\/p>\n"}]}]},{"@type":"HowToSection","position":"6","name":"<p>Completando o \u00edcone.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Crie um tra\u00e7o para o \u00edcone.<\/p>\n","text":"<p>Selecione uma cor na caixa de cor \"Cor do primeiro plano\" \u2014 neste exemplo, vamos defini-la como branco.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section6-step1","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-create-a-stroke-for-the-icon-288x288-20211021.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique em \"Caminho\" na guia do menu \u00e0 esquerda para abrir as op\u00e7\u00f5es de contorno.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Certifique-se de que as caixas \"Caminhos\", \"Cor s\u00f3lida\" e Anti-serrilhamento\" estejam marcadas.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Ajuste os pixels na caixa \"Largura da linha\".<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique em \"Tra\u00e7ado\" para aplicar contorno ao caminho.<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea pode experimentar diferentes op\u00e7\u00f5es de linha expandindo o menu \"Estilo de linha\".<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Crie um preenchimento para o \u00edcone.<\/p>\n","text":"<p>Crie uma nova camada e identifique-a como \"Preenchimento de \u00edcone\". Semelhante a criar um tra\u00e7o para o \u00edcone, podemos preencher o \u00edcone com uma cor.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section6-step2","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-create-a-fill-for-the-icon-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Certifique-se de que a caixa de cor do primeiro plano esteja definida como branco.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Clique em \"Preencher caminho\" na guia do menu \u00e0 esquerda para abrir as op\u00e7\u00f5es de preenchimento.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Marque as caixas \"Cor s\u00f3lida\" e \"Anti-serrilhamento\" e clique em \"Preencher\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea tamb\u00e9m pode preencher o \u00edcone com um padr\u00e3o, marcando a caixa \"Padr\u00e3o\".<\/p>\n"}]}]},{"@type":"HowToSection","position":"7","name":"<p>Adicionando o nome da sua empresa.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Selecione a ferramenta Texto.<\/p>\n","text":"<p>No painel de ferramentas no canto superior esquerdo, selecione a \"Ferramenta de Texto (T)\".<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section7-step1","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-select-the-text-tool-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique em qualquer lugar da p\u00e1gina para criar uma caixa de texto e digite o nome da sua empresa. Uma nova camada ser\u00e1 criada automaticamente para o texto.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Altere a cor do texto.<\/p>\n","text":"<p>Destaque o texto e clique no bloco de cores no canto inferior direito da janela acima da caixa de texto para alterar a cor do texto.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section7-step2","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-change-the-text-color-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Voc\u00ea pode alterar a cor de letras individuais destacando a letra e selecionando uma cor.<\/p>\n"}]},{"@type":"HowToStep","position":"3","name":"<p>Mude a fonte.<\/p>\n","text":"<p>Ajuste a apar\u00eancia do seu texto selecionando uma fonte no menu suspenso \"Fonte\" na guia do menu \u00e0 esquerda.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section7-step3","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-change-the-font-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Voc\u00ea tamb\u00e9m pode alterar o tamanho do texto na guia de menu ajustando a caixa \"Tamanho\".<\/p>\n"},{"@type":"HowToTip","text":"<p>Voc\u00ea pode alterar o tamanho das letras individuais destacando a letra e alterando o tamanho.<\/p>\n"}]},{"@type":"HowToStep","position":"4","name":"<p>Posicione o nome da empresa.<\/p>\n","text":"<p>No painel de ferramentas no canto superior esquerdo, selecione a ferramenta \"Mover (M)\".<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section7-step4","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-position-the-business-name-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique no texto para posicionar o nome da empresa.<\/p>\n"}]}]},{"@type":"HowToSection","position":"8","name":"<p>Criando varia\u00e7\u00f5es.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Compare diferentes estilos do seu design.<\/p>\n","text":"<p>Depois de concluir a estrutura geral do seu logotipo, voc\u00ea pode come\u00e7ar a brincar com os detalhes. Voc\u00ea pode clicar no \u00edcone do olho pr\u00f3ximo \u00e0 camada de preenchimento para ocult\u00e1-lo, deixando apenas o caminho do tra\u00e7o do \u00edcone, por exemplo.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section8-step1","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/zarla-compare-different-styles-of-your-design-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToTip","text":"<p>Experimente diferentes cores de fundo, contornos de formas, fontes e arranjos para refinar a apar\u00eancia geral do seu logotipo.<\/p>\n"},{"@type":"HowToTip","text":"<p>Isso o ajudar\u00e1 a imaginar como ser\u00e1 a apar\u00eancia do seu logotipo em diferentes contextos e a tomar uma decis\u00e3o final.<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Fa\u00e7a c\u00f3pias do caminho original.<\/p>\n","text":"<p>Crie uma nova camada e chame-a de \"Tra\u00e7o de \u00edcone 2\".<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section8-step2","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-make-copies-of-the-original-path-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique na guia \"Caminhos\" acima do painel de camadas e clique duas vezes na camada de caminho do \u00edcone.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Agora voc\u00ea pode criar um novo tra\u00e7o e preencher o \u00edcone em uma cor diferente, seguindo o mesmo processo da <a href=\"#completando-o-icone\">etapa 6<\/a>.<\/p>\n"}]}]},{"@type":"HowToSection","position":"9","name":"<p>Finalizando.<\/p>\n","itemListElement":[{"@type":"HowToStep","position":"1","name":"<p>Exporte seu logotipo.<\/p>\n","text":"<p>Quando estiver satisfeito com o design do seu logotipo, voc\u00ea poder\u00e1 export\u00e1-lo em v\u00e1rios formatos de arquivo.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section9-step1","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-export-your-logo-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Clique em \"Arquivo\" na barra de menu principal e selecione \"Exportar como ...\"<\/p>\n"}]},{"@type":"HowToStep","position":"2","name":"<p>Selecione um formato de arquivo.<\/p>\n","text":"<p>Na janela pop-up, expanda a op\u00e7\u00e3o \"Selecionar tipo de arquivo (por extens\u00e3o)\" para visualizar os diversos formatos de imagem.<\/p>\n","url":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp#como-criar-um-logotipo-no-gimp-section9-step2","image":{"@type":"ImageObject","url":"https://www.notzarla.com/images/Zarla-select-a-file-format-288x288-20211020.jpeg?crop=1:1,smart&width=144&dpr=2","height":"288","width":"288"},"itemListElement":[{"@type":"HowToDirection","text":"<p>Especifique o nome do arquivo e a pasta de destino em seu computador.<\/p>\n"},{"@type":"HowToTip","text":"<p>\"PNG\" e \"GIF\" s\u00e3o formatos de alta resolu\u00e7\u00e3o e manter\u00e3o o fundo do seu logotipo transparente.<\/p>\n"},{"@type":"HowToTip","text":"<p>O formato \"JPG\" usa algoritmos para compactar a imagem para um tamanho de arquivo menor e manter um fundo s\u00f3lido.<\/p>\n"},{"@type":"HowToDirection","text":"<p>Depois de selecionar um formato de arquivo, clique em \"Exportar\" no canto inferior direito.<\/p>\n"}]}]}]}</script> <div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-photoshop">
+class="card-preview" href="https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-photoshop">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Como criar um logotipo no Photoshop" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-Photoshop-6000x3375-2021093.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Como criar um logotipo no Photoshop" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-photoshop">Como criar um logotipo no Photoshop</a></p><div
+href="https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-photoshop">Como criar um logotipo no Photoshop</a></p><div
 class="card-text">Aprenda a criar um logotipo no Photoshop com nosso guia passo a passo.</div></div></div></div></div><div
 class="block"><h2 id=fAQs>FAQs:</h2><h3 id=como-posso-criar-um-logotipo-no-gimp>Como posso criar um logotipo no GIMP?</h3><p>Você pode criar seu próprio logotipo usando o GIMP seguindo nosso <a
 href="#como-criar-um-logotipo-no-gimp">guia passo a passo</a>.</p><h3 id=como-posso-fazer-um-design-no-gimp>Como posso fazer um design no GIMP?</h3><ol><li><a
@@ -1006,68 +1006,68 @@ class="container"><h2 class="section-heading">Artigos relacionados</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator">
+class="card-preview" href="https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-illustrator">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="O ícone do aplicativo Adobe Illustrator." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-illustrator-6000x3376-20210831.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="O ícone do aplicativo Adobe Illustrator." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-illustrator">Como criar um logotipo no Illustrator</a></h3><div
+href="https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-illustrator">Como criar um logotipo no Illustrator</a></h3><div
 class="card-text">Aprenda a criar um logotipo para a sua empresa usando o Illustrator com nosso guia passo a passo.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-microsoft-word">
+class="card-preview" href="https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-microsoft-word">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-create-a-logo-in-ms-word-2400x2400-20210907_2021-09-07-065541_yktz.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Uma mulher usando um computador para criar um logotipo no Microsoft Word." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-create-a-logo-in-ms-word-2400x2400-20210907_2021-09-07-065541_yktz.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Uma mulher usando um computador para criar um logotipo no Microsoft Word." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/como-criar-um-logotipo-no-microsoft-word">Como criar um logotipo no Microsoft Word</a></h3><div
+href="https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-microsoft-word">Como criar um logotipo no Microsoft Word</a></h3><div
 class="card-text">Aprenda a criar um logotipo no Microsoft Word com nosso guia passo a passo.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/tipos-de-logotipos">
+class="card-preview" href="https://www.notzarla.com/br/guias/tipos-de-logotipos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-types-of-logos-4955x3504-20210827.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Tipos de logotipos para aplicativos e rede sociais." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-types-of-logos-4955x3504-20210827.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Tipos de logotipos para aplicativos e rede sociais." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/tipos-de-logotipos">8 tipos de logotipos que você deve conhecer</a></h3><div
+href="https://www.notzarla.com/br/guias/tipos-de-logotipos">8 tipos de logotipos que você deve conhecer</a></h3><div
 class="card-text">Um guia detalhado com os oito tipos de logotipos que as empresas podem usar.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/logotipos-com-marca-de-verifica%C3%A7%C3%A3o">
+class="card-preview" href="https://www.notzarla.com/br/guias/logotipos-com-marca-de-verifica%C3%A7%C3%A3o">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-check-mark-logo-20210915.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Uma mão sublinhando uma marca de verificação." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-check-mark-logo-20210915.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Uma mão sublinhando uma marca de verificação." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/logotipos-com-marca-de-verifica%C3%A7%C3%A3o">Logotipos com marca de verificação</a></h3><div
+href="https://www.notzarla.com/br/guias/logotipos-com-marca-de-verifica%C3%A7%C3%A3o">Logotipos com marca de verificação</a></h3><div
 class="card-text">10 logotipos com marca de verificação para o seu negócio.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/br/guias/logotipos-em-branco">
+class="card-preview" href="https://www.notzarla.com/br/guias/logotipos-em-branco">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-white-logos-2399x3593-2021098.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Uma flor branca flutuando na água." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-white-logos-2399x3593-2021098.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Uma flor branca flutuando na água." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/br/guias/logotipos-em-branco">Logotipos em branco</a></h3><div
-class="card-text">Logotipos em branco personalizáveis para todos os tipos de negócios.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/br/guias/como-criar-um-logotipo-no-gimp","name":"Como criar um logotipo no GIMP + Criador de Logo Grátis"},"headline":"Como criar um logotipo no GIMP + Criador de Logo Grátis","description":"Aprenda a criar um logotipo para o seu negócio no GIMP com nosso guia passo a passo.","image":["https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-10-19T02:57:00-05:00","dateModified":"2024-06-17T11:30:33-05:00","author":{"@type":"Person","name":"Natália Nogueira","url":"https://www.zarla.com/br/colaboradores/natália-nogueira"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/br/guias/logotipos-em-branco">Logotipos em branco</a></h3><div
+class="card-text">Logotipos em branco personalizáveis para todos os tipos de negócios.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/br/guias/como-criar-um-logotipo-no-gimp","name":"Como criar um logotipo no GIMP + Criador de Logo Grátis"},"headline":"Como criar um logotipo no GIMP + Criador de Logo Grátis","description":"Aprenda a criar um logotipo para o seu negócio no GIMP com nosso guia passo a passo.","image":["https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/Zarla-how-to-make-a-logo-in-GIMP-2400x2400-20210910_2021-10-19-075917_gohk.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-10-19T02:57:00-05:00","dateModified":"2024-06-17T11:30:33-05:00","author":{"@type":"Person","name":"Natália Nogueira","url":"https://www.notzarla.com/br/colaboradores/natália-nogueira"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -1076,25 +1076,25 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/br">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Idioma</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/how-to-make-a-logo-in-gimp">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-gimp">Español</a></li><li><a
-href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-gimp">Français</a></li><li
+href="https://www.notzarla.com/guides/how-to-make-a-logo-in-gimp">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-hacer-un-logo-en-gimp">Español</a></li><li><a
+href="https://www.notzarla.com/fr/guides/comment-cr%C3%A9er-un-logo-avec-gimp">Français</a></li><li
 class="current" style="color: #3041c4;">Português (Brasil)</li><li><a
-href="https://www.zarla.com/nl/handleidingen/hoe-maak-je-een-logo-in-gimp">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/cara-membuat-logo-di-gimp">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/nl/handleidingen/hoe-maak-je-een-logo-in-gimp">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/gimpte-logo-nas%C4%B1l-olu%C5%9Fturulur">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/jak-zrobi%C4%87-logo-w-gimpie">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/cara-membuat-logo-di-gimp">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Recursos</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/br/guias/ideias-de-logotipos">
+href="https://www.notzarla.com/br/guias/ideias-de-logotipos">
 Ideias de logotipos
 </a></li><li>
 <a
@@ -1102,7 +1102,7 @@ href="/br">
 Criador de sites por IA
 </a></li><li>
 <a
-href="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis">
+href="https://www.notzarla.com/br/criador-de-logo-gr%C3%A1tis">
 Criador de Logo Grátis
 </a></li><li>
 <a
@@ -1110,15 +1110,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/br/termos-de-uso">
+href="https://www.notzarla.com/br/termos-de-uso">
 Termos de uso
 </a></li><li>
 <a
-href="https://www.zarla.com/br/pol%C3%ADtica-de-direitos-autorais">
+href="https://www.notzarla.com/br/pol%C3%ADtica-de-direitos-autorais">
 Política de Direitos Autorais
 </a></li><li>
 <a
-href="https://www.zarla.com/br/pol%C3%ADtica-de-privacidade">
+href="https://www.notzarla.com/br/pol%C3%ADtica-de-privacidade">
 Política de Privacidade
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -1126,7 +1126,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pt-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/br/criador-de-logo-gr%C3%A1tis?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=pt-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Comece a projetar um logotipo personalizado

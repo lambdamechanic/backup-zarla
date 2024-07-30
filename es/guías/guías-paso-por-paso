@@ -7,34 +7,34 @@ property="og:title" content="Guías paso por paso" /><meta
 property="og:description" content="Guías paso a paso para cualquiera que inicie un negocio u organización." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso"><meta
+property="og:url" content="https://www.notzarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="es"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-how-to-6000x4000-20230927.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-how-to-6000x4000-20230927.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso"><link
-rel="alternate" href="https://www.zarla.com/guides/how-to" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/how-to" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/guide-passo-passo" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/guides-pas-%C3%A0-pas" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/schritt-f%C3%BCr-schritt-anleitungen" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/guias-pr%C3%A1ticos" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/handleidingen" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/nas%C4%B1l-yap%C4%B1l%C4%B1r" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wzkaz%C3%B3wki/samouczki" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/tutorial" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso"><link
+rel="alternate" href="https://www.notzarla.com/guides/how-to" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/how-to" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/guide-passo-passo" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/guides-pas-%C3%A0-pas" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/schritt-f%C3%BCr-schritt-anleitungen" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/guias-pr%C3%A1ticos" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/handleidingen" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/nas%C4%B1l-yap%C4%B1l%C4%B1r" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/samouczki" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/tutorial" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guías"><header
 class="header"><div
 class="container"><nav
@@ -43,7 +43,7 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/es">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div></nav></div><div
 class="indicator"><div
 class="indicator-position js-indicator-position"></div></div></header><main
@@ -52,7 +52,7 @@ class="section-breadcrumb"><div
 class="container"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/es/gu%C3%ADas">Guías</a></li></ol></div></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guías","item":"https://www.zarla.com/es/gu%C3%ADas"},{"@type":"ListItem","position":2,"name":"Guías paso por paso","item":"https://www.zarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso"}]}</script> <div
+href="https://www.notzarla.com/es/gu%C3%ADas">Guías</a></li></ol></div></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guías","item":"https://www.notzarla.com/es/gu%C3%ADas"},{"@type":"ListItem","position":2,"name":"Guías paso por paso","item":"https://www.notzarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso"}]}</script> <div
 class="text-center section-page-heading"><div
 class="container"><h1 class="section-heading">Guías paso por paso</h1><div
 class="section-desc"><p>Guías paso a paso para cualquiera que inicie un negocio u organización.</p></div></div></div><div
@@ -64,240 +64,240 @@ class="card card-featured"><div
 class="row align-items-center"><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-nicaragua">Cómo emprender un negocio en Nicaragua</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-nicaragua">Cómo emprender un negocio en Nicaragua</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para emprender un negocio en Nicaragua.</div></div><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-nicaragua">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-nicaragua">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-nicaragua-5459x3637-20210513_2021-05-13-214132.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-nicaragua-5459x3637-20210513_2021-05-13-214132.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-nicaragua-5459x3637-20210513_2021-05-13-214132.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 767px)" />
+srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-nicaragua-5459x3637-20210513_2021-05-13-214132.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 767px)" />
 <source
-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-nicaragua-5459x3637-20210513_2021-05-13-214132.jpeg?crop=16:9,smart&width=949&dpr=2" media="(max-width: 991px)" />
+srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-nicaragua-5459x3637-20210513_2021-05-13-214132.jpeg?crop=16:9,smart&width=949&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic" src="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-nicaragua-5459x3637-20210513_2021-05-13-214132.jpeg?crop=21:16,smart&width=420&dpr=2" width="420" height="320" alt="Cómo emprender un negocio en Nicaragua" />
+class="card-pic" src="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-nicaragua-5459x3637-20210513_2021-05-13-214132.jpeg?crop=21:16,smart&width=420&dpr=2" width="420" height="320" alt="Cómo emprender un negocio en Nicaragua" />
 </picture>
 </a></div></div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-la-rep%C3%BAblica-dominicana">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-la-rep%C3%BAblica-dominicana">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-rep%C3%BAblica-dominicana-3024x4032-20210518.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-rep%C3%BAblica-dominicana-3024x4032-20210518.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-rep%C3%BAblica-dominicana-3024x4032-20210518.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-rep%C3%BAblica-dominicana-3024x4032-20210518.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-rep%C3%BAblica-dominicana-3024x4032-20210518.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo crear una empresa en la República Dominicana" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-rep%C3%BAblica-dominicana-3024x4032-20210518.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo crear una empresa en la República Dominicana" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-la-rep%C3%BAblica-dominicana">Cómo crear una empresa en la República Dominicana</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-la-rep%C3%BAblica-dominicana">Cómo crear una empresa en la República Dominicana</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para incluir un negocio en la República Dominicana.</div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-costa-rica">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-costa-rica">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-costa-rica-4096x2348-20210512.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-costa-rica-4096x2348-20210512.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-costa-rica-4096x2348-20210512.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-costa-rica-4096x2348-20210512.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-costa-rica-4096x2348-20210512.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en Costa Rica" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-costa-rica-4096x2348-20210512.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en Costa Rica" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-costa-rica">Cómo emprender un negocio en Costa Rica</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-costa-rica">Cómo emprender un negocio en Costa Rica</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para emprender un negocio en Costa Rica.</div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-el-salvador">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-el-salvador">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-El-Salvador-5464x3070-20210514.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-El-Salvador-5464x3070-20210514.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-El-Salvador-5464x3070-20210514.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-El-Salvador-5464x3070-20210514.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-El-Salvador-5464x3070-20210514.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en El Salvador" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-El-Salvador-5464x3070-20210514.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en El Salvador" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-el-salvador">Cómo emprender un negocio en El Salvador</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-el-salvador">Cómo emprender un negocio en El Salvador</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para iniciar un negocio en El Salvador.</div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-uruguay">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-uruguay">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Uruguay-4000x3000-20210512.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Uruguay-4000x3000-20210512.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Uruguay-4000x3000-20210512.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Uruguay-4000x3000-20210512.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Uruguay-4000x3000-20210512.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en Uruguay" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Uruguay-4000x3000-20210512.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en Uruguay" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-uruguay">Cómo emprender un negocio en Uruguay</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-uruguay">Cómo emprender un negocio en Uruguay</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para iniciar un negocio en Uruguay.</div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-paraguay">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-paraguay">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-como-crear-una-empresa-en-paraguay-4031x3023-20210517.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-como-crear-una-empresa-en-paraguay-4031x3023-20210517.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-como-crear-una-empresa-en-paraguay-4031x3023-20210517.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-como-crear-una-empresa-en-paraguay-4031x3023-20210517.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-como-crear-una-empresa-en-paraguay-4031x3023-20210517.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo crear una empresa en Paraguay" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-como-crear-una-empresa-en-paraguay-4031x3023-20210517.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo crear una empresa en Paraguay" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-paraguay">Cómo crear una empresa en Paraguay</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-paraguay">Cómo crear una empresa en Paraguay</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para registrar un negocio en Paraguay.</div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-iniciar-una-empresa-en-panam%C3%A1">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-iniciar-una-empresa-en-panam%C3%A1">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-como-iniciar-una-empresa-en-panama.jpg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-como-iniciar-una-empresa-en-panama.jpg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-como-iniciar-una-empresa-en-panama.jpg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-como-iniciar-una-empresa-en-panama.jpg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-como-iniciar-una-empresa-en-panama.jpg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo iniciar una empresa en Panamá" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-como-iniciar-una-empresa-en-panama.jpg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo iniciar una empresa en Panamá" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-iniciar-una-empresa-en-panam%C3%A1">Cómo iniciar una empresa en Panamá</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-iniciar-una-empresa-en-panam%C3%A1">Cómo iniciar una empresa en Panamá</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para iniciar un negocio en Panamá.</div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-honduras">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-honduras">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Honduras-5996x3374-20210513.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Honduras-5996x3374-20210513.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Honduras-5996x3374-20210513.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Honduras-5996x3374-20210513.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Honduras-5996x3374-20210513.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en Honduras" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Honduras-5996x3374-20210513.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en Honduras" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-honduras">Cómo emprender un negocio en Honduras</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-honduras">Cómo emprender un negocio en Honduras</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para iniciar un negocio en Honduras.</div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-m%C3%A9xico">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-m%C3%A9xico">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-m%C3%A9xico-4195x2802-2021054.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-m%C3%A9xico-4195x2802-2021054.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-m%C3%A9xico-4195x2802-2021054.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-m%C3%A9xico-4195x2802-2021054.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-m%C3%A9xico-4195x2802-2021054.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en México" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-m%C3%A9xico-4195x2802-2021054.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en México" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-m%C3%A9xico">Cómo emprender un negocio en México</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-m%C3%A9xico">Cómo emprender un negocio en México</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para emprender un negocio en México.</div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-per%C3%BA">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-per%C3%BA">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Per%C3%BA-5760x3840-2021056.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Per%C3%BA-5760x3840-2021056.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Per%C3%BA-5760x3840-2021056.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Per%C3%BA-5760x3840-2021056.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Per%C3%BA-5760x3840-2021056.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en Perú" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-c%C3%B3mo-emprender-un-negocio-en-Per%C3%BA-5760x3840-2021056.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo emprender un negocio en Perú" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-per%C3%BA">Cómo emprender un negocio en Perú</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-emprender-un-negocio-en-per%C3%BA">Cómo emprender un negocio en Perú</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para iniciar un negocio en Perú.</div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-espa%C3%B1a">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-espa%C3%B1a">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-espa%C3%B1a-3884x5178-2021056.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-espa%C3%B1a-3884x5178-2021056.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-espa%C3%B1a-3884x5178-2021056.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-espa%C3%B1a-3884x5178-2021056.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-espa%C3%B1a-3884x5178-2021056.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo crear una empresa en España" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-espa%C3%B1a-3884x5178-2021056.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo crear una empresa en España" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-espa%C3%B1a">Cómo crear una empresa en España</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-espa%C3%B1a">Cómo crear una empresa en España</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para iniciar un negocio en España.</div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-colombia">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-colombia">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-como-crear-una-empresa-en-colombia-5996x3374-2021054.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-como-crear-una-empresa-en-colombia-5996x3374-2021054.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-como-crear-una-empresa-en-colombia-5996x3374-2021054.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-como-crear-una-empresa-en-colombia-5996x3374-2021054.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-como-crear-una-empresa-en-colombia-5996x3374-2021054.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo crear una empresa en Colombia" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-como-crear-una-empresa-en-colombia-5996x3374-2021054.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo crear una empresa en Colombia" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-colombia">Cómo crear una empresa en Colombia</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-colombia">Cómo crear una empresa en Colombia</a></h2><div
 class="card-text">Conoce las instrucciones paso a paso que cubren los aspectos generales para crear una empresa en Colombia.</div></div></div><div
 class="col-md-6 col-lg-4 card"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-chile">
+class="card-preview" href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-chile">
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-chile-4094x2729-2021057.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-chile-4094x2729-2021057.jpeg?crop=21:16,smart&width=333&dpr=2" media="(max-width: 375px)" />
 <source
-data-srcset="https://www.zarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-chile-4094x2729-2021057.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
+data-srcset="https://www.notzarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-chile-4094x2729-2021057.jpeg?crop=21:16,smart&width=420&dpr=2" media="(max-width: 991px)" />
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-chile-4094x2729-2021057.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo crear una empresa en Chile" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-c%C3%B3mo-crear-una-empresa-en-chile-4094x2729-2021057.jpeg?crop=21:16,smart&width=360&dpr=2" width="358" height="272" alt="Cómo crear una empresa en Chile" />
 </picture>
 </a></div><div
 class="card-body"><h2 class="card-title">
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-chile">Cómo crear una empresa en Chile</a></h2><div
+href="https://www.notzarla.com/es/gu%C3%ADas/c%C3%B3mo-crear-una-empresa-en-chile">Cómo crear una empresa en Chile</a></h2><div
 class="card-text">Instrucciones paso a paso que cubren los aspectos esenciales para crear una empresa en Chile.</div></div></div></div><div
 class="section-pagination"><ul
 class="pagination"><li
 class="page-item active"><span
 class="page-link">1</span></li><li
 class="page-item"><a
-class="page-link" href="https://www.zarla.com/es/guías/guías-paso-por-paso/page/2">2</a></li><li
+class="page-link" href="https://www.notzarla.com/es/guías/guías-paso-por-paso/page/2">2</a></li><li
 class="page-item"><a
-class="page-link" href="https://www.zarla.com/es/guías/guías-paso-por-paso/page/3">3</a></li><li
+class="page-link" href="https://www.notzarla.com/es/guías/guías-paso-por-paso/page/3">3</a></li><li
 class="page-item ellipsis">...</li><li
 class="page-item"><a
-class="page-link" href="https://www.zarla.com/es/guías/guías-paso-por-paso/page/10">10</a></li><li
+class="page-link" href="https://www.notzarla.com/es/guías/guías-paso-por-paso/page/10">10</a></li><li
 class="page-item">
 <a
-class="page-link" href="https://www.zarla.com/es/guías/guías-paso-por-paso/page/2" aria-label="Next">
+class="page-link" href="https://www.notzarla.com/es/guías/guías-paso-por-paso/page/2" aria-label="Next">
 <span
 aria-hidden="true">&raquo;</span>
 <span
@@ -311,27 +311,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/es">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Idioma</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/how-to">English</a></li><li
+href="https://www.notzarla.com/guides/how-to">English</a></li><li
 class="current" style="color: #3041c4;">Español</li><li><a
-href="https://www.zarla.com/it/guide/guide-passo-passo">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/guides-pas-%C3%A0-pas">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/schritt-f%C3%BCr-schritt-anleitungen">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/guias-pr%C3%A1ticos">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/handleidingen">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/nas%C4%B1l-yap%C4%B1l%C4%B1r">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wzkaz%C3%B3wki/samouczki">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/tutorial">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/it/guide/guide-passo-passo">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/guides-pas-%C3%A0-pas">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/schritt-f%C3%BCr-schritt-anleitungen">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/guias-pr%C3%A1ticos">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/handleidingen">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/nas%C4%B1l-yap%C4%B1l%C4%B1r">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wzkaz%C3%B3wki/samouczki">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/tutorial">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Recursos</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/ideas-de-logo">
+href="https://www.notzarla.com/es/gu%C3%ADas/ideas-de-logo">
 Ideas de Logo
 </a></li><li>
 <a
@@ -339,11 +339,11 @@ href="/es">
 Creador de sitios web por IA
 </a></li><li>
 <a
-href="https://www.zarla.com/es/creador-de-logos-gratis">
+href="https://www.notzarla.com/es/creador-de-logos-gratis">
 Creador de logos gratis
 </a></li><li>
 <a
-href="https://www.zarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso">
+href="https://www.notzarla.com/es/gu%C3%ADas/gu%C3%ADas-paso-por-paso">
 Guías paso por paso
 </a></li><li>
 <a
@@ -351,15 +351,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/es/t%C3%A9rminos-de-uso">
+href="https://www.notzarla.com/es/t%C3%A9rminos-de-uso">
 Términos de Uso
 </a></li><li>
 <a
-href="https://www.zarla.com/es/pol%C3%ADtica-de-derechos-de-autor">
+href="https://www.notzarla.com/es/pol%C3%ADtica-de-derechos-de-autor">
 Política de Derechos de Autor
 </a></li><li>
 <a
-href="https://www.zarla.com/es/pol%C3%ADtica-de-privacidad">
+href="https://www.notzarla.com/es/pol%C3%ADtica-de-privacidad">
 Política de Privacidad
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

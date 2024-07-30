@@ -7,34 +7,34 @@ property="og:title" content="Berg logo&#039;s + gratis logomaker" /><meta
 property="og:description" content="20 berg logo-ideeën voor een reeks bedrijven." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/nl/handleidingen/berg-logos"><meta
+property="og:url" content="https://www.notzarla.com/nl/handleidingen/berg-logos"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="nl-NL"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/nl/handleidingen/berg-logos"><link
-rel="alternate" href="https://www.zarla.com/guides/mountain-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/mountain-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-de-monta%C3%B1as" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-con-montagne" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-de-montagne" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/berg-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-de-montanha" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/berg-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/da%C4%9F-logolar%C4%B1" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-g%C3%B3ry" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-gunung" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/nl/handleidingen/berg-logos"><link
+rel="alternate" href="https://www.notzarla.com/guides/mountain-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/mountain-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-de-monta%C3%B1as" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-con-montagne" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-de-montagne" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/berg-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-de-montanha" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/berg-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/da%C4%9F-logolar%C4%B1" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-g%C3%B3ry" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-gunung" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/nl">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/nl/gratis-logo-maker"
+href="https://www.notzarla.com/nl/gratis-logo-maker"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/nl/handleidingen">Gidsen</a></li><li
+href="https://www.notzarla.com/nl/handleidingen">Gidsen</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/nl/handleidingen/logos">Logo&#039;s</a></li><li
+href="https://www.notzarla.com/nl/handleidingen/logos">Logo&#039;s</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/nl/handleidingen/logos/op-soort-zoeken">Op soort zoeken</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Gidsen","item":"https://www.zarla.com/nl/handleidingen"},{"@type":"ListItem","position":2,"name":"Logo&#039;s","item":"https://www.zarla.com/nl/handleidingen/logos"},{"@type":"ListItem","position":3,"name":"Op soort zoeken","item":"https://www.zarla.com/nl/handleidingen/logos/op-soort-zoeken"},{"@type":"ListItem","position":4,"name":"Berg logo&#039;s + gratis logomaker","item":"https://www.zarla.com/nl/handleidingen/berg-logos"}]}</script> <div
+href="https://www.notzarla.com/nl/handleidingen/logos/op-soort-zoeken">Op soort zoeken</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Gidsen","item":"https://www.notzarla.com/nl/handleidingen"},{"@type":"ListItem","position":2,"name":"Logo&#039;s","item":"https://www.notzarla.com/nl/handleidingen/logos"},{"@type":"ListItem","position":3,"name":"Op soort zoeken","item":"https://www.notzarla.com/nl/handleidingen/logos/op-soort-zoeken"},{"@type":"ListItem","position":4,"name":"Berg logo&#039;s + gratis logomaker","item":"https://www.notzarla.com/nl/handleidingen/berg-logos"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Berg logo&#039;s + gratis logomaker</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/profile-800x800-2024057.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/profile-800x800-2024057.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Cheryl Vanija"
 /></div><div
 class="card-byline-details">
 <span>Door <a
-class="card-byline-author" href="https://www.zarla.com/nl/bijdragers/cheryl-vanija">Cheryl Vanija</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/nl/bijdragers/cheryl-vanija">Cheryl Vanija</a>,</span>
 <span
 class="card-byline-date">26 mrt 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Een schilderachtige afbeelding van bergen onder een bewolkte roze hemel."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Bergen worden geassocieerd met kracht, avontuur en succes, waardoor ze geweldig zijn voor bedrijven die een autoritaire positie in de industrie hebben. Door ze op te nemen in je berg logo, wordt de krachtige esthetiek van je merk versterkt. Bekijk onze collectie hieronder of gebruik onze <a
-href="https://www.zarla.com/nl/gratis-logo-maker">gratis berg logomaker</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/nl/gratis-logo-maker">gratis berg logomaker</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,240 +120,240 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Beschrijving</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/f6dgd7kgpxb9jdg84ybr/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/f6dgd7kgpxb9jdg84ybr/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-f6dgd7kgpxb9jdg84ybr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-f6dgd7kgpxb9jdg84ybr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/f6dgd7kgpxb9jdg84ybr/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/f6dgd7kgpxb9jdg84ybr/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>De donkerblauwe achtergrond symboliseert autoriteit en doet de beige tint eruit springen. De fiets, geplaatst tegen een bergketen, creëert een illusie van beweging en suggereert plezier. Het lijnenwerk van het versnellingsaccent contrasteert met de strakke lettervormen van het Blinker-lettertype.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3tvbx4w3fg73rcyqqkxm/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/3tvbx4w3fg73rcyqqkxm/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-3tvbx4w3fg73rcyqqkxm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-3tvbx4w3fg73rcyqqkxm.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3tvbx4w3fg73rcyqqkxm/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/3tvbx4w3fg73rcyqqkxm/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Dit krachtige ontwerp gebruikt het beeld van een wandelaar op een bergtop om ideeën van avontuur en plezier over te brengen. De stompe randen van het Bree Serif-lettertype versterken de sterke esthetiek van het logo, terwijl het donkere kleurenpalet een eenvoudig doch aantrekkelijk aanzien creëert.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/w78h4mk8jxb4ybyjw9bf/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/w78h4mk8jxb4ybyjw9bf/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-w78h4mk8jxb4ybyjw9bf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-w78h4mk8jxb4ybyjw9bf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/w78h4mk8jxb4ybyjw9bf/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/w78h4mk8jxb4ybyjw9bf/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Een bergketen staat vaak symbool voor goddelijke inspiratie en straalt, in combinatie met een sterrenhemel en een dennenbos, balans en rust uit. Het rode en groene kleurenschema zorgt voor een memorabel aanzien, terwijl het lettertype Alegreya Sans SC de moderne look van het logo completeert.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wxr4vr3h4q3hp4jkv3k9/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/wxr4vr3h4q3hp4jkv3k9/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-wxr4vr3h4q3hp4jkv3k9_2022-03-27-213124_txci.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-wxr4vr3h4q3hp4jkv3k9_2022-03-27-213124_txci.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wxr4vr3h4q3hp4jkv3k9/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/wxr4vr3h4q3hp4jkv3k9/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Het icoon dat een camping in de bergen voorstelt, is kenmerkend voor een outdoormerk dat waarde hecht aan harmonie en welzijn. De blauwtinten symboliseren veiligheid en beloven professionele diensten. De nette indruk van het logo wordt aangevuld door het formele Barlow Semi Condensed-lettertype.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/97vmbb9dh9gqk6gj7k3p/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/97vmbb9dh9gqk6gj7k3p/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-97vmbb9dh9gqk6gj7k3p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-97vmbb9dh9gqk6gj7k3p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/97vmbb9dh9gqk6gj7k3p/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/97vmbb9dh9gqk6gj7k3p/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>De paarse achtergrond straalt creativiteit en intriges uit, en doet de witte elementen opvallen. De letters van het Cinzel-lettertype ogen stijlvol. Het camera-icoon suggereert dat je je specialiseert in het vastleggen van buitenscènes, terwijl de bergen grootsheid, kracht en prestatie symboliseert.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/fpr7hftvpx9hkmxx8hdp/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/fpr7hftvpx9hkmxx8hdp/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-fpr7hftvpx9hkmxx8hdp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-fpr7hftvpx9hkmxx8hdp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/fpr7hftvpx9hkmxx8hdp/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/fpr7hftvpx9hkmxx8hdp/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Dit chique ontwerp maakt gebruik van een bergketen en een lommerrijk accent om te verwijzen naar natuurlijke schoonheid. De blauwpaarse tint oogt creatief, terwijl het roze staat voor vreugde en jeugdigheid. De licht afgeronde letters van het Barlow-lettertype vullen de vorm van het pictogram aan.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/yfht9qyrv9dgr489867v/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/yfht9qyrv9dgr489867v/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-yfht9qyrv9dgr489867v.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-yfht9qyrv9dgr489867v.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/yfht9qyrv9dgr489867v/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/yfht9qyrv9dgr489867v/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>De persoon op de bergtop illustreert <em>the sky is the limit</em> op een subtiele manier en verwijst op slimme wijze naar je ambities en vooruitstrevendheid. De paarse en grijze kleuren balanceren mystiek met ernst, terwijl het sierlijke lettertype Pacifico een vleugje elegantie toevoegt aan het design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/m46qdqxw9vrt8dmx9ddf/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/m46qdqxw9vrt8dmx9ddf/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-m46qdqxw9vrt8dmx9ddf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-m46qdqxw9vrt8dmx9ddf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/m46qdqxw9vrt8dmx9ddf/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/m46qdqxw9vrt8dmx9ddf/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>De rode en oranje kleuren symboliseren warmte en energie, en suggereren een bedrijf met een dynamische esthetiek. De bergtop en de zon stralen ideeën uit van succes en optimisme – kwaliteiten voor een levendig merk. Het Cormorant Unicase-lettertype rondt de krachtige uitstraling van het logo af.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/pp3ytvdjpbvhvpd9mrmr/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/pp3ytvdjpbvhvpd9mrmr/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-pp3ytvdjpbvhvpd9mrmr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-pp3ytvdjpbvhvpd9mrmr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/pp3ytvdjpbvhvpd9mrmr/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/pp3ytvdjpbvhvpd9mrmr/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Het beeld van een bergbeklimmer die een moeilijk stuk beklimt, duidt op kracht en ambitie, en verwijst naar een merk dat superieure diensten levert. De zwart-witte tinten versterken de professionele aantrekkingskracht van het ontwerp, terwijl het Autour One-lettertype scherpte toevoegt aan het logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/7y3ghqbbfxc8ckyjq84k/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/7y3ghqbbfxc8ckyjq84k/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-7y3ghqbbfxc8ckyjq84k.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-7y3ghqbbfxc8ckyjq84k.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/7y3ghqbbfxc8ckyjq84k/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/7y3ghqbbfxc8ckyjq84k/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>De lichtblauwe kleur en de bergketen roepen beelden op van bronwater en bergbeekjes, en straalt frisheid en zuiverheid uit. De donkerblauwe kleur van de tekst duidt op autoriteit en geeft de merknaam prominentie, terwijl het klassieke Marcellus-lettertype het logo een vintage uitstraling geeft.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/vcryxj3kmr34c9wr8xdf/edit?industry=Mountain&amp;brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/vcryxj3kmr34c9wr8xdf/edit?industry=Mountain&amp;brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220428-vcryxj3kmr34c9wr8xdf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220428-vcryxj3kmr34c9wr8xdf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/vcryxj3kmr34c9wr8xdf/edit?industry=Mountain&amp;brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/vcryxj3kmr34c9wr8xdf/edit?industry=Mountain&amp;brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Een bergbeklimmer in hoerastemming illustreert slim hoe je klanten zich zullen voelen na gebruik te maken van je diensten. De zwarte en witte kleuren zorgen voor een opvallend en elegant aanzien, terwijl de karakters van het Odibee Sans-lettertype het strakke lijnenwerk van het pictogram aanvullen.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9jd6vcw7mfvr8f7cpxmr/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/9jd6vcw7mfvr8f7cpxmr/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-9jd6vcw7mfvr8f7cpxmr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-9jd6vcw7mfvr8f7cpxmr.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9jd6vcw7mfvr8f7cpxmr/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/9jd6vcw7mfvr8f7cpxmr/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>De oranje kleur van het icoon schept een vreugdige en energieke aanblik in dit ontwerp. De zonsondergang, het bergketen en de heteluchtballon in de negatieve ruimte suggereren een avontuurlijk merk. De grote blokletters van het Zilla Slab-lettertype completeren de gedurfde look van het design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/qtjcg6dbry9f9hycryvh/edit?industry=Mountain&amp;brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/qtjcg6dbry9f9hycryvh/edit?industry=Mountain&amp;brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220428-qtjcg6dbry9f9hycryvh_2022-04-28-133333_iaeq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220428-qtjcg6dbry9f9hycryvh_2022-04-28-133333_iaeq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/qtjcg6dbry9f9hycryvh/edit?industry=Mountain&amp;brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/qtjcg6dbry9f9hycryvh/edit?industry=Mountain&amp;brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Dit logo duidt op je affiniteit voor naturalisme dankzij de heuveltoppen en de eland. De blauwe, oranje en groene tinten scheppen een harmonische indruk en griffen dit design in het geheugen van de klant. Het gestructureerde Biryani-lettertype compenseert het artistieke lijnenwerk van het icoon.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/kpfbk4frc4pyydpxf6qh/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/kpfbk4frc4pyydpxf6qh/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-kpfbk4frc4pyydpxf6qh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-kpfbk4frc4pyydpxf6qh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/kpfbk4frc4pyydpxf6qh/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/kpfbk4frc4pyydpxf6qh/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>De donkerblauwe achtergrond symboliseert stabiliteit en vertrouwen, en de roodoranje tint levendigheid. De bergtoppen en de maan zijn zowel mysterieus als boeiend, verwijzend naar een merk dat kampeerproducten aanbiedt. Het dikgedrukte Candal-lettertype geeft het logo een evenwichtige uitstraling.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/6cp997668gtbtpm99pwj/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/6cp997668gtbtpm99pwj/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-6cp997668gtbtpm99pwj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-6cp997668gtbtpm99pwj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/6cp997668gtbtpm99pwj/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/6cp997668gtbtpm99pwj/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Het casual lettertype Dosis duidt op een persoonlijk merk. Het minimalistische icoon doet denken aan een kinderkunstwerk en geeft het ontwerp een speelse indruk. Het beeld verwijst naar avonturen in de buitenlucht, terwijl de blauwe en roze tinten de jeugdige uitstraling van het logo versterken.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9y4wb63v3gx3kg7d469q/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/9y4wb63v3gx3kg7d469q/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-9y4wb63v3gx3kg7d469q.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-9y4wb63v3gx3kg7d469q.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9y4wb63v3gx3kg7d469q/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/9y4wb63v3gx3kg7d469q/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Dit ontwerp gebruikt een oranje en grijs kleurenpalet om een ​​modern outdoormerk te suggereren. De gelaagde bergtoppen creëren een boeiend beeld dat structuur en stabiliteit uitstraalt, terwijl het vloeiende Bruno Ace SC-lettertype bijdraagt aan het technisch geïnspireerde uiterlijk van het logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/9dmcd7w36pmtgm4jhrph/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/9dmcd7w36pmtgm4jhrph/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-9dmcd7w36pmtgm4jhrph.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-9dmcd7w36pmtgm4jhrph.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/9dmcd7w36pmtgm4jhrph/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/9dmcd7w36pmtgm4jhrph/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Het geometrische lijnenwerk van het icoon verwijst naar orde, balans en autoriteit – kwaliteiten die worden geaccentueerd door het professionele blauwe kleurenschema. De dennenbomen van het pictogram trekken de aandacht naar het edgy Averia Serif Libre-lettertype, dat een trendy aanzien schept.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/ycxfg7xgt3gkvxh99mqc/edit?industry=Mountain&amp;brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/ycxfg7xgt3gkvxh99mqc/edit?industry=Mountain&amp;brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220510-ycxfg7xgt3gkvxh99mqc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220510-ycxfg7xgt3gkvxh99mqc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/ycxfg7xgt3gkvxh99mqc/edit?industry=Mountain&amp;brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/ycxfg7xgt3gkvxh99mqc/edit?industry=Mountain&amp;brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Dit icoon van een bergketen en een kronkelende rivier in een afgebroken rond frame creëert een memorabel aanzien, terwijl de combinatie van de rode en blauwgrijze kleuren helpt om het design te doen opvallen. Het strakke Odibee Sans-lettertype versterkt de nauwkeurige uitstraling van het ontwerp.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/h46r83xyxbybv76tgkyp/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/h46r83xyxbybv76tgkyp/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-h46r83xyxbybv76tgkyp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-h46r83xyxbybv76tgkyp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/h46r83xyxbybv76tgkyp/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/h46r83xyxbybv76tgkyp/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Berggeiten symboliseren traditioneel geloof en moed, waardoor ze geweldig zijn voor een avontuurbedrijf.
 De zwarte achtergrond straalt professionaliteit en verfijning uit, en accentueert de heldere witte elementen. Het afgeronde Baloo Bhai 2-lettertype complementeert de cirkelvorm van het icoon.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/h4mttdxxy7g7989rck3w/edit?brand=Vistapex">
+href="https://www.notzarla.com/logo-maker/h4mttdxxy7g7989rck3w/edit?brand=Vistapex">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-h4mttdxxy7g7989rck3w.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
+data-src="https://www.notzarla.com/images/zarla-vistapex-1x1-2400x2400-20220327-h4mttdxxy7g7989rck3w.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Een berg logo voor een bedrijf dat Vistapex heet.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/h4mttdxxy7g7989rck3w/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
+href="https://www.notzarla.com/logo-maker/h4mttdxxy7g7989rck3w/edit?brand=Vistapex" class="btn btn-primary">Bewerken</a></td><td
 data-label="Beschrijving"><p>Het kompas dat de bergketen omlijst, brengt noties van navigatie en verkenning over. De blauwe kleur staat voor vertrouwen en veiligheid, en laat klanten weten dat je ze veilig op hun buitenavontuur zult begeleiden. Het vetgedrukte Candal-lettertype komt overeen met de structuur van het pictogram.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/nl/handleidingen/openlucht-logos">
+class="card-preview" href="https://www.notzarla.com/nl/handleidingen/openlucht-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-outdoor-logos-5472x3080-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Openlucht logo&#039;s" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-outdoor-logos-5472x3080-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Openlucht logo&#039;s" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/nl/handleidingen/openlucht-logos">Openlucht logo&#039;s</a></p><div
+href="https://www.notzarla.com/nl/handleidingen/openlucht-logos">Openlucht logo&#039;s</a></p><div
 class="card-text">20 frisse logo-ideeën voor je openlucht business.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=faq class="section-heading">FAQ</h2><div
@@ -362,7 +362,7 @@ class="col-12 faq-item"><h3 id=waar-kan-ik-gratis-berg-logo-039-s-downloaden cla
 class="answer"><p>Je kunt gratis berg logo's ontwerpen, bewerken en downloaden met Zarla's logomaker
 door op 'Bewerken' te klikken onder een van <a
 href="#berg-logo-ideeen">onze voorbeelden</a> of door onze <a
-href="https://www.zarla.com/nl/gratis-logo-maker">logogenerator</a> te gebruiken.</p></div></div><div
+href="https://www.notzarla.com/nl/gratis-logo-maker">logogenerator</a> te gebruiken.</p></div></div><div
 class="col-12 faq-item"><h3 id=wat-zijn-enkele-goede-afbeeldingen-van-berg-logo-039-s class="question">Wat zijn enkele goede afbeeldingen van berg logo&#039;s?</h3><div
 class="answer"><p>Afhankelijk van de stijl en de doelmarkt van je bedrijf, moet je berg logo een opvallende afbeelding hebben om de essentie vast te leggen. Pictogrammen zoals bergtoppen, heuveltoppen, bomen, zonneschijn en rivieren zullen goed werken. Combineer je icoon met een modern en gewaagd kleurenschema zoals oranje en grijs of zwart en blauw.</p></div></div><div
 class="col-12 faq-item"><h3 id=hoe-ontwerp-ik-een-berg-logo class="question">Hoe ontwerp ik een berg logo?</h3><div
@@ -376,68 +376,68 @@ class="container"><h2 class="section-heading">Verwante artikelen</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/nl/handleidingen/natuurlijke-logos">
+class="card-preview" href="https://www.notzarla.com/nl/handleidingen/natuurlijke-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-natural-logos-3600x2400-2021096.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Een natuurlijk beeld van een waterval die uitmondt in een meer met bomen en rotsen op de achtergrond." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-natural-logos-3600x2400-2021096.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Een natuurlijk beeld van een waterval die uitmondt in een meer met bomen en rotsen op de achtergrond." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/nl/handleidingen/natuurlijke-logos">Natuurlijke logo&#039;s</a></h3><div
+href="https://www.notzarla.com/nl/handleidingen/natuurlijke-logos">Natuurlijke logo&#039;s</a></h3><div
 class="card-text">20 natuurlijke logo-ideeën voor je bedrijf.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/nl/handleidingen/aardse-logo-idee">
+class="card-preview" href="https://www.notzarla.com/nl/handleidingen/aardse-logo-idee">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-earthy-logos-3872x2592-20210827.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Een persoon die aarde en een plant vasthoudt." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-earthy-logos-3872x2592-20210827.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Een persoon die aarde en een plant vasthoudt." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/nl/handleidingen/aardse-logo-idee">Logo-ideeën met een aardse thema.</a></h3><div
+href="https://www.notzarla.com/nl/handleidingen/aardse-logo-idee">Logo-ideeën met een aardse thema.</a></h3><div
 class="card-text">20 boeiende, aardse logo-ideeën voor je bedrijf.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/nl/handleidingen/bladlogos">
+class="card-preview" href="https://www.notzarla.com/nl/handleidingen/bladlogos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-logos-with-leaves-complete-4127x3095-2021099.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Een close-up van donkergroene bladeren met waterdruppeltjes." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-logos-with-leaves-complete-4127x3095-2021099.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Een close-up van donkergroene bladeren met waterdruppeltjes." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/nl/handleidingen/bladlogos">Blad logo&#039;s</a></h3><div
+href="https://www.notzarla.com/nl/handleidingen/bladlogos">Blad logo&#039;s</a></h3><div
 class="card-text">20 lommerrijke logo-ideeën die je kunt gebruiken voor je bedrijf.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/nl/handleidingen/zonnige-logos">
+class="card-preview" href="https://www.notzarla.com/nl/handleidingen/zonnige-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-sunshine-logos-complete-3200x4000-20210914.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Close-up van zonnestralen die een hand – die de zon omcirkelt – verlichten." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-sunshine-logos-complete-3200x4000-20210914.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Close-up van zonnestralen die een hand – die de zon omcirkelt – verlichten." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/nl/handleidingen/zonnige-logos">Zonnige logo&#039;s</a></h3><div
+href="https://www.notzarla.com/nl/handleidingen/zonnige-logos">Zonnige logo&#039;s</a></h3><div
 class="card-text">20 fleurig zonnige logo-ideeën voor je onderneming.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/nl/handleidingen/maan-logos">
+class="card-preview" href="https://www.notzarla.com/nl/handleidingen/maan-logos">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-lunar-logo-ideas-3257x4687-20210917.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="De maan te zien bij een heldere hemel.." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-lunar-logo-ideas-3257x4687-20210917.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="De maan te zien bij een heldere hemel.." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/nl/handleidingen/maan-logos">Maan logo&#039;s</a></h3><div
-class="card-text">20 heldere maan logo-ideeën voor elk type bedrijf.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/nl/handleidingen/berg-logos","name":"Berg logo&#039;s + gratis logomaker"},"headline":"Berg logo&#039;s + gratis logomaker","description":"20 berg logo-ideeën voor een reeks bedrijven.","image":["https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2022-01-11T06:45:00-06:00","dateModified":"2024-03-26T10:45:38-05:00","author":{"@type":"Person","name":"Cheryl Vanija","url":"https://www.zarla.com/nl/bijdragers/cheryl-vanija"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/nl/handleidingen/maan-logos">Maan logo&#039;s</a></h3><div
+class="card-text">20 heldere maan logo-ideeën voor elk type bedrijf.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/nl/handleidingen/berg-logos","name":"Berg logo&#039;s + gratis logomaker"},"headline":"Berg logo&#039;s + gratis logomaker","description":"20 berg logo-ideeën voor een reeks bedrijven.","image":["https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-mountain-logos-4000x5000-20220113.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2022-01-11T06:45:00-06:00","dateModified":"2024-03-26T10:45:38-05:00","author":{"@type":"Person","name":"Cheryl Vanija","url":"https://www.notzarla.com/nl/bijdragers/cheryl-vanija"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -446,27 +446,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/nl">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Taal</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/mountain-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-de-monta%C3%B1as">Español</a></li><li><a
-href="https://www.zarla.com/it/guide/loghi-con-montagne">Italiano</a></li><li><a
-href="https://www.zarla.com/fr/guides/logos-de-montagne">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/berg-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-de-montanha">Português (Brasil)</a></li><li
+href="https://www.notzarla.com/guides/mountain-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-de-monta%C3%B1as">Español</a></li><li><a
+href="https://www.notzarla.com/it/guide/loghi-con-montagne">Italiano</a></li><li><a
+href="https://www.notzarla.com/fr/guides/logos-de-montagne">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/berg-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-de-montanha">Português (Brasil)</a></li><li
 class="current" style="color: #3041c4;">Nederlands</li><li><a
-href="https://www.zarla.com/tr/rehberler/da%C4%9F-logolar%C4%B1">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-g%C3%B3ry">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-gunung">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/tr/rehberler/da%C4%9F-logolar%C4%B1">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-g%C3%B3ry">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-gunung">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Bronnen</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/nl/handleidingen/logo-idee%C3%ABn">
+href="https://www.notzarla.com/nl/handleidingen/logo-idee%C3%ABn">
 Logo-ideeën
 </a></li><li>
 <a
@@ -474,7 +474,7 @@ href="/nl">
 AI websitebuilder
 </a></li><li>
 <a
-href="https://www.zarla.com/nl/gratis-logo-maker">
+href="https://www.notzarla.com/nl/gratis-logo-maker">
 Gratis logo maker
 </a></li><li>
 <a
@@ -482,15 +482,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/nl/gebruiksvoorwaarden">
+href="https://www.notzarla.com/nl/gebruiksvoorwaarden">
 Gebruiksvoorwaarden
 </a></li><li>
 <a
-href="https://www.zarla.com/nl/auteursrechtenbeleid">
+href="https://www.notzarla.com/nl/auteursrechtenbeleid">
 Auteursrechtenbeleid
 </a></li><li>
 <a
-href="https://www.zarla.com/nl/geheimhoudingsbeleid">
+href="https://www.notzarla.com/nl/geheimhoudingsbeleid">
 Geheimhoudingsbeleid
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -498,7 +498,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/nl/gratis-logo-maker?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=nl-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/nl/gratis-logo-maker?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=nl-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Ontwerp een op maat gemaakt logo

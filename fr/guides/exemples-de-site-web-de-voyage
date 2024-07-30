@@ -7,26 +7,26 @@ property="og:title" content="Exemples de sites web de voyage - 5 sites inspirant
 property="og:description" content="5 exemples de sites d&#039;agence de voyage tendance à la navigation fluide et optimisés pour les moteurs de recherche." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/fr/guides/exemples-de-site-web-de-voyage"><meta
+property="og:url" content="https://www.notzarla.com/fr/guides/exemples-de-site-web-de-voyage"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="fr"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/fr/guides/exemples-de-site-web-de-voyage"><link
-rel="alternate" href="https://www.zarla.com/guides/travel-website-examples" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/travel-website-examples" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/exemples-de-site-web-de-voyage" hreflang="fr" /><link
+rel="canonical" href="https://www.notzarla.com/fr/guides/exemples-de-site-web-de-voyage"><link
+rel="alternate" href="https://www.notzarla.com/guides/travel-website-examples" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/travel-website-examples" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/exemples-de-site-web-de-voyage" hreflang="fr" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="websiteExamples"><header
 class="header"><div
 class="container"><nav
@@ -35,10 +35,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/fr">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/fr"
+href="https://www.notzarla.com/fr"
 class="btn btn-primary cta-nav
 "
 >
@@ -52,11 +52,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides">Guides</a></li><li
+href="https://www.notzarla.com/fr/guides">Guides</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides/exemples-de-sites-web">Exemples de sites web</a></li><li
+href="https://www.notzarla.com/fr/guides/exemples-de-sites-web">Exemples de sites web</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/fr/guides/exemples-de-sites-web/arts-spectacles-et-loisirs">Arts, spectacles et loisirs</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.zarla.com/fr/guides"},{"@type":"ListItem","position":2,"name":"Exemples de sites web","item":"https://www.zarla.com/fr/guides/exemples-de-sites-web"},{"@type":"ListItem","position":3,"name":"Arts, spectacles et loisirs","item":"https://www.zarla.com/fr/guides/exemples-de-sites-web/arts-spectacles-et-loisirs"},{"@type":"ListItem","position":4,"name":"Exemples de sites web de voyage - 5 sites inspirants qui invitent à parcourir le monde","item":"https://www.zarla.com/fr/guides/exemples-de-site-web-de-voyage"}]}</script> <div
+href="https://www.notzarla.com/fr/guides/exemples-de-sites-web/arts-spectacles-et-loisirs">Arts, spectacles et loisirs</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guides","item":"https://www.notzarla.com/fr/guides"},{"@type":"ListItem","position":2,"name":"Exemples de sites web","item":"https://www.notzarla.com/fr/guides/exemples-de-sites-web"},{"@type":"ListItem","position":3,"name":"Arts, spectacles et loisirs","item":"https://www.notzarla.com/fr/guides/exemples-de-sites-web/arts-spectacles-et-loisirs"},{"@type":"ListItem","position":4,"name":"Exemples de sites web de voyage - 5 sites inspirants qui invitent à parcourir le monde","item":"https://www.notzarla.com/fr/guides/exemples-de-site-web-de-voyage"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Exemples de sites web de voyage - 5 sites inspirants qui invitent à parcourir le monde</h1><div
 class="card-body"><div
@@ -65,14 +65,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-owen-fagundes-800x800-2024058_2024-05-08-214321_hkra.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-owen-fagundes-800x800-2024058_2024-05-08-214321_hkra.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Owen Fagundes"
 /></div><div
 class="card-byline-details">
 <span>Par <a
-class="card-byline-author" href="https://www.zarla.com/fr/contributeurs/owen-fagundes">Owen Fagundes</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/fr/contributeurs/owen-fagundes">Owen Fagundes</a>,</span>
 <span
 class="card-byline-date">25 juil. 2024</span><div
 class="card-byline-bio">
@@ -81,21 +81,21 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="A traveler exploring a desert on camelback."
@@ -169,12 +169,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-desktop_2024-07-03-201927_jzcc.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-desktop_2024-07-03-201927_jzcc.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-desktop_2024-07-03-201927_jzcc.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-desktop_2024-07-03-201927_jzcc.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-desktop_2024-07-03-201927_jzcc.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-desktop_2024-07-03-201927_jzcc.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Promovacances"
@@ -214,14 +214,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>WAVE a détecté de nombreuses erreurs d'accessibilité et de contraste qui pourraient nuire à l'expérience de certains utilisateurs. Certains textes sont longs et avec une police trop petite ce qui les rends difficiles à lire. La demande de géolocalisation peut sembler intrusive et devrait être lié à une action de l'utilisateur.</p></div></div></div><h4>Évaluation de la version bureau</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-desktop_2024-07-03-201927_jzcc.webp"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-desktop_2024-07-03-201927_jzcc.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-desktop_2024-07-03-201927_jzcc.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-desktop_2024-07-03-201927_jzcc.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -235,14 +235,14 @@ height="50"
 /></div><div
 class="entry-text"><p>Selon l'évaluation de Google PageSpeed Insights, la version bureau du site de Promovacances est bien optimisée pour les moteurs de recherche, mais pourrait améliorer ses performances et bonnes pratiques en dimensionnant correctement les images et en associant la demande de géolocalisation à une action de l'utilisateur plutôt qu'au chargement de la page.</p><p>Le méga menu ne prend pas trop de place sur l'écran tout en utilisant des images avec des CTA pour suggérer des séjours. Les éléments flottant en bas des pages produits permettent d'accéder facilement au contact du service client, et l'inscription aux alertes.</p></div></div><h4>Évaluation de la version mobile</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-mobile_2024-07-03-201936_frpl.webp"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-mobile_2024-07-03-201936_frpl.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-mobile_2024-07-03-201936_frpl.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-promovacances-com-20240529-mobile_2024-07-03-201936_frpl.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -267,12 +267,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-desktop_2024-07-03-202222_vvkj.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-desktop_2024-07-03-202222_vvkj.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-desktop_2024-07-03-202222_vvkj.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-desktop_2024-07-03-202222_vvkj.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-desktop_2024-07-03-202222_vvkj.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-desktop_2024-07-03-202222_vvkj.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Fram"
@@ -312,14 +312,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>Il y a plusieurs erreurs d'accessibilité selon l'évaluation de WAVE. La page d'accueil est un peu surchargée visuellement et certains textes pourraient gagner en lisibilité. Les descriptions des séjours sont complètes, mais la mise en page pourrait gagner en propreté pour mieux visualiser l'information.</p></div></div></div><h4>Évaluation de la version bureau</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-desktop_2024-07-03-202222_vvkj.webp"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-desktop_2024-07-03-202222_vvkj.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-desktop_2024-07-03-202222_vvkj.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-desktop_2024-07-03-202222_vvkj.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -333,14 +333,14 @@ height="50"
 /></div><div
 class="entry-text"><p>La version bureau du site de Fram est assez performante selon l'évaluation de Google PageSpeed Insights, avec un score de performances qui pourrait s'améliorer en diffusant les images aux formats nouvelle génération et en dimensionnant correctement certaines images.</p><p>Le menu déroulant permet d'explorer les différentes offres de voyage, et le bouton de renvoi en haut de page aide l'utilisateur à retrouver le menu. Les CTA sont bien visibles et guident les utilisateurs vers les séjours et les informations concernant l'entreprise.</p></div></div><h4>Évaluation de la version mobile</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-mobile_2024-07-03-202234_dthb.webp"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-mobile_2024-07-03-202234_dthb.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-mobile_2024-07-03-202234_dthb.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-fram-fr-20240529-mobile_2024-07-03-202234_dthb.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -365,12 +365,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Moana Voyages"
@@ -410,14 +410,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>WAVE a détecté beaucoup d'erreurs d'accessibilité et de contraste, qui pourraient nuire à l'expérience de certains utilisateurs. Il n'y a pas de barre de menu flottante, ou de bouton de renvoi en haut de page, ce qui rend le site moins facile à naviguer.</p></div></div></div><h4>Évaluation de la version bureau</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-desktop.webp"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -431,14 +431,14 @@ height="50"
 /></div><div
 class="entry-text"><p>La version bureau du site de Moana Voyages est performante selon Google PageSpeed Insights, mais pourrait améliorer son score d'accessibilité et diffuser les images aux formats nouvelle génération pour optimiser les temps de chargement.</p><p>La barre de navigation secondaire en haut de page offre un accès facile aux informations essentielles concernant l'agence, sans pour autant distraire l'utilisateur de la barre de menu principale, où les utilisateurs peuvent accéder aux services de l'agence. Les différents séjours, croisières et activités peuvent être cotisés via des formulaires avec les dates et les préférences de l'utilisateur.</p></div></div><h4>Évaluation de la version mobile</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-mobile.webp"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-moanavoyages-com-fr-20240621-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -463,12 +463,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Terre d&#039;aventures"
@@ -508,14 +508,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>WAVE a détecté plusieurs erreurs d'accessibilité, qui pourraient nuire à l'expérience de certains utilisateurs. Les boutons CTA ne sont pas assez grands et peu visibles à cause du manque de contraste de couleurs et de la taille de police.</p></div></div></div><h4>Évaluation de la version bureau</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-desktop.webp"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -529,14 +529,14 @@ height="50"
 /></div><div
 class="entry-text"><p>Selon Google PageSpeed Insights, la version bureau du site pourrait encore améliorer ses performances, notamment en dimensionnant correctement certaines images et en utilisant les formats de diffusion nouvelle génération. Lors du test en direct le site s'est bien chargé, offrant une bonne expérience utilisateur.</p><p>Le méga menu avec les images cliquables permet de découvrir les différentes options de voyage par région, activité, saison, et durée, ainsi que toutes les informations concernant la marque et les agences. Le bouton de renvoi en haut de page permet de retrouver facilement le menu.</p></div></div><h4>Évaluation de la version mobile</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-mobile.webp"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-mobile.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-terdav-com-20240529-mobile.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -561,12 +561,12 @@ class="dot"></div><div
 class="dot"></div></div>
 <picture>
 <source
-data-srcset="https://www.zarla.com/images/Zarla-exempledesiteweb-evaneos-fr-20240529-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-exempledesiteweb-evaneos-fr-20240529-desktop.webp?crop=2:1,offset-x0,offset-y0&width=332&dpr=2" media="(max-width: 412px)" />
 <source
-data-srcset="https://www.zarla.com/images/Zarla-exempledesiteweb-evaneos-fr-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
+data-srcset="https://www.notzarla.com/images/Zarla-exempledesiteweb-evaneos-fr-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=495&dpr=2" media="(max-width: 575px)" />
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-evaneos-fr-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-evaneos-fr-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=650&dpr=2"
 width="650"
 height="403"
 alt="desktop screenshot of website Evaneos"
@@ -606,14 +606,14 @@ src="/assets/images/icon-minus.svg" alt="minus sign" width="18" height="18" />
 </span><div
 class="entry-text"><p>WAVE a détecté quelques erreurs d'accessibilité et de nombreuses erreurs de contraste de couleurs. Il n'y a pas de barre de menu flottante ou de bouton de renvoi en haut de page pour faciliter la navigation.</p></div></div></div><h4>Évaluation de la version bureau</h4><div
 class="entry-website-desktop"><div
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-evaneos-fr-20240529-desktop.webp"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-evaneos-fr-20240529-desktop.webp"
 data-type="desktop"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/Zarla-exempledesiteweb-evaneos-fr-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
+data-src="https://www.notzarla.com/images/Zarla-exempledesiteweb-evaneos-fr-20240529-desktop.webp?crop=400:248,offset-x0,offset-y0&width=400&dpr=2"
 alt="desktop screenshot of website"
 width="400"
 height="248"
@@ -627,14 +627,14 @@ height="50"
 /></div><div
 class="entry-text"><p>Selon l'évaluation de Google PageSpeed Insights les performances de la version bureau site pourrait encore s'améliorer, même si lors du test en direct le site s'est bien chargé offrant une navigation fluide.</p><p>L'image héro avec la vidéo donne du dynamisme à la page d'accueil, offrant un aperçu à l'utilisateur des voyages qu'il pourra effectuer. Les galeries d'images économisent de la place verticalement, tout en invitant les utilisateurs à découvrir les divers contenus avec des CTA bien placés et des images cliquables. Le formulaire de demande de devis est complet et s'adapte aux envies et besoins de l'utilisateur.</p></div></div><h4>Évaluation de la version mobile</h4><div
 class="entry-website-mobile"><div
-data-src="https://www.zarla.com/images/zarla-exempledesiteweb-evaneos-fr-mobile-824x16382-2024073.webp"
+data-src="https://www.notzarla.com/images/zarla-exempledesiteweb-evaneos-fr-mobile-824x16382-2024073.webp"
 data-type="mobile"
 class="lightbox-trigger js-lightbox-trigger"
 ><div
 class="lightbox-thumbnail">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-exempledesiteweb-evaneos-fr-mobile-824x16382-2024073.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-exempledesiteweb-evaneos-fr-mobile-824x16382-2024073.webp?crop=3:5,offset-x0,offset-y0&width=375&dpr=2"
 alt="mobile screenshot of website"
 width="325"
 height="542"
@@ -670,68 +670,68 @@ class="container"><h2 class="section-heading">Articles Liés</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/inspiration-de-logo">
+class="card-preview" href="https://www.notzarla.com/fr/guides/inspiration-de-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-logo-inspiration-20-ideas-to-inspire-your-business-logo-2475x2475-20210831.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une personne assise à un bureau en train de dessiner un logo." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-logo-inspiration-20-ideas-to-inspire-your-business-logo-2475x2475-20210831.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une personne assise à un bureau en train de dessiner un logo." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/inspiration-de-logo">Inspiration de logo</a></h3><div
+href="https://www.notzarla.com/fr/guides/inspiration-de-logo">Inspiration de logo</a></h3><div
 class="card-text">20 idées de logos pour vous inspirer pour la création du logo de votre entreprise.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-de-tourisme">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-de-tourisme">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-tourism-logos-6000x4000-20230216.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une femme prend des photos sur un site touristique qui comprend des ruines anciennes." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-tourism-logos-6000x4000-20230216.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une femme prend des photos sur un site touristique qui comprend des ruines anciennes." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-de-tourisme">Logos de tourisme</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-de-tourisme">Logos de tourisme</a></h3><div
 class="card-text">20 idées originals de logos pour votre entreprise de tourisme.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/logos-tropicaux">
+class="card-preview" href="https://www.notzarla.com/fr/guides/logos-tropicaux">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-tropical-logos-3676x2451-2021092.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une scène de plage tropicale avec du sable blanc, des palmiers et un ciel bleu avec des nuages blancs passant par là." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-tropical-logos-3676x2451-2021092.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une scène de plage tropicale avec du sable blanc, des palmiers et un ciel bleu avec des nuages blancs passant par là." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/logos-tropicaux">Logos tropicaux</a></h3><div
+href="https://www.notzarla.com/fr/guides/logos-tropicaux">Logos tropicaux</a></h3><div
 class="card-text">20 idées de logos tropicaux captivants pour votre entreprise.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo">
+class="card-preview" href="https://www.notzarla.com/fr/guides/comment-cr%C3%A9er-un-logo">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-make-a-logo-5869x3918-20230523_2023-05-23-115655_frka.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une personne conçoit un logo sur une tablette." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-make-a-logo-5869x3918-20230523_2023-05-23-115655_frka.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une personne conçoit un logo sur une tablette." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-logo">Comment créer un logo ?</a></h3><div
+href="https://www.notzarla.com/fr/guides/comment-cr%C3%A9er-un-logo">Comment créer un logo ?</a></h3><div
 class="card-text">Un guide pas à pas pour vous aider à créer un super logo pour votre entreprise.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-slogan">
+class="card-preview" href="https://www.notzarla.com/fr/guides/comment-cr%C3%A9er-un-slogan">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-how-to-write-a-slogan-3269x2400-2024065.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une femme assise à son bureau, écrivant un slogan." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-how-to-write-a-slogan-3269x2400-2024065.webp?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Une femme assise à son bureau, écrivant un slogan." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/fr/guides/comment-cr%C3%A9er-un-slogan">Comment créer un slogan ?</a></h3><div
-class="card-text">Un guide pas à pas avec des conseils pour rédiger un slogan publicitaire accrocheur.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/fr/guides/exemples-de-site-web-de-voyage","name":"Exemples de sites web de voyage - 5 sites inspirants qui invitent à parcourir le monde"},"headline":"Exemples de sites web de voyage - 5 sites inspirants qui invitent à parcourir le monde","description":"5 exemples de sites d&#039;agence de voyage tendance à la navigation fluide et optimisés pour les moteurs de recherche.","image":["https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-04-16T01:35:00-05:00","dateModified":"2024-07-25T15:37:25-05:00","author":{"@type":"Person","name":"Owen Fagundes","url":"https://www.zarla.com/fr/contributeurs/owen-fagundes"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/fr/guides/comment-cr%C3%A9er-un-slogan">Comment créer un slogan ?</a></h3><div
+class="card-text">Un guide pas à pas avec des conseils pour rédiger un slogan publicitaire accrocheur.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/fr/guides/exemples-de-site-web-de-voyage","name":"Exemples de sites web de voyage - 5 sites inspirants qui invitent à parcourir le monde"},"headline":"Exemples de sites web de voyage - 5 sites inspirants qui invitent à parcourir le monde","description":"5 exemples de sites d&#039;agence de voyage tendance à la navigation fluide et optimisés pour les moteurs de recherche.","image":["https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-travel-website-examples-3888x2592-20240514.jpg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2024-04-16T01:35:00-05:00","dateModified":"2024-07-25T15:37:25-05:00","author":{"@type":"Person","name":"Owen Fagundes","url":"https://www.notzarla.com/fr/contributeurs/owen-fagundes"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -740,19 +740,19 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/fr">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Langue</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/travel-website-examples">English</a></li><li
+href="https://www.notzarla.com/guides/travel-website-examples">English</a></li><li
 class="current" style="color: #3041c4;">Français</li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Ressources</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/fr/guides/id%C3%A9es-de-logo">
+href="https://www.notzarla.com/fr/guides/id%C3%A9es-de-logo">
 Idées de logo
 </a></li><li>
 <a
@@ -760,7 +760,7 @@ href="/fr">
 Créateur de sites web par IA
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit">
+href="https://www.notzarla.com/fr/cr%C3%A9ateur-de-logos-gratuit">
 Créateur de logos gratuit
 </a></li><li>
 <a
@@ -768,15 +768,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/conditions-dutilisation">
+href="https://www.notzarla.com/fr/conditions-dutilisation">
 Conditions d&#039;utilisation
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/politique-droits-dauteur">
+href="https://www.notzarla.com/fr/politique-droits-dauteur">
 Politique de droits d&#039;auteur
 </a></li><li>
 <a
-href="https://www.zarla.com/fr/politique-confidentialit%C3%A9">
+href="https://www.notzarla.com/fr/politique-confidentialit%C3%A9">
 Politique de confidentialité
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div

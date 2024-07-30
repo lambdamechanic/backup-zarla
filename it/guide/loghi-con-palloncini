@@ -7,34 +7,34 @@ property="og:title" content="Loghi con Palloncini + Logo Maker Gratuito" /><meta
 property="og:description" content="20 loghi con palloncini colorati e divertenti." /><link
 rel="stylesheet" type="text/css" href="/styles/main-20240614f.min.css"><meta
 property="og:site_name" content="Zarla" /><meta
-property="og:url" content="https://www.zarla.com/it/guide/loghi-con-palloncini"><meta
+property="og:url" content="https://www.notzarla.com/it/guide/loghi-con-palloncini"><meta
 property="og:type" content="website"><meta
 property="og:locale" content="it"><meta
-property="og:image" content="https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
+property="og:image" content="https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=40:21,smart&width=1200&dpr=2" /><meta
 property="og:image:width" content='1200' /><meta
 property="og:image:height" content='630' /><meta
 property="og:image:type" content='image/jpeg' /><link
-rel="canonical" href="https://www.zarla.com/it/guide/loghi-con-palloncini"><link
-rel="alternate" href="https://www.zarla.com/guides/balloon-logos" hreflang="x-default" /><link
-rel="alternate" href="https://www.zarla.com/guides/balloon-logos" hreflang="en" /><link
-rel="alternate" href="https://www.zarla.com/es/gu%C3%ADas/logos-de-globos" hreflang="es" /><link
-rel="alternate" href="https://www.zarla.com/it/guide/loghi-con-palloncini" hreflang="it" /><link
-rel="alternate" href="https://www.zarla.com/fr/guides/logos-de-ballons-gonflables" hreflang="fr" /><link
-rel="alternate" href="https://www.zarla.com/de/leitf%C3%A4den/ballon-logos" hreflang="de" /><link
-rel="alternate" href="https://www.zarla.com/br/guias/logotipos-de-bal%C3%B5es" hreflang="pt-BR" /><link
-rel="alternate" href="https://www.zarla.com/nl/handleidingen/ballon-logos" hreflang="nl-NL" /><link
-rel="alternate" href="https://www.zarla.com/tr/rehberler/balonlu-logolar" hreflang="tr-TR" /><link
-rel="alternate" href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-z-balonami" hreflang="pl-PL" /><link
-rel="alternate" href="https://www.zarla.com/id/panduan/logo-balon" hreflang="id-ID" /><link
+rel="canonical" href="https://www.notzarla.com/it/guide/loghi-con-palloncini"><link
+rel="alternate" href="https://www.notzarla.com/guides/balloon-logos" hreflang="x-default" /><link
+rel="alternate" href="https://www.notzarla.com/guides/balloon-logos" hreflang="en" /><link
+rel="alternate" href="https://www.notzarla.com/es/gu%C3%ADas/logos-de-globos" hreflang="es" /><link
+rel="alternate" href="https://www.notzarla.com/it/guide/loghi-con-palloncini" hreflang="it" /><link
+rel="alternate" href="https://www.notzarla.com/fr/guides/logos-de-ballons-gonflables" hreflang="fr" /><link
+rel="alternate" href="https://www.notzarla.com/de/leitf%C3%A4den/ballon-logos" hreflang="de" /><link
+rel="alternate" href="https://www.notzarla.com/br/guias/logotipos-de-bal%C3%B5es" hreflang="pt-BR" /><link
+rel="alternate" href="https://www.notzarla.com/nl/handleidingen/ballon-logos" hreflang="nl-NL" /><link
+rel="alternate" href="https://www.notzarla.com/tr/rehberler/balonlu-logolar" hreflang="tr-TR" /><link
+rel="alternate" href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-z-balonami" hreflang="pl-PL" /><link
+rel="alternate" href="https://www.notzarla.com/id/panduan/logo-balon" hreflang="id-ID" /><link
 rel="preload" href="/assets/fonts/worksansregular-20200813.woff" as="font" type="font/woff" crossorigin><link
 rel="preload" href="/assets/fonts/worksansbold-20200813.woff" as="font" type="font/woff" crossorigin><meta
 name="viewport" content="width=device-width, initial-scale=1" /><meta
 name="format-detection" content="telephone=no" /><meta
 name="theme-color" content="#ffffff" /><link
-rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
-rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
-rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
-rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
+rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48" ><link
+rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml" ><link
+rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png" /><link
+rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json" /> <script type="text/javascript">window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};heap.load("233246477");</script> </head><body
 class="guideEntries"><header
 class="header"><div
 class="container"><nav
@@ -43,10 +43,10 @@ class="navbar-brand">
 <a
 class="navbar-logo" href="/it">
 <img
-class="navbar-pic " src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
+class="navbar-pic " src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" />
 </a></div>
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito"
+href="https://www.notzarla.com/it/logo-maker-gratuito"
 class="btn btn-primary cta-nav
 "
 >
@@ -60,11 +60,11 @@ class="narrow-container"><div
 class="section-breadcrumb"><ol
 class="breadcrumb"><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide">Guide</a></li><li
+href="https://www.notzarla.com/it/guide">Guide</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide/loghi">Loghi</a></li><li
+href="https://www.notzarla.com/it/guide/loghi">Loghi</a></li><li
 class="breadcrumb-item"><a
-href="https://www.zarla.com/it/guide/loghi/arte-intrattenimento-e-tempo-libero">Arte, Intrattenimento e Tempo Libero</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guide","item":"https://www.zarla.com/it/guide"},{"@type":"ListItem","position":2,"name":"Loghi","item":"https://www.zarla.com/it/guide/loghi"},{"@type":"ListItem","position":3,"name":"Arte, Intrattenimento e Tempo Libero","item":"https://www.zarla.com/it/guide/loghi/arte-intrattenimento-e-tempo-libero"},{"@type":"ListItem","position":4,"name":"Loghi con Palloncini + Logo Maker Gratuito","item":"https://www.zarla.com/it/guide/loghi-con-palloncini"}]}</script> <div
+href="https://www.notzarla.com/it/guide/loghi/arte-intrattenimento-e-tempo-libero">Arte, Intrattenimento e Tempo Libero</a></li></ol></div> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Guide","item":"https://www.notzarla.com/it/guide"},{"@type":"ListItem","position":2,"name":"Loghi","item":"https://www.notzarla.com/it/guide/loghi"},{"@type":"ListItem","position":3,"name":"Arte, Intrattenimento e Tempo Libero","item":"https://www.notzarla.com/it/guide/loghi/arte-intrattenimento-e-tempo-libero"},{"@type":"ListItem","position":4,"name":"Loghi con Palloncini + Logo Maker Gratuito","item":"https://www.notzarla.com/it/guide/loghi-con-palloncini"}]}</script> <div
 class="card card-featured"><h1 class="card-title">
 Loghi con Palloncini + Logo Maker Gratuito</h1><div
 class="card-body"><div
@@ -73,14 +73,14 @@ class="card-byline"><div
 class="card-byline-image">
 <img
 class="lazyload"
-data-src="https://www.zarla.com/images/zarla-michela-cambria-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
+data-src="https://www.notzarla.com/images/zarla-michela-cambria-800x800-2024058.jpeg?crop=1:1,smart&width=80&dpr=2"
 width="80"
 height="80"
 alt="Michela Cambria"
 /></div><div
 class="card-byline-details">
 <span>Di <a
-class="card-byline-author" href="https://www.zarla.com/it/contributors/michela-cambria">Michela Cambria</a>,</span>
+class="card-byline-author" href="https://www.notzarla.com/it/contributors/michela-cambria">Michela Cambria</a>,</span>
 <span
 class="card-byline-date">28 mar 2024</span><div
 class="card-byline-bio">
@@ -89,28 +89,28 @@ class="card-image-holder"><div
 class="card-preview">
 <picture>
 <source
-srcset="https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=372 1x, https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=372 1x, https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=372&dpr=2 2x"
 media="(max-width: 412px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=535 1x, https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=535 1x, https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=535&dpr=2 2x"
 media="(max-width: 575px)"
 />
 <source
-srcset="https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=727 1x, https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
+srcset="https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=727 1x, https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=727&dpr=2 2x"
 media="(max-width: 767px)"
 />
 <img
 class="card-pic"
-srcset="https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
-src="https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=730"
+srcset="https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=730&dpr=2 2x"
+src="https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=2:1,smart&width=730"
 width="730"
 height="365"
 alt="Un insieme di palloncini che fluttuano nell&#039;aria."
 />
 </picture></div></div><div
 class="block-intro-text"><p>Inserire dei palloncini nel logo di un’azienda è un buon modo per comunicare un senso di divertimento, libertà e spensieratezza. I palloncini, infatti, si addicono a diverse tipologie di aziende e non solo ai brand che si occupano di feste. Trova delle idee con la lista seguente e usa il nostro logo maker per <a
-href="https://www.zarla.com/it/logo-maker-gratuito">creare loghi gratis con palloncini</a>.</p></div></div></div></div><div
+href="https://www.notzarla.com/it/logo-maker-gratuito">creare loghi gratis con palloncini</a>.</p></div></div></div></div><div
 class="section-content"><div
 class="container"><div
 class="narrow-container"><div
@@ -120,246 +120,246 @@ class="table-responsive"><table
 class="table"><tbody><tr><th><p>Logo</p></th><th><p>Descrizione</p></th></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/8jq3fy7w6c37m3vrw3wb/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/8jq3fy7w6c37m3vrw3wb/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-8jq3fy7w6c37m3vrw3wb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-8jq3fy7w6c37m3vrw3wb.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/8jq3fy7w6c37m3vrw3wb/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/8jq3fy7w6c37m3vrw3wb/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Lo sfondo turchese ha un aspetto rilassante, e in combinazione con la purezza del bianco, è in grado di mettere i clienti a proprio agio. I cinque palloncini, sospesi in aria, creano un’icona morbida che richiama le idee di leggerezza e idealismo. Il carattere Quicksand, infine, è delicato e dolce.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/6pxv7pwcg9tx3rw89pmf/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/6pxv7pwcg9tx3rw89pmf/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-6pxv7pwcg9tx3rw89pmf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-6pxv7pwcg9tx3rw89pmf.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/6pxv7pwcg9tx3rw89pmf/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/6pxv7pwcg9tx3rw89pmf/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>I palloncini dell’icona, sia per la forma a cuore che per il colore verde, trasmettono sentimenti di amore, calma e sicurezza. Le forme morbide ma geometriche del carattere tipografico Roboto Condensed danno al design un look professionale, enfatizzato dalla serietà del color indaco scuro.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/dq6fpdcgftcjcpjght6k/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/dq6fpdcgftcjcpjght6k/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-dq6fpdcgftcjcpjght6k.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-dq6fpdcgftcjcpjght6k.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/dq6fpdcgftcjcpjght6k/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/dq6fpdcgftcjcpjght6k/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>La forma a cuore dei palloncini e le due sfumature di rosso evocano e celebrano l’amore e la passione. Quest’ultima idea è rappresentata visivamente anche dalla scatola con l’esplosione di decorazioni e coriandoli. L'allegro carattere Bubblegum Sans si addice alla gioia trasmessa dal design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/p7rfrf88vhtrtk67hqpp/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/p7rfrf88vhtrtk67hqpp/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-p7rfrf88vhtrtk67hqpp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-p7rfrf88vhtrtk67hqpp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/p7rfrf88vhtrtk67hqpp/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/p7rfrf88vhtrtk67hqpp/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>La presenza di un solo palloncino, racchiuso in un cerchio sottile, trasmette l’idea di unicità, perfetta per un’azienda che vuole farsi notare. Lo sfondo blu, inoltre, dà risalto sia al luminoso mix di giallo scuro e azzurro che al bianco, usato per dare risalto al solido  carattere Sarabun.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/bhbf4rb6g4ckjvjqkqkq/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/bhbf4rb6g4ckjvjqkqkq/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-bhbf4rb6g4ckjvjqkqkq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-bhbf4rb6g4ckjvjqkqkq.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/bhbf4rb6g4ckjvjqkqkq/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/bhbf4rb6g4ckjvjqkqkq/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>La vivace combinazione di verde mela e fucsia cattura l'attenzione con la sua esuberanza giovanile. I palloncini dell’icona sono incorniciati da un delicato anello che rende il design esteticamente piacevole. Il carattere Quicksand, nonostante i suoi tratti morbidi, crea una base solida per il logo.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/x9xdmkcj6wcb9v8vj4xg/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/x9xdmkcj6wcb9v8vj4xg/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-x9xdmkcj6wcb9v8vj4xg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-x9xdmkcj6wcb9v8vj4xg.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/x9xdmkcj6wcb9v8vj4xg/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/x9xdmkcj6wcb9v8vj4xg/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Questo logo sfrutta lo spazio negativo per creare un’icona accattivante con un bel palloncino. L’azzurro è un colore che trasmette fiducia e si abbina al significato della stella, simbolo di unicità e fortuna. Il carattere Sacramento aggiunge eleganza al design con il suo stile casual ma formale.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/qk4kjcm4rcgrqgtjqhjc/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/qk4kjcm4rcgrqgtjqhjc/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-qk4kjcm4rcgrqgtjqhjc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-qk4kjcm4rcgrqgtjqhjc.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/qk4kjcm4rcgrqgtjqhjc/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/qk4kjcm4rcgrqgtjqhjc/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Un design vibrante e moderno: l’esplosione che accompagna il palloncino dell’icona cattura l'attenzione e, aiutato dalla vivace combinazione di fucsia e azzurro, trasmette divertimento e gioia. Le lettere sinuose del carattere Pattaya creano un senso di dinamismo, enfatizzato dal blu scuro.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/8xgydwt78wqwhm4qq3px/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/8xgydwt78wqwhm4qq3px/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-8xgydwt78wqwhm4qq3px.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-8xgydwt78wqwhm4qq3px.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/8xgydwt78wqwhm4qq3px/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/8xgydwt78wqwhm4qq3px/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Ideale per una società di eventi: la luna decorata con i palloncini è un’icona che sembra dire “riusciamo a organizzare feste in qualsiasi posto”. Le due tonalità di blu ispirano calma e trasmettono una sensazione di intelligenza. Il carattere Fascinate Inline comunica amichevole raffinatezza.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/yvt3v4vtfxx8p4wf7dx8/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/yvt3v4vtfxx8p4wf7dx8/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-yvt3v4vtfxx8p4wf7dx8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-yvt3v4vtfxx8p4wf7dx8.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/yvt3v4vtfxx8p4wf7dx8/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/yvt3v4vtfxx8p4wf7dx8/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Il volto sorridente della nuvoletta dell’icona trasmette tranquillità e allegria, come se fosse felice di essere trasportata dai palloncini. La palette marrone e fucsia e il carattere Amatica SC, che sembra scritto a mano, trasmettono un senso di calore che rende il design versatile e amichevole.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/xr7fyr8pp8qb63dbbp34/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/xr7fyr8pp8qb63dbbp34/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-xr7fyr8pp8qb63dbbp34.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-xr7fyr8pp8qb63dbbp34.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/xr7fyr8pp8qb63dbbp34/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/xr7fyr8pp8qb63dbbp34/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Il bianco si staglia sullo sfondo verde acqua creando un design rassicurante. Il palloncino, essendo a forma di cuore, evoca le idee di amore e amicizia, mentre le stelle aggiungono un tocco di magia. Il filo del palloncino, infine, accompagna lo sguardo verso l’affascinante carattere Bree Serif.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/gttcxrw6hxjkgbptvgjv/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/gttcxrw6hxjkgbptvgjv/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-gttcxrw6hxjkgbptvgjv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-gttcxrw6hxjkgbptvgjv.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/gttcxrw6hxjkgbptvgjv/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/gttcxrw6hxjkgbptvgjv/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>L'icona, con i tre palloncini tra le nuvole, simboleggia la libertà e la fuga dalla realtà, suscitando sensazioni di sollievo e gioia. La palette viola e arancione è attraente e trasmette gioia ed entusiasmo. L'inimitabile carattere Amatica SC bilancia l’icona con i suoi tratti leggeri e delicati.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/cwvdqmv3gc4mbqcm8cpj/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/cwvdqmv3gc4mbqcm8cpj/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20240326-cwvdqmv3gc4mbqcm8cpj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20240326-cwvdqmv3gc4mbqcm8cpj.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/cwvdqmv3gc4mbqcm8cpj/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/cwvdqmv3gc4mbqcm8cpj/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Un logo come questo è perfetto per un’azienda che si rivolge ai bambini: le figure che saltano di gioia tra graziosi palloncini e piccole stelle simboleggiano la speranza. Le forme dinamiche di questa icona si abbinano alle linee slanciate del carattere Poppins e all'allegro mix di verde e fucsia.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/xckp8g9tdmjdrcrgc9jp/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/xckp8g9tdmjdrcrgc9jp/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-xckp8g9tdmjdrcrgc9jp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-xckp8g9tdmjdrcrgc9jp.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/xckp8g9tdmjdrcrgc9jp/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/xckp8g9tdmjdrcrgc9jp/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Il blu scuro è il colore ideale per comunicare professionalità, intelligenza e precisione; quest’ultimo aspetto emerge soprattutto attraverso i solidi cerchi che formano i palloncini. L’aspetto tondeggiante dell’icona è enfatizzato dallo stile sinuoso e audace del carattere Lily Script One.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/qvykvygkjkbd9pd7qw9p/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/qvykvygkjkbd9pd7qw9p/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20240326-qvykvygkjkbd9pd7qw9p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20240326-qvykvygkjkbd9pd7qw9p.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/qvykvygkjkbd9pd7qw9p/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/qvykvygkjkbd9pd7qw9p/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>La scatola dell’icona, da cui vengono fuori palloncini e festoni, rappresenta la solidità e il servizio variegato di questa azienda. Il viola e il fucsia formano una palette elettrizzante ed eccentrica, creando un design vivace, completato dallo stile divertente del carattere tipografico Kodchasan.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3yxqy46m3xjjhdt7bvd7/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/3yxqy46m3xjjhdt7bvd7/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-3yxqy46m3xjjhdt7bvd7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-3yxqy46m3xjjhdt7bvd7.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3yxqy46m3xjjhdt7bvd7/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/3yxqy46m3xjjhdt7bvd7/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Un logo che dice “facciamo festa!”: l’icona unisce un insieme di elementi festosi, tra cui alcuni palloncini di forme diverse che danno vita a un design dinamico e movimentato, alleggerito dalle linee sottili del carattere Comfortaa. Il contrasto tra bianco e giallo scuro aggiunge profondità.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/xgm83bxcmxtfbybjvk48/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/xgm83bxcmxtfbybjvk48/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20240326-xgm83bxcmxtfbybjvk48.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20240326-xgm83bxcmxtfbybjvk48.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/xgm83bxcmxtfbybjvk48/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/xgm83bxcmxtfbybjvk48/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Il contrasto che si crea tra il fresco verde e l'intenso rosso dà vita a un design allegro e festoso. Queste idee si ritrovano nel soggetto dell’icona, costituito da festoni, palloncini e da un'esplosione di coriandoli e stelle. ll carattere Rye aggiunge un tocco eccentrico e western al design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/wf44hprh4yjc4c8mpprh/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/wf44hprh4yjc4c8mpprh/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-wf44hprh4yjc4c8mpprh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-wf44hprh4yjc4c8mpprh.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/wf44hprh4yjc4c8mpprh/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/wf44hprh4yjc4c8mpprh/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Se ti rivolgi ai bambini, questo logo è quello che fa per te. Il simpatico elefantino che tiene tre palloncini con la proboscide è un’icona divertente. Il bianco e il turchese, inoltre, fanno pensare all’innocenza dell'infanzia, mentre il carattere Original Surfer è sorprendente e allegro.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/h9r3499gcqhxdpxwprqy/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/h9r3499gcqhxdpxwprqy/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20240326-h9r3499gcqhxdpxwprqy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20240326-h9r3499gcqhxdpxwprqy.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/h9r3499gcqhxdpxwprqy/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/h9r3499gcqhxdpxwprqy/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Le stelle filanti, i coriandoli, i palloncini e il cappello danno vita a un’icona che si addice a un’azienda in grado di soddisfare le esigenze di tutti. Le lettere paffute e tondeggianti del carattere tipografico Poppins e il mix di magenta scuro e giallo esprimono gioia e vivacità.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/3bhjmxrr8dpf9bckbj7w/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/3bhjmxrr8dpf9bckbj7w/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-3bhjmxrr8dpf9bckbj7w.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-3bhjmxrr8dpf9bckbj7w.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/3bhjmxrr8dpf9bckbj7w/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/3bhjmxrr8dpf9bckbj7w/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Il palloncino che si allontana dal suo gruppo rappresenta l’unicità di uno spirito creativo: aiutato dalla leggerezza dei coriandoli trasmette un senso di libertà e leggerezza, contrastato dall’audace palette in grigio scuro e ciliegia brillante. Infine, il carattere Dosis dona morbidezza al design.</p></td></tr><tr><td
 data-label="Logo" class="td-image">
 <a
-href="https://www.zarla.com/logo-maker/xdqgfmbrtgwvp9dwp6hw/edit?brand=Palloncolori">
+href="https://www.notzarla.com/logo-maker/xdqgfmbrtgwvp9dwp6hw/edit?brand=Palloncolori">
 <picture>
 <img
-data-src="https://www.zarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-xdqgfmbrtgwvp9dwp6hw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
+data-src="https://www.notzarla.com/images/zarla-palloncolori-1x1-2400x2400-20220308-xdqgfmbrtgwvp9dwp6hw.png?crop=1:1,smart&width=250&dpr=2" class="lazyload" width="250" height="250" alt="Un logo con palloncini per un’azienda che si chiama Palloncolori.">
 </picture>
 </a>
 <a
-href="https://www.zarla.com/logo-maker/xdqgfmbrtgwvp9dwp6hw/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
+href="https://www.notzarla.com/logo-maker/xdqgfmbrtgwvp9dwp6hw/edit?brand=Palloncolori" class="btn btn-primary">Modifica</a></td><td
 data-label="Descrizione"><p>Ciò che rende originale questo logo non è solo la palette viola e arancione, colori che rappresentano la magia e l’entusiasmo, ma anche l’uso dello spazio negativo che crea un palloncino tridimensionale. La morbidezza dell’icona, poi, è ripresa dalle forme arrotondate del carattere Fredoka One.</p></td></tr></tbody></table></div></div></div><div
 class="block block-promote"><div
 class="card"><div
 class="row"><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-per-negozi-di-articoli-per-feste">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-per-negozi-di-articoli-per-feste">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-party-supply-logos-4699x3136-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Loghi per Negozi di Articoli per Feste" />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-party-supply-logos-4699x3136-2021021.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Loghi per Negozi di Articoli per Feste" />
 </picture>
 </a></div><div
 class="card-body"><p
 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-per-negozi-di-articoli-per-feste">Loghi per Negozi di Articoli per Feste</a></p><div
+href="https://www.notzarla.com/it/guide/loghi-per-negozi-di-articoli-per-feste">Loghi per Negozi di Articoli per Feste</a></p><div
 class="card-text">10 proposte accattivanti per il logo di un negozio di articoli per feste.</div></div></div></div></div></div></div></div><div
 class="section-faq"><div
 class="container"><h2 id=fAQs class="section-heading">FAQs:</h2><div
 class="row"><div
 class="col-12 faq-item"><h3 id=come-creare-un-logo-con-dei-palloncini class="question">Come creare un logo con dei palloncini?</h3><div
 class="answer"><ol><li>Pensa a come i palloncini possano rappresentare la tua azienda.</li><li>Rifletti sulle caratteristiche del tuo cliente ideale.</li><li>Fai una ricerca sulle aziende che hanno dei palloncini nel logo.</li><li>Usa un logo maker per <a
-href="https://www.zarla.com/it/logo-maker-gratuito">creare loghi gratis</a>.</li><li>Sbizzarrisciti creando diversi design.</li><li>Scarica il logo che preferisci.</li></ol></div></div><div
+href="https://www.notzarla.com/it/logo-maker-gratuito">creare loghi gratis</a>.</li><li>Sbizzarrisciti creando diversi design.</li><li>Scarica il logo che preferisci.</li></ol></div></div><div
 class="col-12 faq-item"><h3 id=dove-trovare-delle-idee-per-un-logo-con-palloncini class="question">Dove trovare delle idee per un logo con palloncini?</h3><div
 class="answer"><p>Puoi trovarle su Zarla. Per creare un logo, inoltre, ti basterà cliccare sul tasto "modifica" sotto <a
 href="#idee-per-loghi-con-palloncini">uno dei nostri loghi</a> oppure usare direttamente il logo maker per crearne uno da zero.</p></div></div><div
@@ -370,68 +370,68 @@ class="container"><h2 class="section-heading">Articoli Correlati</h2><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-giocosi">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-giocosi">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-playful-logos-3839x4239-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una persona giocosa che indossa delle orecchie da coniglietto e tiene delle uova davanti agli occhi." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-playful-logos-3839x4239-20230523.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una persona giocosa che indossa delle orecchie da coniglietto e tiene delle uova davanti agli occhi." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-giocosi">Loghi Giocosi</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-giocosi">Loghi Giocosi</a></h3><div
 class="card-text">20 esempi di loghi giocosi per la tua azienda, brand, negozio o attività.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-per-attivit%C3%A0-di-confezionamento-regali">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-per-attivit%C3%A0-di-confezionamento-regali">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-gift-wrapping-logos-2400x2400-20210128.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un regalo impacchettato con una carta da pacchi e un nastro." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-gift-wrapping-logos-2400x2400-20210128.jpg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un regalo impacchettato con una carta da pacchi e un nastro." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-per-attivit%C3%A0-di-confezionamento-regali">Loghi per Attività di Confezionamento Regali</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-per-attivit%C3%A0-di-confezionamento-regali">Loghi per Attività di Confezionamento Regali</a></h3><div
 class="card-text">10 loghi suggestivi per la tua attività di impacchettamento regali.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-esuberanti">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-esuberanti">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-exuberant-logos-4608x3072-20211014.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un bambino esuberante che viene lanciato in aria da un&#039;adulta." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-exuberant-logos-4608x3072-20211014.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Un bambino esuberante che viene lanciato in aria da un&#039;adulta." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-esuberanti">Loghi Esuberanti</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-esuberanti">Loghi Esuberanti</a></h3><div
 class="card-text">20 idee esuberanti per il logo della tua azienda o attività.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-divertenti">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-divertenti">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/Zarla-Funny-Logos-5412x3811-20220113.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Due emoji dall’aspetto divertente che ridono con gusto." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/Zarla-Funny-Logos-5412x3811-20220113.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Due emoji dall’aspetto divertente che ridono con gusto." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-divertenti">Loghi Divertenti</a></h3><div
+href="https://www.notzarla.com/it/guide/loghi-divertenti">Loghi Divertenti</a></h3><div
 class="card-text">20 idee divertenti per il logo della tua azienda, brand o negozio.</div></div></div><div
 class="card "><div
 class="card-image-holder">
 <a
-class="card-preview" href="https://www.zarla.com/it/guide/loghi-per-aziende-di-biglietti-di-auguri">
+class="card-preview" href="https://www.notzarla.com/it/guide/loghi-per-aziende-di-biglietti-di-auguri">
 <picture>
 <img
-class="card-pic lazyload" data-src="https://www.zarla.com/images/zarla-greeting-card-logos-4000x6000-20220929.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una persona con in mano un biglietto di auguri." />
+class="card-pic lazyload" data-src="https://www.notzarla.com/images/zarla-greeting-card-logos-4000x6000-20220929.jpeg?crop=21:16,smart&width=210&dpr=2" width="210" height="160" alt="Una persona con in mano un biglietto di auguri." />
 </picture>
 </a></div><div
 class="card-body"><h3 class="card-title">
 <a
-href="https://www.zarla.com/it/guide/loghi-per-aziende-di-biglietti-di-auguri">Loghi per Aziende di Biglietti di Auguri</a></h3><div
-class="card-text">10 loghi per un brand o negozio di biglietti di auguri.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.zarla.com/it/guide/loghi-con-palloncini","name":"Loghi con Palloncini + Logo Maker Gratuito"},"headline":"Loghi con Palloncini + Logo Maker Gratuito","description":"20 loghi con palloncini colorati e divertenti.","image":["https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.zarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-10-08T09:06:00-05:00","dateModified":"2024-03-28T09:46:43-05:00","author":{"@type":"Person","name":"Michela Cambria","url":"https://www.zarla.com/it/contributors/michela-cambria"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.zarla.com","logo":{"@type":"ImageObject","url":"https://www.zarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
+href="https://www.notzarla.com/it/guide/loghi-per-aziende-di-biglietti-di-auguri">Loghi per Aziende di Biglietti di Auguri</a></h3><div
+class="card-text">10 loghi per un brand o negozio di biglietti di auguri.</div></div></div></div></div></main> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.notzarla.com/it/guide/loghi-con-palloncini","name":"Loghi con Palloncini + Logo Maker Gratuito"},"headline":"Loghi con Palloncini + Logo Maker Gratuito","description":"20 loghi con palloncini colorati e divertenti.","image":["https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=1:1,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=4:3,smart&width=1200&dpr=2","https://www.notzarla.com/images/zarla-balloon-logos-4122x2766-2021108.jpeg?crop=16:9,smart&width=1200&dpr=2"],"datePublished":"2021-10-08T09:06:00-05:00","dateModified":"2024-03-28T09:46:43-05:00","author":{"@type":"Person","name":"Michela Cambria","url":"https://www.notzarla.com/it/contributors/michela-cambria"},"publisher":{"@type":"Organization","name":"Zarla","url":"https://www.notzarla.com","logo":{"@type":"ImageObject","url":"https://www.notzarla.com/static/zarla-logo-200x60-20210225.png"}}}</script> <footer
 class="footer"><div
 class="container"><div
 class="row"><div
@@ -440,27 +440,27 @@ class="footer-brand">
 <a
 class="footer-logo without-title" href="/it">
 <img
-class="footer-pic lazyload" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
+class="footer-pic lazyload" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg" width="200" height="60" alt="Zarla Logo" /><div
 class="footer-group"></div>
 </a></div></div><div
 class="col-md-6 col-lg-3"><p
 class="footer-category">Lingua</p><ul
 class="footer-menu list-unstyled"><li><a
-href="https://www.zarla.com/guides/balloon-logos">English</a></li><li><a
-href="https://www.zarla.com/es/gu%C3%ADas/logos-de-globos">Español</a></li><li
+href="https://www.notzarla.com/guides/balloon-logos">English</a></li><li><a
+href="https://www.notzarla.com/es/gu%C3%ADas/logos-de-globos">Español</a></li><li
 class="current" style="color: #3041c4;">Italiano</li><li><a
-href="https://www.zarla.com/fr/guides/logos-de-ballons-gonflables">Français</a></li><li><a
-href="https://www.zarla.com/de/leitf%C3%A4den/ballon-logos">Deutsch</a></li><li><a
-href="https://www.zarla.com/br/guias/logotipos-de-bal%C3%B5es">Português (Brasil)</a></li><li><a
-href="https://www.zarla.com/nl/handleidingen/ballon-logos">Nederlands</a></li><li><a
-href="https://www.zarla.com/tr/rehberler/balonlu-logolar">Türkçe</a></li><li><a
-href="https://www.zarla.com/pl/wskaz%C3%B3wki/logo-z-balonami">Polski</a></li><li><a
-href="https://www.zarla.com/id/panduan/logo-balon">Bahasa Indonesia</a></li></ul></div><div
+href="https://www.notzarla.com/fr/guides/logos-de-ballons-gonflables">Français</a></li><li><a
+href="https://www.notzarla.com/de/leitf%C3%A4den/ballon-logos">Deutsch</a></li><li><a
+href="https://www.notzarla.com/br/guias/logotipos-de-bal%C3%B5es">Português (Brasil)</a></li><li><a
+href="https://www.notzarla.com/nl/handleidingen/ballon-logos">Nederlands</a></li><li><a
+href="https://www.notzarla.com/tr/rehberler/balonlu-logolar">Türkçe</a></li><li><a
+href="https://www.notzarla.com/pl/wskaz%C3%B3wki/logo-z-balonami">Polski</a></li><li><a
+href="https://www.notzarla.com/id/panduan/logo-balon">Bahasa Indonesia</a></li></ul></div><div
 class="col-md-6 col-lg-3 "><p
 class="footer-category">Risorse</p><ul
 class="footer-menu list-unstyled"><li>
 <a
-href="https://www.zarla.com/it/guide/idee-per-loghi">
+href="https://www.notzarla.com/it/guide/idee-per-loghi">
 Idee per Loghi
 </a></li><li>
 <a
@@ -468,7 +468,7 @@ href="/it">
 Website Builder AI
 </a></li><li>
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito">
+href="https://www.notzarla.com/it/logo-maker-gratuito">
 Logo Maker Gratuito
 </a></li><li>
 <a
@@ -476,15 +476,15 @@ href="mailto:hello%40zarla.com">
 hello@zarla.com
 </a></li><li>
 <a
-href="https://www.zarla.com/it/termini-di-utilizzo">
+href="https://www.notzarla.com/it/termini-di-utilizzo">
 Termini di Utilizzo
 </a></li><li>
 <a
-href="https://www.zarla.com/it/norme-sul-copyright">
+href="https://www.notzarla.com/it/norme-sul-copyright">
 Norme sul Copyright
 </a></li><li>
 <a
-href="https://www.zarla.com/it/informativa-sulla-privacy">
+href="https://www.notzarla.com/it/informativa-sulla-privacy">
 Informativa sulla Privacy
 </a></li></ul></div></div></div><div
 class="footer-bottom"><div
@@ -492,7 +492,7 @@ class="container"><p
 class="footer-copyright">© 2024 Zarla Inc.</p></div></div></footer><div
 class="cta-sticky-footer js-cta-sticky-footer">
 <a
-href="https://www.zarla.com/it/logo-maker-gratuito?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=it-startdesigningacustomlogo-20240613"
+href="https://www.notzarla.com/it/logo-maker-gratuito?utm_source=zarla&amp;utm_medium=internal&amp;utm_campaign=zd-guideslogos-stickybottom&amp;utm_term=it-startdesigningacustomlogo-20240613"
 class="btn btn-primary"
 >
 Comincia a creare un logo personalizzato

@@ -3,46 +3,46 @@
   <head>
     <meta charset="utf-8">
     <title>Criador de logo grátis do Zarla</title>
-    <link rel="preload" href="https://www.zarla.com/assets/fonts/urbanist-extrabold.woff" as="font" type="font/woff" crossorigin="anonymous">
-    <link rel="preload" href="https://www.zarla.com/assets/fonts/urbanist-regular.woff" as="font" type="font/woff" crossorigin="anonymous">
+    <link rel="preload" href="https://www.notzarla.com/assets/fonts/urbanist-extrabold.woff" as="font" type="font/woff" crossorigin="anonymous">
+    <link rel="preload" href="https://www.notzarla.com/assets/fonts/urbanist-regular.woff" as="font" type="font/woff" crossorigin="anonymous">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta name="theme-color" content="#ffffff">
     <meta name="apple-mobile-web-app-title" content="Zarla">
     <meta name="application-name" content="Zarla">
-    <meta name="msapplication-TileImage" content="https://www.zarla.com/static/zarla-favicon-mstile-150x150-20201013.png">
+    <meta name="msapplication-TileImage" content="https://www.notzarla.com/static/zarla-favicon-mstile-150x150-20201013.png">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-config" content="https://www.zarla.com/static/zarla-browserconfig-20201013.xml">
+    <meta name="msapplication-config" content="https://www.notzarla.com/static/zarla-browserconfig-20201013.xml">
     <meta name="description" content="Use o criador de logo que mais cresce no mundo para projetar seu logo grátis.">
     <meta property="og:title" content="Criador de logo grátis do Zarla">
     <meta property="og:description" content="Use o criador de logo que mais cresce no mundo para projetar seu logo grátis.">
     <meta property="og:site_name" content="Zarla">
-    <meta property="og:url" content="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis">
+    <meta property="og:url" content="https://www.notzarla.com/br/criador-de-logo-gr%C3%A1tis">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="pt-BR">
-    <meta property="og:image" content="https://www.zarla.com/assets/images/zarla-sharing-image-meta-og-1200x630-20220111.png">
+    <meta property="og:image" content="https://www.notzarla.com/assets/images/zarla-sharing-image-meta-og-1200x630-20220111.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:image:type" content="image/png">
     <meta name="og:image:alt" content="Zarla hero image">
-    <link rel="mask-icon" href="https://www.zarla.com/assets/images/zarla-favicon-safari-pinned-tab-20201013.svg" color="#808080">
-    <link rel="manifest" href="https://www.zarla.com/static/zarla-manifest-20211103.json">
-    <link rel="icon" href="https://www.zarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48">
-    <link rel="icon" href="https://www.zarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="https://www.zarla.com/static/zarla-favicon-apple-touch-icon-20201013.png">
-    <style>a{color:#3b4cbd;text-decoration:none}a:active,a:focus,a:hover{text-decoration:underline}.btn,a{-webkit-transition:all .2s ease-in-out}a{transition:all .2s ease-in-out}.btn:active,.btn:focus,.btn:hover,a:active,a:focus,a:hover{outline:0;-webkit-box-shadow:none;-moz-box-shadow:none;-ms-box-shadow:none;-o-box-shadow:none;box-shadow:none}a.btn{display:flex;justify-content:center;align-items:center}a.btn:hover{text-decoration:none}input[type=email],input[type=password],input[type=text]{-webkit-appearance:none;-moz-appearance:none;appearance:none;-webkit-focus-ring-color:none;outline:0}input[type=email]:active,input[type=email]:focus,input[type=email]:hover,input[type=password]:active,input[type=password]:focus,input[type=password]:hover,input[type=text]:active,input[type=text]:focus,input[type=text]:hover{-webkit-box-shadow:none;-moz-box-shadow:none;-ms-box-shadow:none;-o-box-shadow:none;box-shadow:none}::-webkit-input-placeholder{color:#a7a7a7}:-ms-input-placeholder{color:#a7a7a7}::placeholder{color:#a7a7a7}*,::after,::before{box-sizing:border-box}ol[class],ul[class]{padding:0}blockquote,body,dd,dl,figcaption,figure,h1,h2,h3,h4,li,ol[class],p,ul[class]{margin:0}body{min-height:100vh;scroll-behavior:smooth;text-rendering:optimizeSpeed;line-height:1.5;color:#222;font:125%/1.4 "Urbanist","Helvetica Neue Light","Helvetica Neue","Helvetica","Arial",sans-serif;font-size:1rem;padding-top:76px}ol[class],ul[class]{list-style:none}img{max-width:100%;display:block}article>*+*{margin-top:1em}button,input,select,textarea{font:inherit}@media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}a:active,a:hover{color:#3b4cbd}@font-face{font-family:"Urbanist";src:url(https://www.zarla.com/assets/fonts/urbanist-extrabold.eot);src:url(https://www.zarla.com/assets/fonts/urbanist-extrabold.eot?#iefix) format("embedded-opentype"),url(https://www.zarla.com/assets/fonts/urbanist-extrabold.woff) format("woff"),url(https://www.zarla.com/assets/fonts/urbanist-extrabold.ttf) format("truetype"),url(https://www.zarla.com/assets/fonts/urbanist-extrabold.svg#urbanist-extrabold) format("svg");font-weight:800;font-style:normal;font-display:swap}@font-face{font-family:"Urbanist";src:url(https://www.zarla.com/assets/fonts/urbanist-regular.eot);src:url(https://www.zarla.com/assets/fonts/urbanist-regular.eot?#iefix) format("embedded-opentype"),url(https://www.zarla.com/assets/fonts/urbanist-regular.woff) format("woff"),url(https://www.zarla.com/assets/fonts/urbanist-regular.ttf) format("truetype"),url(https://www.zarla.com/assets/fonts/urbanist-regular.svg#urbanist-regular) format("svg");font-weight:400;font-style:normal;font-display:swap}h2{font-size:40px;line-height:1.2;letter-spacing:-.8px}h3{font-size:24px;letter-spacing:-.5px}.t-center{text-align:center}.t-bold{font-weight:800}@media screen and (max-width:1199px){h2{font-size:32px}}@media screen and (max-width:575px){h2{font-size:26px}h3{font-size:18px;letter-spacing:0}}.hide-text{overflow:hidden;padding:0;text-indent:101%;white-space:nowrap}.visually-hidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}@media screen and (max-width:767px){body{padding-top:65px}}@media screen and (max-width:575px){body{padding-top:50px}}header{position:absolute;top:0;z-index:1040;display:flex;align-items:center;padding-left:52px;width:100%;height:76px;background-color:#f5f2f7}.header-holder{position:relative}.header-logo{width:160px;height:48px}.header-on-scroll{position:fixed;left:0;z-index:1050;display:flex;justify-content:center;align-items:center;padding:0 15px;width:100%;height:76px;background-color:#f5f2f7;transition:all .2s;box-shadow:1px -4px 10px rgba(0,0,0,.5)}.header-on-scroll.is-closed{top:-76px}.header-on-scroll.is-active{top:0}.header-on-scroll .input{margin-right:9px;width:460px;height:60px}.input-brand-wrapper{position:relative}.input-brand-wrapper .input{padding-right:15px}.input-brand-wrapper .input.is-active:focus{padding-right:60px}.input-brand-wrapper .input:focus{box-shadow:0 0 10px 0 #3b4cbd}.input-brand-wrapper .input:focus+.input-limit:not(.is-hidden){display:block}.input-limit,.input-limit.is-hidden{display:none}.input-limit{position:absolute;top:50%;right:18px;font-size:16px;color:#737373;transform:translateY(-50%)}.zarla-logo-head-wrapper{margin-right:10px;width:52px}.zarla-logo-head{width:100%;height:auto}@media screen and (max-width:991px){header{padding-left:28px}}@media screen and (max-width:767px){header{padding:0 33px}.header-on-scroll,header{height:65px}.header-on-scroll .input,.zarla-logo-head,.zarla-logo-head-wrapper{display:none}.header-on-scroll .btn{width:100%}}@media screen and (max-width:575px){header{padding:0 15px;height:50px}.header-logo{width:100px;height:30px}}.footer-wrapper{padding-top:60px;padding-bottom:60px;background-color:#f9f9f9}.footer-main{padding:0 122px;margin:0 auto;width:1424px;display:flex;justify-content:space-between}.footer-logo img{width:200px;height:60px}.footer-blocks{display:flex;width:50%}.footer-block{flex-grow:1}.footer-block-title{margin-bottom:16px;font-size:18px}.footer-block-group{margin:16px 0;min-width:186px}.footer-block-item{margin-bottom:13px;font-size:16px;color:#737373}.footer-block-item a{color:inherit}.footer-block-item a.active-lang{color:#3b4cbd;pointer-events:none}.copyright{padding:28px calc(122px - 15px);font-size:16px;color:#737373}@media (max-width:1599px){.footer-main{width:100%}.copyright{padding:28px calc(122px + 34px)}}@media screen and (max-width:1199px){.footer{padding:0}.footer-main{padding:0 54px}.copyright{padding:28px 50px}}@media screen and (max-width:991px){.footer-block-group{min-width:170px}}@media screen and (max-width:767px){.footer-wrapper{padding-top:40px;padding-bottom:40px}.footer-main{flex-wrap:wrap;padding-bottom:0}.footer-logo{margin-top:40px;order:1}.footer-blocks{width:100%}}@media screen and (max-width:575px){.footer-wrapper{padding:30px 0}.footer-main,.footer-wrapper .section{padding:0 15px}.footer-blocks{flex-wrap:wrap}.footer-block{margin-bottom:12px;width:100%}.footer-block-title{position:relative;padding:8px 0;margin-bottom:5px;font-size:20px}.footer-block-title::after{content:' ';position:absolute;right:0;width:18px;height:30px;background-image:url(data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMzIwIDUxMiI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNMTQzIDM1Mi4zTDcgMjE2LjNjLTkuNC05LjQtOS40LTI0LjYgMC0zMy45bDIyLjYtMjIuNmM5LjQtOS40IDI0LjYtOS40IDMzLjkgMGw5Ni40IDk2LjQgOTYuNC05Ni40YzkuNC05LjQgMjQuNi05LjQgMzMuOSAwbDIyLjYgMjIuNmM5LjQgOS40IDkuNCAyNC42IDAgMzMuOWwtMTM2IDEzNmMtOS4yIDkuNC0yNC40IDkuNC0zMy44IDB6Ii8+PC9zdmc+);background-repeat:no-repeat;transition:transform .2s}.footer-block-title.is-active::after{transform:rotate(180deg)}.footer-block-group{max-height:0;overflow:hidden;transition:max-height .2s}.footer-block-group.is-active{max-height:400px}.footer-block-item{padding-left:15px}.footer-logo{margin-top:32px}.footer-logo img{width:160px;height:48px}.copyright-wrapper .section{padding:0 15px}.copyright{padding:24px 0}}.section{padding:0 15px;margin:0 auto;width:1424px}@media (max-width:1599px){.section{width:100%}}@media screen and (max-width:575px){.section{padding:0 15px}}.faq{display:flex;flex-direction:column;justify-content:center;align-items:center}.faq-title{margin-bottom:44px}.faq{padding:62px 0}.faq .btn{padding:12px 30px}.questions{display:flex;flex-wrap:wrap;justify-content:space-between;padding:0 122px}.question{width:48%;margin-bottom:48px}.question-heading{margin-bottom:4px}.question-answer{font-size:22px}@media screen and (max-width:1199px){.faq{padding:62px 0 calc(62px - 48px)}.questions{padding:0 54px}}@media screen and (max-width:767px){.faq{padding-top:40px;padding-bottom:0}.question{width:100%}}@media screen and (max-width:575px){.faq{padding-right:15px;padding-bottom:0;padding-left:15px}.questions{padding:0}.question-answer{font-size:18px}}.btn{padding:12px 15px;font-size:23px;text-align:center;border-radius:5px;cursor:pointer;transition:all .3s ease-in-out}.btn-lg{width:265px;height:60px}.btn-sm{padding-left:23px;padding-right:23px;min-height:48px;font-size:16px}.btn-primary{color:#fff;background-color:#3b4cbd;border:1px solid #3b4cbd}@media (pointer:fine){.btn-primary:hover{background-color:#5567e1;color:#fff}}.btn-inverted{color:#3b4cbd;background-color:#fff;border:2px solid #3b4cbd}@media (pointer:fine){.btn-inverted:hover{background-color:#3b4cbd;color:#fff}}.btn-edit-logo{display:flex;justify-content:center;align-items:center;width:100%;padding:12px;margin-top:14px;font-size:16px;overflow:hidden;white-space:nowrap;text-decoration:none}.btn-edit-logo:active,.btn-edit-logo:focus{text-decoration:none}@media (pointer:fine){.logo-wrapper:hover .btn-edit-logo{background-color:#3b4cbd;color:#fff}}a.btn-plan-select{display:inline-flex;width:auto;transition:none}a.btn-plan-select:hover{color:#fff}a.btn-plan-select:focus{text-decoration:none}@media screen and (max-width:1199px){.btn{font-size:20px}.btn-edit-logo,.btn-sm{font-size:16px}}@media screen and (max-width:767px){.btn{padding:5px 15px}.btn-edit-logo{padding:12px 15px}}@media screen and (max-width:575px){.btn{width:100%;font-size:19px}.btn-sm{width:auto}.btn-edit-logo,.btn-sm{font-size:16px}}@media (max-width:319px){.btn-edit-logo{font-size:14px}}.input{padding:15px;font-size:23px;border:1px solid #3b4cbd;border-radius:5px}.input::placeholder{position:relative;top:-1px}@media screen and (max-width:1199px){.input{font-size:20px}}@media screen and (max-width:767px){.input{font-size:16px}}@media screen and (max-width:575px){.input{font-size:19px}}.banner{position:relative;display:flex;justify-content:space-between;align-items:center;padding-top:20px;padding-bottom:50px}.banner-title{margin-bottom:14px;font-size:72px;font-weight:800;line-height:1.3}.banner-title-divider{display:block}.banner-subtitle{margin-bottom:51px;font-size:35px;font-weight:400;line-height:1.3}.banner-subtitle,.banner-title{letter-spacing:0}.banner-content{width:950px}.banner-form{display:flex;flex-direction:column}.banner-form-inputs,.banner-form-label{display:flex;align-items:center}.banner-form-inputs .input{margin-right:9px;width:440px;height:60px}.banner-form-inputs .btn{padding:12px 5px;white-space:nowrap;overflow:hidden}.banner-form-label{margin-bottom:144px}.banner-form-label .arrow{margin-top:17px;margin-left:26px;width:55px;height:53px}.banner-form-label .text{position:relative;top:25px;left:12px;width:428px;transform:rotate(-2deg)}.mascot-background,.mascot-background-wrapper{position:absolute;top:0;width:50vw;height:38vw;min-height:620px;max-height:850px}.mascot-background-wrapper{right:0;overflow:hidden}.mascot-background{right:-17.1%;z-index:-1;background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5ODUuMDEgNzA4LjU1Ij48cGF0aCBkPSJNMCAwaDg5Ni40N3M0OS44OCAzNS41MyA4MC40NyA5My44OGMyMS44OCA1Mi45NS01LjMgMTE4Ljg1LTI3LjU5IDE2Ni45OS0zMi42NyA3MC41Ni03Ni42NCAxMzYuMDEtMTIzLjMxIDE5Ny45OC02MS4xNCA4MS4xNy0xMjMgMTY0LjMzLTIyMi43MiAxOTcuNzUtODguNjUgMjkuNzEtMTgyLjQ4IDUxLjA4LTI3Ni4zNCA1MS45Mi03MS43NS42NC0xNTEuMjEtMTAuNTItMjA4LjE1LTU3Ljk4LTI5LjM1LTI0LjQ2LTQ5LjUtNTcuNTYtNTkuNTQtOTQuMzEgMS4wNi0xNS44OC02LjM1LTUxLjM4IDE2Ljk0LTk3LjQxIDMzLjg4LTczLjA2IDQ5Ljg4LTgyLjM1IDc0LjM1LTE1My4xOCAwIDAgNjMuMDYtMTA2LjM1LTczLjg4LTIzOC41OUM1Mi43MSA0MS42NSAxOS4yOSAyMC45NCAwIDB6IiBmaWxsPSIjZjVmMmY3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:cover}.banner-mascot{width:410px}.mascot{position:relative;top:-19px;left:-3px}.mascot,.mascot video{width:100%}.logos{display:flex;flex-wrap:wrap;justify-content:space-between}.logo-wrapper,.zarla-images{background-color:#fff;border:1px solid #e6e6e6;box-shadow:0 0 10px 0 #ebebeb}.logo-wrapper{padding:12px;margin-bottom:30px;width:calc(655px + (2*(13px)) + 0px);height:calc(655px + (2*(13px)) + 64px)}.design-more,.logo{display:flex;justify-content:center}.logo{align-items:center}.logo,.logo img,.logo picture{width:655px;height:655px}a.logo{transition:none}.design-more{margin-top:calc(64px - 36px);margin-bottom:64px}.zarla-banner-wrapper{padding:64px 0;background-color:#f5f2f7}.zarla-banner{padding:0 30px}.zarla-banner .two-by-two-item,.zarla-banner .two-by-two-item img{display:none}.zarla-banner .three-by-two-item{display:inline-block}.zarla-banner .three-by-two-item img{display:inline-block;height:auto}.zarla-banner picture{width:690px;height:460px}.zarla-banner .btn{margin-top:40px}.zarla-images{display:flex;justify-content:center;padding:12px}.zarla-banner-subtitle{font-weight:400;line-height:1.3;margin-top:6px;margin-bottom:44px}.zarla-banner{display:flex;flex-direction:column;justify-content:center;align-items:center}@media (min-width:1600px){.section.banner{max-width:1250px}.banner-title{max-width:706px}.banner-mascot{height:524.83px}.mascot,.mascot video{width:410px;height:524.83px}}@media (max-width:1599px){.section.banner{padding-right:93px;padding-left:93px;width:1262px}.section.logos{padding-top:2px;max-width:1105px}.logo-wrapper{margin-bottom:36px;width:calc(495px + (2*(13px)) + 0px);height:calc(495px + (2*(13px)) + 64px)}.logo,.logo img,.logo picture{width:495px;height:495px}.banner-mascot,.mascot{width:370px;height:479.64px}.banner-mascot{margin-left:0}.mascot{top:-9px;left:6px}.banner-form-inputs .input-brand-wrapper input,.mascot video{width:100%}.banner-form-inputs .input-brand-wrapper{margin-right:9px;width:49.5%}.banner-form-inputs .input-limit{right:10px}.banner-form-label{margin-bottom:108px}.zarla-images{flex-direction:column}.zarla-images picture{width:1044px;height:696px}}@media (max-width:1300px){.section.banner{padding-right:62px;padding-left:62px;width:1198px}.banner-mascot{margin-left:0}}@media screen and (max-width:1199px){.section.logos{max-width:910px}.banner-title{padding-top:0}.banner-title-divider{display:none}.banner-form-label{margin-bottom:98px}.banner-mascot,.mascot{width:300px;height:390.02px}.mascot{top:-13px;left:0}.logo-wrapper{margin-bottom:26px;width:calc(400px + (2*(13px)) + 0px);height:calc(400px + (2*(13px)) + 64px)}.logo,.logo img,.logo picture{width:400px;height:400px}.zarla-images picture{width:690px;height:460px}.zarla-banner{padding:0 54px}}@media (min-width:992px) and (max-width:1199px){.section.banner{padding-right:15px;padding-left:15px;min-width:810px;max-width:910px}.banner-title{font-size:54px}.banner-content{min-width:540px;max-width:540px}.banner-mascot{max-width:360px}}@media screen and (max-width:991px){.section.banner{padding-top:0;padding-right:15px;padding-left:15px;min-width:726px;max-width:calc(100% - 100px)}.section.logos{justify-content:space-evenly;padding-top:0;max-width:800px}.banner-content{min-width:0;max-width:100%}.banner-title{padding-top:6vw;margin-bottom:9px;font-size:56px;font-size:4.8vw}.banner-subtitle{margin-bottom:40px;font-size:4vw}.banner-mascot,.mascot,.mascot img,.mascot source,.mascot video,.mascot-background{display:none}.logo-wrapper{margin-bottom:32px;width:calc(311px + (2*(13px)) + 0px);height:calc(311px + (2*(13px)) + 64px)}.logo,.logo img,.logo picture{width:311px;height:311px}}@media screen and (max-width:767px){.section.banner{min-width:0;width:82vw;max-width:82vw}.banner-title{padding-top:35px;margin-bottom:10px;font-size:8vw}.banner-form-inputs{flex-direction:column}.banner-form-inputs .input-brand-wrapper{margin-right:0;width:100%}.banner-form-inputs .input{margin-right:0;margin-bottom:10px;width:100%;height:52px;font-size:20px}.banner-form-inputs .btn{flex-shrink:0;width:100%}.banner-form-label{margin-bottom:68px}.banner-form-label .arrow{margin-top:9px}.banner-form-label .text{width:294px}.logo-wrapper{margin-bottom:28px;width:calc(75vw + (2*(13px)) + 0px);height:calc(75vw + (2*(13px)) + 64px)}.logo,.logo img,.logo picture{width:75vw;height:75vw}.design-more{margin-top:calc(40px - 36px);margin-bottom:40px}.zarla-images .two-by-two-item{display:block}.zarla-images .two-by-two-item img{display:block;height:auto}.zarla-images .three-by-two-item,.zarla-images .three-by-two-item img{display:none}.zarla-images picture{width:454px;height:454px}.zarla-banner-wrapper{padding-top:40px;padding-bottom:40px}.zarla-banner{padding:0 20px}}@media screen and (max-width:575px){.section.banner{padding:0;width:calc(100vw - (15px*2));max-width:calc(100vw - (15px*2))}.banner-title{padding-top:32px;margin-bottom:2px;font-size:9.4vw}.banner-subtitle{margin-top:6px;margin-bottom:30px;font-size:5.2vw;line-height:1.5}.banner-form-label{margin-bottom:8px}.banner-form-label .arrow{width:37px;height:36px;margin-left:18px;transform:rotateX(180deg)}.banner-form-label .text{top:-12px;left:6px;width:60vw}.banner-form-inputs{flex-direction:column;order:1}.banner-form-inputs .input-brand-wrapper{margin-right:0;width:100%}.banner-form-inputs .input-limit{transform:translateY(calc(-50% - 5px))}.banner-form-inputs .input{margin-right:0}.banner-form-inputs .btn{margin-bottom:38px}.banner-form-inputs .input{width:100%}.logo-wrapper{width:calc(100vw - (15px*2));height:calc(100vw - (15px*2) + 68px);margin-bottom:15px}.logo{background-color:#fff}.logo,.logo img,.logo picture{width:calc(100vw - (15px*2) - 24px);height:calc(100vw - (15px*2) - 24px)}.zarla-images img,.zarla-images picture{width:calc(100vw - 66px);height:calc(100vw - 66px)}.zarla-banner-wrapper{padding-top:40px;padding-bottom:40px}}@media (max-width:375px){.banner-title{padding-top:28px;font-size:9vw}.banner-subtitle{margin-bottom:30px}.banner-form-inputs .btn{margin-bottom:36px}}</style>
-    <link rel="canonical" href="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis">
-    <link rel="alternate" hreflang="de" href="https://www.zarla.com/de/gratis-logo-generator">
-    <link rel="alternate" hreflang="x-default" href="https://www.zarla.com/free-logo-maker">
-    <link rel="alternate" hreflang="en" href="https://www.zarla.com/free-logo-maker">
-    <link rel="alternate" hreflang="es" href="https://www.zarla.com/es/creador-de-logos-gratis">
-    <link rel="alternate" hreflang="fr" href="https://www.zarla.com/fr/cr%C3%A9ateur-de-logos-gratuit">
-    <link rel="alternate" hreflang="id-ID" href="https://www.zarla.com/id/pembuat-logo-gratis">
-    <link rel="alternate" hreflang="it" href="https://www.zarla.com/it/logo-maker-gratuito">
-    <link rel="alternate" hreflang="nl-NL" href="https://www.zarla.com/nl/gratis-logo-maker">
-    <link rel="alternate" hreflang="pl-PL" href="https://www.zarla.com/pl/darmowy-kreator-logo">
-    <link rel="alternate" hreflang="pt-BR" href="https://www.zarla.com/br/criador-de-logo-gr%C3%A1tis">
-    <link rel="alternate" hreflang="tr-TR" href="https://www.zarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
+    <link rel="mask-icon" href="https://www.notzarla.com/assets/images/zarla-favicon-safari-pinned-tab-20201013.svg" color="#808080">
+    <link rel="manifest" href="https://www.notzarla.com/static/zarla-manifest-20211103.json">
+    <link rel="icon" href="https://www.notzarla.com/assets/images/zarla-favicon-20201013.ico" sizes="48x48">
+    <link rel="icon" href="https://www.notzarla.com/static/zarla-favicon-816x816-20201016.svg" sizes="any" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="https://www.notzarla.com/static/zarla-favicon-apple-touch-icon-20201013.png">
+    <style>a{color:#3b4cbd;text-decoration:none}a:active,a:focus,a:hover{text-decoration:underline}.btn,a{-webkit-transition:all .2s ease-in-out}a{transition:all .2s ease-in-out}.btn:active,.btn:focus,.btn:hover,a:active,a:focus,a:hover{outline:0;-webkit-box-shadow:none;-moz-box-shadow:none;-ms-box-shadow:none;-o-box-shadow:none;box-shadow:none}a.btn{display:flex;justify-content:center;align-items:center}a.btn:hover{text-decoration:none}input[type=email],input[type=password],input[type=text]{-webkit-appearance:none;-moz-appearance:none;appearance:none;-webkit-focus-ring-color:none;outline:0}input[type=email]:active,input[type=email]:focus,input[type=email]:hover,input[type=password]:active,input[type=password]:focus,input[type=password]:hover,input[type=text]:active,input[type=text]:focus,input[type=text]:hover{-webkit-box-shadow:none;-moz-box-shadow:none;-ms-box-shadow:none;-o-box-shadow:none;box-shadow:none}::-webkit-input-placeholder{color:#a7a7a7}:-ms-input-placeholder{color:#a7a7a7}::placeholder{color:#a7a7a7}*,::after,::before{box-sizing:border-box}ol[class],ul[class]{padding:0}blockquote,body,dd,dl,figcaption,figure,h1,h2,h3,h4,li,ol[class],p,ul[class]{margin:0}body{min-height:100vh;scroll-behavior:smooth;text-rendering:optimizeSpeed;line-height:1.5;color:#222;font:125%/1.4 "Urbanist","Helvetica Neue Light","Helvetica Neue","Helvetica","Arial",sans-serif;font-size:1rem;padding-top:76px}ol[class],ul[class]{list-style:none}img{max-width:100%;display:block}article>*+*{margin-top:1em}button,input,select,textarea{font:inherit}@media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}a:active,a:hover{color:#3b4cbd}@font-face{font-family:"Urbanist";src:url(https://www.notzarla.com/assets/fonts/urbanist-extrabold.eot);src:url(https://www.notzarla.com/assets/fonts/urbanist-extrabold.eot?#iefix) format("embedded-opentype"),url(https://www.notzarla.com/assets/fonts/urbanist-extrabold.woff) format("woff"),url(https://www.notzarla.com/assets/fonts/urbanist-extrabold.ttf) format("truetype"),url(https://www.notzarla.com/assets/fonts/urbanist-extrabold.svg#urbanist-extrabold) format("svg");font-weight:800;font-style:normal;font-display:swap}@font-face{font-family:"Urbanist";src:url(https://www.notzarla.com/assets/fonts/urbanist-regular.eot);src:url(https://www.notzarla.com/assets/fonts/urbanist-regular.eot?#iefix) format("embedded-opentype"),url(https://www.notzarla.com/assets/fonts/urbanist-regular.woff) format("woff"),url(https://www.notzarla.com/assets/fonts/urbanist-regular.ttf) format("truetype"),url(https://www.notzarla.com/assets/fonts/urbanist-regular.svg#urbanist-regular) format("svg");font-weight:400;font-style:normal;font-display:swap}h2{font-size:40px;line-height:1.2;letter-spacing:-.8px}h3{font-size:24px;letter-spacing:-.5px}.t-center{text-align:center}.t-bold{font-weight:800}@media screen and (max-width:1199px){h2{font-size:32px}}@media screen and (max-width:575px){h2{font-size:26px}h3{font-size:18px;letter-spacing:0}}.hide-text{overflow:hidden;padding:0;text-indent:101%;white-space:nowrap}.visually-hidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}@media screen and (max-width:767px){body{padding-top:65px}}@media screen and (max-width:575px){body{padding-top:50px}}header{position:absolute;top:0;z-index:1040;display:flex;align-items:center;padding-left:52px;width:100%;height:76px;background-color:#f5f2f7}.header-holder{position:relative}.header-logo{width:160px;height:48px}.header-on-scroll{position:fixed;left:0;z-index:1050;display:flex;justify-content:center;align-items:center;padding:0 15px;width:100%;height:76px;background-color:#f5f2f7;transition:all .2s;box-shadow:1px -4px 10px rgba(0,0,0,.5)}.header-on-scroll.is-closed{top:-76px}.header-on-scroll.is-active{top:0}.header-on-scroll .input{margin-right:9px;width:460px;height:60px}.input-brand-wrapper{position:relative}.input-brand-wrapper .input{padding-right:15px}.input-brand-wrapper .input.is-active:focus{padding-right:60px}.input-brand-wrapper .input:focus{box-shadow:0 0 10px 0 #3b4cbd}.input-brand-wrapper .input:focus+.input-limit:not(.is-hidden){display:block}.input-limit,.input-limit.is-hidden{display:none}.input-limit{position:absolute;top:50%;right:18px;font-size:16px;color:#737373;transform:translateY(-50%)}.zarla-logo-head-wrapper{margin-right:10px;width:52px}.zarla-logo-head{width:100%;height:auto}@media screen and (max-width:991px){header{padding-left:28px}}@media screen and (max-width:767px){header{padding:0 33px}.header-on-scroll,header{height:65px}.header-on-scroll .input,.zarla-logo-head,.zarla-logo-head-wrapper{display:none}.header-on-scroll .btn{width:100%}}@media screen and (max-width:575px){header{padding:0 15px;height:50px}.header-logo{width:100px;height:30px}}.footer-wrapper{padding-top:60px;padding-bottom:60px;background-color:#f9f9f9}.footer-main{padding:0 122px;margin:0 auto;width:1424px;display:flex;justify-content:space-between}.footer-logo img{width:200px;height:60px}.footer-blocks{display:flex;width:50%}.footer-block{flex-grow:1}.footer-block-title{margin-bottom:16px;font-size:18px}.footer-block-group{margin:16px 0;min-width:186px}.footer-block-item{margin-bottom:13px;font-size:16px;color:#737373}.footer-block-item a{color:inherit}.footer-block-item a.active-lang{color:#3b4cbd;pointer-events:none}.copyright{padding:28px calc(122px - 15px);font-size:16px;color:#737373}@media (max-width:1599px){.footer-main{width:100%}.copyright{padding:28px calc(122px + 34px)}}@media screen and (max-width:1199px){.footer{padding:0}.footer-main{padding:0 54px}.copyright{padding:28px 50px}}@media screen and (max-width:991px){.footer-block-group{min-width:170px}}@media screen and (max-width:767px){.footer-wrapper{padding-top:40px;padding-bottom:40px}.footer-main{flex-wrap:wrap;padding-bottom:0}.footer-logo{margin-top:40px;order:1}.footer-blocks{width:100%}}@media screen and (max-width:575px){.footer-wrapper{padding:30px 0}.footer-main,.footer-wrapper .section{padding:0 15px}.footer-blocks{flex-wrap:wrap}.footer-block{margin-bottom:12px;width:100%}.footer-block-title{position:relative;padding:8px 0;margin-bottom:5px;font-size:20px}.footer-block-title::after{content:' ';position:absolute;right:0;width:18px;height:30px;background-image:url(data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMzIwIDUxMiI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNMTQzIDM1Mi4zTDcgMjE2LjNjLTkuNC05LjQtOS40LTI0LjYgMC0zMy45bDIyLjYtMjIuNmM5LjQtOS40IDI0LjYtOS40IDMzLjkgMGw5Ni40IDk2LjQgOTYuNC05Ni40YzkuNC05LjQgMjQuNi05LjQgMzMuOSAwbDIyLjYgMjIuNmM5LjQgOS40IDkuNCAyNC42IDAgMzMuOWwtMTM2IDEzNmMtOS4yIDkuNC0yNC40IDkuNC0zMy44IDB6Ii8+PC9zdmc+);background-repeat:no-repeat;transition:transform .2s}.footer-block-title.is-active::after{transform:rotate(180deg)}.footer-block-group{max-height:0;overflow:hidden;transition:max-height .2s}.footer-block-group.is-active{max-height:400px}.footer-block-item{padding-left:15px}.footer-logo{margin-top:32px}.footer-logo img{width:160px;height:48px}.copyright-wrapper .section{padding:0 15px}.copyright{padding:24px 0}}.section{padding:0 15px;margin:0 auto;width:1424px}@media (max-width:1599px){.section{width:100%}}@media screen and (max-width:575px){.section{padding:0 15px}}.faq{display:flex;flex-direction:column;justify-content:center;align-items:center}.faq-title{margin-bottom:44px}.faq{padding:62px 0}.faq .btn{padding:12px 30px}.questions{display:flex;flex-wrap:wrap;justify-content:space-between;padding:0 122px}.question{width:48%;margin-bottom:48px}.question-heading{margin-bottom:4px}.question-answer{font-size:22px}@media screen and (max-width:1199px){.faq{padding:62px 0 calc(62px - 48px)}.questions{padding:0 54px}}@media screen and (max-width:767px){.faq{padding-top:40px;padding-bottom:0}.question{width:100%}}@media screen and (max-width:575px){.faq{padding-right:15px;padding-bottom:0;padding-left:15px}.questions{padding:0}.question-answer{font-size:18px}}.btn{padding:12px 15px;font-size:23px;text-align:center;border-radius:5px;cursor:pointer;transition:all .3s ease-in-out}.btn-lg{width:265px;height:60px}.btn-sm{padding-left:23px;padding-right:23px;min-height:48px;font-size:16px}.btn-primary{color:#fff;background-color:#3b4cbd;border:1px solid #3b4cbd}@media (pointer:fine){.btn-primary:hover{background-color:#5567e1;color:#fff}}.btn-inverted{color:#3b4cbd;background-color:#fff;border:2px solid #3b4cbd}@media (pointer:fine){.btn-inverted:hover{background-color:#3b4cbd;color:#fff}}.btn-edit-logo{display:flex;justify-content:center;align-items:center;width:100%;padding:12px;margin-top:14px;font-size:16px;overflow:hidden;white-space:nowrap;text-decoration:none}.btn-edit-logo:active,.btn-edit-logo:focus{text-decoration:none}@media (pointer:fine){.logo-wrapper:hover .btn-edit-logo{background-color:#3b4cbd;color:#fff}}a.btn-plan-select{display:inline-flex;width:auto;transition:none}a.btn-plan-select:hover{color:#fff}a.btn-plan-select:focus{text-decoration:none}@media screen and (max-width:1199px){.btn{font-size:20px}.btn-edit-logo,.btn-sm{font-size:16px}}@media screen and (max-width:767px){.btn{padding:5px 15px}.btn-edit-logo{padding:12px 15px}}@media screen and (max-width:575px){.btn{width:100%;font-size:19px}.btn-sm{width:auto}.btn-edit-logo,.btn-sm{font-size:16px}}@media (max-width:319px){.btn-edit-logo{font-size:14px}}.input{padding:15px;font-size:23px;border:1px solid #3b4cbd;border-radius:5px}.input::placeholder{position:relative;top:-1px}@media screen and (max-width:1199px){.input{font-size:20px}}@media screen and (max-width:767px){.input{font-size:16px}}@media screen and (max-width:575px){.input{font-size:19px}}.banner{position:relative;display:flex;justify-content:space-between;align-items:center;padding-top:20px;padding-bottom:50px}.banner-title{margin-bottom:14px;font-size:72px;font-weight:800;line-height:1.3}.banner-title-divider{display:block}.banner-subtitle{margin-bottom:51px;font-size:35px;font-weight:400;line-height:1.3}.banner-subtitle,.banner-title{letter-spacing:0}.banner-content{width:950px}.banner-form{display:flex;flex-direction:column}.banner-form-inputs,.banner-form-label{display:flex;align-items:center}.banner-form-inputs .input{margin-right:9px;width:440px;height:60px}.banner-form-inputs .btn{padding:12px 5px;white-space:nowrap;overflow:hidden}.banner-form-label{margin-bottom:144px}.banner-form-label .arrow{margin-top:17px;margin-left:26px;width:55px;height:53px}.banner-form-label .text{position:relative;top:25px;left:12px;width:428px;transform:rotate(-2deg)}.mascot-background,.mascot-background-wrapper{position:absolute;top:0;width:50vw;height:38vw;min-height:620px;max-height:850px}.mascot-background-wrapper{right:0;overflow:hidden}.mascot-background{right:-17.1%;z-index:-1;background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5ODUuMDEgNzA4LjU1Ij48cGF0aCBkPSJNMCAwaDg5Ni40N3M0OS44OCAzNS41MyA4MC40NyA5My44OGMyMS44OCA1Mi45NS01LjMgMTE4Ljg1LTI3LjU5IDE2Ni45OS0zMi42NyA3MC41Ni03Ni42NCAxMzYuMDEtMTIzLjMxIDE5Ny45OC02MS4xNCA4MS4xNy0xMjMgMTY0LjMzLTIyMi43MiAxOTcuNzUtODguNjUgMjkuNzEtMTgyLjQ4IDUxLjA4LTI3Ni4zNCA1MS45Mi03MS43NS42NC0xNTEuMjEtMTAuNTItMjA4LjE1LTU3Ljk4LTI5LjM1LTI0LjQ2LTQ5LjUtNTcuNTYtNTkuNTQtOTQuMzEgMS4wNi0xNS44OC02LjM1LTUxLjM4IDE2Ljk0LTk3LjQxIDMzLjg4LTczLjA2IDQ5Ljg4LTgyLjM1IDc0LjM1LTE1My4xOCAwIDAgNjMuMDYtMTA2LjM1LTczLjg4LTIzOC41OUM1Mi43MSA0MS42NSAxOS4yOSAyMC45NCAwIDB6IiBmaWxsPSIjZjVmMmY3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:cover}.banner-mascot{width:410px}.mascot{position:relative;top:-19px;left:-3px}.mascot,.mascot video{width:100%}.logos{display:flex;flex-wrap:wrap;justify-content:space-between}.logo-wrapper,.zarla-images{background-color:#fff;border:1px solid #e6e6e6;box-shadow:0 0 10px 0 #ebebeb}.logo-wrapper{padding:12px;margin-bottom:30px;width:calc(655px + (2*(13px)) + 0px);height:calc(655px + (2*(13px)) + 64px)}.design-more,.logo{display:flex;justify-content:center}.logo{align-items:center}.logo,.logo img,.logo picture{width:655px;height:655px}a.logo{transition:none}.design-more{margin-top:calc(64px - 36px);margin-bottom:64px}.zarla-banner-wrapper{padding:64px 0;background-color:#f5f2f7}.zarla-banner{padding:0 30px}.zarla-banner .two-by-two-item,.zarla-banner .two-by-two-item img{display:none}.zarla-banner .three-by-two-item{display:inline-block}.zarla-banner .three-by-two-item img{display:inline-block;height:auto}.zarla-banner picture{width:690px;height:460px}.zarla-banner .btn{margin-top:40px}.zarla-images{display:flex;justify-content:center;padding:12px}.zarla-banner-subtitle{font-weight:400;line-height:1.3;margin-top:6px;margin-bottom:44px}.zarla-banner{display:flex;flex-direction:column;justify-content:center;align-items:center}@media (min-width:1600px){.section.banner{max-width:1250px}.banner-title{max-width:706px}.banner-mascot{height:524.83px}.mascot,.mascot video{width:410px;height:524.83px}}@media (max-width:1599px){.section.banner{padding-right:93px;padding-left:93px;width:1262px}.section.logos{padding-top:2px;max-width:1105px}.logo-wrapper{margin-bottom:36px;width:calc(495px + (2*(13px)) + 0px);height:calc(495px + (2*(13px)) + 64px)}.logo,.logo img,.logo picture{width:495px;height:495px}.banner-mascot,.mascot{width:370px;height:479.64px}.banner-mascot{margin-left:0}.mascot{top:-9px;left:6px}.banner-form-inputs .input-brand-wrapper input,.mascot video{width:100%}.banner-form-inputs .input-brand-wrapper{margin-right:9px;width:49.5%}.banner-form-inputs .input-limit{right:10px}.banner-form-label{margin-bottom:108px}.zarla-images{flex-direction:column}.zarla-images picture{width:1044px;height:696px}}@media (max-width:1300px){.section.banner{padding-right:62px;padding-left:62px;width:1198px}.banner-mascot{margin-left:0}}@media screen and (max-width:1199px){.section.logos{max-width:910px}.banner-title{padding-top:0}.banner-title-divider{display:none}.banner-form-label{margin-bottom:98px}.banner-mascot,.mascot{width:300px;height:390.02px}.mascot{top:-13px;left:0}.logo-wrapper{margin-bottom:26px;width:calc(400px + (2*(13px)) + 0px);height:calc(400px + (2*(13px)) + 64px)}.logo,.logo img,.logo picture{width:400px;height:400px}.zarla-images picture{width:690px;height:460px}.zarla-banner{padding:0 54px}}@media (min-width:992px) and (max-width:1199px){.section.banner{padding-right:15px;padding-left:15px;min-width:810px;max-width:910px}.banner-title{font-size:54px}.banner-content{min-width:540px;max-width:540px}.banner-mascot{max-width:360px}}@media screen and (max-width:991px){.section.banner{padding-top:0;padding-right:15px;padding-left:15px;min-width:726px;max-width:calc(100% - 100px)}.section.logos{justify-content:space-evenly;padding-top:0;max-width:800px}.banner-content{min-width:0;max-width:100%}.banner-title{padding-top:6vw;margin-bottom:9px;font-size:56px;font-size:4.8vw}.banner-subtitle{margin-bottom:40px;font-size:4vw}.banner-mascot,.mascot,.mascot img,.mascot source,.mascot video,.mascot-background{display:none}.logo-wrapper{margin-bottom:32px;width:calc(311px + (2*(13px)) + 0px);height:calc(311px + (2*(13px)) + 64px)}.logo,.logo img,.logo picture{width:311px;height:311px}}@media screen and (max-width:767px){.section.banner{min-width:0;width:82vw;max-width:82vw}.banner-title{padding-top:35px;margin-bottom:10px;font-size:8vw}.banner-form-inputs{flex-direction:column}.banner-form-inputs .input-brand-wrapper{margin-right:0;width:100%}.banner-form-inputs .input{margin-right:0;margin-bottom:10px;width:100%;height:52px;font-size:20px}.banner-form-inputs .btn{flex-shrink:0;width:100%}.banner-form-label{margin-bottom:68px}.banner-form-label .arrow{margin-top:9px}.banner-form-label .text{width:294px}.logo-wrapper{margin-bottom:28px;width:calc(75vw + (2*(13px)) + 0px);height:calc(75vw + (2*(13px)) + 64px)}.logo,.logo img,.logo picture{width:75vw;height:75vw}.design-more{margin-top:calc(40px - 36px);margin-bottom:40px}.zarla-images .two-by-two-item{display:block}.zarla-images .two-by-two-item img{display:block;height:auto}.zarla-images .three-by-two-item,.zarla-images .three-by-two-item img{display:none}.zarla-images picture{width:454px;height:454px}.zarla-banner-wrapper{padding-top:40px;padding-bottom:40px}.zarla-banner{padding:0 20px}}@media screen and (max-width:575px){.section.banner{padding:0;width:calc(100vw - (15px*2));max-width:calc(100vw - (15px*2))}.banner-title{padding-top:32px;margin-bottom:2px;font-size:9.4vw}.banner-subtitle{margin-top:6px;margin-bottom:30px;font-size:5.2vw;line-height:1.5}.banner-form-label{margin-bottom:8px}.banner-form-label .arrow{width:37px;height:36px;margin-left:18px;transform:rotateX(180deg)}.banner-form-label .text{top:-12px;left:6px;width:60vw}.banner-form-inputs{flex-direction:column;order:1}.banner-form-inputs .input-brand-wrapper{margin-right:0;width:100%}.banner-form-inputs .input-limit{transform:translateY(calc(-50% - 5px))}.banner-form-inputs .input{margin-right:0}.banner-form-inputs .btn{margin-bottom:38px}.banner-form-inputs .input{width:100%}.logo-wrapper{width:calc(100vw - (15px*2));height:calc(100vw - (15px*2) + 68px);margin-bottom:15px}.logo{background-color:#fff}.logo,.logo img,.logo picture{width:calc(100vw - (15px*2) - 24px);height:calc(100vw - (15px*2) - 24px)}.zarla-images img,.zarla-images picture{width:calc(100vw - 66px);height:calc(100vw - 66px)}.zarla-banner-wrapper{padding-top:40px;padding-bottom:40px}}@media (max-width:375px){.banner-title{padding-top:28px;font-size:9vw}.banner-subtitle{margin-bottom:30px}.banner-form-inputs .btn{margin-bottom:36px}}</style>
+    <link rel="canonical" href="https://www.notzarla.com/br/criador-de-logo-gr%C3%A1tis">
+    <link rel="alternate" hreflang="de" href="https://www.notzarla.com/de/gratis-logo-generator">
+    <link rel="alternate" hreflang="x-default" href="https://www.notzarla.com/free-logo-maker">
+    <link rel="alternate" hreflang="en" href="https://www.notzarla.com/free-logo-maker">
+    <link rel="alternate" hreflang="es" href="https://www.notzarla.com/es/creador-de-logos-gratis">
+    <link rel="alternate" hreflang="fr" href="https://www.notzarla.com/fr/cr%C3%A9ateur-de-logos-gratuit">
+    <link rel="alternate" hreflang="id-ID" href="https://www.notzarla.com/id/pembuat-logo-gratis">
+    <link rel="alternate" hreflang="it" href="https://www.notzarla.com/it/logo-maker-gratuito">
+    <link rel="alternate" hreflang="nl-NL" href="https://www.notzarla.com/nl/gratis-logo-maker">
+    <link rel="alternate" hreflang="pl-PL" href="https://www.notzarla.com/pl/darmowy-kreator-logo">
+    <link rel="alternate" hreflang="pt-BR" href="https://www.notzarla.com/br/criador-de-logo-gr%C3%A1tis">
+    <link rel="alternate" hreflang="tr-TR" href="https://www.notzarla.com/tr/%C3%BCcretsiz-logo-olu%C5%9Fturucu">
 
 <script>
   !function(){var i="analytics",analytics=window[i]=window[i]||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","screen","once","off","on","addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware","register"];analytics.factory=function(e){return function(){if(window[i].initialized)return window[i][e].apply(window[i],arguments);var n=Array.prototype.slice.call(arguments);if(["track","screen","alias","group","page","identify"].indexOf(e)>-1){var c=document.querySelector("link[rel='canonical']");n.push({__t:"bpc",c:c&&c.getAttribute("href")||void 0,p:location.pathname,u:location.href,s:location.search,t:document.title,r:document.referrer})}n.unshift(e);analytics.push(n);return analytics}};for(var n=0;n<analytics.methods.length;n++){var key=analytics.methods[n];analytics[key]=analytics.factory(key)}analytics.load=function(key,n){var t=document.createElement("script");t.type="text/javascript";t.async=!0;t.setAttribute("data-global-segment-analytics-key",i);t.src="https://cdn.segment.com/analytics.js/v1/" + key + "/analytics.min.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r);analytics._loadOptions=n};analytics._writeKey="S74reemPaLNMtA86ROstCq1sg59vkwRN";;analytics.SNIPPET_VERSION="5.2.0";
@@ -56,7 +56,7 @@
       <header id="header">
         <div class="header-holder">
           <a aria-label="home" href="/br">
-            <img class="header-logo" alt="Zarla logo" width="160" height="48" src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg">
+            <img class="header-logo" alt="Zarla logo" width="160" height="48" src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg">
           </a>
         </div>
       </header>
@@ -71,7 +71,7 @@
         <h1 class="banner-title">Criador de logo grátis</h1>
         <h2 class="banner-subtitle">Lindos designs de logotipos feitos com facilidade</h2>
         <div class="banner-form">
-          <form id="bannerFormInputs" class="banner-form-inputs" action="https://www.zarla.com/logo-maker/" method="GET">
+          <form id="bannerFormInputs" class="banner-form-inputs" action="https://www.notzarla.com/logo-maker/" method="GET">
             <div class="input-brand-wrapper">
               <input id="brand" class="input" type="text" name="brand" aria-label="brand name" pattern=".{3,}" required autofocus placeholder="Insira o nome da sua marca" title="3 caracteres no mínimo">
               <div id="brandLimit" class="input-limit is-hidden">1/40</div>
@@ -84,9 +84,9 @@
 
       <div class="banner-mascot">
         <div class="mascot">
-          <video autoplay loop muted playsinline poster="https://www.zarla.com/assets/images/zarla-mascot-20201013.png">
-            <source src="https://www.zarla.com/assets/images/zarla-mascot-20201013.webm" type="video/webm">
-            <source src="https://www.zarla.com/assets/images/zarla-mascot-20201013.mp4" type="video/mp4">
+          <video autoplay loop muted playsinline poster="https://www.notzarla.com/assets/images/zarla-mascot-20201013.png">
+            <source src="https://www.notzarla.com/assets/images/zarla-mascot-20201013.webm" type="video/webm">
+            <source src="https://www.notzarla.com/assets/images/zarla-mascot-20201013.mp4" type="video/mp4">
             <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg==" width="1" height="1" title="Seu navegador não suporta a <video>tag ">
           </video>
         </div>
@@ -96,12 +96,12 @@
     <div class="logos section">
       
     <div class="logo-wrapper">
-      <a class="logo" href="https://www.zarla.com/logo-maker/GhRSbPtUV6Hyhwsy0JOo/edit?brand=Vivafit%20">
+      <a class="logo" href="https://www.notzarla.com/logo-maker/GhRSbPtUV6Hyhwsy0JOo/edit?brand=Vivafit%20">
         <picture>
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-1-xs-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-1-xs-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-1-xs-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-1-xs-br-20220110.png 1x,
             "
             media="(max-width: 575px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -109,8 +109,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-1-sm-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-1-sm-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-1-sm-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-1-sm-br-20220110.png 1x,
             "
             media="(max-width: 767px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -118,8 +118,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-1-md-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-1-md-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-1-md-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-1-md-br-20220110.png 1x,
             "
             media="(max-width: 1199px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -127,8 +127,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-1-lg-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-1-lg-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-1-lg-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-1-lg-br-20220110.png 1x,
             "
             media="(max-width: 1599px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -136,10 +136,10 @@
 
           <img
             class="lazyload"
-            data-src="https://www.zarla.com/assets/images/logo-1-xl-br-20220110.png"
+            data-src="https://www.notzarla.com/assets/images/logo-1-xl-br-20220110.png"
             data-srcset="
-              https://www.zarla.com/assets/images/logo-1-xl-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-1-xl-br-20220110.png 1x
+              https://www.notzarla.com/assets/images/logo-1-xl-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-1-xl-br-20220110.png 1x
             "
             src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
             alt="Logotipo fitness para uma empresa chamada Vivafit."
@@ -148,18 +148,18 @@
           >
         </picture>
       </a>
-      <a class="btn btn-inverted btn-edit-logo" href="https://www.zarla.com/logo-maker/GhRSbPtUV6Hyhwsy0JOo/edit?brand=Vivafit%20">
+      <a class="btn btn-inverted btn-edit-logo" href="https://www.notzarla.com/logo-maker/GhRSbPtUV6Hyhwsy0JOo/edit?brand=Vivafit%20">
         Personalize ícones, cores, texto...
       </a>
     </div>
   
     <div class="logo-wrapper">
-      <a class="logo" href="https://www.zarla.com/logo-maker/7LETUgNXbUxSiB92FyPf/edit?brand=Estilook">
+      <a class="logo" href="https://www.notzarla.com/logo-maker/7LETUgNXbUxSiB92FyPf/edit?brand=Estilook">
         <picture>
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-2-xs-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-2-xs-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-2-xs-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-2-xs-br-20220110.png 1x,
             "
             media="(max-width: 575px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -167,8 +167,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-2-sm-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-2-sm-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-2-sm-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-2-sm-br-20220110.png 1x,
             "
             media="(max-width: 767px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -176,8 +176,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-2-md-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-2-md-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-2-md-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-2-md-br-20220110.png 1x,
             "
             media="(max-width: 1199px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -185,8 +185,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-2-lg-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-2-lg-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-2-lg-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-2-lg-br-20220110.png 1x,
             "
             media="(max-width: 1599px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -194,10 +194,10 @@
 
           <img
             class="lazyload"
-            data-src="https://www.zarla.com/assets/images/logo-2-xl-br-20220110.png"
+            data-src="https://www.notzarla.com/assets/images/logo-2-xl-br-20220110.png"
             data-srcset="
-              https://www.zarla.com/assets/images/logo-2-xl-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-2-xl-br-20220110.png 1x
+              https://www.notzarla.com/assets/images/logo-2-xl-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-2-xl-br-20220110.png 1x
             "
             src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
             alt="Logotipo para uma loja de roupas chamada Estilook."
@@ -206,18 +206,18 @@
           >
         </picture>
       </a>
-      <a class="btn btn-inverted btn-edit-logo" href="https://www.zarla.com/logo-maker/7LETUgNXbUxSiB92FyPf/edit?brand=Estilook">
+      <a class="btn btn-inverted btn-edit-logo" href="https://www.notzarla.com/logo-maker/7LETUgNXbUxSiB92FyPf/edit?brand=Estilook">
         Personalize ícones, cores, texto...
       </a>
     </div>
   
     <div class="logo-wrapper">
-      <a class="logo" href="https://www.zarla.com/logo-maker/xTJRu4F2Z9Hdwsj3rpjF/edit?industry=Babysitting&brand=Casa%20Bella">
+      <a class="logo" href="https://www.notzarla.com/logo-maker/xTJRu4F2Z9Hdwsj3rpjF/edit?industry=Babysitting&brand=Casa%20Bella">
         <picture>
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-3-xs-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-3-xs-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-3-xs-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-3-xs-br-20220110.png 1x,
             "
             media="(max-width: 575px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -225,8 +225,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-3-sm-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-3-sm-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-3-sm-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-3-sm-br-20220110.png 1x,
             "
             media="(max-width: 767px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -234,8 +234,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-3-md-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-3-md-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-3-md-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-3-md-br-20220110.png 1x,
             "
             media="(max-width: 1199px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -243,8 +243,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-3-lg-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-3-lg-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-3-lg-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-3-lg-br-20220110.png 1x,
             "
             media="(max-width: 1599px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -252,10 +252,10 @@
 
           <img
             class="lazyload"
-            data-src="https://www.zarla.com/assets/images/logo-3-xl-br-20220110.png"
+            data-src="https://www.notzarla.com/assets/images/logo-3-xl-br-20220110.png"
             data-srcset="
-              https://www.zarla.com/assets/images/logo-3-xl-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-3-xl-br-20220110.png 1x
+              https://www.notzarla.com/assets/images/logo-3-xl-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-3-xl-br-20220110.png 1x
             "
             src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
             alt="Logotipo de borboleta para uma empresa chamada Casa Bella."
@@ -264,18 +264,18 @@
           >
         </picture>
       </a>
-      <a class="btn btn-inverted btn-edit-logo" href="https://www.zarla.com/logo-maker/xTJRu4F2Z9Hdwsj3rpjF/edit?industry=Babysitting&brand=Casa%20Bella">
+      <a class="btn btn-inverted btn-edit-logo" href="https://www.notzarla.com/logo-maker/xTJRu4F2Z9Hdwsj3rpjF/edit?industry=Babysitting&brand=Casa%20Bella">
         Personalize ícones, cores, texto...
       </a>
     </div>
   
     <div class="logo-wrapper">
-      <a class="logo" href="https://www.zarla.com/logo-maker/mg8jm8khhyfw8qqkkd83/edit?brand=Click%20Boutique">
+      <a class="logo" href="https://www.notzarla.com/logo-maker/mg8jm8khhyfw8qqkkd83/edit?brand=Click%20Boutique">
         <picture>
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-4-xs-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-4-xs-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-4-xs-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-4-xs-br-20220110.png 1x,
             "
             media="(max-width: 575px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -283,8 +283,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-4-sm-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-4-sm-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-4-sm-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-4-sm-br-20220110.png 1x,
             "
             media="(max-width: 767px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -292,8 +292,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-4-md-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-4-md-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-4-md-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-4-md-br-20220110.png 1x,
             "
             media="(max-width: 1199px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -301,8 +301,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-4-lg-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-4-lg-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-4-lg-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-4-lg-br-20220110.png 1x,
             "
             media="(max-width: 1599px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -310,10 +310,10 @@
 
           <img
             class="lazyload"
-            data-src="https://www.zarla.com/assets/images/logo-4-xl-br-20220110.png"
+            data-src="https://www.notzarla.com/assets/images/logo-4-xl-br-20220110.png"
             data-srcset="
-              https://www.zarla.com/assets/images/logo-4-xl-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-4-xl-br-20220110.png 1x
+              https://www.notzarla.com/assets/images/logo-4-xl-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-4-xl-br-20220110.png 1x
             "
             src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
             alt="Logotipo de e-commerce para uma empresa chamada Click Boutique."
@@ -322,18 +322,18 @@
           >
         </picture>
       </a>
-      <a class="btn btn-inverted btn-edit-logo" href="https://www.zarla.com/logo-maker/mg8jm8khhyfw8qqkkd83/edit?brand=Click%20Boutique">
+      <a class="btn btn-inverted btn-edit-logo" href="https://www.notzarla.com/logo-maker/mg8jm8khhyfw8qqkkd83/edit?brand=Click%20Boutique">
         Personalize ícones, cores, texto...
       </a>
     </div>
   
     <div class="logo-wrapper">
-      <a class="logo" href="https://www.zarla.com/logo-maker/xyhp9w7cpr7x6c7vgyc6/edit?brand=Mundo%20Moderno">
+      <a class="logo" href="https://www.notzarla.com/logo-maker/xyhp9w7cpr7x6c7vgyc6/edit?brand=Mundo%20Moderno">
         <picture>
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-5-xs-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-5-xs-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-5-xs-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-5-xs-br-20220110.png 1x,
             "
             media="(max-width: 575px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -341,8 +341,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-5-sm-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-5-sm-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-5-sm-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-5-sm-br-20220110.png 1x,
             "
             media="(max-width: 767px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -350,8 +350,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-5-md-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-5-md-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-5-md-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-5-md-br-20220110.png 1x,
             "
             media="(max-width: 1199px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -359,8 +359,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-5-lg-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-5-lg-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-5-lg-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-5-lg-br-20220110.png 1x,
             "
             media="(max-width: 1599px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -368,10 +368,10 @@
 
           <img
             class="lazyload"
-            data-src="https://www.zarla.com/assets/images/logo-5-xl-br-20220110.png"
+            data-src="https://www.notzarla.com/assets/images/logo-5-xl-br-20220110.png"
             data-srcset="
-              https://www.zarla.com/assets/images/logo-5-xl-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-5-xl-br-20220110.png 1x
+              https://www.notzarla.com/assets/images/logo-5-xl-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-5-xl-br-20220110.png 1x
             "
             src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
             alt="Logotipo moderno para uma empresa chamada Mundo Moderno."
@@ -380,18 +380,18 @@
           >
         </picture>
       </a>
-      <a class="btn btn-inverted btn-edit-logo" href="https://www.zarla.com/logo-maker/xyhp9w7cpr7x6c7vgyc6/edit?brand=Mundo%20Moderno">
+      <a class="btn btn-inverted btn-edit-logo" href="https://www.notzarla.com/logo-maker/xyhp9w7cpr7x6c7vgyc6/edit?brand=Mundo%20Moderno">
         Personalize ícones, cores, texto...
       </a>
     </div>
   
     <div class="logo-wrapper">
-      <a class="logo" href="https://www.zarla.com/logo-maker/hqmr7wx8q6qtrqpv38w3/edit?brand=Santo%20Sabor">
+      <a class="logo" href="https://www.notzarla.com/logo-maker/hqmr7wx8q6qtrqpv38w3/edit?brand=Santo%20Sabor">
         <picture>
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-6-xs-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-6-xs-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-6-xs-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-6-xs-br-20220110.png 1x,
             "
             media="(max-width: 575px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -399,8 +399,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-6-sm-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-6-sm-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-6-sm-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-6-sm-br-20220110.png 1x,
             "
             media="(max-width: 767px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -408,8 +408,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-6-md-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-6-md-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-6-md-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-6-md-br-20220110.png 1x,
             "
             media="(max-width: 1199px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -417,8 +417,8 @@
 
           <source
             data-srcset="
-              https://www.zarla.com/assets/images/logo-6-lg-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-6-lg-br-20220110.png 1x,
+              https://www.notzarla.com/assets/images/logo-6-lg-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-6-lg-br-20220110.png 1x,
             "
             media="(max-width: 1599px)"
             srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -426,10 +426,10 @@
 
           <img
             class="lazyload"
-            data-src="https://www.zarla.com/assets/images/logo-6-xl-br-20220110.png"
+            data-src="https://www.notzarla.com/assets/images/logo-6-xl-br-20220110.png"
             data-srcset="
-              https://www.zarla.com/assets/images/logo-6-xl-br-20220110@2x.png 2x,
-              https://www.zarla.com/assets/images/logo-6-xl-br-20220110.png 1x
+              https://www.notzarla.com/assets/images/logo-6-xl-br-20220110@2x.png 2x,
+              https://www.notzarla.com/assets/images/logo-6-xl-br-20220110.png 1x
             "
             src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
             alt="Logotipo para um restaurante chamado Santo Sabor."
@@ -438,7 +438,7 @@
           >
         </picture>
       </a>
-      <a class="btn btn-inverted btn-edit-logo" href="https://www.zarla.com/logo-maker/hqmr7wx8q6qtrqpv38w3/edit?brand=Santo%20Sabor">
+      <a class="btn btn-inverted btn-edit-logo" href="https://www.notzarla.com/logo-maker/hqmr7wx8q6qtrqpv38w3/edit?brand=Santo%20Sabor">
         Personalize ícones, cores, texto...
       </a>
     </div>
@@ -446,7 +446,7 @@
     </div>
 
     <div class="design-more section">
-      <a href="https://www.zarla.com/logo-maker/" class="btn btn-primary btn-lg">Crie seu logo</a>
+      <a href="https://www.notzarla.com/logo-maker/" class="btn btn-primary btn-lg">Crie seu logo</a>
     </div>
 
     <div class="zarla-banner-wrapper">
@@ -459,8 +459,8 @@
     <picture class="three-by-two-item">
       <source
         data-srcset="
-          https://www.zarla.com/assets/images/collage-3x2-1-lg-br-20220110@2x.png 2x,
-          https://www.zarla.com/assets/images/collage-3x2-1-lg-br-20220110.png 1x
+          https://www.notzarla.com/assets/images/collage-3x2-1-lg-br-20220110@2x.png 2x,
+          https://www.notzarla.com/assets/images/collage-3x2-1-lg-br-20220110.png 1x
         "
         media="(max-width: 1599px)"
         srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -468,8 +468,8 @@
 
       <source
         data-srcset="
-          https://www.zarla.com/assets/images/collage-3x2-1-xl-br-20220110@2x.png 2x,
-          https://www.zarla.com/assets/images/collage-3x2-1-xl-br-20220110.png 1x
+          https://www.notzarla.com/assets/images/collage-3x2-1-xl-br-20220110@2x.png 2x,
+          https://www.notzarla.com/assets/images/collage-3x2-1-xl-br-20220110.png 1x
         "
         media="(max-width: 1199px)"
         srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -477,10 +477,10 @@
 
       <img
         class="lazyload"
-        data-src="https://www.zarla.com/assets/images/collage-3x2-1-xl-br-20220110.png"
+        data-src="https://www.notzarla.com/assets/images/collage-3x2-1-xl-br-20220110.png"
         data-srcset="
-          https://www.zarla.com/assets/images/collage-3x2-1-xl-br-20220110@2x.png 2x,
-          https://www.zarla.com/assets/images/collage-3x2-1-xl-br-20220110.png 1x
+          https://www.notzarla.com/assets/images/collage-3x2-1-xl-br-20220110@2x.png 2x,
+          https://www.notzarla.com/assets/images/collage-3x2-1-xl-br-20220110.png 1x
         "
         src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
         alt="Imagens da marca"
@@ -492,8 +492,8 @@
     <picture class="three-by-two-item">
       <source
         data-srcset="
-          https://www.zarla.com/assets/images/collage-3x2-2-lg-br-20220110@2x.png 2x,
-          https://www.zarla.com/assets/images/collage-3x2-2-lg-br-20220110.png 1x
+          https://www.notzarla.com/assets/images/collage-3x2-2-lg-br-20220110@2x.png 2x,
+          https://www.notzarla.com/assets/images/collage-3x2-2-lg-br-20220110.png 1x
         "
         media="(max-width: 1599px)"
         srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -501,8 +501,8 @@
 
       <source
         data-srcset="
-          https://www.zarla.com/assets/images/collage-3x2-2-xl-br-20220110@2x.png 2x,
-          https://www.zarla.com/assets/images/collage-3x2-2-xl-br-20220110.png 1x
+          https://www.notzarla.com/assets/images/collage-3x2-2-xl-br-20220110@2x.png 2x,
+          https://www.notzarla.com/assets/images/collage-3x2-2-xl-br-20220110.png 1x
         "
         media="(max-width: 1199px)"
         srcset="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
@@ -510,10 +510,10 @@
 
       <img
         class="lazyload"
-        data-src="https://www.zarla.com/assets/images/collage-3x2-2-xl-br-20220110.png"
+        data-src="https://www.notzarla.com/assets/images/collage-3x2-2-xl-br-20220110.png"
         data-srcset="
-          https://www.zarla.com/assets/images/collage-3x2-2-xl-br-20220110@2x.png 2x,
-          https://www.zarla.com/assets/images/collage-3x2-2-xl-br-20220110.png 1x
+          https://www.notzarla.com/assets/images/collage-3x2-2-xl-br-20220110@2x.png 2x,
+          https://www.notzarla.com/assets/images/collage-3x2-2-xl-br-20220110.png 1x
         "
         src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
         alt="Imagens da marca"
@@ -525,10 +525,10 @@
     <picture class="two-by-two-item">
       <img
         class="lazyload"
-        data-src="https://www.zarla.com/assets/images/collage-2x2-1-br-20220110.png"
+        data-src="https://www.notzarla.com/assets/images/collage-2x2-1-br-20220110.png"
         data-srcset="
-          https://www.zarla.com/assets/images/collage-2x2-1-br-20220110@2x.png 2x,
-          https://www.zarla.com/assets/images/collage-2x2-1-br-20220110.png 1x
+          https://www.notzarla.com/assets/images/collage-2x2-1-br-20220110@2x.png 2x,
+          https://www.notzarla.com/assets/images/collage-2x2-1-br-20220110.png 1x
         "
         src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
         alt="Imagens da marca"
@@ -540,10 +540,10 @@
     <picture class="two-by-two-item">
       <img
         class="lazyload"
-        data-src="https://www.zarla.com/assets/images/collage-2x2-2-br-20220110.png"
+        data-src="https://www.notzarla.com/assets/images/collage-2x2-2-br-20220110.png"
         data-srcset="
-          https://www.zarla.com/assets/images/collage-2x2-2-br-20220110@2x.png 2x,
-          https://www.zarla.com/assets/images/collage-2x2-2-br-20220110.png 1x
+          https://www.notzarla.com/assets/images/collage-2x2-2-br-20220110@2x.png 2x,
+          https://www.notzarla.com/assets/images/collage-2x2-2-br-20220110.png 1x
         "
         src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
         alt="Imagens da marca"
@@ -555,10 +555,10 @@
     <picture class="two-by-two-item">
       <img
         class="lazyload"
-        data-src="https://www.zarla.com/assets/images/collage-2x2-3-br-20220110.png"
+        data-src="https://www.notzarla.com/assets/images/collage-2x2-3-br-20220110.png"
         data-srcset="
-          https://www.zarla.com/assets/images/collage-2x2-3-br-20220110@2x.png 2x,
-          https://www.zarla.com/assets/images/collage-2x2-3-br-20220110.png 1x
+          https://www.notzarla.com/assets/images/collage-2x2-3-br-20220110@2x.png 2x,
+          https://www.notzarla.com/assets/images/collage-2x2-3-br-20220110.png 1x
         "
         src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg=="
         alt="Imagens da marca"
@@ -569,7 +569,7 @@
   
         </div>
 
-        <a href="https://www.zarla.com/logo-maker/" class="btn btn-primary btn-lg">Crie seu logo</a>
+        <a href="https://www.notzarla.com/logo-maker/" class="btn btn-primary btn-lg">Crie seu logo</a>
       </section>
     </div>
 
@@ -620,7 +620,7 @@
       <footer class="footer">
         <div class="footer-main">
           <div class="footer-logo">
-            <img class="lazyload" alt="Zarla logo" width="170" height="51" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg==" data-src="https://www.zarla.com/static/zarla-logo-200x60-20210225.svg">
+            <img class="lazyload" alt="Zarla logo" width="170" height="51" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiPjwvc3ZnPg==" data-src="https://www.notzarla.com/static/zarla-logo-200x60-20210225.svg">
           </div>
           <div class="footer-blocks">
             <div class="footer-block">
@@ -723,11 +723,11 @@
               <p id="footerSupport" class="footer-block-title">Recursos</p>
               <ul class="footer-block-group">
                 <li class="footer-block-item">
-                  <a href="https://www.zarla.com/br/guias/ideias-de-logotipos">Ideias de logotipos</a>
+                  <a href="https://www.notzarla.com/br/guias/ideias-de-logotipos">Ideias de logotipos</a>
                 </li>
 
                 <li class="footer-block-item">
-                  <a href="https://www.zarla.com/br">Criador de sites por IA</a>
+                  <a href="https://www.notzarla.com/br">Criador de sites por IA</a>
                 </li>
 
                 <li class="footer-block-item">
@@ -735,14 +735,14 @@
                 </li>
 
                 <li class="footer-block-item">
-                  <a href="https://www.zarla.com/br/termos-de-uso">Termos de Uso</a>
+                  <a href="https://www.notzarla.com/br/termos-de-uso">Termos de Uso</a>
                 </li>
 
                 <li class="footer-block-item">
-                  <a href="https://www.zarla.com/br/pol%C3%ADtica-de-direitos-autorais">Política de Direitos Autorais</a>
+                  <a href="https://www.notzarla.com/br/pol%C3%ADtica-de-direitos-autorais">Política de Direitos Autorais</a>
                 </li>
                 <li class="footer-block-item">
-                  <a href="https://www.zarla.com/br/pol%C3%ADtica-de-privacidade">Política de Privacidade</a>
+                  <a href="https://www.notzarla.com/br/pol%C3%ADtica-de-privacidade">Política de Privacidade</a>
                 </li>
               </ul>
             </div>
